@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-07-26T06:08:41.028Z",
-  "count": 10,
+  "updatedAt": "2026-07-26T10:45:00.911Z",
+  "count": 12,
   "stories": [
+    {
+      "id": "13osz0g",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "brief": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis. \"The portal combined build generation, finance,",
+      "whyItMatters": "",
+      "words": 53,
+      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg",
+      "published": "2026-07-25T09:53:41.000Z",
+      "capturedAt": "2026-07-26T10:45:00.910Z",
+      "tags": [
+        "Ransomware",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1syh5nx",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "brief": "A power line went down outside of Washington, DC, this week. Normally, the grid would only need a few seconds to recover from such an event. But this one took more than 10 minutes because more than 3 gigawatts of data centers stopped drawing power nearly simultaneously. The event caused voltage across the PJM grid to spike from Northern Virginia to Chicago, according to data collected by Ting Labs , a startup that runs an IoT sensor network out of people’s electrical sockets. The event didn’t cause a blackout, but it did cause lights across the region to flicker. The incident demonstrated the effect that data centers can have on the grid — an outcome that experts believe will become more frequent. Northern Virginia, which is in PJM’s territory, is home to the highest concentration of data centers in the world. Energy , told TechCrunch.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+      "published": "2026-07-25T13:05:00.000Z",
+      "capturedAt": "2026-07-26T10:44:55.311Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1gdtvqb",
       "channel": "sec",
