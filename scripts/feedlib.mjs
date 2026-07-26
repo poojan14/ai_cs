@@ -171,6 +171,10 @@ export function toBrief(text, maxWords = 150) {
   const clean = stripHtml(text)
     .replace(/\s*\[(\u2026|\.\.\.)\]\s*$/, '')
     .replace(/^(read more|continue reading)[:\s-]*/i, '')
+    // WordPress and Feedburner tack these onto every item
+    .replace(/\s*The post .{0,120}? appeared first on .{0,80}?\.?\s*$/i, '')
+    .replace(/\s*(Continue reading|Read more)\s*[\u2026.]*\s*$/i, '')
+    .replace(/\s*This article( was)? (originally )?appeared.{0,80}$/i, '')
     .trim();
   if (!clean) return '';
   const sentences = clean.match(/[^.!?]+[.!?]+(\s|$)|[^.!?]+$/g) || [clean];
@@ -213,6 +217,63 @@ export async function fetchText(url, { timeout = 15000, label = '' } = {}) {
   } finally {
     clearTimeout(t);
   }
+}
+
+const JUNK = new RegExp([
+  'subscribe', 'newsletter', 'sign up', 'sign-up', 'cookie', 'advertisement',
+  'all rights reserved', 'follow us', 'read more', 'related:', 'share this',
+  'getty images', 'photo:', 'image:', 'illustration:', 'you may also like',
+  'privacy policy', 'terms of service', 'enable javascript', 'log in',
+  'this site uses', 'support our work', 'donate', 'sponsored'
+].join('|'), 'i');
+
+/**
+ * Pull the opening paragraphs of the article itself, so the summary is written
+ * from real reporting rather than whatever fragment the RSS feed carried.
+ * Returns '' whenever the page cannot be read — the caller falls back to the feed.
+ */
+export async function extractArticle(pageUrl, maxWords = 150) {
+  const html = await fetchText(pageUrl, { timeout: 14000, label: 'article ' + pageUrl });
+  if (!html) return '';
+
+  // Narrow to the article container when the page offers one.
+  let scope = html;
+  const containers = [
+    /<article\b[^>]*>([\s\S]*?)<\/article>/i,
+    /<main\b[^>]*>([\s\S]*?)<\/main>/i,
+    /<div[^>]+class=["'][^"']*(?:article-?body|post-?content|entry-?content|story-?body|articleBody)[^"']*["'][^>]*>([\s\S]*?)<\/div>/i
+  ];
+  for (const re of containers) {
+    const m = html.match(re);
+    if (m && m[1] && m[1].length > 400) { scope = m[1]; break; }
+  }
+
+  scope = scope
+    .replace(/<(script|style|nav|aside|form|figcaption|noscript)[\s\S]*?<\/\1>/gi, ' ')
+    .replace(/<blockquote[\s\S]*?<\/blockquote>/gi, ' ');
+
+  const paras = (scope.match(/<p\b[^>]*>([\s\S]*?)<\/p>/gi) || [])
+    .map(p => stripHtml(p))
+    .filter(t => {
+      if (t.length < 60) return false;              // captions, bylines, stubs
+      if (JUNK.test(t)) return false;
+      if (/^by\s+\w+/i.test(t) && t.length < 120) return false;
+      if (!/[.!?]/.test(t)) return false;           // headings caught by <p>
+      return true;
+    });
+
+  if (!paras.length) return '';
+
+  const out = [];
+  let count = 0;
+  for (const p of paras) {
+    const words = p.split(/\s+/).length;
+    if (count && count + words > maxWords + 40) break;
+    out.push(p);
+    count += words;
+    if (count >= maxWords) break;
+  }
+  return out.join(' ');
 }
 
 /** Look for an og:image on the article page (used only for the two picks). */

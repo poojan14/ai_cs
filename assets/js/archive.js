@@ -1,7 +1,9 @@
 import {
-  loadJSON, escapeHtml, safeUrl, timeAgo, dayLabel, placeholder,
-  guardImages, domainOf, CHANNELS
+  loadJSON, escapeHtml, safeUrl, timeAgo, dayLabel,
+  placeholder, guardImages, domainOf, initTheme, CHANNELS
 } from './common.js';
+
+initTheme();
 
 const listEl   = document.getElementById('log');
 const countEl  = document.getElementById('count');
@@ -24,29 +26,27 @@ function matches(s) {
   return query.split(/\s+/).every(w => hay.includes(w));
 }
 
-function item(s) {
-  const thumb = s.image
-    ? `<img src="${escapeHtml(s.image)}" alt="" loading="lazy" decoding="async"
-           data-fallback="${placeholder(s.channel, s.source)}" referrerpolicy="no-referrer">`
-    : `<img src="${placeholder(s.channel, s.source)}" alt="">`;
+function entry(s) {
   const ch = CHANNELS[s.channel] || CHANNELS.ai;
+  const img = s.image
+    ? `<img src="${escapeHtml(s.image)}" alt="" loading="lazy" decoding="async"
+         referrerpolicy="no-referrer" data-fallback="${placeholder(s.channel, s.source)}">`
+    : `<img src="${placeholder(s.channel, s.source)}" alt="">`;
+
   return `
-  <li class="log-item ${s.channel === 'sec' ? 'log-item--sec' : ''} ${s.id === target ? 'is-target' : ''}" id="s-${escapeHtml(s.id)}">
-    <div class="log-item__thumb">${thumb}</div>
-    <div class="log-item__body">
-      <p class="eyebrow">
-        <span style="color:${ch.color};font-weight:600">${escapeHtml(ch.short)}</span>
-        <span aria-hidden="true">&middot;</span>
-        <span class="src">${escapeHtml(s.source || domainOf(s.url))}</span>
-        <span aria-hidden="true">&middot;</span>
-        <time datetime="${escapeHtml(s.capturedAt || '')}">${timeAgo(s.capturedAt || s.published)}</time>
-      </p>
+  <li class="entry ${s.channel === 'sec' ? 'entry--sec' : ''} ${s.id === target ? 'is-target' : ''}"
+      id="s-${escapeHtml(s.id)}">
+    <div class="entry__media">${img}</div>
+    <div class="entry__body">
+      <p class="entry__kicker">${escapeHtml(ch.short)}</p>
       <h3><a href="${safeUrl(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.title)}</a></h3>
-      <p class="brief is-clamped">${escapeHtml(s.brief)}</p>
-      <div class="log-actions">
-        <button class="linky" type="button" data-expand>Read the full brief</button>
-        <a class="linky linky--source" href="${safeUrl(s.url)}" target="_blank" rel="noopener noreferrer">Open source</a>
-        <button class="linky" type="button" data-copy="${escapeHtml(s.id)}">Copy link</button>
+      <p class="entry__meta">${escapeHtml(s.source || domainOf(s.url))} ·
+        <time datetime="${escapeHtml(s.capturedAt || '')}">${timeAgo(s.capturedAt || s.published)}</time></p>
+      <p class="entry__brief is-clamped">${escapeHtml(s.brief)}</p>
+      <div class="entry__actions">
+        <button class="plainlink" type="button" data-expand>Read summary</button>
+        <a class="plainlink plainlink--go" href="${safeUrl(s.url)}" target="_blank" rel="noopener noreferrer">Original</a>
+        <button class="plainlink" type="button" data-copy="${escapeHtml(s.id)}">Copy link</button>
       </div>
     </div>
   </li>`;
@@ -57,13 +57,13 @@ function render() {
   const page = picked.slice(0, shown);
 
   countEl.textContent = picked.length
-    ? `${picked.length} ${picked.length === 1 ? 'story' : 'stories'} in the log`
-    : 'No stories match that search yet';
+    ? `${picked.length} ${picked.length === 1 ? 'summary' : 'summaries'}`
+    : 'No matches';
 
   if (!all.length) {
-    listEl.innerHTML = `<li class="empty"><h2>The log is empty</h2>
-      <p>Every three-hour update files its two stories here. Run
-      <strong>Actions &rarr; Update news feed</strong> once to start the record.</p></li>`;
+    listEl.innerHTML = `<li class="notice" style="margin-top:1.4rem"><h2>Nothing here yet</h2>
+      <p>Each update files its two summaries here. Run
+      <strong>Actions → Update news feed → Run workflow</strong> once to start the record.</p></li>`;
     moreEl.hidden = true;
     return;
   }
@@ -75,12 +75,14 @@ function render() {
     groups[groups.length - 1].items.push(s);
   }
 
-  listEl.innerHTML = groups.map(g => `
-    <li class="daygroup">
-      <p class="daygroup__label">${escapeHtml(g.label)}</p>
-      <ul class="log">${g.items.map(item).join('')}</ul>
-    </li>`).join('') ||
-    `<li class="empty"><h2>Nothing here</h2><p>Try a different word, or switch the channel filter back to All.</p></li>`;
+  listEl.innerHTML = groups.length
+    ? groups.map(g => `
+      <li class="daygroup">
+        <p class="mono">${escapeHtml(g.label)}</p>
+        <ul class="entries">${g.items.map(entry).join('')}</ul>
+      </li>`).join('')
+    : `<li class="notice" style="margin-top:1.4rem"><h2>No matches</h2>
+       <p>Try a different word, or set the filter back to All.</p></li>`;
 
   guardImages(listEl);
   moreEl.hidden = picked.length <= shown;
@@ -89,9 +91,9 @@ function render() {
 listEl.addEventListener('click', e => {
   const expand = e.target.closest('[data-expand]');
   if (expand) {
-    const p = expand.closest('.log-item__body').querySelector('.brief');
+    const p = expand.closest('.entry').querySelector('.entry__brief');
     const clamped = p.classList.toggle('is-clamped');
-    expand.textContent = clamped ? 'Read the full brief' : 'Show less';
+    expand.textContent = clamped ? 'Read summary' : 'Show less';
     return;
   }
   const copy = e.target.closest('[data-copy]');
@@ -105,11 +107,11 @@ listEl.addEventListener('click', e => {
 });
 
 chipsEl.addEventListener('click', e => {
-  const chip = e.target.closest('.chip');
-  if (!chip) return;
-  filter = chip.dataset.channel;
+  const seg = e.target.closest('.seg');
+  if (!seg) return;
+  filter = seg.dataset.channel;
   shown = PAGE;
-  chipsEl.querySelectorAll('.chip').forEach(c => c.setAttribute('aria-pressed', String(c === chip)));
+  chipsEl.querySelectorAll('.seg').forEach(s => s.setAttribute('aria-pressed', String(s === seg)));
   render();
 });
 
@@ -129,9 +131,6 @@ loadJSON('data/archive.json')
       shown = Math.max(PAGE, all.findIndex(s => s.id === target) + 1);
     }
     render();
-    if (target) {
-      const el = document.getElementById('s-' + target);
-      if (el) el.scrollIntoView({ block: 'center' });
-    }
+    if (target) document.getElementById('s-' + target)?.scrollIntoView({ block: 'center' });
   })
   .catch(() => { all = []; render(); });

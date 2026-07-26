@@ -1,9 +1,17 @@
-/* SIGNAL/2 — shared helpers. No build step, no framework. */
+/* pvsnews — shared helpers. No build step, no framework. */
 
 export const CHANNELS = {
-  ai:  { label: 'Artificial Intelligence', code: 'CH-01', color: '#5a31f4', short: 'AI' },
-  sec: { label: 'Cybersecurity',           code: 'CH-02', color: '#f2a31b', short: 'Security' }
+  ai:  { label: 'Artificial Intelligence', short: 'AI',       color: '#52d1ff' },
+  sec: { label: 'Cybersecurity',           short: 'Security', color: '#ff8360' }
 };
+
+export const ICONS = {
+  ai: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4M4.9 4.9l2.9 2.9M16.2 16.2l2.9 2.9M19.1 4.9l-2.9 2.9M7.8 16.2l-2.9 2.9"/></svg>',
+  sec: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2.5 4.5 5.6v5.6c0 4.6 3.2 8.9 7.5 10.3 4.3-1.4 7.5-5.7 7.5-10.3V5.6z"/><path d="M9.4 12.2l1.9 1.9 3.5-3.6"/></svg>'
+};
+
+export const ARROW =
+  '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 8h9M8.5 4l4 4-4 4"/></svg>';
 
 /** GitHub Pages caches aggressively — ask for a fresh copy every load. */
 export async function loadJSON(url) {
@@ -40,7 +48,7 @@ export function timeAgo(iso) {
 }
 
 export function clockTime(iso) {
-  if (!iso) return '--:--';
+  if (!iso) return '—';
   return new Date(iso).toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
 }
 
@@ -56,7 +64,7 @@ export function dayLabel(iso) {
 
 export function countdown(toIso) {
   const ms = new Date(toIso).getTime() - Date.now();
-  if (isNaN(ms)) return 'soon';
+  if (isNaN(ms)) return '—';
   if (ms <= 0) return 'any moment';
   const mins = Math.floor(ms / 6e4);
   const h = Math.floor(mins / 60);
@@ -64,19 +72,21 @@ export function countdown(toIso) {
   return h ? `${h}h ${m}m` : `${m}m`;
 }
 
-/** A calm placeholder so a missing photo never leaves a hole in the layout. */
+/** A gradient stand-in so a blocked photo never leaves a hole in the layout. */
 export function placeholder(channel, label = '') {
+  const dark = document.documentElement.dataset.theme !== 'light';
   const c = CHANNELS[channel] || CHANNELS.ai;
-  const text = escapeHtml(String(label).slice(0, 26).toUpperCase());
+  const text = escapeHtml(String(label).slice(0, 28));
+  const base = dark ? '#0d1320' : '#e9edf4';
+  const ink = dark ? '#8b97ab' : '#5c6678';
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
     <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="${c.color}" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#0f1620" stop-opacity=".9"/>
+      <stop offset="0" stop-color="${c.color}" stop-opacity=".28"/>
+      <stop offset="1" stop-color="${c.color}" stop-opacity="0"/>
     </linearGradient></defs>
-    <rect width="320" height="180" fill="#0f1620"/>
+    <rect width="320" height="180" fill="${base}"/>
     <rect width="320" height="180" fill="url(#g)"/>
-    <text x="18" y="150" fill="#ffffff" font-family="monospace" font-size="11" letter-spacing="2" opacity=".75">${c.code}</text>
-    <text x="18" y="166" fill="#ffffff" font-family="monospace" font-size="9" letter-spacing="1.5" opacity=".45">${text}</text>
+    <text x="18" y="166" fill="${ink}" font-family="monospace" font-size="10" letter-spacing="1.5">${text}</text>
   </svg>`;
   return 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg);
 }
@@ -92,6 +102,15 @@ export function guardImages(root = document) {
   });
 }
 
-export const arrow =
-  '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">' +
-  '<path d="M3 8h9M8 3.5 12.5 8 8 12.5"/></svg>';
+/** Light/dark switch, remembered on this device. */
+export function initTheme() {
+  const btn = document.getElementById('theme');
+  if (!btn) return;
+  btn.addEventListener('click', () => {
+    const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+    document.documentElement.dataset.theme = next;
+    document.querySelector('meta[name="theme-color"]')
+      ?.setAttribute('content', next === 'light' ? '#f4f7fb' : '#0a0e16');
+    try { localStorage.setItem('pvs-theme', next); } catch (e) {}
+  });
+}

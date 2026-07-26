@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * build-news.mjs — the newsroom.
+ * build-news.mjs — the pvsnews newsroom.
  *
  * 1. Pulls every RSS/Atom feed listed in sources.json
  * 2. Picks the single strongest fresh story per channel (AI, security)
@@ -15,7 +15,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
-  parseFeed, fetchText, findOgImage, toBrief, wordCount,
+  parseFeed, fetchText, findOgImage, extractArticle, toBrief, wordCount,
   storyId, titleKey, canonicalUrl, stripHtml
 } from './feedlib.mjs';
 
@@ -157,8 +157,16 @@ function dedupe(items) {
 async function buildStory(item, channelMeta, channel) {
   let image = item.image;
   if (!image) image = await findOgImage(item.link);
-  const ai = await rewriteWithClaude(item);
-  const brief = ai?.brief || toBrief(item.body || item.title, MAX_WORDS);
+
+  // Prefer the article's own opening paragraphs; RSS blurbs are often a
+  // single truncated sentence, which is what makes a summary read badly.
+  const article = await extractArticle(item.link, MAX_WORDS);
+  const feedText = item.body || '';
+  const source = wordCount(article) >= 60 ? article : feedText;
+  console.log(`     text: ${wordCount(article)} words from article, ${wordCount(feedText)} from feed`);
+
+  const ai = await rewriteWithClaude({ ...item, body: source });
+  const brief = ai?.brief || toBrief(source || item.title, MAX_WORDS);
   return {
     id: storyId(item.link),
     channel,
