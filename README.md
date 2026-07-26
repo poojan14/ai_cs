@@ -1,10 +1,10 @@
-# SIGNAL/2
+# pvsnews
 
-**Two stories. Every three hours. Plain English.**
+**AI and cybersecurity, every three hours.**
 
 A self-updating news site for GitHub Pages. The front page carries exactly two stories — one on
-artificial intelligence (CH-01), one on cybersecurity (CH-02) — each summarised in 150 words or
-fewer for readers who are not specialists. Every three hours a GitHub Action reads the public feeds
+artificial intelligence, one on cybersecurity — each summarised in 150 words or fewer for readers
+who are not specialists. Every three hours a GitHub Action reads the public feeds
 of established newsrooms, picks the strongest fresh story on each channel, and files the pair into a
 searchable history.
 
@@ -27,10 +27,10 @@ in *everything from this folder, including the hidden `.github` folder*. Commit 
 If you prefer the command line:
 
 ```bash
-cd signal2
+cd pvsnews
 git init -b main
 git add .
-git commit -m "SIGNAL/2"
+git commit -m "pvsnews"
 git remote add origin https://github.com/YOUR-NAME/YOUR-REPO.git
 git push -u origin main
 ```
@@ -81,7 +81,8 @@ publisher summary.
 | The news sources | `scripts/sources.json` — add or remove any RSS/Atom feed, `weight` sets priority |
 | How often it updates | `cron` in `.github/workflows/update-news.yml`, and `CYCLE_HOURS` if you change it |
 | Colours, type, spacing | the token block at the top of `assets/css/site.css` |
-| Site name and footer | `index.html` and `archive.html` |
+| Site name and footer | `index.html` and `archive.html` (search for `pvsnews`) |
+| Accent colours and theme | the token block at the top of `assets/css/site.css` |
 | Brief length | `MAX_WORDS` in `scripts/build-news.mjs` |
 
 Cron runs on UTC. `0 */3 * * *` fires at 00:00, 03:00, 06:00 and so on. GitHub often starts
@@ -113,6 +114,9 @@ data/latest.json               the two current stories (written by the workflow)
 data/archive.json              everything published so far
 .github/workflows/update-news.yml   the three-hour schedule
 .nojekyll                      tells Pages to serve the files as-is
+
+The site is dark by default with a light/dark switch in the header; the choice is
+remembered per device.
 ```
 
 ## How a story gets chosen
@@ -125,8 +129,12 @@ data/archive.json              everything published so far
    Sponsored posts, deals and coupon pages are pushed to the bottom.
 4. Anything already in the history is excluded, and the picker prefers a different outlet from last
    cycle, so the front page keeps moving.
-5. The winner gets an image (from the feed, or the article's own `og:image`), a brief of 150 words
-   or fewer, and a permanent entry in the archive.
+5. The opening paragraphs of the article itself are read and cleaned of bylines, captions,
+   newsletter pitches and cookie notices. Summaries are written from that text, not from the
+   one-line RSS blurb, which is what makes them read like real writing. If the page cannot be
+   read, the feed summary is used instead.
+6. The winner gets an image (from the feed, or the article's own `og:image`), a summary of 150
+   words or fewer, and a permanent entry in the archive.
 
 ## Good manners
 

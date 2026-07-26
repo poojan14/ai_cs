@@ -1,71 +1,77 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>SIGNAL/2 — AI and cybersecurity news in plain English</title>
-<meta name="description" content="Two stories, every three hours: one on artificial intelligence, one on cybersecurity, each explained in 150 words or fewer.">
-<meta name="theme-color" content="#0f1620">
-<meta property="og:title" content="SIGNAL/2 — two stories, every three hours">
-<meta property="og:description" content="One AI story and one cybersecurity story, refreshed every three hours and written for people who are not specialists.">
+<title>pvsnews — AI &amp; cybersecurity, every three hours</title>
+<meta name="description" content="Two stories at a time: one on artificial intelligence, one on cybersecurity, each summarised in 150 words for people who are not specialists.">
+<meta name="theme-color" content="#0a0e16">
+<meta property="og:title" content="pvsnews">
+<meta property="og:description" content="AI and cybersecurity news, summarised in plain language and refreshed every three hours.">
 <meta property="og:type" content="website">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230f1620'/%3E%3Ccircle cx='11' cy='16' r='4' fill='%235a31f4'/%3E%3Ccircle cx='21' cy='16' r='4' fill='%23f2a31b'/%3E%3C/svg%3E">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%2352d1ff'/%3E%3Cstop offset='.55' stop-color='%237c6bff'/%3E%3Cstop offset='1' stop-color='%23ff8360'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='32' height='32' rx='9' fill='url(%23g)'/%3E%3Ctext x='16' y='22' font-family='Verdana,sans-serif' font-weight='bold' font-size='15' fill='%2308101c' text-anchor='middle'%3Ep%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Manrope:wght@400;500;600&family=Sora:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/site.css">
+<script>
+  // Applied before paint so the correct theme is there on first frame.
+  (function () {
+    try {
+      var saved = localStorage.getItem('pvs-theme');
+      var sys = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      document.documentElement.dataset.theme = saved || sys;
+    } catch (e) {}
+  })();
+</script>
 </head>
 <body>
-<a class="skip" href="#channels">Skip to the stories</a>
+<a class="skip" href="#edition">Skip to the stories</a>
 
-<!-- the transmission strip: live state of the three-hour cycle -->
-<div class="transmission">
-  <div class="wrap transmission__row">
-    <span class="transmission__live"><span class="dot"></span> Live</span>
-    <span class="transmission__sep">/</span>
-    <span class="transmission__meta" id="synced">syncing…</span>
-    <span class="transmission__next" id="next">next in —</span>
-  </div>
-  <div class="meter"><div class="meter__fill" id="meterFill"></div></div>
-</div>
-
-<header class="wrap masthead">
-  <div class="masthead__top">
-    <div>
-      <a class="wordmark" href="./">SIGNAL<span>/</span><em>2</em></a>
-      <p class="tagline">Two stories · every three hours · plain English</p>
-    </div>
+<header class="head">
+  <div class="wrap head__row">
+    <a class="brand" href="./">
+      <span class="brand__mark">p</span>
+      <span class="brand__name">pvs<i>news</i></span>
+    </a>
     <nav class="nav" aria-label="Sections">
-      <a href="./" aria-current="page">Now</a>
-      <a href="archive.html">History</a>
+      <a href="./" aria-current="page">Today</a>
+      <a href="archive.html">Archive</a>
     </nav>
+    <button class="iconbtn" id="theme" type="button" aria-label="Switch between light and dark">
+      <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+    </button>
   </div>
 </header>
 
 <main>
-  <section class="wrap channels" id="channels" aria-label="Current stories">
-    <p class="tagline">Loading the current transmission…</p>
+  <section class="wrap hero">
+    <span class="pulse"><span class="pulse__dot"></span><span id="pulseText">Checking for updates</span></span>
+    <h1>Two stories. <em>Every three hours.</em></h1>
+    <p class="hero__sub">One thing worth knowing about artificial intelligence, one about cybersecurity — read from the original reporting and rewritten so anyone can follow it.</p>
+    <div class="stats">
+      <div class="stat"><b>Last update</b><span id="statUpdated">—</span></div>
+      <div class="stat"><b>Next update</b><span id="statNext">—</span></div>
+      <div class="stat"><b>In the archive</b><span id="statArchive">—</span></div>
+    </div>
   </section>
 
-  <section class="wrap handoff">
-    <p><b>That is the whole front page.</b> Two stories, chosen from the feeds below, replaced on
-       the next three-hour cycle. Nothing you have already read gets picked twice.</p>
-    <a class="btn" href="archive.html">Open the history
-      <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 8h9M8 3.5 12.5 8 8 12.5"/></svg>
-    </a>
+  <section class="wrap edition" id="edition" aria-label="Today's stories">
+    <p class="mono">Loading…</p>
   </section>
 </main>
 
 <footer class="footer">
   <div class="wrap footer__grid">
     <div>
-      <h2>How this works</h2>
-      <p>Every three hours the site reads the public feeds of established newsrooms, picks the
-         strongest fresh story on each channel, and files a short brief. Headlines, images and
-         reporting belong to the publishers — every card links straight back to them.</p>
+      <h2>What this is</h2>
+      <p>pvsnews follows the reporting of established newsrooms and publishes two summaries at a
+         time. Every summary links to the original article, which is where the real reporting lives.</p>
     </div>
-    <div>
-      <h2>CH-01 sources</h2>
+    <div class="footer__ai">
+      <h2>AI desk</h2>
       <ul>
         <li><a href="https://www.technologyreview.com/" rel="noopener">MIT Technology Review</a></li>
         <li><a href="https://www.theverge.com/ai-artificial-intelligence" rel="noopener">The Verge</a></li>
@@ -74,20 +80,20 @@
         <li><a href="https://news.mit.edu/topic/artificial-intelligence2" rel="noopener">MIT News</a></li>
       </ul>
     </div>
-    <div>
-      <h2>CH-02 sources</h2>
+    <div class="footer__sec">
+      <h2>Security desk</h2>
       <ul>
         <li><a href="https://www.bleepingcomputer.com/" rel="noopener">BleepingComputer</a></li>
         <li><a href="https://thehackernews.com/" rel="noopener">The Hacker News</a></li>
         <li><a href="https://krebsonsecurity.com/" rel="noopener">Krebs on Security</a></li>
         <li><a href="https://www.darkreading.com/" rel="noopener">Dark Reading</a></li>
-        <li><a href="https://www.cisa.gov/" rel="noopener">CISA advisories</a></li>
+        <li><a href="https://www.cisa.gov/" rel="noopener">CISA</a></li>
       </ul>
     </div>
   </div>
-  <div class="wrap footer__note">
-    SIGNAL/2 is an automated news digest. It summarises, it does not report. Check the original
-    article before acting on anything here.
+  <div class="wrap footer__fine">
+    <span>Summaries are generated automatically and capped at 150 words. Headlines, images and reporting belong to the publishers.</span>
+    <span>pvsnews</span>
   </div>
 </footer>
 
