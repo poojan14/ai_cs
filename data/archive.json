@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-07-26T03:21:24.980Z",
-  "count": 4,
+  "updatedAt": "2026-07-26T03:22:24.963Z",
+  "count": 6,
   "stories": [
+    {
+      "id": "08oa3il",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Iran-Linked Actors Breach Are Targeting US Water and Energy Control Systems",
+      "brief": "S. S. 20 patches multiple security issues, including a critical command injection bug Critical 7-Zip Flaw Allows Code Execution by Opening Crafted XZ-Compressed Files. Update it now! Federal agencies updated their cybersecurity advisory this week: Iran-linked actors are inside American water and energy control systems, and they’re not just looking around. They’re changing things. The updated advisory from CISA, the FBI, NSA, and the Department of Energy says these actors are getting into programmable logic controllers, the small industrial computers that run pumps, valves, and safety alarms. Once inside, they can mess with what operators see on their screens. That’s how you get outages nobody saw coming.",
+      "whyItMatters": "",
+      "words": 107,
+      "url": "https://securityaffairs.com/195991/apt/iran-linked-actors-breach-are-targeting-us-water-and-energy-control-systems.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2015/03/iran-cyber-attacks1.jpg",
+      "published": "2026-07-25T20:11:48.000Z",
+      "capturedAt": "2026-07-26T03:22:24.962Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ns1prd",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Amazon cuts jobs within artificial intelligence team - Fairbanks Daily News-Miner",
+      "brief": "Amazon cuts jobs within artificial intelligence team Fairbanks Daily News-Miner",
+      "whyItMatters": "",
+      "words": 10,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzE1bWZzMGs0bTN6T3JKdGFHTHh6UkdfSEl3NVJmSW1TaTlIbENoRWtjYzRaR0xCdVBiS1djUDU3ZFBMQ0tDQXBsREdLbFlBLVBXQnRMR2FQZHN5T012cVhpOUpVQjNhY2dSYTMxZDY4Ym9vZExCcG5DZlRwUEwxU1NwLUhEb3FIZXlZWkZQbUExS1dkbnFsTUxLdFJaVlZ6UjdzbV9COEhHNVBKdnNMaFZSbld1bXlNVG04b3JMUHEyTnJXYnFJ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-07-26T00:29:00.000Z",
+      "capturedAt": "2026-07-26T03:22:22.983Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0nodiin",
       "channel": "sec",
