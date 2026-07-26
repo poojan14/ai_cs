@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-26T10:45:00.911Z",
-  "count": 12,
+  "updatedAt": "2026-07-26T13:24:13.248Z",
+  "count": 14,
   "stories": [
+    {
+      "id": "00yzyoe",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Credentials",
+      "brief": "S. S. 20 patches multiple security issues, including a critical command injection bug ReliaQuest’s threat research team just documented attackers compromising the Wi-Fi gateways at hotels and conference centers, then quietly rerouting guests toward fake Microsoft login pages. No phishing email required. No malicious attachment. Just bad luck about which hotel you picked. ” reads the report published by ReliaQuest. ”",
+      "whyItMatters": "",
+      "words": 61,
+      "url": "https://securityaffairs.com/196017/security/hackers-hijack-hotel-wi-fi-to-steal-microsoft-365-credentials.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/07/image-71.png?resize=1000%2C154&ssl=1",
+      "published": "2026-07-26T13:04:27.000Z",
+      "capturedAt": "2026-07-26T13:24:13.247Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0k8ugz0",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "SpaceX vs. Nvidia: Which Trillion-Dollar Artificial Intelligence (AI) Stock Is the Better Buy After the Recent Pullback? - Yahoo Finance",
+      "brief": "SpaceX vs. Nvidia: Which Trillion-Dollar Artificial Intelligence (AI) Stock Is the Better Buy After the Recent Pullback? Yahoo Finance",
+      "whyItMatters": "",
+      "words": 19,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOEJwZUl0Z2NiLUVqX1lKSmlwdmpWRFJKd2RUVHVSaHZxQnFMQk9icXpETWw4MS1oclIzNTBYdUpKQXdfUV83NTV6ZjNVMlFjemR1aHFubmgtbmRTelBoRjZ1RjFxRk9DY3h6dFF3di1JRHlNSFpOeVBUb0xCT3psRFlJZ2NIQVFrNktFWG1hTHB3X0YwSmMxYmlRcG5HQQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-07-26T10:20:00.000Z",
+      "capturedAt": "2026-07-26T13:24:11.776Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "13osz0g",
       "channel": "sec",
