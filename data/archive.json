@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-07-26T03:22:54.702Z",
-  "count": 8,
+  "updatedAt": "2026-07-26T06:08:41.028Z",
+  "count": 10,
   "stories": [
+    {
+      "id": "1gdtvqb",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
+      "brief": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. BleepingComputer learned of the campaign from a reader, who told us threat actors are creating random Steam accounts to post what appears to be helpful fixes for people's posts about games crashing, lost inventory items, and other technical issues. The threat actors reply to posts, telling other members to open PowerShell as an administrator and run a command to fix the issue. However, when executing the command, it quietly downloads an XMRig miner executable and launches it on the computer. These types of attacks are known as ClickFix, a social engineering tactic that displays fake errors, verification prompts, or troubleshooting instructions to trick victims into manually executing malicious commands.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/09/12/steam-header-new.jpg",
+      "published": "2026-07-25T22:37:47.000Z",
+      "capturedAt": "2026-07-26T06:08:41.028Z",
+      "tags": [
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0sumw9n",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "SK Telecom will open its own artificial intelligence (AI) model to startups and expand the domestic - 매일경제",
+      "brief": "SK Telecom will open its own artificial intelligence (AI) model to startups and expand the domestic 매일경제",
+      "whyItMatters": "",
+      "words": 17,
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EMnBneUhRN0oyMmwtNFlJR3FJYVlKcDJrSGVKQmx3MTNsZWlUS3NUaVBhNWszMEFrYmd1MjA4Uk1faFBqZDloNE9IQQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-07-26T04:09:17.000Z",
+      "capturedAt": "2026-07-26T06:08:39.046Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "074deyx",
       "channel": "sec",
