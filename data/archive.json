@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-07-26T03:22:24.963Z",
-  "count": 6,
+  "updatedAt": "2026-07-26T03:22:54.702Z",
+  "count": 8,
   "stories": [
+    {
+      "id": "074deyx",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "brief": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
+      "whyItMatters": "",
+      "words": 56,
+      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg",
+      "published": "2026-07-25T10:14:03.000Z",
+      "capturedAt": "2026-07-26T03:22:54.702Z",
+      "tags": [
+        "Ransomware",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0j9vbqu",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "brief": "” jokes Charlie Bailey, a librarian in South Philadelphia. He’s just asked his audience to pull out their phones so that he can walk them through the steps of disabling Apple Intelligence and Gemini. ” But the 20-odd adults in the room aren’t here to learn about the alphabet. ” “I was inspired by the feeling of people’s frustration with AI tools being kind of forced onto them, and feeling like AI tools we didn’t ask for are suddenly everywhere in our lives,” Bailey told TechCrunch.",
+      "whyItMatters": "",
+      "words": 86,
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+      "published": "2026-07-25T16:00:00.000Z",
+      "capturedAt": "2026-07-26T03:22:53.148Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "08oa3il",
       "channel": "sec",
