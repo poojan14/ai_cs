@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-07-26T02:55:26.188Z",
-  "count": 2,
+  "updatedAt": "2026-07-26T03:21:24.980Z",
+  "count": 4,
   "stories": [
+    {
+      "id": "0nodiin",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "brief": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
+      "whyItMatters": "",
+      "words": 61,
+      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg",
+      "published": "2026-07-25T18:48:44.000Z",
+      "capturedAt": "2026-07-26T03:21:24.980Z",
+      "tags": [
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1lze7m8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "brief": "After the government’s cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. After the government’s cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. Weeks after Anthropic’s latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 “comes close to the capabilities of Claude Fable 5 in many domains” and is much better at complex coding tasks. ) The Fable 5 concerns — and the ensuing weeks of negotiations between Anthropic and the government — kicked off a new era of AI regulation for the Trump administration. 6 , it underwent a roughly two-week trial period of sorts, rolling out in limited preview solely to government-approved entities.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-07-24T17:00:00.000Z",
+      "capturedAt": "2026-07-26T03:21:23.431Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0vooxmf",
       "channel": "sec",
