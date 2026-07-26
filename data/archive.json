@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-07-26T19:12:37.435Z",
-  "count": 18,
+  "updatedAt": "2026-07-26T22:00:05.425Z",
+  "count": 20,
   "stories": [
+    {
+      "id": "0y47lnl",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "brief": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. 0. The confirmed chain requires",
+      "whyItMatters": "",
+      "words": 45,
+      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1700-e365/fastjson.gif",
+      "published": "2026-07-25T12:52:43.000Z",
+      "capturedAt": "2026-07-26T22:00:05.425Z",
+      "tags": [
+        "Vulnerability",
+        "Patch",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1tps9tl",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Pause on AI robots in Salamanca classrooms - WRGB",
+      "brief": "Pause on AI robots in Salamanca classrooms WRGB",
+      "whyItMatters": "",
+      "words": 8,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWk8xSWhXTkNCRFEzRXlVN1JoYUNiWk9mXzhFT0xDbGFNZllZVTdfTlNxeFJuWm1KcEhaRDl1VDJxV3FodENuZnhIVnl5M1BVRXQyalVNYUVmc1FKUE9QdHNvQnBlV0RPMkp5RnN2OW9VUWlGQVFPZFZTZG1nOXF3Ym93",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-07-26T21:46:57.000Z",
+      "capturedAt": "2026-07-26T22:00:03.492Z",
+      "tags": [
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "003rgr7",
       "channel": "sec",
