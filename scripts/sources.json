@@ -1,0 +1,41 @@
+{
+  "_comment": "Edit this file to add or remove sources. weight = editorial priority (higher wins ties). Every feed is a public RSS/Atom feed published by the outlet itself.",
+  "channels": {
+    "ai": {
+      "label": "Artificial Intelligence",
+      "code": "CH-01",
+      "feeds": [
+        { "name": "MIT Technology Review — AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "site": "technologyreview.com", "weight": 10 },
+        { "name": "The Verge — AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "site": "theverge.com", "weight": 9 },
+        { "name": "TechCrunch — AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "site": "techcrunch.com", "weight": 9 },
+        { "name": "VentureBeat — AI", "url": "https://venturebeat.com/category/ai/feed/", "site": "venturebeat.com", "weight": 8 },
+        { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "site": "arstechnica.com", "weight": 8 },
+        { "name": "MIT News — AI", "url": "https://news.mit.edu/rss/topic/artificial-intelligence2", "site": "news.mit.edu", "weight": 7 },
+        { "name": "Google Research", "url": "https://research.google/blog/rss/", "site": "research.google", "weight": 6 },
+        { "name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "site": "deepmind.google", "weight": 6 },
+        { "name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "site": "huggingface.co", "weight": 5 },
+        { "name": "MarkTechPost", "url": "https://www.marktechpost.com/feed/", "site": "marktechpost.com", "weight": 5 },
+        { "name": "NVIDIA Blog", "url": "https://blogs.nvidia.com/feed/", "site": "blogs.nvidia.com", "weight": 5 },
+        { "name": "Reuters Technology (Google News)", "url": "https://news.google.com/rss/search?q=artificial+intelligence+when:1d&hl=en-US&gl=US&ceid=US:en", "site": "news.google.com", "weight": 4 }
+      ]
+    },
+    "sec": {
+      "label": "Cybersecurity",
+      "code": "CH-02",
+      "feeds": [
+        { "name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/", "site": "bleepingcomputer.com", "weight": 10 },
+        { "name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews", "site": "thehackernews.com", "weight": 9 },
+        { "name": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/", "site": "krebsonsecurity.com", "weight": 9 },
+        { "name": "Dark Reading", "url": "https://www.darkreading.com/rss.xml", "site": "darkreading.com", "weight": 8 },
+        { "name": "SecurityWeek", "url": "https://feeds.feedburner.com/securityweek", "site": "securityweek.com", "weight": 8 },
+        { "name": "The Record", "url": "https://therecord.media/feed", "site": "therecord.media", "weight": 8 },
+        { "name": "Google Threat Intelligence", "url": "https://cloud.google.com/blog/topics/threat-intelligence/rss", "site": "cloud.google.com", "weight": 7 },
+        { "name": "Microsoft Security Blog", "url": "https://www.microsoft.com/en-us/security/blog/feed/", "site": "microsoft.com", "weight": 7 },
+        { "name": "CISA Advisories", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml", "site": "cisa.gov", "weight": 7 },
+        { "name": "Graham Cluley", "url": "https://grahamcluley.com/feed/", "site": "grahamcluley.com", "weight": 6 },
+        { "name": "Schneier on Security", "url": "https://www.schneier.com/feed/atom/", "site": "schneier.com", "weight": 6 },
+        { "name": "Security Affairs", "url": "https://securityaffairs.com/feed", "site": "securityaffairs.com", "weight": 5 }
+      ]
+    }
+  }
+}

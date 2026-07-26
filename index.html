@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SIGNAL/2 — AI and cybersecurity news in plain English</title>
+<meta name="description" content="Two stories, every three hours: one on artificial intelligence, one on cybersecurity, each explained in 150 words or fewer.">
+<meta name="theme-color" content="#0f1620">
+<meta property="og:title" content="SIGNAL/2 — two stories, every three hours">
+<meta property="og:description" content="One AI story and one cybersecurity story, refreshed every three hours and written for people who are not specialists.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230f1620'/%3E%3Ccircle cx='11' cy='16' r='4' fill='%235a31f4'/%3E%3Ccircle cx='21' cy='16' r='4' fill='%23f2a31b'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<a class="skip" href="#channels">Skip to the stories</a>
+
+<!-- the transmission strip: live state of the three-hour cycle -->
+<div class="transmission">
+  <div class="wrap transmission__row">
+    <span class="transmission__live"><span class="dot"></span> Live</span>
+    <span class="transmission__sep">/</span>
+    <span class="transmission__meta" id="synced">syncing…</span>
+    <span class="transmission__next" id="next">next in —</span>
+  </div>
+  <div class="meter"><div class="meter__fill" id="meterFill"></div></div>
+</div>
+
+<header class="wrap masthead">
+  <div class="masthead__top">
+    <div>
+      <a class="wordmark" href="./">SIGNAL<span>/</span><em>2</em></a>
+      <p class="tagline">Two stories · every three hours · plain English</p>
+    </div>
+    <nav class="nav" aria-label="Sections">
+      <a href="./" aria-current="page">Now</a>
+      <a href="archive.html">History</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="wrap channels" id="channels" aria-label="Current stories">
+    <p class="tagline">Loading the current transmission…</p>
+  </section>
+
+  <section class="wrap handoff">
+    <p><b>That is the whole front page.</b> Two stories, chosen from the feeds below, replaced on
+       the next three-hour cycle. Nothing you have already read gets picked twice.</p>
+    <a class="btn" href="archive.html">Open the history
+      <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 8h9M8 3.5 12.5 8 8 12.5"/></svg>
+    </a>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="wrap footer__grid">
+    <div>
+      <h2>How this works</h2>
+      <p>Every three hours the site reads the public feeds of established newsrooms, picks the
+         strongest fresh story on each channel, and files a short brief. Headlines, images and
+         reporting belong to the publishers — every card links straight back to them.</p>
+    </div>
+    <div>
+      <h2>CH-01 sources</h2>
+      <ul>
+        <li><a href="https://www.technologyreview.com/" rel="noopener">MIT Technology Review</a></li>
+        <li><a href="https://www.theverge.com/ai-artificial-intelligence" rel="noopener">The Verge</a></li>
+        <li><a href="https://techcrunch.com/category/artificial-intelligence/" rel="noopener">TechCrunch</a></li>
+        <li><a href="https://venturebeat.com/category/ai/" rel="noopener">VentureBeat</a></li>
+        <li><a href="https://news.mit.edu/topic/artificial-intelligence2" rel="noopener">MIT News</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>CH-02 sources</h2>
+      <ul>
+        <li><a href="https://www.bleepingcomputer.com/" rel="noopener">BleepingComputer</a></li>
+        <li><a href="https://thehackernews.com/" rel="noopener">The Hacker News</a></li>
+        <li><a href="https://krebsonsecurity.com/" rel="noopener">Krebs on Security</a></li>
+        <li><a href="https://www.darkreading.com/" rel="noopener">Dark Reading</a></li>
+        <li><a href="https://www.cisa.gov/" rel="noopener">CISA advisories</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap footer__note">
+    SIGNAL/2 is an automated news digest. It summarises, it does not report. Check the original
+    article before acting on anything here.
+  </div>
+</footer>
+
+<script type="module" src="assets/js/home.js"></script>
+</body>
+</html>
