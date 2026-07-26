@@ -1,6 +1,7 @@
 import {
   loadJSON, escapeHtml, safeUrl, timeAgo, dayLabel,
-  placeholder, guardImages, domainOf, initTheme, CHANNELS
+  placeholder, guardImages, domainOf, initTheme, renderUpdateLog,
+  initSearchShortcut, CHANNELS
 } from './common.js';
 
 initTheme();
@@ -123,6 +124,8 @@ searchEl.addEventListener('input', () => {
 
 moreEl.addEventListener('click', () => { shown += PAGE; render(); });
 
+initSearchShortcut(searchEl);
+
 loadJSON('data/archive.json')
   .then(data => {
     all = (data.stories || []).sort((a, b) =>
@@ -131,6 +134,7 @@ loadJSON('data/archive.json')
       shown = Math.max(PAGE, all.findIndex(s => s.id === target) + 1);
     }
     render();
+    renderUpdateLog(all);
     if (target) document.getElementById('s-' + target)?.scrollIntoView({ block: 'center' });
   })
-  .catch(() => { all = []; render(); });
+  .catch(() => { all = []; render(); renderUpdateLog([]); });

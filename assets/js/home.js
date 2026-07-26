@@ -1,6 +1,7 @@
 import {
   loadJSON, escapeHtml, safeUrl, timeAgo, clockTime, countdown,
-  placeholder, guardImages, domainOf, initTheme, CHANNELS, ICONS, ARROW
+  placeholder, guardImages, domainOf, initTheme, renderUpdateLog,
+  CHANNELS, ICONS, ARROW
 } from './common.js';
 
 initTheme();
@@ -45,6 +46,10 @@ function card(s, channel) {
         <a class="cta" href="${safeUrl(s.url)}" target="_blank" rel="noopener noreferrer">
           Read at ${escapeHtml(domainOf(s.url))} ${ARROW}
         </a>
+        <button class="iconlink" type="button" data-share="${escapeHtml(s.url)}"
+                data-title="${escapeHtml(s.title)}" aria-label="Share this story" title="Share">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>
+        </button>
         <span class="mono card__words">${s.words || 0} words</span>
       </div>
     </div>
@@ -105,10 +110,31 @@ async function refresh() {
   }
 }
 
-// The archive count is a nice-to-have; a failure here must not block the page.
+// Share the story natively where the browser supports it, copy the link otherwise.
+editionEl.addEventListener('click', async e => {
+  const btn = e.target.closest('[data-share]');
+  if (!btn) return;
+  const url = btn.dataset.share;
+  const title = btn.dataset.title;
+  try {
+    if (navigator.share) await navigator.share({ title, url });
+    else {
+      await navigator.clipboard.writeText(url);
+      btn.setAttribute('title', 'Link copied');
+      btn.style.color = 'var(--topic)';
+      setTimeout(() => { btn.style.color = ''; btn.setAttribute('title', 'Share'); }, 1600);
+    }
+  } catch (err) { /* the person dismissed the share sheet */ }
+});
+
+// The archive figures are a nice-to-have; a failure here must not block the page.
 loadJSON('data/archive.json')
-  .then(d => { archEl.textContent = `${d.count || (d.stories || []).length} stories`; })
-  .catch(() => { archEl.textContent = '—'; });
+  .then(d => {
+    const list = d.stories || [];
+    archEl.textContent = `${d.count || list.length} stories`;
+    renderUpdateLog(list);
+  })
+  .catch(() => { archEl.textContent = '—'; renderUpdateLog([]); });
 
 refresh();
 setInterval(refresh, 5 * 60 * 1000);

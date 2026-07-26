@@ -102,6 +102,41 @@ export function guardImages(root = document) {
   });
 }
 
+/** The last few update times, taken from the archive itself. */
+export function renderUpdateLog(stories = []) {
+  const el = document.getElementById('updateLog');
+  if (!el) return;
+  const seen = new Map();
+  for (const s of stories) {
+    const key = (s.capturedAt || '').slice(0, 16);   // minute precision groups an edition
+    if (!key) continue;
+    if (!seen.has(key)) seen.set(key, 0);
+    seen.set(key, seen.get(key) + 1);
+  }
+  const rows = [...seen.entries()].slice(0, 5);
+  el.innerHTML = rows.length
+    ? rows.map(([iso, n]) => {
+        const d = new Date(iso + ':00Z');
+        const when = isNaN(d) ? '—' : d.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
+        return `<li>${when}<span>${n} ${n === 1 ? 'story' : 'stories'}</span></li>`;
+      }).join('')
+    : '<li>No updates yet<span>—</span></li>';
+}
+
+/** Press "/" anywhere to jump to the search box. */
+export function initSearchShortcut(input) {
+  if (!input) return;
+  document.addEventListener('keydown', e => {
+    const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName || '');
+    if (e.key === '/' && !typing && !e.metaKey && !e.ctrlKey) {
+      e.preventDefault();
+      input.focus();
+      input.select();
+    }
+    if (e.key === 'Escape' && document.activeElement === input) input.blur();
+  });
+}
+
 /** Light/dark switch, remembered on this device. */
 export function initTheme() {
   const btn = document.getElementById('theme');
