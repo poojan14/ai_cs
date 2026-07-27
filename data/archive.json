@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-27T16:58:36.707Z",
-  "count": 28,
+  "updatedAt": "2026-07-27T19:28:06.465Z",
+  "count": 30,
   "stories": [
+    {
+      "id": "1xuwe15",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Rethinking security for the age of AI",
+      "brief": "The physics of cybersecurity are changing. Autonomous systems can now reason, adapt and operate continuously. At the same time, the cost of offense is falling, while the volume, velocity and complexity of what must be secured continues to grow. Attackers can generate exploits faster, scale campaigns further and operate with unprecedented efficiency. The approaches built for a world of human actors cannot keep pace with a world of AI, agents and machine-speed attacks. Security needs a new Cyber Stack. A new Cyber Stack must continuously perceive risk across the entire digital estate, reason across vast amounts of context and take action at machine speed. It must learn and adapt as environments evolve, helping organizations stay ahead of threats. And because security is ultimately a human mission, it must amplify defenders with better insights and more powerful ways to act.",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg",
+      "published": "2026-07-27T16:40:00.000Z",
+      "capturedAt": "2026-07-27T19:28:06.465Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "10qhqh3",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "brief": "A decade-old experiment showed OpenAI how far an AI will go to achieve the goals it’s given. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face , another AI company, was the first time I got genuine chills about what large language models are now able to do. But this is a case of human hubris, not rogue AI. I am not an alarmist. In fact, I have been pushing back against AI scare stories for years. Even so, this incident crossed a line. I think it’s the clearest illustration yet of how the people building and testing this technology do not fully understand what they’re doing. OpenAI could—and should—have seen this coming. Here’s what happened, at least according to the two companies involved. ”",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
+      "published": "2026-07-27T18:00:00.000Z",
+      "capturedAt": "2026-07-27T19:28:04.868Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "01jk507",
       "channel": "sec",
