@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-07-27T19:28:06.465Z",
-  "count": 30,
+  "updatedAt": "2026-07-27T22:08:55.048Z",
+  "count": 32,
   "stories": [
+    {
+      "id": "1h4z7dt",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "UK court rejects Bahrain immunity claim in spyware case",
+      "brief": "The United Kingdom’s Supreme Court ruled Monday that Bahrain can’t hide behind state immunity to block a lawsuit filed by two dissidents alleging the government infected their devices with spyware. Saeed Shehabi and Moosa Mohammed allege Bahrain secretly installed FinSpy spyware on their laptops, likely in 2011. Government agents then spied on them as they worked with Bahraini political prisoners, journalists and torture victims, they allege. , where they filed a lawsuit contending that they are owed damages from Bahrain for the mental harm they suffered. The alleged hacking by officials in Bahrain “allowed access to and exfiltration of information on the computers, interception of communications conducted using the computers and use of the computers’ microphones and cameras to surveil the respondents,” according to the court opinion .",
+      "whyItMatters": "",
+      "words": 128,
+      "url": "https://therecord.media/uk-court-rejects-bahrain-immunity-claim-spyware-case",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/2021_08_Bahrain_337c0c3160.jpg",
+      "published": "2026-07-27T17:52:00.000Z",
+      "capturedAt": "2026-07-27T22:08:55.048Z",
+      "tags": [
+        "Hack",
+        "Spyware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ve5uq4",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "brief": "Microsoft says tools cost less than competing ones and outperform them, too. Microsoft is introducing new AI tools designed to help customers continuously streamline and automate the process of identifying and reducing their exposure to security risks. The new tools come less than a week after OpenAI lost control of two of its security models when they infiltrated the servers of startup Hugging Face. The hack, Hugging Face added, involved “a swarm of tens of thousands of automated actions” that stole internal Hugging Face credentials. The OpenAI models achieved this feat by exploiting a zero-day flaw in Hugging Face’s data-processing pipeline to run malicious code that escalated the models’ access to the company’s high-value cloud and server clusters. ” The company also didn’t say what would prevent the new tools from similarly going rogue.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "published": "2026-07-27T21:56:14.000Z",
+      "capturedAt": "2026-07-27T22:08:53.542Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1xuwe15",
       "channel": "sec",
