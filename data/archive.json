@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-26T22:00:05.425Z",
-  "count": 20,
+  "updatedAt": "2026-07-27T03:16:30.442Z",
+  "count": 22,
   "stories": [
+    {
+      "id": "1t4ifef",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 107",
+      "brief": "S. S. 3 Sol Searching | Can Frontier Models Tackle Autonomous Long-Horizon Malware Analysis?",
+      "whyItMatters": "",
+      "words": 14,
+      "url": "https://securityaffairs.com/196037/malware/security-affairs-malware-newsletter-round-107.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+      "published": "2026-07-26T13:30:44.000Z",
+      "capturedAt": "2026-07-27T03:16:30.442Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "02pfc2o",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "brief": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across EDA workflows used to develop its next generation of CPUs and GPUs, demonstrating how high-performance CPU architecture can help accelerate some of the industry’s most demanding engineering workloads. What’s at stake is the pace of chip production. In turn, the tempo of industry technologies that stand to benefit from boosted EDA workloads, driving development momentum. Simulation, verification and implementation technologies play a central role in semiconductor development. Long before a chip reaches manufacturing, engineers spend years validating behavior, identifying corner cases and refining designs through thousands of iterations.",
+      "whyItMatters": "",
+      "words": 143,
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-corp-blog-vera-superchip-1280x680-4939150.jpg",
+      "published": "2026-07-27T00:45:42.000Z",
+      "capturedAt": "2026-07-27T03:16:28.359Z",
+      "tags": [
+        "Machine Learning",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0y47lnl",
       "channel": "sec",
