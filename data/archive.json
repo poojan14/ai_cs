@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-28T02:35:51.618Z",
-  "count": 34,
+  "updatedAt": "2026-07-28T05:47:13.711Z",
+  "count": 36,
   "stories": [
+    {
+      "id": "13sh61p",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+      "brief": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. 0), is a case of operating system command injection that could pave the way for arbitrary code execution. \"VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue",
+      "whyItMatters": "",
+      "words": 49,
+      "url": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg",
+      "published": "2026-07-28T04:43:53.000Z",
+      "capturedAt": "2026-07-28T05:47:13.711Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "02o7184",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "brief": "S. government to ban open-weight Chinese models, or possibly open-weight models generally. “Anyone who has read my past writing should know that I don’t regard such bans as a useful measure, but let me state it clearly so that there is no doubt: Anthropic has never advocated for a ban on open-weights models ,” he wrote, emphasis his own. His response came after Nvidia founder and CEO Jensen Huang took to X ( his first post on the platform) to share an open letter on Friday in which Nvidia and a long list of other AI companies including Hugging Face, Meta, Microsoft, Mistral, and Nvidia urged policymakers not to impose broad “premature restrictions” on open-weight AI models.",
+      "whyItMatters": "",
+      "words": 117,
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+      "published": "2026-07-28T00:13:33.000Z",
+      "capturedAt": "2026-07-28T05:47:11.822Z",
+      "tags": [
+        "Model",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0acw536",
       "channel": "sec",
