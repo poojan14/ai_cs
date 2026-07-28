@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-28T14:08:40.093Z",
-  "count": 42,
+  "updatedAt": "2026-07-28T16:40:33.917Z",
+  "count": 44,
   "stories": [
+    {
+      "id": "0n37a4f",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "brief": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud",
+      "whyItMatters": "",
+      "words": 57,
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s1600/openai-0day.jpg",
+      "published": "2026-07-28T13:33:47.000Z",
+      "capturedAt": "2026-07-28T16:40:33.917Z",
+      "tags": [
+        "Breach",
+        "Exploit",
+        "Zero-Day"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0j974om",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+      "brief": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors , highlighted how the NVIDIA Jetson platform for edge AI and robotics gives busy developers both power and portability in one agentic-ready AI platform built for the physical world — and every industry. The best part? It all fits in one handbag. Compact enough to carry in a bag, yet powerful enough to take on the toughest problems, NVIDIA Jetson modules and developer kits power robots, autonomous machines and real-world AI projects in classrooms, labs and makerspaces — wherever inspiration strikes — enabling developers to build using industry-transforming frontier open models at the highest standard of safety and security .",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson_FeaturedImage.png",
+      "published": "2026-07-28T15:00:19.000Z",
+      "capturedAt": "2026-07-28T16:40:32.633Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "00k2ggy",
       "channel": "sec",
