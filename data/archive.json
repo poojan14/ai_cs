@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-28T05:47:13.711Z",
-  "count": 36,
+  "updatedAt": "2026-07-28T08:35:01.143Z",
+  "count": 38,
   "stories": [
+    {
+      "id": "17xp6yy",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. CISA adds Arista VeloCloud Orchestrator and Fortinet FortiOS flaws to its Known Exploited Vulnerabilities catalog",
+      "brief": "S. S. S. Cybersecurity and Infrastructure Security Agency (CISA) added Arista VeloCloud Orchestrator and Fortinet FortiOS flaws to its Known Exploited Vulnerabilities (KEV) catalog . CVE-2025-68686 is an information disclosure vulnerability affecting multiple versions of Fortinet FortiOS. The flaw allows a remote, unauthenticated attacker to bypass a security patch designed to prevent the persistence of malicious symbolic links that attackers may leave behind after compromising a device.",
+      "whyItMatters": "",
+      "words": 67,
+      "url": "https://securityaffairs.com/196130/security/u-s-cisa-adds-arista-velocloud-orchestrator-and-fortinet-fortios-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "published": "2026-07-28T08:19:29.000Z",
+      "capturedAt": "2026-07-28T08:35:01.143Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "18lrvz6",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "The path to artificial superintelligence",
+      "brief": "Next-generation multi-agent systems need a horizontal architecture that allows them to share intent, context, and reasoning to enable wide-scale problem solving no single agent is trained for. Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate patient care without a human making the decisions. “The intelligence is already there. What is missing is the connective tissue that turns four strangers into one team,” explains Vijoy Pandey, senior vice president and general manager of Outshift by Cisco.",
+      "whyItMatters": "",
+      "words": 122,
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png",
+      "published": "2026-07-27T12:00:00.000Z",
+      "capturedAt": "2026-07-28T08:34:59.646Z",
+      "tags": [
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "13sh61p",
       "channel": "sec",
