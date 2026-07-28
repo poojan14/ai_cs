@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-07-28T16:40:33.917Z",
-  "count": 44,
+  "updatedAt": "2026-07-28T19:25:26.493Z",
+  "count": 46,
   "stories": [
+    {
+      "id": "06ww4s0",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Dysphoria Botnet Uses Blockchain Domains to Hide C2 Infrastructure",
+      "brief": "S. CISA adds Arista VeloCloud Orchestrator and Fortinet FortiOS flaws to its Known Exploited Vulnerabilities catalog QiAnXin XLab, jointly with China’s CNCERT, disclosed Dysphoria, a botnet that has compromised roughly 200,000 devices worldwide and uses Ethereum and Solana blockchain domain names to hide its command infrastructure. The botnet evolved from jackskid and fbot malware families and has been iterating rapidly since XLab first spotted it in March. In four months, it added a custom RC4 encryption scheme, multi-chain blockchain C2 resolution, and a separate variant that converts infected devices into covert relay nodes. “Since the first quarter of 2026, XLAB has been tracking a new botnet family called Dysphoria , with over 200,000 bots . ” reads the report published by QiAnXin XLab.",
+      "whyItMatters": "",
+      "words": 123,
+      "url": "https://securityaffairs.com/196182/malware/dysphoria-botnet-uses-blockchain-domains-to-hide-c2-infrastructure.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/07/image-81.png?resize=491%2C296&ssl=1",
+      "published": "2026-07-28T19:07:43.000Z",
+      "capturedAt": "2026-07-28T19:25:26.493Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1hsdp2i",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "brief": "’ Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world’s most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a “general-purpose digital worker” that can access local files and apps to perform actions on your behalf, such as creating documents and updating spreadsheets. This launch builds on Personal Computer integrations that Perplexity launched for Microsoft’s 365 workspace apps and Teams virtual meeting software in May. ”",
+      "whyItMatters": "",
+      "words": 90,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-07-28T12:30:00.000Z",
+      "capturedAt": "2026-07-28T19:25:23.496Z",
+      "tags": [
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0n37a4f",
       "channel": "sec",
