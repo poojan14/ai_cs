@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-07-28T11:18:12.308Z",
-  "nextUpdateAt": "2026-07-28T14:18:12.308Z",
+  "generatedAt": "2026-07-28T14:08:40.093Z",
+  "nextUpdateAt": "2026-07-28T17:08:40.093Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "17x54h4",
+      "id": "122rfli",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price - The Motley Fool",
-      "brief": "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price The Motley Fool",
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "brief": "While everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device. While everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device. Over the last few months, I’ve spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology — even the fastest, cheapest models are getting very good at understanding and processing speech. I’ve tested lots of these apps, from WisprFlow to Monologue to Spokenly to Handy to so many others, and have found them all to be useful ways to quickly write emails, Slack messages, and more.",
       "whyItMatters": "",
-      "words": 25,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGhJRURyV0lwUEtRVnMwMmVveXF5N2R5ODRyOWhRUmkyNG43VHJRaGhRX2JBbW9EcVFQLXpJZVdDYzQ1T3ZBbnl1b0M5TkVfSG9Pb1JwcVFTQmhHYkJXdlk5TklqU2JRSDF6aEpnekQ0RlEwRDZHMUhiVlVpWmRPNDdGdnItY21ETlM5Y01ieEs1VlpDM1g0",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-07-28T11:08:16.000Z",
-      "capturedAt": "2026-07-28T11:18:10.731Z",
+      "words": 125,
+      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-07-28T12:00:00.000Z",
+      "capturedAt": "2026-07-28T14:08:38.356Z",
       "tags": [
-        "Artificial Intelligence"
+        "Model"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "037xgxb",
+      "id": "00k2ggy",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "brief": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. 8), affects all TeamCity On-Premises versions. 3. TeamCity Cloud instances have already",
+      "title": "New Crypter-as-a-Service Cruciferra Fuels Stealthy Malware Attacks Worldwide",
+      "brief": "S. S. CISA adds Microsoft SharePoint and Check Point SmartConsole flaws to its Known Exploited Vulnerabilities catalog Proofpoint’s research team traced a wave of income-tax-themed lures targeting Indian taxpayers, tax professionals, and corporate finance teams back to a crypter service called Cruciferra, and the tool turns out to be shared infrastructure used across multiple unrelated criminal groups. A crypter’s job is simple to describe and hard to build well: scramble a malicious payload so antivirus tools can’t detect it, then unwrap it at just the right moment on the victim’s machine. Cruciferra does that job with a level of polish researchers don’t see often. It’s written in Mono and packs in indirect system calls, API unhooking, and a custom flavor of Process Ghosting designed to leave almost nothing behind for a forensic investigator to find.",
       "whyItMatters": "",
-      "words": 42,
-      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiX3xcF2Bm9BY5obe-T5JItuKynq8bPijOxp14p5damNEjPGtAbYyuLSqp6vKN_KkhPx1qYeTXHxpgnZllCrtLvDaDuJNyHpY1qV0i8KWCe79_bnFtBtTRPCTU28LcN7OFM26h_WZdxeM3KPWBK4dlp0jY8JKrs1UILNR0qRgtxhKJqCcrht69sc3gcwsU/s1600/tc.jpg",
-      "published": "2026-07-28T08:11:22.000Z",
-      "capturedAt": "2026-07-28T11:18:12.308Z",
+      "words": 135,
+      "url": "https://securityaffairs.com/196151/malware/new-crypter-as-a-service-cruciferra-fuels-stealthy-malware-attacks-worldwide.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/07/image-78.png?resize=1017%2C1024&ssl=1",
+      "published": "2026-07-28T09:35:40.000Z",
+      "capturedAt": "2026-07-28T14:08:40.092Z",
       "tags": [
-        "Vulnerability",
-        "Attack",
-        "Security"
+        "Hack",
+        "Malware",
+        "Patch"
       ],
       "rewritten": false
     }
