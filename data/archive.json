@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-29T11:26:48.304Z",
-  "count": 56,
+  "updatedAt": "2026-07-29T14:11:32.557Z",
+  "count": 58,
   "stories": [
+    {
+      "id": "0i6awec",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ShinyHunters Claims Ernst & Young Data Breach, Threatens to Leak Stolen Data",
+      "brief": "S. CISA adds Arista VeloCloud Orchestrator and Fortinet FortiOS flaws to its Known Exploited Vulnerabilities catalog The ShinyHunters cybercrime group has taken responsibility for the recently disclosed data breach involving professional services firm Ernst & Young (EY), adding the company to its Tor-based leak site and threatening to publish the stolen data unless negotiations begin by July 31. S. state Attorneys General that attackers had gained unauthorized access to a third-party service management platform used to support tax-related operations. According to the company’s filings, the intrusion occurred between March 28 and April 12, during which threat actors downloaded documents attached to customer support tickets.",
+      "whyItMatters": "",
+      "words": 104,
+      "url": "https://securityaffairs.com/196239/data-breach/shinyhunters-claims-ernst-young-data-breach-threatens-to-leak-stolen-data.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/07/image-55.png",
+      "published": "2026-07-29T13:40:46.000Z",
+      "capturedAt": "2026-07-29T14:11:32.557Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0h4p3lg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
+      "brief": "Before the advancement of scientific data storage and collaboration via the cloud, medical investigators seeking health research breakthroughs had to overcome significant obstacles to collaboration and key clinical data gathering. Data were siloed and difficult to distribute, so those looking to undertake research had no option but to gather them themselves. This not only made research more expensive, but it was challenging to compare findings across datasets. In 1975, researchers studying arrhythmias at MIT and Boston’s Beth Israel Hospital envisioned another way: the team began collecting and digitizing electrocardiogram recordings with the intention of not only studying them, but of also making them available to the wider research community. The team built their own computers for the process, painstakingly duplicated tapes one by one, and created more than 100,000 annotations for the recordings. The process took years, but by summer 1980, the tapes were finally ready.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-RogerMark-GeorgeMoody.jpg?itok=57wqdl_A",
+      "published": "2026-07-29T14:00:00.000Z",
+      "capturedAt": "2026-07-29T14:11:30.489Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1skt35h",
       "channel": "sec",
