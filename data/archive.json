@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-07-29T19:17:53.711Z",
-  "count": 62,
+  "updatedAt": "2026-07-29T22:01:56.810Z",
+  "count": 64,
   "stories": [
+    {
+      "id": "1jom50q",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "brief": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. 5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
+      "whyItMatters": "",
+      "words": 50,
+      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg",
+      "published": "2026-07-29T18:10:00.000Z",
+      "capturedAt": "2026-07-29T22:01:56.810Z",
+      "tags": [
+        "Vulnerability",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1xs869n",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "brief": "Illustrators, authors, and musicians are optimistic about their chances in court, if not about the future of AI. When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon — nonfiction tomes that he spent “five to six years researching, writing, and investigating” — had been pirated and fed to a chatbot. He says he felt a “cocktail” of emotions: “anger over the brazenness of the theft, worry over what this means for writers, and a healthy thirst for revenge on these massive corporations that have become galactically wealthy” using his intellectual property. ”",
+      "whyItMatters": "",
+      "words": 133,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-07-29T12:00:00.000Z",
+      "capturedAt": "2026-07-29T22:01:55.114Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "172kqlt",
       "channel": "sec",
