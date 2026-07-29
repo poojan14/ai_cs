@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-29T08:42:02.286Z",
-  "count": 54,
+  "updatedAt": "2026-07-29T11:26:48.304Z",
+  "count": 56,
   "stories": [
+    {
+      "id": "1skt35h",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+      "brief": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. 3), is an authentication bypass in the SmartConsole login process that",
+      "whyItMatters": "",
+      "words": 46,
+      "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg",
+      "published": "2026-07-29T08:58:27.000Z",
+      "capturedAt": "2026-07-29T11:26:48.304Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1jh6z15",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "We’re running out of reasons to ignore AI safety",
+      "brief": "In the aftermath of OpenAI’s attack on Hugging Face, experts say it’s time for everyone to take security far more seriously. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. In the aftermath of OpenAI’s attack on Hugging Face, experts say it’s time for everyone to take security far more seriously. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work.",
+      "whyItMatters": "",
+      "words": 117,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-07-29T11:00:00.000Z",
+      "capturedAt": "2026-07-29T11:26:46.613Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1p4uejj",
       "channel": "sec",
