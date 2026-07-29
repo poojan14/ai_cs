@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-07-29T16:22:26.049Z",
-  "count": 60,
+  "updatedAt": "2026-07-29T19:17:53.711Z",
+  "count": 62,
   "stories": [
+    {
+      "id": "172kqlt",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hugging Face Hack Lessons for Cyber Defenders",
+      "brief": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
+      "whyItMatters": "",
+      "words": 23,
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-07-29T17:35:23.000Z",
+      "capturedAt": "2026-07-29T19:17:53.711Z",
+      "tags": [
+        "Hack",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1i36tp0",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "brief": "For a year now , the AI safety testing firm Andon Labs has tasked frontier models with various real-world tasks to determine how well they do as agents running for long periods with no human supervision. On Wednesday, Andon published a new installment in how things are going in its Vending-Bench research, where the lab has frontier models run a simulated vending machine business for a simulated year. The mission is simple: make more money than the other models. It benchmarks the results in areas like final cash balance, prices paid to suppliers, and refunds paid. Across these tests, it has watched various AI models — largely from Anthropic and OpenAI — lie, cheat and collude their way to the top.",
+      "whyItMatters": "",
+      "words": 121,
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Andon-Labs-AI-vending-machine.png?resize=1200,684",
+      "published": "2026-07-29T18:45:27.000Z",
+      "capturedAt": "2026-07-29T19:17:52.446Z",
+      "tags": [
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1ep1tjs",
       "channel": "sec",
