@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-28T22:04:43.712Z",
-  "count": 48,
+  "updatedAt": "2026-07-29T02:42:27.644Z",
+  "count": 50,
   "stories": [
+    {
+      "id": "0dl723t",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
+      "brief": "There’s new benchmark measuring AI’s ability to perform mathematical cryptanalysis. Anthropic’s frontier model actually found new attacks. The benchmark: “ CryptanalysisBench: Can LLMs do Cryptanalysis? ” The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms. Anthropic used the benchmark to test Mythos Preview, and found new vulnerabilities in Hawk and reduced-round AES. Still early results, but this is definitely something to watch.",
+      "whyItMatters": "",
+      "words": 74,
+      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
+      "source": "Schneier on Security",
+      "sourceSite": "schneier.com",
+      "image": "",
+      "published": "2026-07-29T01:47:05.000Z",
+      "capturedAt": "2026-07-29T02:42:27.644Z",
+      "tags": [
+        "Exploit",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "13h1qzg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "brief": "The statement follows a recent high-profile cybersecurity incident that rocked the AI industry. The statement follows a recent high-profile cybersecurity incident that rocked the AI industry. Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development — or at least a speed-up of global coordinated governance efforts. “Al could help create a dramatically better future, but that outcome is not guaranteed,” the employees wrote in the statement. “The world’s leading Al companies believe they could be close to automating Al research. ” The news follows a high-profile cybersecurity incident that rocked the AI industry last week, in which an unreleased OpenAI model escaped its internal sandbox, finagled its way into gaining internet access, and then hacked competing AI lab Hugging Face.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-07-28T19:46:43.000Z",
+      "capturedAt": "2026-07-29T02:42:23.132Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "13mga91",
       "channel": "sec",
