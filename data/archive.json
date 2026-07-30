@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-07-30T14:03:52.501Z",
-  "count": 74,
+  "updatedAt": "2026-07-30T16:27:05.788Z",
+  "count": 76,
   "stories": [
+    {
+      "id": "0wm5lue",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "brief": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder. Some defenses improved. The loose parts still got found first. Anyway,",
+      "whyItMatters": "",
+      "words": 63,
+      "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg",
+      "published": "2026-07-30T15:25:57.000Z",
+      "capturedAt": "2026-07-30T16:27:05.788Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1h4d2th",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "brief": "Meta is using AI to quickly launch apps, and more are on the way. During this week’s second-quarter earnings call, Meta CEO Mark Zuckerberg said the social giant has new apps in the works, following a recent spate of other launches that included an app for Marketplace sellers , one for Facebook Groups , a vibe-coded gaming app , a new photos app from Instagram , and an experiment involving AI bedtime stories. Meta has spent years trying and failing to produce new, standalone social apps to complement its core platforms. Now, the company says that large language models (LLMs) make it possible to ship software faster, allowing it to test new ideas at a quicker pace. “I’m…excited about how AI is helping our teams speed up product development,” Zuckerberg told investors on Wednesday’s call. “Earlier this year, we shipped Instagram Instants.",
+      "whyItMatters": "",
+      "words": 142,
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+      "published": "2026-07-30T15:41:16.000Z",
+      "capturedAt": "2026-07-30T16:27:04.225Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0kpwfry",
       "channel": "sec",
