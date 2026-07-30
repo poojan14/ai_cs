@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-29T22:01:56.810Z",
-  "count": 64,
+  "updatedAt": "2026-07-30T02:27:59.931Z",
+  "count": 66,
   "stories": [
+    {
+      "id": "0re1947",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Strike Minnesota Water Utilities, One Plant Briefly Offline",
+      "brief": "S. CISA adds Arista VeloCloud Orchestrator and Fortinet FortiOS flaws to its Known Exploited Vulnerabilities catalog Minnesota just had its own live-fire lesson in what happens when someone targets water utilities at scale. Between Sunday and Monday, July 26 and 27, a coordinated cyberattack hit operational technology (OT) systems at more than 30 community water utilities across the state, according to Minnesota IT Services (MNIT) . “A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27. ” reads the statement published by MNIT. ” The agency activated its statewide incident response the moment it learned of the attack, and it’s still active as of this week.",
+      "whyItMatters": "",
+      "words": 115,
+      "url": "https://securityaffairs.com/196246/hacking/hackers-strike-minnesota-water-utilities-one-plant-briefly-offline.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/07/image-82.png?resize=792%2C1024&ssl=1",
+      "published": "2026-07-29T19:26:12.000Z",
+      "capturedAt": "2026-07-30T02:27:59.931Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0f8jsd3",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "brief": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos. A quantum-resistant cryptography algorithm that was under consideration as an official US standard has been taken out of the running after an Anthropic security model helped find a flaw that rendered it broken . The algorithm is known as HAWK . It’s a digital signature scheme designed to withstand future attacks from quantum computers. HAWK had survived two rounds of testing by NIST (the National Institute of Standards and Technology) for evaluating the security of PQC (post-quantum cryptographic) algorithms through widespread testing. HAWK was in a third round of testing designed to catch precisely the kinds of flaws Mythos helped uncover. Following Anthropic’s Monday announcement of the results, the developer of HAWK said Tuesday he was withdrawing it.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+      "published": "2026-07-29T22:07:06.000Z",
+      "capturedAt": "2026-07-30T02:27:58.304Z",
+      "tags": [
+        "Model",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1jom50q",
       "channel": "sec",
