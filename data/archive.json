@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-30T08:28:05.051Z",
-  "count": 70,
+  "updatedAt": "2026-07-30T11:08:55.681Z",
+  "count": 72,
   "stories": [
+    {
+      "id": "1nvewo4",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "brief": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors. A compromised page could infect a system running a vulnerable AnySign4PC version without a prompt or",
+      "whyItMatters": "",
+      "words": 53,
+      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s1600/south-korea.jpg",
+      "published": "2026-07-30T10:33:15.000Z",
+      "capturedAt": "2026-07-30T11:08:55.681Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "04qji7e",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "brief": "It makes it easy to trick them into doing things they shouldn’t, such as telling you how to sabotage an aircraft’s navigation system. It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning , a top AI conference, this month. The claim has huge implications for the safety of this technology, which is being used in more and more applications, from government and military systems to online shopping and health care . By taking advantage of this flaw, which concerns how LLMs identify who or what is giving them instructions, the researchers were able to make popular LLMs spit out information they had been trained not to provide, such as how to synthesize cocaine and how to sabotage a commercial aircraft’s navigation system.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chain-link.jpg?resize=1200,600",
+      "published": "2026-07-30T10:15:19.000Z",
+      "capturedAt": "2026-07-30T11:08:52.570Z",
+      "tags": [
+        "Machine Learning",
+        "Model",
+        "Chatbot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0jngqi7",
       "channel": "sec",
