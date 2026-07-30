@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-07-30T11:08:55.681Z",
-  "count": 72,
+  "updatedAt": "2026-07-30T14:03:52.501Z",
+  "count": 74,
   "stories": [
+    {
+      "id": "0kpwfry",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Analog Devices Discloses Data Breach After Unauthorized System Access",
+      "brief": "S. S. CISA adds Arista VeloCloud Orchestrator and Fortinet FortiOS flaws to its Known Exploited Vulnerabilities catalog Semiconductor giant Analog Devices (ADI) disclosed a data breach following a cyberattack that resulted in unauthorized access to some of its systems on June 23. Analog Devices, Inc. (ADI) is a major semiconductor company that designs and manufactures integrated circuits (ICs) used to convert, process, and manage real-world signals in electronic systems. Unlike companies that mainly produce processors or memory chips, ADI specializes in analog and mixed-signal semiconductors, which act as the bridge between the physical world and digital systems. Analog Devices immediately activated its incident response plan, involving cybersecurity experts and law enforcement. The company confirmed that certain files were exfiltrated, but the investigation into the scope and nature of the stolen data is still ongoing.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://securityaffairs.com/196320/data-breach/analog-devices-discloses-data-breach-after-unauthorized-system-access.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/07/image-87.png",
+      "published": "2026-07-30T12:45:32.000Z",
+      "capturedAt": "2026-07-30T14:03:52.501Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "110u5ld",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+      "brief": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign Evolved , as GeForce NOW is bringing one of the gaming world’s most celebrated titles to nearly any device through the cloud, alongside eight total games joining the GeForce NOW library this week. This back-to-school season, the easiest upgrade isn’t replacing laptops in backpacks. It’s unlocking even more from these same laptops, from creating to gaming. With a GeForce NOW membership, Chromebooks, Macs and Surface devices can become GeForce RTX-powered gaming PCs in the cloud.",
+      "whyItMatters": "",
+      "words": 123,
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg",
+      "published": "2026-07-30T13:00:20.000Z",
+      "capturedAt": "2026-07-30T14:03:50.479Z",
+      "tags": [
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1nvewo4",
       "channel": "sec",
