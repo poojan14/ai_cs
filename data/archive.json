@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-30T19:27:00.128Z",
-  "count": 78,
+  "updatedAt": "2026-07-30T22:07:39.039Z",
+  "count": 80,
   "stories": [
+    {
+      "id": "0vtip4w",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+      "brief": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign. The defining aspect of the attack is that bogus macOS software update screen stealthily",
+      "whyItMatters": "",
+      "words": 59,
+      "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHbm6QCC9jjGwa-7P1N2PwhDjRvpC2hlS2hl09-DUZa5xdDeHt9qH1zISepl2ERqDzmDbdQ_zfE2vkHDsvE7G8QsetJHjzC45DpPr5-83lc1BGaLHfEwMfdYEA04d5xc7GL02_qkz1HjhIenSKBWF0FZqHnICaLn9agLEoEGnnN2n-smXxYFuQQaYNd8A/s1600/all-secure.jpg",
+      "published": "2026-07-30T18:18:24.000Z",
+      "capturedAt": "2026-07-30T22:07:39.039Z",
+      "tags": [
+        "Malware",
+        "Attack",
+        "Threat Actor"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "04n05ps",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+      "brief": "Daniela Rus, director of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Panasonic Professor of Computer Science, has received the 2026 High-Tech Prize of the Bavarian Minister-President for her contributions to robotics, artificial intelligence, and autonomous systems. Awarded jointly by the Bavarian State Government and the Bavarian Academy of Sciences and Humanities, it is the most highly endowed award for technology and engineering in Germany. Rus accepted the prize on July 23 at the Herkulessaal of the Munich Residence. The selection committee cited four strands of her work: self-organizing robot collectives, soft robotics, autonomous mobility, and brain-inspired artificial intelligence. Together they describe a 30-year effort to build machines that hold up outside the lab, in conditions no one scripted in advance.",
+      "whyItMatters": "",
+      "words": 123,
+      "url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-csail-daniela-rus-bavarian-award-00.png?itok=9XnNV8-Q",
+      "published": "2026-07-30T21:00:00.000Z",
+      "capturedAt": "2026-07-30T22:07:37.795Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model",
+        "Neural"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0g0vsip",
       "channel": "sec",
