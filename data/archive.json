@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-30T16:27:05.788Z",
-  "count": 76,
+  "updatedAt": "2026-07-30T19:27:00.128Z",
+  "count": 78,
   "stories": [
+    {
+      "id": "0g0vsip",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "brief": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user’s Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks. Pedro Falé is a threat researcher with the security firm Bitsight . Falé told KrebsOnSecurity he was able to peer inside a vast and complex ad fraud network by registering an expired domain name that was used to coordinate fake ad clicks across a particularly popular brand of these streaming devices known as H96 . An H96 TV streaming device currently advertised for sale on Amazon.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/07/h96-amazon.png",
+      "published": "2026-07-30T16:49:00.000Z",
+      "capturedAt": "2026-07-30T19:27:00.127Z",
+      "tags": [
+        "Cyber",
+        "Security",
+        "Botnet"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0u6ptmf",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "brief": "” While the previous model focused on controlling a humanoid robot’s upper body, Gemini Robotics 2 now supports “whole-body motions” ranging from its feet to fingertips, according to an announcement on Thursday . The new model will allow humanoid robots to perform a wider range of actions, as it allows them to walk, crouch, stretch, and manipulate objects. Videos shared by Google show how Apptronik’s Apollo 2 robot can bend over to pick up a watering can, as well as find and take specific items off a shelf. ”",
+      "whyItMatters": "",
+      "words": 89,
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200",
+      "published": "2026-07-30T17:18:45.000Z",
+      "capturedAt": "2026-07-30T19:26:58.356Z",
+      "tags": [
+        "Model",
+        "Gemini",
+        "Deepmind"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0wm5lue",
       "channel": "sec",
