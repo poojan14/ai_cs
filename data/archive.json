@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-31T06:14:58.996Z",
-  "count": 84,
+  "updatedAt": "2026-07-31T11:29:54.988Z",
+  "count": 86,
   "stories": [
+    {
+      "id": "07mufy5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "SilverFox Targets Japanese Manufacturer With Advanced ValleyRAT Campaign",
+      "brief": "S. S. CISA adds Arista VeloCloud Orchestrator and Fortinet FortiOS flaws to its Known Exploited Vulnerabilities catalog Cato CTRL documented a new SilverFox campaign targeting a Japanese industrial manufacturer. The attack chain adds two previously undocumented DLL-sideloading hosts, two kernel drivers not previously associated with SilverFox, and a dual-layer recovery architecture that keeps ValleyRAT running even if defenders terminate individual components. The attack chain starts with an invoice-themed phishing email. The last stage was remote access via ValleyRAT. Everything in between is the interesting part. “The attack begins with an invoice-themed phishing lure and uses attacker-controlled content hosted through legitimate QQ and Tencent Cloud services. ” reads the report published by Cato. ”",
+      "whyItMatters": "",
+      "words": 113,
+      "url": "https://securityaffairs.com/196347/apt/silverfox-targets-japanese-manufacturer-with-advanced-valleyrat-campaign.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/07/image-89.png?resize=1024%2C625&ssl=1",
+      "published": "2026-07-31T07:18:06.000Z",
+      "capturedAt": "2026-07-31T11:29:54.988Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "05dy4yz",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "After OpenAI, Anthropic finds Claude breached three organizations during cyber tests - csoonline.com",
+      "brief": "com",
+      "whyItMatters": "",
+      "words": 1,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFZscFlEcmVYc2RCN1k3R3VYMXFQejRNSTU0WTVzb2ctTWxvWk1Xd0JIOUUzeTBPNHhIcmxGNTFSVVBCZE9ab2I1TEprYUR0c3JEcTliNHBlVFk0S3B2S3QzcjEzaS0zSUxaanRsZ19ud0lub2ljdXZKaTEtWXh6R1RaQ3VxWlAxMHF1OExoUVlndGNtUkRRMmwyT2M0NC1nb1BDdlpuYUhPTkM0dkpBU012RldPZjdTYUlaTnFiemVKZFowZFJTVUVB",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-07-31T08:55:13.000Z",
+      "capturedAt": "2026-07-31T11:29:53.289Z",
+      "tags": [
+        "Openai",
+        "Anthropic",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1gsykjt",
       "channel": "sec",
