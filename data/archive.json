@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-07-31T16:46:24.683Z",
-  "count": 90,
+  "updatedAt": "2026-07-31T19:26:52.807Z",
+  "count": 92,
   "stories": [
+    {
+      "id": "0xhag6s",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "brief": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across several sectors, such as healthcare, research, government offices,",
+      "whyItMatters": "",
+      "words": 50,
+      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBagWdesuJqVgNAHPh7t75IGrajY_oJeL9HHI7r23AK7CuLUN22-GBwDCWJWTlIutBApsdhSGproqxtR6kV_Dg04FT2zc6vZXZCQed8Kx3bD-jw-VXkYfAHlJsNgcQOcqRFW8TTh1kyN34MisnGx3ImU9vejv_oNy4jN0sPNcPM7jclq7klrMmGrnROjk/s1600/chinese-hackers.jpg",
+      "published": "2026-07-31T18:52:04.000Z",
+      "capturedAt": "2026-07-31T19:26:52.807Z",
+      "tags": [
+        "Hack",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "07yk82j",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google Earth’s AI deepfake tool only lasted one day",
+      "brief": "Letting people easily alter images with an AI prompt was a bad idea. Letting people easily alter images with an AI prompt was a bad idea. Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging ’s Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border and a bomb crater by a hospital in Gaza. ”",
+      "whyItMatters": "",
+      "words": 92,
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Pompeii_-After.png?quality=90&strip=all&crop=0%2C3.4325160264718%2C100%2C93.134967947056&w=1200",
+      "published": "2026-07-31T19:13:29.000Z",
+      "capturedAt": "2026-07-31T19:26:50.856Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1cg31nx",
       "channel": "sec",
