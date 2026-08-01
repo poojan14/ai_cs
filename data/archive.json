@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-31T22:06:28.810Z",
-  "count": 94,
+  "updatedAt": "2026-08-01T02:52:07.215Z",
+  "count": 96,
   "stories": [
+    {
+      "id": "1bnmldd",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "brief": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that",
+      "whyItMatters": "",
+      "words": 55,
+      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg",
+      "published": "2026-07-31T16:39:31.000Z",
+      "capturedAt": "2026-08-01T02:52:07.214Z",
+      "tags": [
+        "Malware",
+        "Phishing",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ic3ag7",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "brief": "Much has been made of the incident in which one of OpenAI’s agents broke out of its sandboxed test environment and proceeded to hack the AI hosting platform Hugging Face. OpenAI has since launched an investigation into how the incident occurred, which is still ongoing. Now, anonymous sources have told Reuters that more of OpenAI’s agents are believed to have escaped their sandboxes. However, one source downplayed the severity, saying that with those escapes, the agents didn’t appear to leave OpenAI’s network to hack into another company’s. TechCrunch reached out to OpenAI for more information. AI programs acting in bizarre ways has apparently become a weird, almost bragging point for companies. The same week, Anthropic also announced that it had discovered not one, but three instances in which its agents had escaped test environments and hacked other organizations.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "published": "2026-07-31T22:47:26.000Z",
+      "capturedAt": "2026-08-01T02:52:05.390Z",
+      "tags": [
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0mi61lj",
       "channel": "sec",
