@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-01T16:01:31.270Z",
-  "count": 106,
+  "updatedAt": "2026-08-01T19:09:05.271Z",
+  "count": 108,
   "stories": [
+    {
+      "id": "0jp2tpf",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "brief": "2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
+      "whyItMatters": "",
+      "words": 45,
+      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg",
+      "published": "2026-08-01T17:17:22.000Z",
+      "capturedAt": "2026-08-01T19:09:05.271Z",
+      "tags": [
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0i4a8y6",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI's Escaped Models Were Allegedly Rampaging More Extensively Than Previously Reported - Futurism",
+      "brief": "OpenAI's Escaped Models Were Allegedly Rampaging More Extensively Than Previously Reported Futurism",
+      "whyItMatters": "",
+      "words": 12,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGNZcG1mUFl5cUtaaExPYUg5WjRoSEZsWnJIT0hUSWtrdENNS0hMQlRUbnhfM05HQ0dFS3dzOVc3b3RoVHFuMjd4SDBqQ3plRjdHS2pJc0hXTzBNNXE5NHJaSE0tREJYaTdYOU9zY3JPeDN0c3F6MFA1M0loSmZCS1ZEWm5KTDI4QzlFb2xYT3Jvdw",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-01T18:01:00.000Z",
+      "capturedAt": "2026-08-01T19:09:04.142Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1u6f238",
       "channel": "sec",
