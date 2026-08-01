@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-01T10:41:14.500Z",
-  "count": 102,
+  "updatedAt": "2026-08-01T13:22:45.053Z",
+  "count": 104,
   "stories": [
+    {
+      "id": "112dkuf",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "brief": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities. Anyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,",
+      "whyItMatters": "",
+      "words": 58,
+      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg",
+      "published": "2026-08-01T09:03:07.000Z",
+      "capturedAt": "2026-08-01T13:22:45.053Z",
+      "tags": [
+        "Hack",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0yyxfbd",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "It’s time to panic about AI safety",
+      "brief": "On The Vergecast: Why everyone’s worried about powerful AI, and why it seems nobody will stop it. Plus, what’s a computer? On The Vergecast: Why everyone’s worried about powerful AI, and why it seems nobody will stop it. Plus, what’s a computer? When the phrase “OpenAI hacked Hugging Face” has more or less entered mainstream culture, you know we have an AI problem . This week, we learned more about exactly how OpenAI’s agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of cheating on a benchmark tests.",
+      "whyItMatters": "",
+      "words": 103,
+      "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-07-31T14:03:04.000Z",
+      "capturedAt": "2026-08-01T13:22:43.321Z",
+      "tags": [
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0c5xouk",
       "channel": "sec",
