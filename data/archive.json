@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-01T08:24:30.600Z",
-  "count": 100,
+  "updatedAt": "2026-08-01T10:41:14.500Z",
+  "count": 102,
   "stories": [
+    {
+      "id": "0c5xouk",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
+      "brief": "The federal cybersecurity agency is reporting a “significant increase” in malicious activity aimed at water utilities, as investigators are reportedly trying to determine whether recent incidents in Minnesota might be the work of Iran-linked hackers. ” PLCs — programmable logic controllers — are at the core of processes in multiple industries. Multiple news outlets reported that state and federal investigators were working to determine whether disruptions to water systems in Minnesota earlier this month were connected to Iran. Wired magazine reported that a memo from the WaterISAC, the industry’s cybersecurity information-sharing body, said the attacks were tied to Iran. Minnesota’s state IT agency said earlier this week that “more than 30 Minnesota community water systems” were affected by a coordinated cyberattack beginning July 26. The threat actor is “targeting water entities of all sizes,” CISA said.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/water_utility_pexels_r9media_44309d2e1e.jpg",
+      "published": "2026-07-31T17:47:00.000Z",
+      "capturedAt": "2026-08-01T10:41:14.500Z",
+      "tags": [
+        "Cyber",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1sshtrn",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Why did OpenAI's and Anthropic's AI models hack other companies? - Georgia Public Broadcasting",
+      "brief": "Why did OpenAI's and Anthropic's AI models hack other companies? Georgia Public Broadcasting",
+      "whyItMatters": "",
+      "words": 13,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWllbVhsX3RubXBHYUZEMUU5MjUyOG1JcGUwUzVRYXpYV3NHNWF1NWxLVVVoNzZNc093c1dQbE11dktmQkoyX0tmWXJaNkdMVlJtZzEtRDl5ZXBmd1A0Qkd2MkRzakhfX19UUW10Ti14QTA4WXpfdHdHTXFrUXVhWWItellySjE1WmRmS2p3RjFrNjZrXzFVQ3RraW8zUQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-01T09:00:41.000Z",
+      "capturedAt": "2026-08-01T10:41:12.588Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1uevmkx",
       "channel": "sec",
