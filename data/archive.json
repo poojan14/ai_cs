@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-01T02:52:07.215Z",
-  "count": 96,
+  "updatedAt": "2026-08-01T05:55:52.274Z",
+  "count": 98,
   "stories": [
+    {
+      "id": "12xpsiy",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "South Korea Warns of State-Backed Watering Hole Attacks",
+      "brief": "S. CISA adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog South Korea agencies (The National Intelligence Service, the National Police Agency, the Korea Internet & Security Agency, and the Financial Security Institute) jointly published an advisory warning that a state-backed hacking group is actively targeting South Korean citizens and businesses. The warning names two attack techniques: phishing emails and watering hole attacks, and it doesn’t sugarcoat how little a victim has to do wrong. The phishing side runs on two tricks. In one version, attackers disguise themselves as job applicants and send a resume email with a link instead of an attachment, pointing to a blog or GitHub page the attacker controls.",
+      "whyItMatters": "",
+      "words": 119,
+      "url": "https://securityaffairs.com/196417/apt/south-korea-warns-of-state-backed-watering-hole-attacks.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2015/10/south-korea-malware.jpg",
+      "published": "2026-07-31T21:25:30.000Z",
+      "capturedAt": "2026-08-01T05:55:52.274Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1enrkwh",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI degree sees first full enrollment surge at UK as demand for tech careers grows - LEX 18 News",
+      "brief": "AI degree sees first full enrollment surge at UK as demand for tech careers grows LEX 18 News",
+      "whyItMatters": "",
+      "words": 18,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXAtNmVpRUlTdDhOUnk0djRMRjV4RHFCVGN4RUdGa3BQODRZZkFlS1hzMkJKZjQxYW42cFFVU3ZWd1FjMFBXM2IwZmZCV2dkOTRJeDlxWUdVaEN5UFlXbGZsZFJmWDJkVnlkWjVLVGlneFk4SnpfZkZmbmJ0eWxpcVlGNVNodFhXMnZNMUQ1UTd0enN3ZUdHMTlLdXA3SUp3THFlSlAwOFRIcVVxc3JiMTZkdnJFd1B5WG1CSVNkYnpwa2RQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-01T04:54:27.000Z",
+      "capturedAt": "2026-08-01T05:55:50.423Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1bnmldd",
       "channel": "sec",
