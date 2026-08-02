@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-02T13:22:40.372Z",
-  "count": 118,
+  "updatedAt": "2026-08-02T16:01:39.077Z",
+  "count": 120,
   "stories": [
+    {
+      "id": "1nmyy2f",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+      "brief": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. BleepingComputer spotted the protection in a chain of work-in-progress Chromium Gerrit changes. It has not shipped yet, but Google plans to enable it by default once the changes are approved. \"In low-trust environments (unmanaged consumer devices), enterprise policy force-installs and recommendations are abused to lock in search engine or new tab page hijackers,\" Anunoy Ghosh, who works at Google, wrote in a post. \" Right now, Chrome allows organizations to use enterprise policies to force-install extensions and control browser settings. It's not exactly bad on properly managed work devices connected to a domain or mobile device management system, but malware has been abusing the same feature on regular consumer PCs.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/29/Google-Chrome.jpg",
+      "published": "2026-08-02T14:17:16.000Z",
+      "capturedAt": "2026-08-02T16:01:39.077Z",
+      "tags": [
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0jqybw1",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Cyber Stocks Jump as CrowdStrike, Palo Alto Networks Ride AI Agent Hack Fears - Benzinga",
+      "brief": "Cyber Stocks Jump as CrowdStrike, Palo Alto Networks Ride AI Agent Hack Fears Benzinga",
+      "whyItMatters": "",
+      "words": 14,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTV3R3Q2YkVCWFZqcEJtWWxMWjBlZldJZUtKMExlRWpMQVp3T0lINEZ3NndFbnNPeDF5NEpjMUdsbGwtUGtqZFRBYzJHSVRQZkI2NE9mNjN5RXoxNnZldWdkei12RFhnWHNKYjhpeHl6SzduaGxMUDhTRTUwWm1lZTJ4MngwNlhYaWszSGJMT3RGYl9qVzU1NE9lXzBxT0hnVFFTdjJQV0pGbEhYbDdMNWFtamFubVpvcjNWSzcyd180QU91Z1RKc2NXM05MQQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-02T15:30:27.000Z",
+      "capturedAt": "2026-08-02T16:01:36.991Z",
+      "tags": [
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0nl44vs",
       "channel": "sec",
