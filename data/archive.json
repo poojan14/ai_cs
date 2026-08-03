@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-03T19:38:33.243Z",
-  "count": 134,
+  "updatedAt": "2026-08-03T22:09:42.987Z",
+  "count": 136,
   "stories": [
+    {
+      "id": "02umdp9",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
+      "brief": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
+      "whyItMatters": "",
+      "words": 17,
+      "url": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38063499658fdf3d/6a70e89e220415e290089159/N_able_Ontario_Office-JHVEPhoto-GettyImages-2153902736.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-08-03T21:21:11.000Z",
+      "capturedAt": "2026-08-03T22:09:42.987Z",
+      "tags": [
+        "Exploit",
+        "Patch",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1mq03v9",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
+      "brief": "Alexander “Sasha” Rakhlin PhD ’06, the Distinguished Professor in Data, Systems, and Society at the MIT Institute for Data, Systems, and Society (IDSS); and a professor of brain and cognitive sciences at MIT, has been named the next director of the MIT Statistics and Data Science Center (SDSC). Rakhlin succeeds Ankur Moitra, the Norbert Wiener Professor of Mathematics, associate director of the IDSS, and a faculty member in the MIT Department of Electrical Engineering and Computer Science (EECS) who has been SDSC director since 2021. Philippe Rigollet, the Cecil and Ida Green Distinguished Professor of Mathematics and a core faculty member in IDSS, also served as interim director in 2024-25.",
+      "whyItMatters": "",
+      "words": 110,
+      "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/sasha-rakhlin-mit-A1.jpg?itok=E-0MgF5E",
+      "published": "2026-08-03T19:50:00.000Z",
+      "capturedAt": "2026-08-03T22:09:41.658Z",
+      "tags": [
+        "Machine Learning"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0xfx19s",
       "channel": "sec",
