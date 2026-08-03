@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-03T17:09:29.626Z",
-  "count": 132,
+  "updatedAt": "2026-08-03T19:38:33.243Z",
+  "count": 134,
   "stories": [
+    {
+      "id": "0xfx19s",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "brief": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
+      "whyItMatters": "",
+      "words": 59,
+      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg",
+      "published": "2026-08-03T16:15:13.000Z",
+      "capturedAt": "2026-08-03T19:38:33.243Z",
+      "tags": [
+        "Ransomware",
+        "Exploit",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "08u0wku",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "brief": "The FTC has banned foreign-made humanoids, making a fragile, nascent sector part of America’s AI industrial policy. Humanoid robots usually elicit more cringe than awe: They stumble , kick children , and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes. It was a surprise, then, when last week the Federal Trade Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots. The decision, made by an increasingly partisan and Trump-aligned FTC, cites two reasons. One is that foreign-made humanoids will collect so much data—in homes but also potentially at sensitive facilities—that they’d pose a threat to national security. The second is that US robotics companies need protection from Chinese competition to create a more robust and secure domestic supply chain.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
+      "published": "2026-08-03T18:43:30.000Z",
+      "capturedAt": "2026-08-03T19:38:31.967Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "17l1q3c",
       "channel": "sec",
