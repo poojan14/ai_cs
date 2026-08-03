@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-03T06:24:31.672Z",
-  "count": 128,
+  "updatedAt": "2026-08-03T12:24:55.107Z",
+  "count": 130,
   "stories": [
+    {
+      "id": "05p5vjl",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+      "brief": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit toolkit. \"",
+      "whyItMatters": "",
+      "words": 63,
+      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg",
+      "published": "2026-08-03T10:49:06.000Z",
+      "capturedAt": "2026-08-03T12:24:55.107Z",
+      "tags": [
+        "Exploit",
+        "Attack",
+        "Leak"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1up06jy",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "brief": "The misbehavior is called reward hacking. This is what you need to know. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to a postmortem from OpenAI , the models, which had been stripped of their typical security features for testing, decided to solve a cybersecurity exercise by hacking out of the isolated environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored. The Hugging Face incident has attracted intense attention over the past couple of weeks. It’s a dramatic illustration of just how good AI models have gotten at hacking: In order to get into Hugging Face’s databases, the models had to string together several previously undiscovered cybersecurity exploits.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
+      "published": "2026-08-03T08:30:05.000Z",
+      "capturedAt": "2026-08-03T12:24:53.539Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1pk8s5c",
       "channel": "sec",
