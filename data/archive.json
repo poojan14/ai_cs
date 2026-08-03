@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-03T02:52:17.454Z",
-  "count": 126,
+  "updatedAt": "2026-08-03T06:24:31.672Z",
+  "count": 128,
   "stories": [
+    {
+      "id": "1pk8s5c",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Ruby on Rails Patches Critical Active Storage Vulnerability Affecting Image Processing",
+      "brief": "S. 5) that could allow unauthenticated attackers to read arbitrary files from vulnerable servers. In the default configuration, applications that generate image variants may expose sensitive data, including environment variables, potentially enabling remote code execution or lateral movement. ” reads the advisory . ” Organizations should apply the security updates immediately. The vulnerability affects Ruby on Rails applications using Active Storage with the libvips image processor. libvips relies on several third-party libraries to handle various file formats, including some operations that are marked as unsafe for untrusted files. Because Active Storage did not block these operations, attackers could upload specially crafted images and potentially trigger unintended processing.",
+      "whyItMatters": "",
+      "words": 107,
+      "url": "https://securityaffairs.com/196486/security/ruby-on-rails-patches-critical-active-storage-vulnerability-affecting-image-processing.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2013/11/ruby-on-rails-flaw.jpg",
+      "published": "2026-08-03T06:22:23.000Z",
+      "capturedAt": "2026-08-03T06:24:31.672Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "18sajzv",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI says its new ‘Astra’ AI model made breakthroughs in 10 math problems - The Indian Express",
+      "brief": "OpenAI says its new ‘Astra’ AI model made breakthroughs in 10 math problems The Indian Express",
+      "whyItMatters": "",
+      "words": 16,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZFFjUmtONlZoQncxbE51ck1EWk5qR08zU1JBMS1OanhiXzRCYTBLOHFTYTBfZVBHN3NKTGdkNTY5Qkx3QXdGUzF4YTdFblBQRlE0Zmloa3BEXzN1aVZpXzJlQS1ZQUw5aERpNjJ0QzljUHVFQlBRRGRTdFRuYV9rVE5HdjlVUXg0cVlodmtNclNsYS03NjBRZnZCSjR5czZ0Y2ZxSVNhaTlBZ09reldJRm4zT1Z6ZkU2OGJMM0lteDlqU1piSUZB0gHOAUFVX3lxTE1SRllselNCWVRmaS1ZcllvWUZJbnhNeUZNRFJhSDdZMUZXYWYzYUg0bmV6YVJUb1MtYnQ0ZU95TEpkaUZad3Q4OHp0bDBnejQ3X3A4ZExyMDV3d1Uza3hfVENGZGdwREVyU1Brc0JMWEw1QmkzallvMnN0YUlBMEphUEU0UlJCcjBBY2w0YW1Zb1YzX0pwQVFfZ2lUVXhOc3BBT2dTa0ZyUEpFTzZ3eUNQVkkwRlhadGc3c09RS1RwRUFiOHhURHdoOTN0UTZB",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-03T05:51:43.000Z",
+      "capturedAt": "2026-08-03T06:24:29.854Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1m44cal",
       "channel": "sec",
