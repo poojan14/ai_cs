@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-04T19:38:39.045Z",
-  "count": 150,
+  "updatedAt": "2026-08-04T22:12:57.043Z",
+  "count": 152,
   "stories": [
+    {
+      "id": "1034afx",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "brief": "0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts. \"Greatness supports AiTM [adversary-in-the-middle] credential and",
+      "whyItMatters": "",
+      "words": 21,
+      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YRyOCSodUbPpWMicgOiuGbEQWDBmu_W-47PAUFkS7yKEQe4Do6svH4cQb-U0tC53C9mqq8ijjlG9gwuzyqYfNwtS61WxvNxIgk1dVC7wX598rncb_MgQ5t4yxc8NUYVdb6PT5cu7ZXJ7w3KaYG_7vtU5xixHel1jSADbtR-GC1bmngZPArXw-NjkTH1x/s1600/Greatness.jpg",
+      "published": "2026-08-04T17:27:39.000Z",
+      "capturedAt": "2026-08-04T22:12:57.043Z",
+      "tags": [
+        "Phishing",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1thc2di",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Solving the solvent problem",
+      "brief": "Lithium-ion batteries are the leading choice in today’s electric vehicle and battery energy storage system industries, but they contain a number of critical minerals — including lithium, cobalt, nickel, and graphite — that are considered essential for economic and national security reasons, and therefore vulnerable to supply chain disruptions. As renewable energy, electrified infrastructure, and high-power digital technologies continue to grow, there is an increasing need for energy storage systems that are low-cost, resource-abundant, and capable of fast charging and discharging. That need, among other reasons, has motivated a group of researchers — based at MIT and led by Ju Li, the Carl Richard Soderberg Professor of Power Engineering in the departments of Nuclear Science and Engineering (NSE) and Materials Science and Engineering — to develop complementary energy storage solutions. The team is looking, in particular, at sodium-metal batteries, which offer several attractive features.",
+      "whyItMatters": "",
+      "words": 144,
+      "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-nse-solvent-problem.jpg?itok=rXwEm3ti",
+      "published": "2026-08-04T18:50:00.000Z",
+      "capturedAt": "2026-08-04T22:12:55.324Z",
+      "tags": [
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "09dub28",
       "channel": "sec",
