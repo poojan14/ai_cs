@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-03T22:09:42.987Z",
-  "count": 136,
+  "updatedAt": "2026-08-04T02:36:18.219Z",
+  "count": 138,
   "stories": [
+    {
+      "id": "059kd2w",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "brief": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
+      "whyItMatters": "",
+      "words": 58,
+      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg",
+      "published": "2026-08-03T18:43:53.000Z",
+      "capturedAt": "2026-08-04T02:36:18.219Z",
+      "tags": [
+        "Cyber",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1acbg73",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "brief": "Tech companies could face fines if they don’t meet new requirements for AI transparency. Tech companies could face fines if they don’t meet new requirements for AI transparency. The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc’s landmark AI Act came into effect on August 2nd , requiring companies to disclose when people are interacting with AI models, and if content has been generated or altered by them. The transparency rules differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.",
+      "whyItMatters": "",
+      "words": 124,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-03T17:38:45.000Z",
+      "capturedAt": "2026-08-04T02:36:16.902Z",
+      "tags": [
+        "Model",
+        "Chatbot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "02umdp9",
       "channel": "sec",
