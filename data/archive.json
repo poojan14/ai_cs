@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-04T02:36:18.219Z",
-  "count": 138,
+  "updatedAt": "2026-08-04T05:48:00.054Z",
+  "count": 140,
   "stories": [
+    {
+      "id": "18h8vds",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+      "brief": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. The activity was previously disclosed in a report from cybersecurity company ReliaQuest, which detailed how the attacker changed DNS settings on Wi-Fi devices to steal Microsoft 365 accounts. Besides attributing the campaign to Russian hackers tracked as Storm-2945 - a sub-cluster of Midnight Blizzard, Microsoft identified two malware families called CornFlake and ChocoShell with capabilities for persistent access, credential theft, surveillance, and data exfiltration. Microsoft named the campaign CaptiveCrunch and believes it has been active since at least early May, although the threat actor has been running device and OAuth code phishing operations since February. The attackers manipulate DNS and HTTP traffic on networks served by captive portal equipment, allowing them to intercept user connections to hotel and conference center Wi-Fi networks.",
+      "whyItMatters": "",
+      "words": 143,
+      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/03/hotel.jpg",
+      "published": "2026-08-04T00:17:15.000Z",
+      "capturedAt": "2026-08-04T05:48:00.054Z",
+      "tags": [
+        "Breach",
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1raw4g0",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Naver to establish wholly-owned operator of Nvidia-Brookfield-backed AI factories - KED Global",
+      "brief": "Naver to establish wholly-owned operator of Nvidia-Brookfield-backed AI factories KED Global",
+      "whyItMatters": "",
+      "words": 11,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hdEpPUk5lQWwxTWFYQXBNMnJ4RkswejZ1NkhwaG51VllQdkp4RjhTd2hnTWNZdjZ5RFFzMzgtQUVrMWhEZjVieUFvaXhrbWkxcjJVYkc1NUZ0UzFwYmxqZGk3R1NydEhwTXZ6eXlKanVZZDJMTWxKaWlTWjNJV0U",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-04T04:38:48.000Z",
+      "capturedAt": "2026-08-04T05:47:57.940Z",
+      "tags": [
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "059kd2w",
       "channel": "sec",
