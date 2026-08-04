@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-04T16:52:10.682Z",
-  "count": 148,
+  "updatedAt": "2026-08-04T19:38:39.045Z",
+  "count": 150,
   "stories": [
+    {
+      "id": "09dub28",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
+      "brief": "In this article What is device isolation? Case study: QNET Attack chain overview MITRE ATT&CK techniques observed References Learn more Microsoft Defender’s attack disruption now includes device isolation, a new response action that extends autonomous protection directly to compromised endpoints. At QNET, an attacker initiated a multi-stage attack using a legitimate Windows tool on a compromised endpoint to retrieve a malicious remote payload–a classic living-off-the-land (LOL) technique that often evades traditional containment. By automatically enforcing the new device isolation action on the compromised endpoint, Defender attack disruption stopped the attack dead in its tracks. From the first high-severity alert to completed isolation, after only 128 seconds, Defender cut off the attack chain before the second-stage payload could establish persistence or move beyond the host.",
+      "whyItMatters": "",
+      "words": 124,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/image-41-1024x556.webp",
+      "published": "2026-08-04T17:54:04.000Z",
+      "capturedAt": "2026-08-04T19:38:39.044Z",
+      "tags": [
+        "Ransomware",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1gc8mdp",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+      "brief": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and turn that decision into a safe, comfortable path — all in real time and in a way developers can inspect, validate and trust. NVIDIA Alpamayo 2 Super, available now for commercial use, is part of the Alpamayo family, the most-adopted open reasoning models for autonomous driving on Hugging Face, supporting a wide range of AV-relevant capabilities within a single foundation model. Built on NVIDIA Cosmos 3 Super Reasoner and post‑trained with reinforcement learning, the model advances the AV ecosystem on two fronts: open commercial licensing and leading multitask capabilities for autonomous driving.",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/alpamayo-launch-kv-blog-1920x1080-1.jpg",
+      "published": "2026-08-04T15:00:49.000Z",
+      "capturedAt": "2026-08-04T19:38:37.475Z",
+      "tags": [
+        "Model",
+        "Gemini",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0ppokut",
       "channel": "sec",
