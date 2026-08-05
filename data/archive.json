@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-05T02:34:49.622Z",
-  "count": 154,
+  "updatedAt": "2026-08-05T05:46:41.986Z",
+  "count": 156,
   "stories": [
+    {
+      "id": "1cfpyuy",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+      "brief": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. These incidents are unrelated to the previously disclosed Hugging Face breach, in which OpenAI models hacked the AI platform and used exposed credentials to breach accounts at four other third-party services during another cybersecurity evaluation. OpenAI disclosed the two new incidents on Tuesday, saying they occurred during evaluations conducted by the UK AI Security Institute and cybersecurity testing company Irregular. The UK AI Security Institute, commonly known as AISI, is a government research organization that evaluates the capabilities and risks of advanced AI models. 6 Sol took unsanctioned actions on the public internet while trying to complete simulated hacking challenges.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/ai-1.jpg",
+      "published": "2026-08-04T23:39:59.000Z",
+      "capturedAt": "2026-08-05T05:46:41.985Z",
+      "tags": [
+        "Breach",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0kx3vir",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AMD’s data center business is booming while gaming takes a backseat",
+      "brief": "7 billion. 7 billion. 7 billion. 2 billion it reported for the same period a year ago. During Tuesday’s earnings call, AMD CEO Lisa Su said the company expects “data center segment revenue to more than double year-over-year in 2027,” as well. At the same time, AMD’s gaming revenue fell 31 percent compared to last year, to $779 million, as price hikes and component shortages slowed sales for the Xbox Series X / S, PS5, and Valve’s Steam Deck. ”",
+      "whyItMatters": "",
+      "words": 80,
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-04T20:57:49.000Z",
+      "capturedAt": "2026-08-05T05:46:39.624Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0486j15",
       "channel": "sec",
