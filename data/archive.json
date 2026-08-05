@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-04T22:12:57.043Z",
-  "count": 152,
+  "updatedAt": "2026-08-05T02:34:49.622Z",
+  "count": 154,
   "stories": [
+    {
+      "id": "0486j15",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
+      "brief": "In this article Attack chain overview Mitigation and protection guidance Indicators of compromise (IOC) Microsoft Defender XDR detections Advanced hunting queries Learn more Microsoft Threat Intelligence identified a large-scale npm supply chain attack affecting more than 400 packages across multiple unrelated publishers, including packages associated with major enterprise software ecosystems such as keyv, flat-cache, cache-manager, and others. The malicious releases contain a Mini Shai-Hulud variant, a self-propagating credential-stealing worm delivered through a large, heavily obfuscated Bun-based JavaScript payload. The malware typically executes automatically through an npm preinstall lifecycle hook before package installation completes. Once executed, the malware searches developer workstations and continuous integration and continuous delivery (CI/CD) environments for npm, GitHub, cloud, and infrastructure credentials. It uses recovered identities to authenticate to npm, GitHub, Amazon Web Services (AWS), Kubernetes, and HashiCorp Vault, enabling it to enumerate packages, repositories, workflow secrets, cloud parameters, and secret-store values.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/image.webp",
+      "published": "2026-08-04T23:46:41.000Z",
+      "capturedAt": "2026-08-05T02:34:49.622Z",
+      "tags": [
+        "Malware",
+        "Vulnerability",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "16uzrcl",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+      "brief": "S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups of colleges and universities working together to strengthen America’s AI ecosystem. In partnership with private industry, philanthropic organizations and state and local governments, the program will expand the AI infrastructure, software, educational resources and technical support needed by faculty, students and researchers across the country. These regional hubs will help institutions share AI computing resources, accelerate scientific discovery and innovation, and prepare students to participate in the AI economy. The State and Regional AI Infrastructure Hubs program will bring shared resources closer to the institutions and communities they serve.",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/regionalhubnsf.webp",
+      "published": "2026-08-04T16:00:56.000Z",
+      "capturedAt": "2026-08-05T02:34:47.682Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1034afx",
       "channel": "sec",
