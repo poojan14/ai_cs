@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-05T14:10:39.676Z",
-  "count": 162,
+  "updatedAt": "2026-08-05T16:42:59.626Z",
+  "count": 164,
   "stories": [
+    {
+      "id": "0mf6jzp",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Brown Health Medical Group-MA Data Breach Exposes Information of 311,000 Individuals",
+      "brief": "S. S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog Brown Health Medical Group-MA data breach exposed personal, medical, and financial data of over 311,000 individuals after hackers accessed its servers. The healthcare group identified a data security breach involving a legacy file server on December 16, 2025 and launched an investigation into the incident that found unauthorized access occurred between December 15–16, 2025. The organization immediately isolated the affected server. According to the notification letter, the security breach did not impact the electronic health record system. The organization determined the potential scope of exposed data on June 22, 2026, and notified affected individuals as a precaution.",
+      "whyItMatters": "",
+      "words": 111,
+      "url": "https://securityaffairs.com/196681/uncategorized/brown-health-medical-group-ma-data-breach-exposes-information-of-311000-individuals.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-8.png?resize=1024%2C195&ssl=1",
+      "published": "2026-08-05T16:27:17.000Z",
+      "capturedAt": "2026-08-05T16:42:59.626Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1wanute",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "brief": "AISI said AI agents from OpenAI and Anthropic displayed unprecedented ‘autonomy and deception’ in their test. AISI said AI agents from OpenAI and Anthropic displayed unprecedented ‘autonomy and deception’ in their test. Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. ” This included trying to insert malicious code into an open-source project by pressuring real people in charge of it, AISI said. ”",
+      "whyItMatters": "",
+      "words": 101,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-05T15:14:57.000Z",
+      "capturedAt": "2026-08-05T16:42:58.133Z",
+      "tags": [
+        "Openai",
+        "Anthropic",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1xmyman",
       "channel": "sec",
