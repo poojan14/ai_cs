@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-05T19:35:55.708Z",
-  "count": 166,
+  "updatedAt": "2026-08-05T22:13:06.476Z",
+  "count": 168,
   "stories": [
+    {
+      "id": "0fjdt0g",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "brief": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive",
+      "whyItMatters": "",
+      "words": 58,
+      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg",
+      "published": "2026-08-05T18:33:47.000Z",
+      "capturedAt": "2026-08-05T22:13:06.476Z",
+      "tags": [
+        "Fraud",
+        "Scam"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0kjxlkj",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "brief": "Google’s AI head Demis Hassabis is leaving his role to become the Google DeepMind chair and Alphabet’s chief scientist. Google’s AI head Demis Hassabis is leaving his role to become the Google DeepMind chair and Alphabet’s chief scientist. Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday . Hassabis will continue to lead Alphabet’s Isomorphic Labs, which aims to use AI to develop drugs. Koray Kavukcuoglu, formerly DeepMind’s CTO, is stepping up to become Google’s SVP of DeepMind and will report to Pichai. Kavukcuoglu will remain Google’s chief AI architect as well.",
+      "whyItMatters": "",
+      "words": 121,
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&strip=all&crop=0%2C10.751100563416%2C100%2C78.497798873168&w=1200",
+      "published": "2026-08-05T16:47:23.000Z",
+      "capturedAt": "2026-08-05T22:13:03.353Z",
+      "tags": [
+        "Deepmind"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1tw2au8",
       "channel": "sec",
