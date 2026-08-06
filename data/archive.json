@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-06T02:37:26.988Z",
-  "count": 170,
+  "updatedAt": "2026-08-06T05:49:26.259Z",
+  "count": 172,
   "stories": [
+    {
+      "id": "01k2361",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Snowflake Hacker Pleads Guilty After Breaching 165 Companies and Stealing Billions of Records",
+      "brief": "S. S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog Connor Riley Moucka , 26, of Kitchener, Ontario, pleaded guilty this week to a computer hacking conspiracy that compromised over 165 organizations, stole billions of customer records, and extorted multiple victims for millions of dollars. ” states DoJ . -based software-as-a-service company” at the center of the scheme is Snowflake , the cloud data platform, though the DOJ press release doesn’t name it directly. Moucka was arrested just six months after the breaches began, which is either impressive law enforcement work or a sign that he wasn’t as careful as he thought.",
+      "whyItMatters": "",
+      "words": 106,
+      "url": "https://securityaffairs.com/196714/security/snowflake-hacker-pleads-guilty-after-breaching-165-companies-and-stealing-billions-of-records.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
+      "published": "2026-08-06T05:39:46.000Z",
+      "capturedAt": "2026-08-06T05:49:26.259Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "12fkxy0",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+      "brief": "Suggested Grokipedia edits haven’t been addressed since April, according to a report. Suggested Grokipedia edits haven’t been addressed since April, according to a report. xAI’s Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a “massive improvement” over Wikipedia, apparently hasn’t been updated since April 24th, according to a report from Lawfare . “As far as we can tell, no entry has changed in more than three months,” Lawfare said. com/live . ”",
+      "whyItMatters": "",
+      "words": 78,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-06T00:25:10.000Z",
+      "capturedAt": "2026-08-06T05:49:24.245Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "183q4qo",
       "channel": "sec",
