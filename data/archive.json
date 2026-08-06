@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-06T05:49:26.259Z",
-  "count": 172,
+  "updatedAt": "2026-08-06T08:37:12.126Z",
+  "count": 174,
   "stories": [
+    {
+      "id": "0vtzhwd",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA). 8), a case of deserialization of untrusted data that could allow an unauthenticated attacker with access to a TeamCity server",
+      "whyItMatters": "",
+      "words": 27,
+      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg",
+      "published": "2026-08-06T06:51:43.000Z",
+      "capturedAt": "2026-08-06T08:37:12.126Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0pi4oda",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "UK AI brand rankings 2026: ChatGPT leads, but Gemini shows momentum - YouGov",
+      "brief": "UK AI brand rankings 2026: ChatGPT leads, but Gemini shows momentum YouGov",
+      "whyItMatters": "",
+      "words": 12,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNSUFlRUpXV19ob0hsX281bDZHT2NLb0RTWmZISDgyUGdoS21BUjdlQ0psOXB0TlJfX08wMGtnRzZQbnU1R29KWGZBaGNadVk5ZVpSRVg3N1F1dXJQdy01U2EySVZoUC10bW5TUDNVUTRsOUQzQ1VxeWtiVzI",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-06T08:28:52.000Z",
+      "capturedAt": "2026-08-06T08:37:10.698Z",
+      "tags": [
+        "Gemini"
+      ],
+      "rewritten": false
+    },
     {
       "id": "01k2361",
       "channel": "sec",
