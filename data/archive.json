@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-06T11:23:41.237Z",
-  "count": 176,
+  "updatedAt": "2026-08-06T14:11:23.183Z",
+  "count": 178,
   "stories": [
+    {
+      "id": "095ujdk",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+      "brief": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links. We observed production websites embedding hidden prompt injection payloads inside \"Ask AI\" buttons on marketing and competitor comparison pages. When a user",
+      "whyItMatters": "",
+      "words": 59,
+      "url": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg",
+      "published": "2026-08-06T11:30:00.000Z",
+      "capturedAt": "2026-08-06T14:11:23.183Z",
+      "tags": [
+        "Malware",
+        "Exploit",
+        "Zero-Day"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1sbxymv",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "brief": "Editor’s note: This post is part of Into the Omniverse , a series focused on how developers, 3D practitioners and enterprises can transform their workflows using the latest advancements in OpenUSD and NVIDIA Omniverse . In July, NVIDIA joined more than 200 companies and organizations in signing “ Open Weights and American AI Leadership ,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector. Open models , which anyone can download, inspect, modify and run on their own infrastructure, are what make that possible. Nowhere is that more crucial than in physical AI , where every deployment is a specialization problem. Physical AI has to understand and predict consequences, not just appearances. To make this possible, w orld models learn how physical environments behave, what may happen next and which following actions make sense.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg",
+      "published": "2026-08-06T13:00:00.000Z",
+      "capturedAt": "2026-08-06T14:11:22.120Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0dim4b6",
       "channel": "sec",
