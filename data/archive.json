@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-07T00:02:14.280Z",
-  "count": 180,
+  "updatedAt": "2026-08-07T04:55:02.479Z",
+  "count": 182,
   "stories": [
+    {
+      "id": "1d7kl7v",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Ransom Cartel Leader Sentenced to 16 Years in U.S.",
+      "brief": "S. S. S. P. Morgan,” “lansky,” and “xxx,”) built a ransomware business the way a franchise owner builds a chain: he never had to touch most of the crime scenes himself. This week, a federal judge in Virginia handed the 40-year-old Belarusian 16 years in prison for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. ” reads the press release published by DoJ. ”",
+      "whyItMatters": "",
+      "words": 69,
+      "url": "https://securityaffairs.com/196746/cyber-crime/ransom-cartel-leader-sentenced-to-16-years-in-u-s.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2024/08/image-41.png?resize=1024%2C546&ssl=1",
+      "published": "2026-08-06T15:25:21.000Z",
+      "capturedAt": "2026-08-07T04:55:02.479Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1l3q4hz",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year - The Motley Fool",
+      "brief": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year The Motley Fool",
+      "whyItMatters": "",
+      "words": 19,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkpGNjhZZ0dpZ1lBTC1VeGdRTUF4WVJWZ3prNGtzbkFjNjVockpQRi1PR0hZLUZtTU94aE9vNk14LTI3R1lFa1VFeUdaSXpNVVZZOTM3a3VBZVUySmJxUXg4Tk14ZmNERmVybnZvLUEwd2kyV3lFNW00dHBPc1FFbGw3VEdwUEVENGdhNkx4RUpYWW1aeWhGNg",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-07T04:26:49.000Z",
+      "capturedAt": "2026-08-07T04:55:00.891Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0adgief",
       "channel": "sec",

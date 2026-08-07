@@ -1,47 +1,48 @@
 {
-  "generatedAt": "2026-08-07T00:02:14.280Z",
-  "nextUpdateAt": "2026-08-07T03:02:14.280Z",
+  "generatedAt": "2026-08-07T04:55:02.479Z",
+  "nextUpdateAt": "2026-08-07T07:55:02.479Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1nmje70",
+      "id": "1l3q4hz",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "brief": "The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg. The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg. The AI device OpenAI is developing with former Apple designer Jony Ive is “essentially a smart speaker without a display” that’s battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly “will have a unique look, complete with moving parts,” including some that will move on their own to show when the device is responding or interacting with the user, along with lights, a camera system, and other sensors. Gurman’s sources also say the “battery-powered” device is designed to be “easy to carry around the home with one hand,”similar to Amazon’s now-discontinued Tap speaker .",
+      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year - The Motley Fool",
+      "brief": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year The Motley Fool",
       "whyItMatters": "",
-      "words": 146,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&strip=all&crop=21.6%2C28.565551073632%2C78.4%2C61.586077147559&w=1200",
-      "published": "2026-08-06T20:55:39.000Z",
-      "capturedAt": "2026-08-07T00:02:09.074Z",
+      "words": 19,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkpGNjhZZ0dpZ1lBTC1VeGdRTUF4WVJWZ3prNGtzbkFjNjVockpQRi1PR0hZLUZtTU94aE9vNk14LTI3R1lFa1VFeUdaSXpNVVZZOTM3a3VBZVUySmJxUXg4Tk14ZmNERmVybnZvLUEwd2kyV3lFNW00dHBPc1FFbGw3VEdwUEVENGdhNkx4RUpYWW1aeWhGNg",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-07T04:26:49.000Z",
+      "capturedAt": "2026-08-07T04:55:00.891Z",
       "tags": [
-        "Openai"
+        "Artificial Intelligence",
+        "Nvidia"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0adgief",
+      "id": "1d7kl7v",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "brief": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. a. “Judische” and “Waifu,” dated Oct 21, 2024, 9 days before Moucka’s arrest. This image was included in an affidavit filed by an investigator with the Royal Canadian Mounted Police (RCMP). S. -based software-as-a-service company. The hackers targeted stolen credentials for Snowflake customer accounts that did not enforce multi-factor authentication, and extorted or attempted to extort a host of well-known companies, including TicketMaster, Lending Tree, Advance Auto Parts and Neiman Marcus. Snowflake responded to the data thefts by increasing password complexity requirements and enforcing multi-factor authentication.",
+      "title": "Ransom Cartel Leader Sentenced to 16 Years in U.S.",
+      "brief": "S. S. S. P. Morgan,” “lansky,” and “xxx,”) built a ransomware business the way a franchise owner builds a chain: he never had to touch most of the crime scenes himself. This week, a federal judge in Virginia handed the 40-year-old Belarusian 16 years in prison for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. ” reads the press release published by DoJ. ”",
       "whyItMatters": "",
-      "words": 149,
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "source": "Krebs on Security",
-      "sourceSite": "krebsonsecurity.com",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2024/11/moucka-surveillance.png",
-      "published": "2026-08-06T17:00:56.000Z",
-      "capturedAt": "2026-08-07T00:02:14.280Z",
+      "words": 69,
+      "url": "https://securityaffairs.com/196746/cyber-crime/ransom-cartel-leader-sentenced-to-16-years-in-u-s.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2024/08/image-41.png?resize=1024%2C546&ssl=1",
+      "published": "2026-08-06T15:25:21.000Z",
+      "capturedAt": "2026-08-07T04:55:02.479Z",
       "tags": [
-        "Breach",
         "Hack",
-        "Phishing"
+        "Ransomware",
+        "Malware"
       ],
       "rewritten": false
     }
