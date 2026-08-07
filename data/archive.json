@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-07T04:55:02.479Z",
-  "count": 182,
+  "updatedAt": "2026-08-07T07:16:54.886Z",
+  "count": 184,
   "stories": [
+    {
+      "id": "1vb8d28",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "brief": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode. \"These vulnerabilities were found",
+      "whyItMatters": "",
+      "words": 56,
+      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkSwdiUeH8rB-KgSkEXrT-oNL19IyghM7Ks8UDOedxPYB5czgwO8pXNf0YUt7OHqAbRRDJkRvJffzJ0lfpEdqfLn-w-Bc9pwOa_1FNJjJkrVbD-diaZu9HRFqAlOBWogXEsZ4sSFRDW-HYmsaUmVD98QGQoyq2rHep_dwDa5ueafTUO0Lh6zsA-Czd3he/s1600/cisco-flaws.jpg",
+      "published": "2026-08-06T17:13:15.000Z",
+      "capturedAt": "2026-08-07T07:16:54.886Z",
+      "tags": [
+        "Patch",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1v71u7q",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "brief": "6 Sol model will also be ‘more reliable with facts’ for Plus and Pro users. 6 Sol model will also be ‘more reliable with facts’ for Plus and Pro users. OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI . Right now, you may run into rate limits if you do too many text chats on those tiers, but those limits, just for text, will be going away soon. Messages that include things like file uploads and images will continue to have limits. 6 Luna .",
+      "whyItMatters": "",
+      "words": 113,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "published": "2026-08-06T17:00:00.000Z",
+      "capturedAt": "2026-08-07T07:16:53.743Z",
+      "tags": [
+        "Chatbot",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1d7kl7v",
       "channel": "sec",
