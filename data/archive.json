@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-07T07:16:54.886Z",
-  "count": 184,
+  "updatedAt": "2026-08-07T10:02:19.090Z",
+  "count": 186,
   "stories": [
+    {
+      "id": "1r1tl1f",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "AI Deepfakes Used to Impersonate OnlyFans Creators in New Scam",
+      "brief": "S. S. S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog Criminals are building fake identities using AI-generated deepfakes of real OnlyFans creators, luring their followers with promises of live chats, and then disappearing after collecting payment. The scheme runs on social platforms that most people consider harmless, TikTok for discovery, Snapchat for the conversation, Cash App for the payment, and by the time the fan realizes something is wrong, the money is already gone and the account is blocked. “This is a form of catfishing , in which an attacker impersonates someone online and engages in romantic or sexual interactions for ulterior motives. ” reads the report published by MalwareBytes. ”",
+      "whyItMatters": "",
+      "words": 116,
+      "url": "https://securityaffairs.com/196772/ai/ai-deepfakes-used-to-impersonate-onlyfans-creators-in-new-scam.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-12.png",
+      "published": "2026-08-07T06:55:17.000Z",
+      "capturedAt": "2026-08-07T10:02:19.090Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ofq898",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI models have learned how to cheat. That might actually be a good thing. - vox.com",
+      "brief": "AI models have learned how to cheat. That might actually be a good thing. com",
+      "whyItMatters": "",
+      "words": 15,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbGVoY0JxS1J1NTRtRUpqU3FkTXlHdVV1M1JCU1k5b0xCckRBaDJkRzFHRU1vOGZacmNram9BSGFIbFNaTVRMUUtqSmVzT3BKaHVjM2RsUWx1Y2I2SFplakVVSU42VFBQeDExZGdnV1RoLWoyUXN3bkFaVW52T256Y0hnMXJUYjlaUXFuWVlsQnZ1TkZfSGZsR1ZaMGU0TTlLQlBHcmV5bTNaV2JxWnZKV0Jn",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-07T10:00:00.000Z",
+      "capturedAt": "2026-08-07T10:02:17.807Z",
+      "tags": [
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1vb8d28",
       "channel": "sec",
