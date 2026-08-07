@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-06T14:11:23.183Z",
-  "count": 178,
+  "updatedAt": "2026-08-07T00:02:14.280Z",
+  "count": 180,
   "stories": [
+    {
+      "id": "0adgief",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "brief": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. a. “Judische” and “Waifu,” dated Oct 21, 2024, 9 days before Moucka’s arrest. This image was included in an affidavit filed by an investigator with the Royal Canadian Mounted Police (RCMP). S. -based software-as-a-service company. The hackers targeted stolen credentials for Snowflake customer accounts that did not enforce multi-factor authentication, and extorted or attempted to extort a host of well-known companies, including TicketMaster, Lending Tree, Advance Auto Parts and Neiman Marcus. Snowflake responded to the data thefts by increasing password complexity requirements and enforcing multi-factor authentication.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2024/11/moucka-surveillance.png",
+      "published": "2026-08-06T17:00:56.000Z",
+      "capturedAt": "2026-08-07T00:02:14.280Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1nmje70",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "brief": "The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg. The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg. The AI device OpenAI is developing with former Apple designer Jony Ive is “essentially a smart speaker without a display” that’s battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly “will have a unique look, complete with moving parts,” including some that will move on their own to show when the device is responding or interacting with the user, along with lights, a camera system, and other sensors. Gurman’s sources also say the “battery-powered” device is designed to be “easy to carry around the home with one hand,”similar to Amazon’s now-discontinued Tap speaker .",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&strip=all&crop=21.6%2C28.565551073632%2C78.4%2C61.586077147559&w=1200",
+      "published": "2026-08-06T20:55:39.000Z",
+      "capturedAt": "2026-08-07T00:02:09.074Z",
+      "tags": [
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "095ujdk",
       "channel": "sec",
