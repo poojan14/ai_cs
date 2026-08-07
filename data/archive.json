@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-07T13:04:49.801Z",
-  "count": 188,
+  "updatedAt": "2026-08-07T15:56:39.111Z",
+  "count": 190,
   "stories": [
+    {
+      "id": "1jpxqzz",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Impersonate IT Support to Breach Leading Financial Companies",
+      "brief": "S. S. S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog A hacking campaign operating under names including Redact, Pink, Falcon, and Helix has built credential-stealing websites targeting employees at Blackstone, Bridgewater Associates, Apollo Global Management, Bain Capital, KKR, TPG, CME Group, Clearlake Capital, and Moody’s, among dozens of other financial companies. In some cases, companies paid ransoms. Which ones, nobody is saying. “Google Threat Intelligence Group (GTIG) continues to track UNC6671 actively conducting compromises leading to data theft extortion, despite the alleged announced retirement of the BlackFile extortion brand in May 2026. ” reads the report published by Google. ”",
+      "whyItMatters": "",
+      "words": 105,
+      "url": "https://securityaffairs.com/196800/security/hackers-impersonate-it-support-to-breach-leading-financial-companies.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-13.png?resize=1024%2C632&ssl=1",
+      "published": "2026-08-07T15:50:50.000Z",
+      "capturedAt": "2026-08-07T15:56:39.111Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1o4m9xq",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Not Micron, Not Nvidia. This Artificial Intelligence (AI) Giant Could Be the Ultimate Winner of the AI Arms Race. - The Motley Fool",
+      "brief": "Not Micron, Not Nvidia. This Artificial Intelligence (AI) Giant Could Be the Ultimate Winner of the AI Arms Race. The Motley Fool",
+      "whyItMatters": "",
+      "words": 22,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWNIRlByTDJvOVBiUXdCdnRLUXNtdFNQSV8weWk3OVRkUUphNndSZDJDeUZBUm1ITWJ1dU9LVS1uelp1QjZ2UHZKZTZZbF95MWhRQkwybmNLMmtMUVlZT1F3enN3dExCenVtYXVhVnBXNUUzdjQ1MWRNS2VNT1kwZFFlOW1sRGxlMEFSQ0pCd2pfazVvdWVvMQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-07T13:36:01.000Z",
+      "capturedAt": "2026-08-07T15:56:37.321Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "05fjznj",
       "channel": "sec",
