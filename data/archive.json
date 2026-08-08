@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-08T09:38:34.624Z",
-  "count": 202,
+  "updatedAt": "2026-08-08T12:49:25.948Z",
+  "count": 204,
   "stories": [
+    {
+      "id": "1hfmwe1",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+      "brief": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. 0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain",
+      "whyItMatters": "",
+      "words": 52,
+      "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv2q8ukeawl9ALLfPnkrRkD2a9umOrSxPHUJdclgLcKj5zM8k19y-NWuTGLrV1yIU4u0F2-QbAsD4zO-NkeEuWPwDqdUYbVFDG69EgOl0v55K0Brjp7lfIb6hExJGyVj9rj5KjeZPtoU97DwoaHAi_umLzQVqpedMMt08eas1akWBhNXUZ2WHOqVXczAf4/s1600/metabase.jpg",
+      "published": "2026-08-08T06:58:31.000Z",
+      "capturedAt": "2026-08-08T12:49:25.948Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Zero-Day"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "11lk1ci",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "brief": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure . S. i. in Armenia, attended the AI factory opening ceremony. AI factories are the foundational infrastructure for the AI era, providing the computing capacity needed to train, fine-tune and deploy AI models for every domain at scale. While AI services are available globally, countries also need the capacity to develop and run AI for their own languages, industries and national priorities. Firebird’s AI factory brings that capacity to Armenia, giving developers, startups, enterprises, universities and public institutions the compute to build and scale AI at home.",
+      "whyItMatters": "",
+      "words": 130,
+      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg",
+      "published": "2026-08-08T10:24:54.000Z",
+      "capturedAt": "2026-08-08T12:49:23.684Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "16r7w5k",
       "channel": "sec",
