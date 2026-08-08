@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-08T12:49:25.948Z",
-  "count": 204,
+  "updatedAt": "2026-08-08T15:30:16.170Z",
+  "count": 206,
   "stories": [
+    {
+      "id": "09yy3m7",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "brief": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. The exploited vulnerabilities allowed the attacker to execute arbitrary code with the highest level of privileges and deploy the PhantomCore and PhantomGraph backdoors. TrueConf is a video conferencing tool widely used in Russia, especially in the enterprise and government sectors, as a secure, on-premise alternative to Western tools such as Zoom and Microsoft Teams. Researchers at cybersecurity company Kaspersky discovered the attack in July. They found that Head Mare hackers used TCP port 4307, which is open by default, to connect to the target TrueConf server without authentication. They leveraged a vulnerability internally tracked by Kaspersky as KLCERT-26-057 to execute a malicious script within TrueConf's isolated environment, and KLCERT-26-058 to escape the sandbox and run commands on the underlying operating system.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/box.jpg",
+      "published": "2026-08-08T14:16:23.000Z",
+      "capturedAt": "2026-08-08T15:30:16.170Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "02jdbtq",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Using AI has an environmental impact — here are 4 ways you can minimize it - Live Science",
+      "brief": "Using AI has an environmental impact — here are 4 ways you can minimize it Live Science",
+      "whyItMatters": "",
+      "words": 17,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVU4ZnZNakpmNG1sVmRKWUJ0ZE1tUzcyWjBuRGt6MXNOQ3VNS29ndGg2NUthN0pJeTFTQy1oaVJfdU82R19pRkY0RlE1N2xMV2ROOHZjdFFkRWFFNFdvdWdQdVpQS1pGaUE1ZE4ta0tjb3JYbURqRDZ3N2phRGVaanh3SHRLR3NHMTFnN2VlaDlob01fSmlJX0g4aExzYjA2V3QwckhBWGhpbmtENFN2OGhfYWhIYWhVdkxKaVI3cUZxdnZ2cVlDQzhBS3d6ZllE",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-08T15:00:00.000Z",
+      "capturedAt": "2026-08-08T15:30:14.568Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1hfmwe1",
       "channel": "sec",
