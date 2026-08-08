@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-08T04:11:05.845Z",
-  "count": 198,
+  "updatedAt": "2026-08-08T06:54:03.753Z",
+  "count": 200,
   "stories": [
+    {
+      "id": "0yd4mrd",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+      "brief": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture. \"",
+      "whyItMatters": "",
+      "words": 57,
+      "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg",
+      "published": "2026-08-07T18:29:08.000Z",
+      "capturedAt": "2026-08-08T06:54:03.753Z",
+      "tags": [
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0vcg1ns",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "What’s behind the Google AI shake-up",
+      "brief": "On The Vergecast: The model wars, the scourge of ‘time spent,’ and the ads coming to your BMW. On The Vergecast: The model wars, the scourge of ‘time spent,’ and the ads coming to your BMW. Some of the biggest names on Google’s AI team got new jobs this week . In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google’s models seem to be behind the best of what’s coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there something else entirely happening here ? On this episode of The Vergecast, Nilay and David start by discussing the leadership shake-up at Google, the state of the AI race, and whether Google is actually set up to succeed here.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-07T16:45:14.000Z",
+      "capturedAt": "2026-08-08T06:54:02.203Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1vxsfp8",
       "channel": "sec",
