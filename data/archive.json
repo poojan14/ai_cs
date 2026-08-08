@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-08T01:42:12.682Z",
-  "count": 196,
+  "updatedAt": "2026-08-08T04:11:05.845Z",
+  "count": 198,
   "stories": [
+    {
+      "id": "1vxsfp8",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "brief": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. 58 and above. The company warns that self-hosted installations are also vulnerable. 58 and above,\" Metabase CEO Sameer Al-Sakran warned in a blog post . Metabase confirmed it blocked the endpoints used for the attack and immediately rolled out a fix for the vulnerability. 0 and confirms that it has been actively exploited.",
+      "whyItMatters": "",
+      "words": 78,
+      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/07/metabase-header.jpg",
+      "published": "2026-08-07T20:14:46.000Z",
+      "capturedAt": "2026-08-08T04:11:05.845Z",
+      "tags": [
+        "Breach",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0fji8xy",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "brief": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities. OpenAI said in a blog post Friday that this model, which is still in development, reached its “critical cybersecurity threshold,” meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. Under the company’s “Preparedness Framework,” which it created in 2023, this triggered additional safeguards. “While we continue to benchmark and assess this model, our preliminary evaluations indicate strong enough performance that we cannot rule out Critical capability level at this time,” OpenAI wrote. ” The disclosure highlights an unusual moment in the topsy-turvy and still nascent frontier AI labs sector. Companies across every industry hold back products over potential risks, including for safety and cybersecurity concerns.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "published": "2026-08-07T22:48:24.000Z",
+      "capturedAt": "2026-08-08T04:11:01.019Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0894cn1",
       "channel": "sec",
