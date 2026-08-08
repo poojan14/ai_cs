@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-07T21:39:28.035Z",
-  "count": 194,
+  "updatedAt": "2026-08-08T01:42:12.682Z",
+  "count": 196,
   "stories": [
+    {
+      "id": "0894cn1",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+      "brief": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via their",
+      "whyItMatters": "",
+      "words": 56,
+      "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg",
+      "published": "2026-08-07T18:16:13.000Z",
+      "capturedAt": "2026-08-08T01:42:12.682Z",
+      "tags": [
+        "Phishing",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0com27n",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "brief": "OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. OpenAI says it is pausing “internal activities” around an in-development AI model, Astra, because it doesn’t yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face . Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. Recent internal evaluations of an OpenAI model called Astra indicate that it offers “significant advancements in agentic coding and cybersecurity,” according to the company . ” Astra was “not involved” in the Hugging Face breach, OpenAI says. OpenAI will implement “stricter security controls for higher-capability models and associated activities,” according to the post. ”",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-07T18:40:34.000Z",
+      "capturedAt": "2026-08-08T01:42:10.928Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1bpak7p",
       "channel": "sec",
