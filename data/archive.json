@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-08T15:30:16.170Z",
-  "count": 206,
+  "updatedAt": "2026-08-08T18:37:55.443Z",
+  "count": 208,
   "stories": [
+    {
+      "id": "00ym5gc",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. 6), is a command injection flaw that could be weaponized to achieve arbitrary",
+      "whyItMatters": "",
+      "words": 46,
+      "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DF22WirQj4KZe5A4NxYmG3UhC2o4BRQ4AybyFlmr80n5Wkf15sbtMn11P0msoMyAe65WBqMpL2XBsqTiHdDNNH1i6qz11ydD9X4AIOoiaSfCYb1MCe7dfJD0n4TEIc5_83tsMq5zJ5zVpGbpCq7b8rACen1oMvW8XGBbz3T4hy_9J6igpOk0oCDp6vkA/s1600/progress.jpg",
+      "published": "2026-08-08T06:52:16.000Z",
+      "capturedAt": "2026-08-08T18:37:55.442Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0wpgvec",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "brief": "An Amazon-owned site in Pecos County, Texas, received a permit to release up to 33 million tons of CO2. An Amazon-owned site in Pecos County, Texas, received a permit to release up to 33 million tons of CO2. To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times . The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state’s power grid. 65 gigawatts of electricity to the new data center.",
+      "whyItMatters": "",
+      "words": 115,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-08T17:53:34.000Z",
+      "capturedAt": "2026-08-08T18:37:53.990Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "09yy3m7",
       "channel": "sec",
