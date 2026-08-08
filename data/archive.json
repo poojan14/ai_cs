@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-08T18:37:55.443Z",
-  "count": 208,
+  "updatedAt": "2026-08-08T21:31:03.771Z",
+  "count": 210,
   "stories": [
+    {
+      "id": "0dzjej2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Metabase Zero-Day Exploited in the Wild, Exposing Admin Access and Sensitive Data",
+      "brief": "S. S. S. CISA adds Langflow, Apache Tomcat, and N-able N-central flaws to its Known Exploited Vulnerabilities catalog Metabase just confirmed something no analytics vendor wants to write: attackers found and used an unpatched, maximum-severity flaw against Metabase Cloud before anyone on the defense side knew it existed. 0, and it let an unauthenticated attacker inject arbitrary SQL straight into the Metabase application database. ” reads the advisory. ”",
+      "whyItMatters": "",
+      "words": 69,
+      "url": "https://securityaffairs.com/196874/hacking/metabase-zero-day-exploited-in-the-wild-exposing-admin-access-and-sensitive-data.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-18.png",
+      "published": "2026-08-08T11:50:21.000Z",
+      "capturedAt": "2026-08-08T21:31:03.771Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0hduxfv",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "brief": "NextSlide recently announced that it’s joining OpenAI, with the presentation startup’s team members now working on ChatGPT. ” The financial terms of the deal were not disclosed. ” Beshry was previously a co-founder at Caper AI, a smart cart/cashier-less checkout startup acquired by Instacart in 2021. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y!",
+      "whyItMatters": "",
+      "words": 68,
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+      "published": "2026-08-08T19:41:13.000Z",
+      "capturedAt": "2026-08-08T21:31:01.643Z",
+      "tags": [
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "00ym5gc",
       "channel": "sec",
