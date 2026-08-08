@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-08T06:54:03.753Z",
-  "count": 200,
+  "updatedAt": "2026-08-08T09:38:34.624Z",
+  "count": 202,
   "stories": [
+    {
+      "id": "16r7w5k",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Unlimited Technology Systems Data Breach Exposes Data of 3.8 Million Healthcare Patients",
+      "brief": "S. S. S. 8 million people after hackers accessed one of its commercial data centers between October 5 and 10, 2025. -based healthcare technology company headquartered in Montgomery, Ohio. It provides financial, billing, and revenue cycle management solutions to healthcare organizations, supporting more than 4,500 oncology practices and over 6,500 specialty providers. Its platforms help providers manage payments, claims, and administrative operations.",
+      "whyItMatters": "",
+      "words": 62,
+      "url": "https://securityaffairs.com/196843/data-breach/unlimited-technology-systems-data-breach-exposes-data-of-3-8-million-healthcare-patients.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-17.png?resize=1024%2C205&ssl=1",
+      "published": "2026-08-08T07:25:10.000Z",
+      "capturedAt": "2026-08-08T09:38:34.624Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0spduaw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Pa. attorney general joins states seeking answers from OpenAI after AI security breach - fox56.com",
+      "brief": "Pa. com",
+      "whyItMatters": "",
+      "words": 2,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1BURzg5Z3lMWWpBNlluNU93TDg1cUhxeGJmVkZMWTNGcUpNTDVhQ1prT0RiWE41U3VYbTQ2cERvTlp4akg5V0luM3ljNk5EdW5GbFFsenlJYjZ2X3ZsNU1nWlA2OTdoUjlHaW5OOEpRTGRkbEc1Z0xGZldxNWp4eVRBUkxJb2xtSEg3U19Sa0gzVFpid3V4NVJIUUlrdlVMVjRlT25rU2pYNjBnU29jTnR6d2c",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-08T09:35:53.000Z",
+      "capturedAt": "2026-08-08T09:38:32.789Z",
+      "tags": [
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0yd4mrd",
       "channel": "sec",
