@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-09T12:51:46.455Z",
-  "count": 220,
+  "updatedAt": "2026-08-09T15:31:57.683Z",
+  "count": 222,
   "stories": [
+    {
+      "id": "0y6csh0",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Palo Alto Networks Faces China Cybersecurity Review Amid Rising Tech Tensions",
+      "brief": "S. S. S. CISA adds Langflow, Apache Tomcat, and N-able N-central flaws to its Known Exploited Vulnerabilities catalog China’s Cyberspace Administration (CAC) announced that it’s launching a cybersecurity review of products Palo Alto Networks sells in the country. The announcement itself runs to a few sentences of formal Chinese, citing national security law and cybersecurity law as the basis for the review, and offers essentially nothing beyond that. ” the regulator says .",
+      "whyItMatters": "",
+      "words": 73,
+      "url": "https://securityaffairs.com/196881/intelligence/palo-alto-networks-faces-china-cybersecurity-review-amid-rising-tech-tensions.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png",
+      "published": "2026-08-08T13:41:32.000Z",
+      "capturedAt": "2026-08-09T15:31:57.683Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ws3mtn",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI detectors are creating a new era of distrust",
+      "brief": "Tools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Tools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Long before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled with content from across the web, scholarly articles, and more to check for matching sentences and phrases. Some, like Turnitin, offer a percentage that claims to illustrate how much of the student’s writing overlaps with other works.",
+      "whyItMatters": "",
+      "words": 144,
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-09T12:00:00.000Z",
+      "capturedAt": "2026-08-09T15:31:55.413Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1d5wwts",
       "channel": "sec",
