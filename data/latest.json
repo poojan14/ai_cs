@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-08T21:31:03.771Z",
-  "nextUpdateAt": "2026-08-09T00:31:03.771Z",
+  "generatedAt": "2026-08-09T01:47:15.078Z",
+  "nextUpdateAt": "2026-08-09T04:47:15.078Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "0hduxfv",
+      "id": "1v1lvqk",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "brief": "NextSlide recently announced that it’s joining OpenAI, with the presentation startup’s team members now working on ChatGPT. ” The financial terms of the deal were not disclosed. ” Beshry was previously a co-founder at Caper AI, a smart cart/cashier-less checkout startup acquired by Instacart in 2021. Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y!",
+      "title": "Health experts reveal warning signs of artificial intelligence ‘doctor’ scams - Kauai Now",
+      "brief": "Health experts reveal warning signs of artificial intelligence ‘doctor’ scams Kauai Now",
       "whyItMatters": "",
-      "words": 68,
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
-      "published": "2026-08-08T19:41:13.000Z",
-      "capturedAt": "2026-08-08T21:31:01.643Z",
+      "words": 12,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1E4NUJiU1NYNXhkaUNRUEdpRl95WmQ5S2lxTEFRMzBQUmdvclpRM0V1LUF4dHc0VXAyVGhHOU9UY3VvbThKS3ByNG5kaXJhVTRQQzY3N3RjcVNBRk0wb1l4ZjhkTldxMThlU3p4Wm55WnIwQzNuOHI2NVFXSnpzZ2RoLUZRenBlLUkzdHo1RGl2d3A0czlkbHNVVHE3NmVQbWN5WWlJQXdUQWJISldWM3dR",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-09T01:30:00.000Z",
+      "capturedAt": "2026-08-09T01:47:13.546Z",
       "tags": [
-        "Openai"
+        "Artificial Intelligence"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0dzjej2",
+      "id": "11rp0ww",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Metabase Zero-Day Exploited in the Wild, Exposing Admin Access and Sensitive Data",
-      "brief": "S. S. S. CISA adds Langflow, Apache Tomcat, and N-able N-central flaws to its Known Exploited Vulnerabilities catalog Metabase just confirmed something no analytics vendor wants to write: attackers found and used an unpatched, maximum-severity flaw against Metabase Cloud before anyone on the defense side knew it existed. 0, and it let an unauthenticated attacker inject arbitrary SQL straight into the Metabase application database. ” reads the advisory. ”",
+      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+      "brief": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques,\" the company said. \"This is not a duplicate of our",
       "whyItMatters": "",
-      "words": 69,
-      "url": "https://securityaffairs.com/196874/hacking/metabase-zero-day-exploited-in-the-wild-exposing-admin-access-and-sensitive-data.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-18.png",
-      "published": "2026-08-08T11:50:21.000Z",
-      "capturedAt": "2026-08-08T21:31:03.771Z",
+      "words": 61,
+      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsaNpVaG83aDE1lJwcNllVSeS-ebafbbt4FgaKHH1_4dt1i4qvCtw-dYVrE_MiWf2GZ5vyGPhyphenhyphenCieChBz2IChMJew0I1Ze2HEYJpB-j3rB2VnfNrzbFpPDD7VFkWCkYBn2CJRLpOBIKNaeKPXlVPHpz7-1Wx9go7IfyUKSVNliDO644rNsoMmAk5a3Qf_W/s1600/nc.jpg",
+      "published": "2026-08-08T06:57:43.000Z",
+      "capturedAt": "2026-08-09T01:47:15.078Z",
       "tags": [
-        "Breach",
-        "Hack",
-        "Vulnerability"
+        "Exploit",
+        "Attack",
+        "Security"
       ],
       "rewritten": false
     }
