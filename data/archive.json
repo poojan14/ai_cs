@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-09T09:40:08.656Z",
-  "count": 218,
+  "updatedAt": "2026-08-09T12:51:46.455Z",
+  "count": 220,
   "stories": [
+    {
+      "id": "1d5wwts",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "brief": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email. PortSwigger researcher Gareth",
+      "whyItMatters": "",
+      "words": 57,
+      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUnWbFb6UGu3ML1MqcuVXYwk0yoD6WzgXIQmi8ijkZQjS6M3g1F3kgV-RanNgyP1bdpNxDOOqMJzJnutZGh4MUVyYCbbu98sNXtAp-GWxueyKH9fDo3z9HmBl4tL-rj91kb11bhdhRvWGAYe56YGYMEzJgGIZeUqj9eGH10Bynj0YE6WMLl0J7O-HhLc/s1600/css-bomb.jpg",
+      "published": "2026-08-08T08:03:57.000Z",
+      "capturedAt": "2026-08-09T12:51:46.455Z",
+      "tags": [
+        "Attack",
+        "Leak"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ex5ezw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "An artificial intelligence (AI)-assisted analysis of journalism trends in the Philippines revealed that trust in the media was high and had increased toward the end of the COVID-19 pandemic, but then showed a steep drop as the country moved away from it. Link - facebook.com",
+      "brief": "An artificial intelligence (AI)-assisted analysis of journalism trends in the Philippines revealed that trust in the media was high and had increased toward the end of the COVID-19 pandemic, but then showed a steep drop as the country moved away from it. com",
+      "whyItMatters": "",
+      "words": 43,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUIzVEFxNjRGcWtYTjc3X09WUklkUjZLUXVReF9uXzAyM3FUUUJnVWNwWXBBTWhrNmUtTmFVSWtpU1ZUVDFTRENqN2EwQVgyZi13ZFVGOGo3VU9SZXVqU2VhRXYyakhMc2dycjlXT0ZaZE9jVjQ3NlRSVFEteHN5bWhBNW5CRjZaN09CdzB1YUtyeEh4ZWZQamFnRl9MdkpicEpxeTR1eGtFaWZyNHFNamY5UThKZVZVa3U1Z3lnWHVzM28xamtVNkpaMngwRzUyYVNCUXlnTlRuZ3hYeFhz",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-09T09:29:15.000Z",
+      "capturedAt": "2026-08-09T12:51:44.803Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "088js7u",
       "channel": "sec",
