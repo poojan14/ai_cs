@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-09T18:41:16.010Z",
-  "count": 224,
+  "updatedAt": "2026-08-09T21:32:43.185Z",
+  "count": 226,
   "stories": [
+    {
+      "id": "06wxgw4",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. Defense Manufacturer IEH Hit by Phishing Attack, Exposing Potentially Export-Controlled Data",
+      "brief": "S. S. S. S. defense and aerospace manufacturer based in Brooklyn, New York. The company specializes in high-reliability electrical connectors, particularly hyperboloid connectors used in demanding military and aerospace environments. Its connectors are used in systems including rotary-wing aircraft, THAAD and Patriot missile systems, fighter aircraft, airborne radar systems, satellites and spacecraft, military radios, and torpedoes. IEH Corporation disclosed a cyberattack in an 8-K filing with the SEC. The company discovered the breach on August 4. An employee clicked a link disguised as a Microsoft document-sharing link from what appeared to be a prospective business contact, entered their Microsoft 365 credentials into a fake login page, and handed an attacker full access to their inbox.",
+      "whyItMatters": "",
+      "words": 115,
+      "url": "https://securityaffairs.com/196890/cyber-crime/u-s-defense-manufacturer-ieh-hit-by-phishing-attack-exposing-potentially-export-controlled-data.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-19.png",
+      "published": "2026-08-09T16:44:40.000Z",
+      "capturedAt": "2026-08-09T21:32:43.185Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "13nt3yn",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "The global artificial intelligence (AI) and semiconductor markets are going through unprecedented vo.. - 매일경제",
+      "brief": "The global artificial intelligence (AI) and semiconductor markets are going through unprecedented vo.. 매일경제",
+      "whyItMatters": "",
+      "words": 14,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xb1QtMEFUZXV4c3BhRlI5U0EwVWoxWjhqLTlUSDVtakZTd0t0TU5yWHA4WGlHdlBlclc2WG1ZbFFKSGx2Z2VBejZoSElIUms",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-09T20:47:54.000Z",
+      "capturedAt": "2026-08-09T21:32:40.877Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1v0toko",
       "channel": "sec",
