@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-10T07:42:51.251Z",
-  "count": 230,
+  "updatedAt": "2026-08-10T10:17:04.101Z",
+  "count": 232,
   "stories": [
+    {
+      "id": "17ybe5h",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. S. Air Force) to distribute incoming web traffic across multiple servers, optimize app performance, and ensure high service availability. Progress Software says that 80% of Fortune 500 companies use its products and services, with Kemp LoadMaster having over 100,000 deployments worldwide. Tracked as CVE-2026-8037 , this critical command injection security flaw enables unauthenticated attackers to execute arbitrary commands on unpatched LoadMaster appliances by exploiting unsanitized API inputs in multiple command endpoints. 2 .",
+      "whyItMatters": "",
+      "words": 93,
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/10/Progress.jpg",
+      "published": "2026-08-10T09:49:37.000Z",
+      "capturedAt": "2026-08-10T10:17:04.101Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "04l6y39",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI for science needs reasoning, not just data",
+      "brief": "AI agents that can model the human process of research will accelerate discoveries in science. Every few decades, someone announces that science has reached its end. ” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the feeling is in the air again—this time accompanied by a Nobel Prize.",
+      "whyItMatters": "",
+      "words": 65,
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg?resize=1200,600",
+      "published": "2026-08-10T09:00:00.000Z",
+      "capturedAt": "2026-08-10T10:17:02.161Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0vd66aa",
       "channel": "sec",
