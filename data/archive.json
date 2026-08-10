@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-10T18:58:06.583Z",
-  "count": 238,
+  "updatedAt": "2026-08-10T21:41:35.536Z",
+  "count": 240,
   "stories": [
+    {
+      "id": "0gbnoz2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
+      "brief": "Security teams are being asked to defend a growing attack surface with fewer people and around the clock, against threat actors who never take a night off. As cyberattackers increasingly use AI to launch and scale campaigns, the volume, speed, and sophistication of threats continue to rise. Closing that gap takes more than tooling. It takes a partner that pairs a leading security platform with scaled intelligence and human experts who can act on your behalf at any hour. That’s exactly what Microsoft Defender Experts MDR is built to do. We are excited to announce that we have been named a Leader in the 2026 IDC MarketScape: Worldwide MDR/MXDR for the Enterprise Vendor Assessment (Doc #US54792426, July 2026). Read the excerpt here .",
+      "whyItMatters": "",
+      "words": 123,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/IDC-MDR.jpg",
+      "published": "2026-08-10T16:00:00.000Z",
+      "capturedAt": "2026-08-10T21:41:35.536Z",
+      "tags": [
+        "Malware",
+        "Phishing",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0n80xj7",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+      "brief": "Artificial intelligence models are jacks of many trades, including writing, generating images, and creating 3D models. But they aren’t as helpful when it comes to testing robots or designs for vehicles in diverse environments, since they don’t understand physics as well as they do pixels or text. To build an AI system that can reliably simulate a variety of physical scenarios, engineers need a range of physics data at a scale that isn’t yet feasible. That’s because it’s very time-consuming to get neural networks just a few data points they can understand. They rely on algorithms called “numerical solvers” to calculate physical properties at different points of a 3D shape. It’s a thorough process, but it takes so long that it limits how much data you’ll have to, say, test if your plane designs are safe and aerodynamic.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-csail-geopt.jpg?itok=QbX1i1qV",
+      "published": "2026-08-10T19:25:00.000Z",
+      "capturedAt": "2026-08-10T21:41:34.116Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0wqmyl3",
       "channel": "sec",
