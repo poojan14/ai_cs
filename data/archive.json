@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-10T13:09:23.828Z",
-  "count": 234,
+  "updatedAt": "2026-08-10T16:00:04.695Z",
+  "count": 236,
   "stories": [
+    {
+      "id": "1q7srwz",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+      "brief": "In this article Pre-encryption Encryption Post-encryption Defending against DeadLock ransomware Indicators of compromise Microsoft Threat Intelligence tracks DeadLock ransomware as an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications and data leak operations. Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process. This architecture likely increases the resilience of portions of its communication, leak-hosting, and negotiation infrastructure, allowing DeadLock operators to recover from some disruption efforts while maintaining continuity for victims. Microsoft has observed DeadLock ransomware being deployed by multiple groups including an affiliate of the Lynx and INC ransomware ecosystems. First observed in July 2025, DeadLock operators employ double extortion tactics, encrypting victim environments while threatening to publicly release exfiltrated data.",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Figure-1.-DeadLock-icon-for-encrypted-files.jpg",
+      "published": "2026-08-10T15:00:00.000Z",
+      "capturedAt": "2026-08-10T16:00:04.695Z",
+      "tags": [
+        "Breach",
+        "Ransomware",
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0tgbttj",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "brief": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new type of neural network called a transformer. It proved to be very good at processing long sequences of data, especially text. Nine years on, transformers are the engines inside every major large language model on the market. “The entire AI industry is built on transformers,” says Justin Dangel, cofounder and CEO of the AI startup Subquadratic. ” But transformers are starting to show their age.",
+      "whyItMatters": "",
+      "words": 123,
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/269798_futureLLMs.jpg?resize=1200,600",
+      "published": "2026-08-10T09:00:00.000Z",
+      "capturedAt": "2026-08-10T15:59:58.961Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Neural"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0dgwtfl",
       "channel": "sec",
