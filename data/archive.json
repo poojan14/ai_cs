@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-08-10T01:51:28.058Z",
-  "count": 227,
+  "updatedAt": "2026-08-10T04:38:43.719Z",
+  "count": 228,
   "stories": [
+    {
+      "id": "11ncyyh",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Kimsuky Advances Attacks With Local LLMs, AI Agents - 조선일보",
+      "brief": "Kimsuky Advances Attacks With Local LLMs, AI Agents 조선일보",
+      "whyItMatters": "",
+      "words": 9,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3RCaTgwcGJwcUtCcnJYWDc4cl9IaHNWRnhLblFTS25peXQxdHU1T2w2YW1sVGJVaE5uSHU4TmRybUVNUEZVTEZkYWFZOFJYUmFjY196UHpjYzhXYnZlam0yMVB2NGQ1VXg3SG1vVmFXMVkwMnpHeXpvYzRQckVFek1xcHRZNXdL",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-10T02:01:32.000Z",
+      "capturedAt": "2026-08-10T04:38:41.519Z",
+      "tags": [
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0v8ffbv",
       "channel": "ai",
