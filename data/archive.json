@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-11T13:06:54.477Z",
-  "count": 250,
+  "updatedAt": "2026-08-11T16:01:45.621Z",
+  "count": 252,
   "stories": [
+    {
+      "id": "0ylh32i",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe",
+      "brief": "A cyberattack on global freight company Ceva Logistics has reportedly disrupted shipments for major European retailers and potentially exposed customer data belonging to users of a popular video game platform. Ceva has not publicly disclosed the attack and did not respond to a request for comment. However, according to media reports, the company notified corporate clients earlier this month that a cyber intrusion was affecting part of its contract logistics business. The incident reportedly disrupted operations at eight warehouses in Europe, causing shipping delays for retailers whose inventory was stored at the affected facilities. Companies reported to have been affected include Dutch e-commerce giant Bol, luxury department store De Bijenkorf, eyewear company Ace & Tate and Amsterdam football club Ajax, as well as Steam’s hardware business in Europe. The full scope of the breach remains unclear, including the locations of the eight affected warehouses.",
+      "whyItMatters": "",
+      "words": 144,
+      "url": "https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/CEVA_Logistics_truckpng_526b353042.png",
+      "published": "2026-08-11T15:43:45.000Z",
+      "capturedAt": "2026-08-11T16:01:45.621Z",
+      "tags": [
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "03zf23q",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "brief": "Why passkey apps treat Windows differently than other operating systems. Last week a researcher outlined what he said was a “novel attack surface” in passkeys, the new authentication paradigm that offers a more secure alternative over password-based methods. In fact, the attacks demonstrated in the post are neither novel nor unique to passkeys. This distinction is important because the research has generated confusion among end users and security professionals as they assess whether this new mechanism is truly safe to use. The attack is called Pass-ta-key—a blending of the word passkey with the phrase “pass the key” and a nod to a plate of pasta. Arie Olshtein, a researcher at security firm Palo Alto Networks, described in a post last week how Pass-ta-key could obtain all passkeys stored in the Google Password Manager app (GPM) for Windows when it’s running on a machine infected with malware.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg",
+      "published": "2026-08-11T11:30:08.000Z",
+      "capturedAt": "2026-08-11T16:01:43.397Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "03ubxo3",
       "channel": "sec",
