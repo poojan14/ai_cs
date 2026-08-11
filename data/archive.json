@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-11T04:20:25.090Z",
-  "count": 244,
+  "updatedAt": "2026-08-11T07:08:45.966Z",
+  "count": 246,
   "stories": [
+    {
+      "id": "1585f2i",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+      "brief": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. org repository,\" Wordfence researcher Paolo Tresso said.",
+      "whyItMatters": "",
+      "words": 35,
+      "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg",
+      "published": "2026-08-11T05:48:44.000Z",
+      "capturedAt": "2026-08-11T07:08:45.966Z",
+      "tags": [
+        "Cyber",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0anvbj2",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "brief": "An AI future of sleek, streamlined, and totally empty relationships. An AI future of sleek, streamlined, and totally empty relationships. ” I made what I hoped was a polite noise. What reaction was this man looking for? He probably hoped someone, maybe me, would say it was cool or inspiring. It seemed I was not the first person he’d told about this poster. “You know, it’s funny,” he said to me. ” I have been thinking about this now for several days. ” Still, the sum total of reactions to this poster appears to be polite noises.",
+      "whyItMatters": "",
+      "words": 97,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-10T22:00:00.000Z",
+      "capturedAt": "2026-08-11T07:08:44.109Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0w9v8wg",
       "channel": "sec",
