@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-10T21:41:35.536Z",
-  "count": 240,
+  "updatedAt": "2026-08-11T01:47:58.340Z",
+  "count": 242,
   "stories": [
+    {
+      "id": "18o0r6n",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
+      "brief": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
+      "whyItMatters": "",
+      "words": 21,
+      "url": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltac5b6cbe22b97997/6a7a3b465e4958876dc35113/blast_radius-George_Peters-GettyImages-1339899824_(1).jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-08-10T21:02:23.000Z",
+      "capturedAt": "2026-08-11T01:47:58.340Z",
+      "tags": [
+        "Vulnerability",
+        "Zero-Day",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0v4lsdv",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "brief": "At a convening for the Schmidt Sciences AI2050 program, I saw how academic researchers are facing up to the challenges of the AI era. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI researchers in the world. I was hosting roundtable interviews and speaking at a media training for a convening of the Schmidt Sciences AI2050 program, an initiative funded by Eric and Wendy Schmidt that supports academics whose work involves AI. The fellows list is a who’s who of AI luminaries, and though not all of them made it out to the Bay, every time I turned a corner I saw a scientist whom I’d interviewed previously or whose research I admired. )",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/pacademicAI1a.jpg?resize=1200,600",
+      "published": "2026-08-10T20:00:00.000Z",
+      "capturedAt": "2026-08-11T01:47:57.173Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0gbnoz2",
       "channel": "sec",
