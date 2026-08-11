@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-11T19:02:55.869Z",
-  "count": 254,
+  "updatedAt": "2026-08-11T21:48:30.557Z",
+  "count": 256,
   "stories": [
+    {
+      "id": "0y1yu61",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "brief": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. August’s overstuffed bundle of patch joy from Microsoft did not eclipse its recording breaking release of more than 570 security updates last month , but it is double June’s then-record batch of nearly 200 fixes . Microsoft has attributed the recent patch deluge to vulnerability discoveries aided by artificial intelligence, and experts roundly agree that Windows users should get used to the idea of Patch Tuesdays (the second Tuesday of each month) covering hundreds of newly discovered security flaws.",
+      "whyItMatters": "",
+      "words": 117,
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/08/workingonpc.png",
+      "published": "2026-08-11T21:28:35.000Z",
+      "capturedAt": "2026-08-11T21:48:30.556Z",
+      "tags": [
+        "Malware",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1glbrpf",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "brief": "Device-bound session credentials thwart an increasingly common form of account takeover. Google’s Chrome browser has added a new feature that could go a long way in preventing a form of account takeover that’s grown increasingly common as users adopt two-factor authentication, passkeys, and similar protections. The new Chrome protection is known as device-bound session credentials (DBSCs). The measure stores a unique encryption key in a silicon-resident fortress that’s built into the device running the browser. On Windows machines, this fortress is called a TPM, short for Trusted Platform Module. On macOS and iOS, it’s known as a secure enclave. Other platforms have differing names. Recently released versions of Chrome for Windows and macOS generate a key that’s stored in this fortress.",
+      "whyItMatters": "",
+      "words": 121,
+      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
+      "published": "2026-08-11T20:59:52.000Z",
+      "capturedAt": "2026-08-11T21:48:28.920Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1irrkgw",
       "channel": "sec",
