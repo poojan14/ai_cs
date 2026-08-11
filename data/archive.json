@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-11T10:01:24.961Z",
-  "count": 248,
+  "updatedAt": "2026-08-11T13:06:54.477Z",
+  "count": 250,
   "stories": [
+    {
+      "id": "03ubxo3",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "brief": "S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is another variant in the ongoing trend of",
+      "whyItMatters": "",
+      "words": 44,
+      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nDJhjEnxo7k9DyrL4evBwNBVgGuv1CIsdfm0F5ed4HANv9HprVu790o5CVg8xQqft_tFRqLTrmQTrmkmZVTzEUZk08exDnnQjjnPLd4uhuicurtZbhpo-cMrv-yR_qIl58aJHvaPEP0aFgxpbnXYWKkk74qSytUvhk8LGSbewWumopWiQ6GECxsZ-1ff/s1600/ransomware-gunra.jpg",
+      "published": "2026-08-11T09:16:24.000Z",
+      "capturedAt": "2026-08-11T13:06:54.477Z",
+      "tags": [
+        "Breach",
+        "Ransomware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0cp2z9e",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "brief": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software and developer tools, plus the accelerated computing, libraries and educational resources that help users get started. It’s shaping up to be a big month for agents. Follow along for the latest developments in this special-edition NVIDIA Local AI blog series, with new updates added over the coming weeks. 5 Lightning , a customizable open 30B mixture-of-experts (MoE) model for always-on agents. 5 Lightning delivers up to 4x faster token generation and 30% faster time to completion compared to open models in its class.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/raig-rolling-blog-local-ai-community-open-source.jpg",
+      "published": "2026-08-11T13:00:25.000Z",
+      "capturedAt": "2026-08-11T13:06:52.871Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "00sa0h2",
       "channel": "sec",
