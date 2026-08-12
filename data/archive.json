@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-12T01:59:58.953Z",
-  "count": 258,
+  "updatedAt": "2026-08-12T04:47:05.189Z",
+  "count": 260,
   "stories": [
+    {
+      "id": "1jblt9w",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ExfilSquad Targets New Victims, Shares Data via Torrents",
+      "brief": "S. S. 8 Million Healthcare Patients Resecurity is tracking the activity of ExfilSquad – the group announced new victims this week. ExfilSquad is a new cybercrime group that emerged in mid-2026. Instead of using ransomware, it steals data and threatens to publish it on a dark web leak site unless victims pay a ransom. , the UK, and Sweden. Notably, in July, the group also targeted a major financial institution in Nigeria. “ExfilSquad announced new victims this week and set a firm deadline – August 5, 2026 – to complete all required negotiations. Otherwise, the stolen data will be released. ” reads the report published by Resecurity. ”",
+      "whyItMatters": "",
+      "words": 108,
+      "url": "https://securityaffairs.com/197025/security/exfilsquad-targets-new-victims-shares-data-via-torrents.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-27.png?resize=1024%2C607&ssl=1",
+      "published": "2026-08-11T16:44:19.000Z",
+      "capturedAt": "2026-08-12T04:47:05.189Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1khggyc",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "brief": "FBI Atlanta confirms it’s looking into the incident, no arrests made. On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement. The incident came one day after the DEF CON security conference concluded in Las Vegas, and was first described on social media accounts that follow publicly available air-to-ground messages, known as ACARS. ” This technique, sometimes known as an “ evil twin ” attack, has been long-known to the IT security community. It involves setting up a fake Wi-Fi network and then capturing login credentials and other data.",
+      "whyItMatters": "",
+      "words": 104,
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg",
+      "published": "2026-08-12T00:08:40.000Z",
+      "capturedAt": "2026-08-12T04:47:03.547Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1kqq5cd",
       "channel": "sec",
