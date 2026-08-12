@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-12T15:59:25.183Z",
-  "nextUpdateAt": "2026-08-12T18:59:25.183Z",
+  "generatedAt": "2026-08-12T19:02:33.517Z",
+  "nextUpdateAt": "2026-08-12T22:02:33.517Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "0voaaq1",
+      "id": "09jl74u",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
-      "brief": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations redefine the modern workplace, exceptional leadership has never been more vital,” Glassdoor noted. ” Glassdoor reintroduced the Best CEOs list this year after a hiatus of five years, replacing the Best-Led Companies list, which ranked NVIDIA at No. 1 in 2025, in a shift to sharpen the focus on CEO and executive leadership and its impact on employee experience and company reputation.",
+      "title": "Scaling AI agents with trustworthy data",
+      "brief": "How companies are freeing themselves of legacy data systems to power AI agents that deliver trusted, autonomous action. Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents , and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data being major blockers . Agentic AI places considerable new demands on enterprise data systems. The shift from answering questions to taking actions means AI agents need data from across the enterprise, in all its structured and unstructured forms, and with the right business context. To make decisions and act in real time, agents also need frictionless access to the organization’s operational systems—for example, those storing its supply chain, point-of-sale, or human resources data.",
       "whyItMatters": "",
-      "words": 117,
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GlassdoorBestCEOs2026_16x9.png",
-      "published": "2026-08-12T14:00:00.000Z",
-      "capturedAt": "2026-08-12T15:59:23.363Z",
+      "words": 147,
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Report-2026-cover.png",
+      "published": "2026-08-12T16:51:57.000Z",
+      "capturedAt": "2026-08-12T19:02:31.818Z",
       "tags": [
-        "Nvidia"
+        "Agent"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0l7uv2k",
+      "id": "0zmmmd6",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-      "brief": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. Microsoft addressed the flaw in this month's Patch Tuesday security updates , marking it as actively exploited in the wild . Researchers found that the Lazarus threat group has been leveraging it since early July. sys)\" that allows an attacker to increase their local privileges. The tech giant added that a locally authenticated user could run a specially crafted application on an affected system to trigger a race condition, eventually gaining SYSTEM privileges without any user interaction. A recent wave of the long-standing Operation Dream Job campaign has been targeting defense, aerospace, and aviation organizations in Europe and India, using fraudulent recruitment offers to employees in target entities.",
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "brief": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
       "whyItMatters": "",
-      "words": 131,
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/08/31/Lazarus-1.jpg",
-      "published": "2026-08-12T15:38:08.000Z",
-      "capturedAt": "2026-08-12T15:59:25.183Z",
+      "words": 58,
+      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg",
+      "published": "2026-08-12T17:39:27.000Z",
+      "capturedAt": "2026-08-12T19:02:33.517Z",
       "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
+        "Exploit",
+        "Patch",
+        "Zero-Day"
       ],
       "rewritten": false
     }
