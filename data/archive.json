@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-12T04:47:05.189Z",
-  "count": 260,
+  "updatedAt": "2026-08-12T07:26:01.870Z",
+  "count": 262,
   "stories": [
+    {
+      "id": "0omzt5e",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "brief": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026. \"Kimwolf v7 adds an HTTP/2-based",
+      "whyItMatters": "",
+      "words": 56,
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg",
+      "published": "2026-08-11T19:36:37.000Z",
+      "capturedAt": "2026-08-12T07:26:01.870Z",
+      "tags": [
+        "Cyber",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "07urhxd",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "brief": "OpenAI’s still the chatbot leader, but the race appears to be tightening fast. OpenAI’s still the chatbot leader, but the race appears to be tightening fast. For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google’s fastest-growing product ever. A billion users is a huge milestone, but Google isn’t the first AI app to hit it. OpenAI’s ChatGPT hit the mark a few weeks ago, though the company buried the announcement that “more than 1 billion people are putting ChatGPT to work” in an otherwise anodyne blog post about how people use AI. External data suggested ChatGPT crossed 1 billion users as early as this June, but OpenAI hadn’t announced anything until that post on August 6th.",
+      "whyItMatters": "",
+      "words": 140,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0%2C2.0352385861162%2C100%2C95.929522827768&w=1200",
+      "published": "2026-08-11T19:41:42.000Z",
+      "capturedAt": "2026-08-12T07:26:00.220Z",
+      "tags": [
+        "Openai",
+        "Gemini"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1jblt9w",
       "channel": "sec",
