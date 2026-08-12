@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-12T07:26:01.870Z",
-  "count": 262,
+  "updatedAt": "2026-08-12T10:06:30.480Z",
+  "count": 264,
   "stories": [
+    {
+      "id": "0pnd0g8",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Kimwolf v7 Hides DDoS Traffic Behind Chrome Fingerprints and Ethereum",
+      "brief": "S. S. 8 Million Healthcare Patients Palo Alto Networks Unit 42 discovered Kimwolf v7 on February 3, 2026, while hunting threats following public disclosures of the botnet’s earlier activity. The new version substantially upgrades the DDoS capabilities and command infrastructure of a botnet that has been targeting Android TV boxes since August 2025, while its Linux counterpart AISURU has been active since mid-2024. The operators’ core objective hasn’t changed, build a large-scale DDoS platform, but the methods for sustaining it and hiding its traffic have become considerably more sophisticated. “This version upgrades its distributed denial-of-service (DDoS) attack capabilities and the resilience of its command-and-control (C2) infrastructure. Kimwolf primarily affects Android TV boxes and set-top boxes.",
+      "whyItMatters": "",
+      "words": 115,
+      "url": "https://securityaffairs.com/197070/malware/kimwolf-v7-hides-ddos-traffic-behind-chrome-fingerprints-and-ethereum.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-29.png?resize=787%2C1024&ssl=1",
+      "published": "2026-08-12T08:27:13.000Z",
+      "capturedAt": "2026-08-12T10:06:30.480Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "13x1ltp",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AICFDPRO: How Artificial Intelligence Learns to Work With Incomplete Data - Benzinga",
+      "brief": "AICFDPRO: How Artificial Intelligence Learns to Work With Incomplete Data Benzinga",
+      "whyItMatters": "",
+      "words": 11,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjkyblJSZDA0SFRMMVpRbkVUMU4xMmVJNlpzVVpwMGdGUmwzN0c0Nll3eFJuNGxHeHA2dmZCZ0daLUp5aUFMTFEwUTRmbFZRQmJoaHFJTV80djdpSU16dVNackRnejlPZkVGTXRFRGJVQk9Zczg4bmF5SkNpOUM1M2FKdXhoc1VtdlZuNkp2YUtJX3ppVElGQ01FNWhwbmFLSVVEMFFleWlXUQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-12T09:33:20.000Z",
+      "capturedAt": "2026-08-12T10:06:29.234Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0omzt5e",
       "channel": "sec",
