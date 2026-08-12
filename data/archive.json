@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-12T19:02:33.517Z",
-  "count": 270,
+  "updatedAt": "2026-08-12T21:46:18.394Z",
+  "count": 272,
   "stories": [
+    {
+      "id": "1gxnigr",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+      "brief": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. The flaw is described as an incorrect authorization vulnerability that could be leveraged to \"gain elevated access to sensitive resources\" without authentication and is one of the seven issues that Adobe addressed in a security update yesterday. Although the software vendor states in the advisory that it is not aware of exploits in the wild for any of the fixed flaws, eCommerce security company Sansec says that its Shield web application firewall (WAF) is already blocking CVE-2026-71362 exploitation attempts. \" After analyzing Adobe’s patch, the researchers pinned the problem to Magento improperly handling customer identity in an account session. \"Sansec reviewed the patch and confirmed that the vulnerability lets attackers switch a customer session to another customer account.",
+      "whyItMatters": "",
+      "words": 142,
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/Magento.jpg",
+      "published": "2026-08-12T20:54:59.000Z",
+      "capturedAt": "2026-08-12T21:46:18.394Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0a0oc10",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "brief": "Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models. Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models. Twitch users can now opt out of allowing their content to be used to train Amazon’s generative AI models. Opting out means that “your streams, VODs, clips, stream chats, and pictures and text on your channel” won’t be used in “future training” of an Amazon AI model “whose purpose is to generate or synthesize text, audio, images, or video,” according to a Twitch support page . Other “AI-supported” features like captions and safety tools will still function if you opt-out of generative AI training.",
+      "whyItMatters": "",
+      "words": 126,
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-12T17:29:10.000Z",
+      "capturedAt": "2026-08-12T21:46:15.977Z",
+      "tags": [
+        "Model",
+        "Generative"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0zmmmd6",
       "channel": "sec",
