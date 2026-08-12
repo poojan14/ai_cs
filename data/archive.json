@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-11T21:48:30.557Z",
-  "count": 256,
+  "updatedAt": "2026-08-12T01:59:58.953Z",
+  "count": 258,
   "stories": [
+    {
+      "id": "1kqq5cd",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "brief": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. 0) and is the only",
+      "whyItMatters": "",
+      "words": 61,
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg",
+      "published": "2026-08-11T20:10:55.000Z",
+      "capturedAt": "2026-08-12T01:59:58.953Z",
+      "tags": [
+        "Patch",
+        "Zero-Day",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0zzp2i5",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "brief": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies bought chips and built data centers project by project to one in which AI factories can be financed as productive infrastructure — with repeatable platforms, long-term institutional capital and a diverse customer base that uses compute to create revenue. AI has reached an inflection point. It is moving from research into production. AI is creating real value, and the infrastructure behind it is becoming one of the world’s most productive assets. In AI, compute is revenue. NVIDIA compute is not just a chip.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png",
+      "published": "2026-08-12T00:38:21.000Z",
+      "capturedAt": "2026-08-12T01:59:57.207Z",
+      "tags": [
+        "Model",
+        "Robot",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0y1yu61",
       "channel": "sec",
