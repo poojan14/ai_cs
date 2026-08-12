@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-12T13:10:57.560Z",
-  "count": 266,
+  "updatedAt": "2026-08-12T15:59:25.183Z",
+  "count": 268,
   "stories": [
+    {
+      "id": "0l7uv2k",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "brief": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. Microsoft addressed the flaw in this month's Patch Tuesday security updates , marking it as actively exploited in the wild . Researchers found that the Lazarus threat group has been leveraging it since early July. sys)\" that allows an attacker to increase their local privileges. The tech giant added that a locally authenticated user could run a specially crafted application on an affected system to trigger a race condition, eventually gaining SYSTEM privileges without any user interaction. A recent wave of the long-standing Operation Dream Job campaign has been targeting defense, aerospace, and aviation organizations in Europe and India, using fraudulent recruitment offers to employees in target entities.",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/08/31/Lazarus-1.jpg",
+      "published": "2026-08-12T15:38:08.000Z",
+      "capturedAt": "2026-08-12T15:59:25.183Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0voaaq1",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+      "brief": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations redefine the modern workplace, exceptional leadership has never been more vital,” Glassdoor noted. ” Glassdoor reintroduced the Best CEOs list this year after a hiatus of five years, replacing the Best-Led Companies list, which ranked NVIDIA at No. 1 in 2025, in a shift to sharpen the focus on CEO and executive leadership and its impact on employee experience and company reputation.",
+      "whyItMatters": "",
+      "words": 117,
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GlassdoorBestCEOs2026_16x9.png",
+      "published": "2026-08-12T14:00:00.000Z",
+      "capturedAt": "2026-08-12T15:59:23.363Z",
+      "tags": [
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "130w9dh",
       "channel": "sec",
