@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-13T04:51:27.880Z",
-  "count": 276,
+  "updatedAt": "2026-08-13T07:27:50.058Z",
+  "count": 278,
   "stories": [
+    {
+      "id": "0ni140d",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "North Korean Lazarus Group Uses Windows Zero-Day in Operation Dream Job",
+      "brief": "S. Defense Manufacturer IEH Hit by Phishing Attack, Exposing Potentially Export-Controlled Data Check Point Research has uncovered a new wave of Operation Dream Job , the long-running North Korean campaign that lures defense and aerospace professionals with convincing fake job offers. This iteration is more dangerous than previous versions: it includes a previously unknown Windows vulnerability now patched as CVE-2026-68820 , a newly documented backdoor called Troy, and command infrastructure built almost entirely from legitimate servers the attackers didn’t build, they hijacked them. Targets confirmed in France, Germany, Brazil, and India. “The attackers used a previously unknown vulnerability in Windows (CVE-2026-68820) to gain full control of infected computers and evade EDR visibility. Check Point reported the issue to Microsoft, which released a fix before this research was published” reads the report published by Check Point Research.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://securityaffairs.com/197098/uncategorized/north-korean-lazarus-group-uses-windows-zero-day-in-operation-dream-job.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-31.png?resize=1024%2C770&ssl=1",
+      "published": "2026-08-13T07:05:03.000Z",
+      "capturedAt": "2026-08-13T07:27:50.058Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0xkuinz",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Generative Artificial Intelligence Meeting United Nations’ Sustainable Development Goals? - independentnews.com",
+      "brief": "Generative Artificial Intelligence Meeting United Nations’ Sustainable Development Goals? com",
+      "whyItMatters": "",
+      "words": 10,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT2VfWHRsT25oYzdCU0QwazR2elpSZWRzWkxvbi1TdUU3VjNwQW1uMDd2ZFdxczJWMEprOGNLRlJ5SGVPcGIzM2RjeWt5MVI2aDAtTm1RejJPZWE2Si13UEJpLUxSUnVCSGoxNnlqRElKbTBSYzk2X212VEVUQUwxUmR4UXBvblJjelhDNldZTTlNTFNiTkVHN25rVTFKWXgzczh0VUF5VnVXeEFsQmN1WWN1ejNYbzExdDZ4V2FkYjhVaDJPYkoza1pSdVFmLWtvd1pzaTA4bW9sa1lSc3VWbHhVWkQ1VTNFbWhlaWZ0d1BpWnVnbnVqOGpxN3RMZ0lTcy1sNGljekg",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-13T07:00:00.000Z",
+      "capturedAt": "2026-08-13T07:27:48.449Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1jvcln2",
       "channel": "sec",
