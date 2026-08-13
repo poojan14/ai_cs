@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-13T19:03:46.143Z",
-  "count": 286,
+  "updatedAt": "2026-08-13T21:45:41.908Z",
+  "count": 288,
   "stories": [
+    {
+      "id": "0z7prfj",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
+      "brief": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
+      "whyItMatters": "",
+      "words": 20,
+      "url": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3a1b76742bf9f5e/6a7e21b20030f83b5312474b/vmware-MaboHH-Getty-474325206.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-08-13T20:45:17.000Z",
+      "capturedAt": "2026-08-13T21:45:41.908Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "103edcl",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "brief": "Trump memo is first time gov’t has authorized private sector to perform cyberattacks. The Trump administration is recruiting private security firms to conduct federal government-authorized operations, including cyberattacks, against overseas-based criminal organizations that commit hacks on US persons, organizations, or government entities. In a National Security Presidential Memorandum issued Thursday, US President Donald Trump directed the National Coordination Center (NCC), which operates under the Homeland Security Task Force, to develop a program for conducting specific cyber operations that combat foreign transnational criminal organizations (TCOs). The Departments of Justice and Homeland Security will provide oversight. The lynchpin of that program is bringing in private sector companies to participate.",
+      "whyItMatters": "",
+      "words": 107,
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+      "published": "2026-08-13T19:38:58.000Z",
+      "capturedAt": "2026-08-13T21:45:41.032Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0se0pc5",
       "channel": "sec",
