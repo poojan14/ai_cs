@@ -1,45 +1,48 @@
 {
-  "generatedAt": "2026-08-13T15:59:14.715Z",
-  "nextUpdateAt": "2026-08-13T18:59:14.715Z",
+  "generatedAt": "2026-08-13T19:03:46.143Z",
+  "nextUpdateAt": "2026-08-13T22:03:46.143Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "0xibl0q",
+      "id": "102orp2",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "brief": "Merging Copilot will finally get rid of the annoying double icons. Merging Copilot will finally get rid of the annoying double icons. Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single “super app” interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the “Microsoft Copilot” name but features an updated app icon. The single app also means there won’t be two annoying Copilot icons in the system tray or taskbar anymore. “Starting with a fresh look, the updated app combines the best of Copilot chat and image creation, with the power of Microsoft 365 for your work,” Microsoft said in its update announcement .",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "brief": "What happens when you pit AI agents against each other? According to Anthropic’s testing, things get messy fast. On Thursday, Anthropic’s Frontier Red Team published new research examining how groups of AI agents behave when they encounter each other in the wild. The findings provide a glimpse into potential risks that could develop as companies and governments move to implement agents working autonomously across shared codebases, markets, and computer systems. In one experiment, Anthropic gave three Claude agents access to the same software project, each with its own incompatible instructions for what to do with it. The agents weren’t told there’d be other agents working on the same project, so researchers could watch what happened when they crossed paths. “We consistently saw a multiagent turf war,” Anthropic researchers wrote. ”",
       "whyItMatters": "",
-      "words": 127,
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_4636.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "2026-08-13T13:30:00.000Z",
-      "capturedAt": "2026-08-13T15:59:13.239Z",
+      "words": 130,
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
+      "published": "2026-08-13T18:28:14.000Z",
+      "capturedAt": "2026-08-13T19:03:44.414Z",
       "tags": [
-        "Copilot"
+        "Anthropic",
+        "Agent"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "183qd3a",
+      "id": "0se0pc5",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
-      "brief": "Malware that adds multiple capabilities to the infamous Mirai botnet code has been actively exploiting vulnerabilities in internet-facing hardware for at least a month, researchers said Thursday. Dubbed Evooo1Bot, the Linux-based malware targets routers and other hardware from Alcatel, D-Link, Mitsubishi Electric, Netgear, Tenda and Telesquare, according to researchers at FortiGuard Labs. Unpatched bugs in those devices allow Evooo1Bot to spread and carry out potential malicious activity, the researchers said . Evooo1Bot appears to be previously undocumented, they said. The report does not specify how many devices have been compromised worldwide, but the company’s telemetry shows activity concentrated in North America, South America, Europe, India, China and Japan.",
+      "title": "Adobe Commerce CVE-2026-71362 Comes Under Attack Shortly After Public Disclosure",
+      "brief": "S. S. 1), a critical Adobe Commerce flaw, shortly after its public disclosure . The vulnerability allows unauthenticated attackers to switch customer sessions, hijack accounts and access private data. Cybersecurity firm Sansec blocked the first exploitation attempts after Adobe published its advisory. The flaw affects Commerce, Commerce B2B and Magento Open Source versions through the July 2026 patches . Adobe released an isolated fix and urged users to patch. “Adobe has released APSB26-92 as isolated patch files. 1. ” reads the advisory published by Sansec. “Sansec reviewed the patch and confirmed that the vulnerability lets attackers switch a customer session to another customer account. ”",
       "whyItMatters": "",
-      "words": 108,
-      "url": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/botnet_8a9f2c4cc4.jpg",
-      "published": "2026-08-13T15:52:00.000Z",
-      "capturedAt": "2026-08-13T15:59:14.715Z",
+      "words": 105,
+      "url": "https://securityaffairs.com/197149/hacking/adobe-commerce-cve-2026-71362-comes-under-attack-shortly-after-public-disclosure.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-34.png",
+      "published": "2026-08-13T17:48:54.000Z",
+      "capturedAt": "2026-08-13T19:03:46.143Z",
       "tags": [
-        "Botnet"
+        "Hack",
+        "Vulnerability",
+        "Exploit"
       ],
       "rewritten": false
     }

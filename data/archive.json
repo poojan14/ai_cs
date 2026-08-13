@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-13T15:59:14.715Z",
-  "count": 284,
+  "updatedAt": "2026-08-13T19:03:46.143Z",
+  "count": 286,
   "stories": [
+    {
+      "id": "0se0pc5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Adobe Commerce CVE-2026-71362 Comes Under Attack Shortly After Public Disclosure",
+      "brief": "S. S. 1), a critical Adobe Commerce flaw, shortly after its public disclosure . The vulnerability allows unauthenticated attackers to switch customer sessions, hijack accounts and access private data. Cybersecurity firm Sansec blocked the first exploitation attempts after Adobe published its advisory. The flaw affects Commerce, Commerce B2B and Magento Open Source versions through the July 2026 patches . Adobe released an isolated fix and urged users to patch. “Adobe has released APSB26-92 as isolated patch files. 1. ” reads the advisory published by Sansec. “Sansec reviewed the patch and confirmed that the vulnerability lets attackers switch a customer session to another customer account. ”",
+      "whyItMatters": "",
+      "words": 105,
+      "url": "https://securityaffairs.com/197149/hacking/adobe-commerce-cve-2026-71362-comes-under-attack-shortly-after-public-disclosure.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-34.png",
+      "published": "2026-08-13T17:48:54.000Z",
+      "capturedAt": "2026-08-13T19:03:46.143Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "102orp2",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "brief": "What happens when you pit AI agents against each other? According to Anthropic’s testing, things get messy fast. On Thursday, Anthropic’s Frontier Red Team published new research examining how groups of AI agents behave when they encounter each other in the wild. The findings provide a glimpse into potential risks that could develop as companies and governments move to implement agents working autonomously across shared codebases, markets, and computer systems. In one experiment, Anthropic gave three Claude agents access to the same software project, each with its own incompatible instructions for what to do with it. The agents weren’t told there’d be other agents working on the same project, so researchers could watch what happened when they crossed paths. “We consistently saw a multiagent turf war,” Anthropic researchers wrote. ”",
+      "whyItMatters": "",
+      "words": 130,
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
+      "published": "2026-08-13T18:28:14.000Z",
+      "capturedAt": "2026-08-13T19:03:44.414Z",
+      "tags": [
+        "Anthropic",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "183qd3a",
       "channel": "sec",
