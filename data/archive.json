@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-13T02:02:02.592Z",
-  "count": 274,
+  "updatedAt": "2026-08-13T04:51:27.880Z",
+  "count": 276,
   "stories": [
+    {
+      "id": "1jvcln2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "brief": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. 8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
+      "whyItMatters": "",
+      "words": 50,
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg",
+      "published": "2026-08-12T09:01:54.000Z",
+      "capturedAt": "2026-08-13T04:51:27.880Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "09d8qle",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "brief": "Anthropic recently made the decision to watermark Claude’s outputs — inserting invisible code into the chatbot’s editorial text that marks it as AI-generated. Anthropic rolled out this new policy to satisfy the EU AI Act’s Transparency Code , which now requires tech companies to label content that has been AI-generated or edited in a manner identifiable to computer systems. Yet while European regulators may be happy, some AI users are decidedly not. One need look no further than Reddit to find evidence of brewing discontent, though other posters on the site are not in agreement. One of the more histrionic posts I came across was from a user named visionode, whose account is notably only three weeks old. According to visionode, the new watermarking system is a draconian conspiracy designed to victimize innocent chatbot users worldwide.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "published": "2026-08-12T22:26:37.000Z",
+      "capturedAt": "2026-08-13T04:51:26.012Z",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0ey4gie",
       "channel": "sec",
