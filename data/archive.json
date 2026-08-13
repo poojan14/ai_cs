@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-12T21:46:18.394Z",
-  "count": 272,
+  "updatedAt": "2026-08-13T02:02:02.592Z",
+  "count": 274,
   "stories": [
+    {
+      "id": "0ey4gie",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Smashing Security podcast #480: This is the AI service you should never sign up to",
+      "brief": "Would you like access to Anthropic’s Claude at 90% off the normal price? All you have to do is redirect your traffic to a mysterious service called “Poison Claude”. Only problem is that it’s run by fraudsters… Meanwhile, a phishing-as-a-service platform called “Greatness” has come up with something rather nasty: a phishing attack that doesn’t need a fake website, a suspicious URL, or your password. Just a real Microsoft login page and a moment of misplaced trust – and the attackers walk off with full access to your emails, your files, and your entire organisation. All this and more in episode 480 of the “Smashing Security” podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Lianne Potter. Join Smashing Security PLUS for ad-free episodes and our early-release feed!",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://grahamcluley.com/smashing-security-podcast-480/",
+      "source": "Graham Cluley",
+      "sourceSite": "grahamcluley.com",
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/08/ss-episode-480.webp",
+      "published": "2026-08-12T23:12:28.000Z",
+      "capturedAt": "2026-08-13T02:02:02.591Z",
+      "tags": [
+        "Phishing",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0rz8a9a",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "brief": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package. Terabytes worth of credentials, many belonging to the world’s biggest and most sensitive organizations, have been exposed in a supply-chain attack on LiteLLM, an open source tool that streamlines AI-driven software development. Microsoft, Amazon, Cisco, Samsung, and Salesforce are only a handful of the entities whose access secrets were exposed. The revelation was posted on Tuesday and Wednesday by security firms CloudSEK and Hudson Rock. CloudSEK said it found cloud keys, repository tokens, SSH keys, Kubernetes secrets, package publishing credentials, environment variables, and AI provider keys that could allow attackers to gain access to more than 2,500 organizations. The credentials were extracted during a 40-minute window in March while the victims used compromised versions of LiteLLM downloaded from the package’s official location in the Python Package Index repository.",
+      "whyItMatters": "",
+      "words": 142,
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
+      "published": "2026-08-12T21:43:21.000Z",
+      "capturedAt": "2026-08-13T02:01:57.329Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1gxnigr",
       "channel": "sec",
