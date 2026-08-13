@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-13T10:07:09.914Z",
-  "count": 280,
+  "updatedAt": "2026-08-13T13:12:23.701Z",
+  "count": 282,
   "stories": [
+    {
+      "id": "08ei4t4",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "SharePoint CVE-2026-55040 Comes Under Attack Following Public Exploit",
+      "brief": "S. 1), a critical SharePoint authentication bypass patched in July, within days of Rapid7 releasing a public proof-of-concept on August 12. The vulnerability allows an unauthenticated attacker impersonate any SharePoint user or administrator without valid credentials. Microsoft patched it in July’s Patch Tuesday, anyone who hasn’t applied that update is directly exposed. CVE-2026-55040 is a critical SharePoint authentication bypass. An unauthenticated attacker can exploit weaknesses in JWT validation to forge tokens and impersonate any SharePoint user, including administrators. “A critical authentication bypass vulnerability exists in SharePoint Server Subscription Edition’s JWT token validation pipeline. ” wrote Rapid7 .",
+      "whyItMatters": "",
+      "words": 97,
+      "url": "https://securityaffairs.com/197137/hacking/sharepoint-cve-2026-55040-comes-under-attack-following-public-exploit.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
+      "published": "2026-08-13T08:36:30.000Z",
+      "capturedAt": "2026-08-13T13:12:23.701Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1i8khkm",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "SpaceX Stock Slips as Grok Release Ramps Up AI War With Anthropic and OpenAI - Barron's",
+      "brief": "SpaceX Stock Slips as Grok Release Ramps Up AI War With Anthropic and OpenAI Barron's",
+      "whyItMatters": "",
+      "words": 15,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZndfNXBLckVYUDVORVU2SDN3cE9sWmxJMldPSklQSGpGT2xmWERYZEJMVDF1ZnAxRllONklYVGNqQVdVb3J5Sm1xZmNReDQtajY0VTd0UDZiXzVPenhCWUIxMGJRU3BTWm9FSDVOcjBEM0l5MlVqZmx1T2thaVFOaFdwd2NJQQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-13T12:21:00.000Z",
+      "capturedAt": "2026-08-13T13:12:21.835Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "10e3kl5",
       "channel": "sec",
