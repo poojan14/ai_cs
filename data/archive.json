@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-14T13:07:34.376Z",
-  "count": 298,
+  "updatedAt": "2026-08-14T15:52:33.462Z",
+  "count": 300,
   "stories": [
+    {
+      "id": "1vw4g2n",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Chess.com Leak Exposes 7.3 Million Users – Evidence Points to Scraping",
+      "brief": "S. 2 Million Israeli Records Sold as a New Breach Are 20 Years Old Free is a strange price for stolen data, and that’s exactly what makes this listing worth a second look. com user records showed up on two data-leak forums this week, no cost, no ransom demand, just handed out. Ransomnews’s technical analysis confirms the data is real and recent. What it isn’t, on the evidence, is a hack.",
+      "whyItMatters": "",
+      "words": 71,
+      "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-36.png?resize=1024%2C534&ssl=1",
+      "published": "2026-08-14T08:24:21.000Z",
+      "capturedAt": "2026-08-14T15:52:33.462Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "04ezq8n",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "brief": "US groups release cheaper models after new challenges to their trillion-dollar ambitions. Leading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switching to cut-price alternatives from Chinese rivals. The price war comes as rising AI bills push companies to curb usage and seek cheaper models, helping Chinese developers including Moonshot and DeepSeek make inroads with users from Silicon Valley to Europe. 6 Luna, its “fastest and most affordable model”, by 80 percent. Anthropic has launched Claude Opus 5, touting the system’s “frontier intelligence… at half the price” of Fable 5, the company’s most capable model. The moves have helped decrease prices that customers are paying for models from leading US labs by almost a quarter since mid-July, according to Silicon Data’s token price index.",
+      "whyItMatters": "",
+      "words": 137,
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
+      "published": "2026-08-14T14:27:14.000Z",
+      "capturedAt": "2026-08-14T15:52:32.261Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "13hwje1",
       "channel": "sec",
