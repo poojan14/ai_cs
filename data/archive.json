@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-13T21:45:41.908Z",
-  "count": 288,
+  "updatedAt": "2026-08-14T02:00:17.538Z",
+  "count": 290,
   "stories": [
+    {
+      "id": "16g63py",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
+      "brief": "\" Some users on Reddit are reporting that they received these alerts today after Apple sent out a new batch of threat notifications on August 13, but the feature itself is not new. Apple has been sending these threat notifications multiple times a year since 2021, when it detects highly targeted mercenary spyware attacks. It's also worth pointing out that Apple does not identify the spyware behind individual alerts, so there's no evidence that today's notifications are specifically related to Pegasus. However, Apple itself cites NSO Group's Pegasus as an example of mercenary spyware historically associated with this type of attack, and forensic investigations into previous Apple threat notifications have confirmed Pegasus infections in some cases. In a support document , Apple previously confirmed it sends threat notifications to users in more than 150 countries after detecting highly targeted mercenary spyware attacks against specific iPhone users.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/05/29/apple.jpg",
+      "published": "2026-08-14T01:19:12.000Z",
+      "capturedAt": "2026-08-14T02:00:17.538Z",
+      "tags": [
+        "Attack",
+        "Spyware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0tqi8dq",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "brief": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot’s voice mode. In a support page , Microsoft says it’s going to move Mico to its Learn Live platform, where the avatar will have “more to react to,” as reported earlier by GeekWire . ” The blob would react to what you say in real-time, complete with facial expressions and animations. Mico joins the long list of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover. “Mico helped us learn about warmth, expressiveness, and how people want to talk with AI,” Microsoft’s support page says. ”",
+      "whyItMatters": "",
+      "words": 107,
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&strip=all&crop=0%2C0.79936424831713%2C100%2C98.401271503366&w=1200",
+      "published": "2026-08-13T21:42:38.000Z",
+      "capturedAt": "2026-08-14T02:00:15.034Z",
+      "tags": [
+        "Chatbot",
+        "Copilot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0z7prfj",
       "channel": "sec",
