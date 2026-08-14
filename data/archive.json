@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-14T15:52:33.462Z",
-  "count": 300,
+  "updatedAt": "2026-08-14T18:54:41.642Z",
+  "count": 302,
   "stories": [
+    {
+      "id": "0cewdwt",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "brief": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers’ bank accounts. 6 million). 8 billion) in annual revenue. In a statement for BleepingComputer, the bank confirmed that its clients were impacted by the fraudulent activity but customers suffered no financial losses. \"The fraud case is known and dates back to 2023. Due to technical issues at a service provider, unauthorized direct debits were made from customer accounts. There was no financial loss to customers. We cooperated closely and extensively with the authorities,\" a Commerzbank spokesperson told Bleeping Computer.",
+      "whyItMatters": "",
+      "words": 111,
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/11/arrest.jpg",
+      "published": "2026-08-14T18:04:26.000Z",
+      "capturedAt": "2026-08-14T18:54:41.642Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0oysbnc",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "brief": "This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of Excellence initiative, UGM Indosat NVAITC brings government, industry and academia together to develop AI that addresses Indonesia’s most urgent national priorities. “The Indonesia AI Center of Excellence reflects our long-term vision to position Indonesia as a nation that not only adopts AI but also develops and contributes AI innovations to the world,” said Meutya Hafid, Indonesia’s Minister of Communication and Digital Affairs. ” “UGM is committed to supporting Indonesia’s AI ambitions through education, research, and innovation that deliver real societal impact,” said Prof. dr. D. ”",
+      "whyItMatters": "",
+      "words": 133,
+      "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Launching-Ceremony-2-1-scaled.jpeg",
+      "published": "2026-08-14T17:13:05.000Z",
+      "capturedAt": "2026-08-14T18:54:40.001Z",
+      "tags": [
+        "Model",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1vw4g2n",
       "channel": "sec",
