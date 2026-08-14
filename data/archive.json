@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-14T18:54:41.642Z",
-  "count": 302,
+  "updatedAt": "2026-08-14T21:25:10.164Z",
+  "count": 304,
   "stories": [
+    {
+      "id": "1aef98l",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Apple warned hundreds of users of mercenary spyware attacks",
+      "brief": "S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Apple has sent a new round of threat notifications to users it believes may have been singled out by mercenary spyware . The company told TechCrunch the latest alerts reached people in 110 countries, adding to notifications it has already issued in more than 150 countries since the programme began in 2021. “Apple threat notifications are designed to inform and assist users who may have been individually targeted by mercenary spyware attacks, likely because of who they are or what they do. ” reads the alert. “Mercenary spyware attacks cost millions of dollars and often have a short shelf life, making them much harder to detect and prevent. ”",
+      "whyItMatters": "",
+      "words": 125,
+      "url": "https://securityaffairs.com/197208/malware/apple-warned-hundreds-of-users-of-mercenary-spyware-attacks.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-39.png?resize=1024%2C331&ssl=1",
+      "published": "2026-08-14T17:09:46.000Z",
+      "capturedAt": "2026-08-14T21:25:10.163Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0cvtyoy",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "brief": "“We don’t have access to the data on the hardware/servers,” Iron Mountain told Ars. After its cloud storage provider went defunct, a PBS affiliate decided to sue a data center provider to regain access to 50TB of TV shows, videos, and other data dating back 70 years. As reported this week by Current , a trade newspaper covering public broadcasting, St. Louis affiliate Nine PBS filed a lawsuit against Iron Mountain Data Centers on July 28, seeking access to the data. In the litigation filed in Denver District Court, Nine PBS says that its cloud storage provider, Open Source Storage (OSS), used one of Iron Mountain’s Denver data centers to store the channel’s data. However, OSS is being unresponsive, and Nine PBS says Iron Mountain has refused to release its data. The data in question includes the station’s coverage of the COVID-19 pandemic, East St.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
+      "published": "2026-08-14T17:03:54.000Z",
+      "capturedAt": "2026-08-14T21:25:08.388Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0cewdwt",
       "channel": "sec",
