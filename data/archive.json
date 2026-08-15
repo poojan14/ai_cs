@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-15T09:26:09.556Z",
-  "count": 312,
+  "updatedAt": "2026-08-15T12:38:18.913Z",
+  "count": 314,
   "stories": [
+    {
+      "id": "05u2gr7",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
+      "brief": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
+      "whyItMatters": "",
+      "words": 27,
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-08-14T17:32:46.000Z",
+      "capturedAt": "2026-08-15T12:38:18.913Z",
+      "tags": [
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0saua11",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Artificial intelligence (AI) agents, who made gym classes book instead, found loopholes in the reser.. - 매일경제",
+      "brief": "Artificial intelligence (AI) agents, who made gym classes book instead, found loopholes in the reser.. 매일경제",
+      "whyItMatters": "",
+      "words": 16,
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SYWw2RjNScDRBd0V0b2M3cmxxMUFOUEpXTHk3eDduRTFpWTdkYnB3QzB1RE5zWWlmMHVhblptelZRYWRhcmp2OEstQQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-15T10:56:08.000Z",
+      "capturedAt": "2026-08-15T12:38:17.543Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1y17cx2",
       "channel": "sec",
