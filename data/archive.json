@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-15T12:38:18.913Z",
-  "count": 314,
+  "updatedAt": "2026-08-15T15:20:30.507Z",
+  "count": 316,
   "stories": [
+    {
+      "id": "1y9p34e",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+      "brief": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. The malware's capabilities extend beyond turning devices into proxy nodes and include credential theft, SSH brute-forcing, and launching distributed denial-of-service (DDoS) attacks. Since at least July, Evooo1Bot has been targeting devices from Alcatel, NETGEAR, Tenda, Mitsubishi Electric, Telesquare, and D-Link across various regions by exploiting known vulnerabilities. “While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including encrypted C2 communications, an SSH brute-force scanner, a SOCKS relay module, a credential sniffer, and an integrated exploit arsenal targeting multiple known vulnerabilities,” Fortinet researchers found . Newer builds include a separate vulnerability-exploitation module targeting Hikvision cameras, Atlassian Confluence, Zyxel firewalls, TP-Link routers, D-Link NAS devices, WSO2 products, Kubernetes ingress-nginx, and vulnerable PHP-CGI installations.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/11/01/botnet-kill-switch.jpg",
+      "published": "2026-08-15T14:14:38.000Z",
+      "capturedAt": "2026-08-15T15:20:30.507Z",
+      "tags": [
+        "Malware",
+        "Botnet"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1hvd972",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "brief": "Meta released Glimmer this week , an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s hosts point out, the vision comes with some asterisks . On this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Rebecca Bellan take a look at Glimmer, Zuckerberg’s 6,500-word manifesto, and more of the week’s headlines, from the true cost of the AI industry’s energy needs to a $250M acquisition gone very wrong.",
+      "whyItMatters": "",
+      "words": 118,
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
+      "published": "2026-08-14T14:00:00.000Z",
+      "capturedAt": "2026-08-15T15:20:28.327Z",
+      "tags": [
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "05u2gr7",
       "channel": "sec",
