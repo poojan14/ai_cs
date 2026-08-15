@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-15T03:39:15.130Z",
-  "count": 308,
+  "updatedAt": "2026-08-15T06:39:05.882Z",
+  "count": 310,
   "stories": [
+    {
+      "id": "0j4l8v1",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "brief": "The Netherlands’ National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. The security issue lies in macOS Screen Sharing, a built-in remote desktop feature that allows remote desktop control over a network, using the VNC protocol over TCP port 5900. 1 and earlier releases. The flaw allows network-based attackers to gain access without valid credentials. An attacker could use this access to open applications remotely, access files, change security settings, and perform various other actions. In an update to the initial advisory, the Dutch agency said it received a report indicating that the vulnerability is being exploited in the wild in attacks where port 5900 is exposed to the internet. According to the NCSC, the attacker obtained root access to the system and deployed a Monero cryptocurrency miner.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/Apple.jpg",
+      "published": "2026-08-14T14:59:55.000Z",
+      "capturedAt": "2026-08-15T06:39:05.881Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1myr93l",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "A public consultation on a proposed artificial intelligence (AI) data center here broke down on Friday, Aug. 14, after the Norwegian proponent walked out of the venue and then hurled insults and legal threats at journalists covering the event. Link to the full story - facebook.com",
+      "brief": "A public consultation on a proposed artificial intelligence (AI) data center here broke down on Friday, Aug. 14, after the Norwegian proponent walked out of the venue and then hurled insults and legal threats at journalists covering the event. com",
+      "whyItMatters": "",
+      "words": 40,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcExjdVMzU0syUHdjMGN1aWdwdXFtRHJPUFFBSHg2OW1kbWFkbFZVU0V2S0NRdTRHMlppd05VS0c3eXc3NHhtZWpPbTJNeXhCNDVZVVRaNVBCY3NlM3hDZFlMQ0xIYmZhZUhhLTVFaFRWczdheXRnZ29QOWVhYzFibHRUcU9BVVBWMnhOSG9jeTFkR2FfMGZLc2EwMkZPaFVkZ2pJQTdqWjB5N0taRDJBX0I1RlNtcVBEdHpheUhxQ01lWnl2N3VWM2R5RGhnU2ZuTEg3djVNa2tieWhkcUE",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-15T04:50:42.000Z",
+      "capturedAt": "2026-08-15T06:39:03.812Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "00qipgt",
       "channel": "sec",
