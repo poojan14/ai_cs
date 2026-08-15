@@ -1,46 +1,47 @@
 {
-  "generatedAt": "2026-08-15T15:20:30.507Z",
-  "nextUpdateAt": "2026-08-15T18:20:30.507Z",
+  "generatedAt": "2026-08-15T18:30:30.530Z",
+  "nextUpdateAt": "2026-08-15T21:30:30.530Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1hvd972",
+      "id": "0y9n0ne",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "brief": "Meta released Glimmer this week , an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s hosts point out, the vision comes with some asterisks . On this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Rebecca Bellan take a look at Glimmer, Zuckerberg’s 6,500-word manifesto, and more of the week’s headlines, from the true cost of the AI industry’s energy needs to a $250M acquisition gone very wrong.",
+      "title": "MangoLiving Announces Dallas Launch of AI Powered Home Search and Agent Insights Platform - markets.businessinsider.com",
+      "brief": "com",
       "whyItMatters": "",
-      "words": 118,
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
-      "published": "2026-08-14T14:00:00.000Z",
-      "capturedAt": "2026-08-15T15:20:28.327Z",
+      "words": 1,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcEJkWVFBMXNQNUs5RnhPb2x1NTlQdDBEMk1IaHFEM2hiTzJ2ejlPYlIzaHhIMzdSVW5vMVF4VHFVR1BPNGlJb0V4TDVieFktdmh1ZGhIaVprWW51anloWUUzWFRvT3JxdUJQTTBQRHkxaXdwQ01IbDMwdldlTkxsZEJMcW5BUHhTODcwRWV1YkZJMTR4anpjcUM3V3NzeUVJUnlSWmk1dXA5OC0tUk1MUko5Zjg4QUUwTUhaODdsZE9wbjdFT08xR0JZRTV5MVk0emstZ2ZzMGFsR1hXcU5ESzl3",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-15T17:35:27.000Z",
+      "capturedAt": "2026-08-15T18:30:28.509Z",
       "tags": [
-        "Model"
+        "Agent"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "1y9p34e",
+      "id": "0as3vs5",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-      "brief": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. The malware's capabilities extend beyond turning devices into proxy nodes and include credential theft, SSH brute-forcing, and launching distributed denial-of-service (DDoS) attacks. Since at least July, Evooo1Bot has been targeting devices from Alcatel, NETGEAR, Tenda, Mitsubishi Electric, Telesquare, and D-Link across various regions by exploiting known vulnerabilities. “While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including encrypted C2 communications, an SSH brute-force scanner, a SOCKS relay module, a credential sniffer, and an integrated exploit arsenal targeting multiple known vulnerabilities,” Fortinet researchers found . Newer builds include a separate vulnerability-exploitation module targeting Hikvision cameras, Atlassian Confluence, Zyxel firewalls, TP-Link routers, D-Link NAS devices, WSO2 products, Kubernetes ingress-nginx, and vulnerable PHP-CGI installations.",
+      "title": "Crooks Are Buying Your Expired Domains and Using Them to Deliver Malware",
+      "brief": "GeoServer Zero-Day Is Already Being Probed. S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Every day, roughly 65,000 domain names that once belonged to someone else get re-registered by a new owner. Infoblox Threat Intel calls these dropcatch domains, and in the first half of 2026 they accounted for nearly 20% of all new domain registrations, meaning one in five “new” domains has a prior life. Some end up with legitimate investors or researchers. Others end up with attackers who have figured out that a domain with history is worth more than a blank slate.",
       "whyItMatters": "",
-      "words": 146,
-      "url": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/11/01/botnet-kill-switch.jpg",
-      "published": "2026-08-15T14:14:38.000Z",
-      "capturedAt": "2026-08-15T15:20:30.507Z",
+      "words": 103,
+      "url": "https://securityaffairs.com/197251/uncategorized/crooks-are-buying-your-expired-domains-and-using-them-to-deliver-malware.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-42.png?resize=1024%2C637&ssl=1",
+      "published": "2026-08-15T17:48:02.000Z",
+      "capturedAt": "2026-08-15T18:30:30.530Z",
       "tags": [
+        "Hack",
         "Malware",
-        "Botnet"
+        "Exploit"
       ],
       "rewritten": false
     }
