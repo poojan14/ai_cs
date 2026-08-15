@@ -1,7 +1,45 @@
 {
-  "updatedAt": "2026-08-15T18:30:30.530Z",
-  "count": 318,
+  "updatedAt": "2026-08-15T21:21:30.564Z",
+  "count": 320,
   "stories": [
+    {
+      "id": "1r6ik2g",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "How Anthropic plans to watermark Claude's AI-generated text",
+      "brief": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. As you may be aware, the EU now requires AI companies serving its market to mark their AI-generated content so it's easier to identify. Anthropic and several other major AI providers have agreed to comply with the EU's Code of Practice, with Anthropic becoming one of the first companies to share details about how it will implement watermarking across Claude. Anthropic has also confirmed that a regular user won't be able to see the watermark. According to the company, it has no practical impact on the quality or content of Claude's output, including creativity and readability.",
+      "whyItMatters": "",
+      "words": 127,
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg",
+      "published": "2026-08-14T23:24:17.000Z",
+      "capturedAt": "2026-08-15T21:21:30.563Z",
+      "tags": [],
+      "rewritten": false
+    },
+    {
+      "id": "1klzn65",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "brief": "Scribble some nonsense, offer wooden jokes, or make your own requests of a real human playing a fake AI. Scribble some nonsense, offer wooden jokes, or make your own requests of a real human playing a fake AI. Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there’s a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.",
+      "whyItMatters": "",
+      "words": 109,
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=8.7465986394558%2C0%2C82.506802721088%2C100&w=1200",
+      "published": "2026-08-15T20:45:00.000Z",
+      "capturedAt": "2026-08-15T21:21:28.305Z",
+      "tags": [
+        "Chatbot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0as3vs5",
       "channel": "sec",
