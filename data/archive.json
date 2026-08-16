@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-16T06:40:22.595Z",
-  "count": 326,
+  "updatedAt": "2026-08-16T09:27:22.859Z",
+  "count": 328,
   "stories": [
+    {
+      "id": "18qq9lu",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Friday Squid Blogging: Searching for the Colossal Squid",
+      "brief": "Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down there. Lots of footage of giant squid, and speculation about the colossal squid. Worth watching. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.",
+      "whyItMatters": "",
+      "words": 83,
+      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
+      "source": "Schneier on Security",
+      "sourceSite": "schneier.com",
+      "image": "",
+      "published": "2026-08-14T21:01:49.000Z",
+      "capturedAt": "2026-08-16T09:27:22.859Z",
+      "tags": [
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "14bz36k",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
+      "brief": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ The Guardian",
+      "whyItMatters": "",
+      "words": 20,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-16T08:00:00.000Z",
+      "capturedAt": "2026-08-16T09:27:21.305Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0m3c5g4",
       "channel": "sec",
