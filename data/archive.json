@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-16T09:27:22.859Z",
-  "count": 328,
+  "updatedAt": "2026-08-16T12:39:33.493Z",
+  "count": 330,
   "stories": [
+    {
+      "id": "0y698ru",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "APT36 Suspected in PATCHCORD Espionage Campaign Using Google Sheets C2",
+      "brief": "GeoServer Zero-Day Is Already Being Probed. S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Researchers at Acronis just documented an espionage operation that reads like it was built by someone with genuinely good taste in disguises. Their Threat Research Unit report tracks a previously undocumented backdoor called PATCHCORD, hitting Afghan telecom providers and South Asian critical infrastructure through fake VPN installers and management tools branded to look exactly like the real thing. “Acronis Threat Research Unit (TRU) has identified an ongoing campaign delivering a previously undocumented custom backdoor against Afghan telecom providers and South Asian critical infrastructure organizations. ” reads the Acronis’s report . “Infrastructure pivoting uncovered SHEETCORD, a Go-based implant that builds on PATCHCORD’s capabilities while abusing Google Sheets for C2 communication. ”",
+      "whyItMatters": "",
+      "words": 132,
+      "url": "https://securityaffairs.com/197266/intelligence/apt36-suspected-in-patchcord-espionage-campaign-using-google-sheets-c2.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-43.png?resize=1024%2C482&ssl=1",
+      "published": "2026-08-16T07:24:53.000Z",
+      "capturedAt": "2026-08-16T12:39:33.493Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1nsthlw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "brief": "AI coding startup Cursor is now officially a part of SpaceX, according to an announcement on the Cursor blog . Elon Musk’s SpaceX — which also acquired Musk’s xAI earlier this year — announced a deal in April for the companies to develop technology together; the deal also gave SpaceX the option to acquire Cursor for $60 billion. Two months later, as SpaceX became a public company, the companies said they were moving forward with the acquisition . In its announcement that the deal has closed, Cursor repeatedly referenced SpaceX’s computing infrastructure, which the company has been renting out to customers including Anthropic and Google . ” “SpaceX is building the computing capacity needed to scale intelligence far beyond what exists today,” the company added. ”",
+      "whyItMatters": "",
+      "words": 126,
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+      "published": "2026-08-15T16:30:00.000Z",
+      "capturedAt": "2026-08-16T12:39:32.042Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "18qq9lu",
       "channel": "sec",
