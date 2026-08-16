@@ -1,7 +1,45 @@
 {
-  "updatedAt": "2026-08-16T01:20:37.232Z",
-  "count": 322,
+  "updatedAt": "2026-08-16T03:49:03.604Z",
+  "count": 324,
   "stories": [
+    {
+      "id": "0d9lh9r",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
+      "brief": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
+      "whyItMatters": "",
+      "words": 20,
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82eda035ca3e22ea/6a7f3bb6faf5c1cbf257cd7b/Edinburgh-StephenBridger-Getty.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-08-14T15:58:50.000Z",
+      "capturedAt": "2026-08-16T03:49:03.604Z",
+      "tags": [
+        "Breach"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ekt1yz",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Home province of DeepSeek, Moonshot founders seeks to retain future AI talent - scmp.com",
+      "brief": "com",
+      "whyItMatters": "",
+      "words": 1,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZG9WYjhBREN3RFhWNFdaYXp2eDJPT2pybFQ0M3JNYXQzNE9vdzBlT04tTmNPa1hMWTE1LWt1LWhiMVB5cWFMYnJrdE5NU0JRNnV0ODdzNHZBZ2Q4UUtObGQ5VFFiQTB6Z09reUU2bGE4b05CX19mRGNiRFRfRHg0Wk9fSzJBOXRaQ19iVFpfNmtKdW9La09mdkY0TVVSbF9jbkVBQWZhWXI4ZTlXTlVySVI5cWRZVTgzcG9DZ2xKUWVpd0FXZGJfRNIByAFBVV95cUxQbU1LTTg0TkJrVzQtUXpmMHFScGJMd2xlY3lEZV9WeHZLTUk4cFZwbHp4MkhWaGhqYUFLenhHSmpLcWdtRU9SZHZvS3RJb1l5ekhyMjhVN0h1c2p5WU9RbEFKMzlmTU9XS0kxY05zVHZKMWMtRTFzb29MT0Ewb2ZVLWtUZ0Q5ZlRxQzViaUlRNHAzVEM4T2tGQWFWZzljZ19hYmFiRVBjUU9qSUhVS0M3bUI0S3g0RkxPNzJiUnZNNGVIYjRVbUM2LQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-16T03:00:12.000Z",
+      "capturedAt": "2026-08-16T03:49:02.261Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0fhps3u",
       "channel": "sec",
