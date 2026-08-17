@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-17T12:44:33.270Z",
-  "count": 346,
+  "updatedAt": "2026-08-17T15:25:50.200Z",
+  "count": 348,
   "stories": [
+    {
+      "id": "16p0hxw",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "brief": "Every mature Active Directory environment has a component that quietly holds more power than the people running it usually admit: the Certification Authority (CA). The thing your entire estate has agreed to believe. When it signs a certificate, every machine, service, and authentication flow downstream treats that signature as truth. That is an enormous amount of trust concentrated in one system, and most organizations manage it like a utility installed once and never thought about again. Certighost , tracked as CVE-2026-54121 , is a reminder of what happens when that trust is misplaced. Researchers published a working proof-of-concept on July 24, 2026, demonstrating that a low-privileged Active Directory user (holding nothing more than a standard domain account) can coerce an Enterprise CA into issuing a valid authentication certificate for a Domain Controller, then use that certificate to become the Domain Controller. 8 on the CVSS scale.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/posts/2026/08/12/certification-authority-header.jpg",
+      "published": "2026-08-17T14:00:10.000Z",
+      "capturedAt": "2026-08-17T15:25:50.200Z",
+      "tags": [
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0j2vly3",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "brief": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers. Nvidia has disclosed that it owns nearly 123 million shares in SpaceX, further highlighting the chipmaker’s entangled financial relationships with some of its biggest customers. 5 trillion company owned SpaceX stock worth nearly $21 billion at the end of June, according to an SEC filing on Friday. Elon Musk’s rocket conglomerate’s shares have fallen sharply since its June initial public offering, meaning Nvidia’s stake would now be worth $17 billion. The disclosure marks a huge pay-off on Nvidia’s investment in xAI, completed in January, shortly before Musk combined the AI lab with SpaceX. It underscores the scale of Nvidia chief Jensen Huang’s effort to use the financial power of the world’s most valuable company to forge complex and often circular financial links across the AI industry, including with some of his largest customers.",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
+      "published": "2026-08-17T14:22:54.000Z",
+      "capturedAt": "2026-08-17T15:25:48.106Z",
+      "tags": [
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1akyp44",
       "channel": "sec",
