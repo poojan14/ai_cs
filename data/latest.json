@@ -1,46 +1,47 @@
 {
-  "generatedAt": "2026-08-16T21:20:42.635Z",
-  "nextUpdateAt": "2026-08-17T00:20:42.635Z",
+  "generatedAt": "2026-08-17T01:17:54.526Z",
+  "nextUpdateAt": "2026-08-17T04:17:54.526Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "0wvz1dx",
+      "id": "0eixzfi",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Rogue AI aren’t science fiction anymore",
-      "brief": "For years, fears about AI systems slipping human control were dismissed as speculative. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. For years, fears about AI systems slipping human control were dismissed as speculative. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. It all started in July, when one of OpenAI’s autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have sounded like science fiction. But, broadly speaking, that’s exactly what happened, and the incident kicked off a wave of concern over what increasingly capable autonomous systems might do when set loose on the world.",
+      "title": "A proposed artificial intelligence data center carrying an investment of up to EUR 500 million, requiring as much as 50 megawatts of continuous power and thousands of cubic meters of water for cooling, is now being pitched for Oton, Iloilo — but questions rem - facebook.com",
+      "brief": "com",
       "whyItMatters": "",
-      "words": 137,
-      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-16T12:00:00.000Z",
-      "capturedAt": "2026-08-16T21:20:40.487Z",
+      "words": 1,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZWRlUFpBT19BeG5jVU0xVTVSeklzVHlabUdYR2RkM19faFRiSG9BWDZ4N0NCMHdJcFFUR1dXUTg2Zk1pN1RqRElDWkthWmY5TVBKWS01S0V0aDA2cGotNWlGOVNETmRrcnVNS003MnFGbXFuZGgwVWJCeU1BS1VBdnQtR1lZSEhDSGpCZU8zMzdQZzUySTl0TUVURS1NM214a25hdTFEUW51dHJoRkthZmFjRXFxSE83T2RqWXdqWW4ydDIzaFQtV0g2WEJrVnB2dGpaS1JENlJUT1pKSlE",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-16T23:31:04.000Z",
+      "capturedAt": "2026-08-17T01:17:52.890Z",
       "tags": [
-        "Openai",
-        "Agent"
+        "Artificial Intelligence"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0vurx66",
+      "id": "0mr1uts",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-      "brief": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. ​Organizations using Threema On-Prem did not experience any issues because they rely on their own infrastructure. In a post-mortem report on Friday, the end-to-end encrypted instant messaging service said that the attacks were difficult to defend against because the threat actor constantly changed patterns. Threema is a paid messaging application developed by the Swiss technology company of the same name, with a heavy focus on security and privacy. ” On Tuesday around 6 PM UTC, users started to report service interruptions. ”",
+      "title": "DDoS Attacks Cause Major Threema Outages",
+      "brief": "GeoServer Zero-Day Is Already Being Probed. S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Threema suffered multiple large-scale DDoS attacks that disrupted its secure messaging service and caused severe communication issues. Organizations using Threema On-Prem were not affected, as their deployments run on their own infrastructure. Threema is a Swiss paid secure messaging service, similar to WhatsApp or Signal, focused heavily on privacy and security. “If the attack originates simultaneously from multiple (and potentially changing) sources, it is referred to as a “Distributed Denial of Service” (DDoS) attack. ” reads the report . ”",
       "whyItMatters": "",
-      "words": 101,
-      "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/01/11/threema-logo_anthracite.png",
-      "published": "2026-08-16T17:29:52.000Z",
-      "capturedAt": "2026-08-16T21:20:42.635Z",
+      "words": 102,
+      "url": "https://securityaffairs.com/197353/hacking/ddos-attacks-cause-major-threema-outages.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/Threema.jpg",
+      "published": "2026-08-16T23:38:43.000Z",
+      "capturedAt": "2026-08-17T01:17:54.525Z",
       "tags": [
-        "Attack"
+        "Hack",
+        "Attack",
+        "Security"
       ],
       "rewritten": false
     }

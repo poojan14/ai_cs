@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-16T21:20:42.635Z",
-  "count": 336,
+  "updatedAt": "2026-08-17T01:17:54.526Z",
+  "count": 338,
   "stories": [
+    {
+      "id": "0mr1uts",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "DDoS Attacks Cause Major Threema Outages",
+      "brief": "GeoServer Zero-Day Is Already Being Probed. S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Threema suffered multiple large-scale DDoS attacks that disrupted its secure messaging service and caused severe communication issues. Organizations using Threema On-Prem were not affected, as their deployments run on their own infrastructure. Threema is a Swiss paid secure messaging service, similar to WhatsApp or Signal, focused heavily on privacy and security. “If the attack originates simultaneously from multiple (and potentially changing) sources, it is referred to as a “Distributed Denial of Service” (DDoS) attack. ” reads the report . ”",
+      "whyItMatters": "",
+      "words": 102,
+      "url": "https://securityaffairs.com/197353/hacking/ddos-attacks-cause-major-threema-outages.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/Threema.jpg",
+      "published": "2026-08-16T23:38:43.000Z",
+      "capturedAt": "2026-08-17T01:17:54.525Z",
+      "tags": [
+        "Hack",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0eixzfi",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "A proposed artificial intelligence data center carrying an investment of up to EUR 500 million, requiring as much as 50 megawatts of continuous power and thousands of cubic meters of water for cooling, is now being pitched for Oton, Iloilo — but questions rem - facebook.com",
+      "brief": "com",
+      "whyItMatters": "",
+      "words": 1,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZWRlUFpBT19BeG5jVU0xVTVSeklzVHlabUdYR2RkM19faFRiSG9BWDZ4N0NCMHdJcFFUR1dXUTg2Zk1pN1RqRElDWkthWmY5TVBKWS01S0V0aDA2cGotNWlGOVNETmRrcnVNS003MnFGbXFuZGgwVWJCeU1BS1VBdnQtR1lZSEhDSGpCZU8zMzdQZzUySTl0TUVURS1NM214a25hdTFEUW51dHJoRkthZmFjRXFxSE83T2RqWXdqWW4ydDIzaFQtV0g2WEJrVnB2dGpaS1JENlJUT1pKSlE",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-16T23:31:04.000Z",
+      "capturedAt": "2026-08-17T01:17:52.890Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0vurx66",
       "channel": "sec",
