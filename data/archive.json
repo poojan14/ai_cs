@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-17T06:55:59.309Z",
-  "count": 342,
+  "updatedAt": "2026-08-17T09:41:37.202Z",
+  "count": 344,
   "stories": [
+    {
+      "id": "0ht2ld7",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "McDonald’s Employee Data Appears in Leak, Seller Claims 1.7M Records Stolen",
+      "brief": "7M Records Stolen GeoServer Zero-Day Is Already Being Probed. S. 7 million-record employee directory obtained using stolen credentials. Ransomnews’s technical breakdown found the sample holds up as genuine on every test that can be run against it. 7 million figure is real. 7M+ Azure Internal Employee Dump”. The seller, an account called TheHatman, writes that the data was “downloaded directly from Azure Tenant using compromised credentials” and that it contains “employee accounts, service accounts, and other tenant account records”. No price is named. ” reads the report published by Ransomnews.",
+      "whyItMatters": "",
+      "words": 90,
+      "url": "https://securityaffairs.com/197322/cyber-crime/mcdonalds-employee-data-appears-in-leak-seller-claims-1-7m-records-stolen.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-46.png?resize=1024%2C512&ssl=1",
+      "published": "2026-08-17T07:58:47.000Z",
+      "capturedAt": "2026-08-17T09:41:37.202Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1kdvg9e",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "brief": "AI companion toys for neurodivergent children promise connection and therapy, but can they deliver for the long haul? When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other, Moxie’s changed. She doesn’t talk anymore about her home or do their animal breathing. Now, she watches Xander play Minecraft and talks to him about his stuffed animal collection. , then to Brocollo and Apple from Animal Crossing. Then he got stuck on a round, froglike creature with bug eyes and two feet. “Moxie, what’s his name again? He’s from Pikmin,” Xander said, referencing another Nintendo video game.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
+      "published": "2026-08-17T09:00:00.000Z",
+      "capturedAt": "2026-08-17T09:41:35.794Z",
+      "tags": [
+        "Model",
+        "Chatbot",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0fwzovd",
       "channel": "sec",
