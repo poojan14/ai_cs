@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-17T01:17:54.526Z",
-  "count": 338,
+  "updatedAt": "2026-08-17T03:50:48.510Z",
+  "count": 340,
   "stories": [
+    {
+      "id": "01fdboo",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+      "brief": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. SafePal says the breach impacts customers who placed orders between March 2, 2025, and April 11, 2026, exposing their names, email addresses, shipping addresses, phone numbers, and purchase information. The company says the breach did not expose customers' wallet seed phrases, private keys, passwords, bank account information, payment card numbers, government-issued identification numbers, or other credentials. \"No evidence has been found that the incident itself compromised access to SafePal wallets or funds,\" SafePal said in a security advisory published Sunday. \" SafePal has also launched an online verification tool that lets customers enter their order number and shipping country to determine whether the details of that order were stolen.",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/16/safepal-header.jpg",
+      "published": "2026-08-16T23:47:06.000Z",
+      "capturedAt": "2026-08-17T03:50:48.510Z",
+      "tags": [
+        "Breach",
+        "Exploit",
+        "Threat Actor"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0vfl6pj",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "brief": "It’s just the latest shakeup of its safety teams as it heads towards an IPO. It’s just the latest shakeup of its safety teams as it heads towards an IPO. According to the Financial Times , OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. ) According to FT , responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.",
+      "whyItMatters": "",
+      "words": 91,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-16T21:32:56.000Z",
+      "capturedAt": "2026-08-17T03:50:46.405Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0mr1uts",
       "channel": "sec",
