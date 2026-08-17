@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-17T15:25:50.200Z",
-  "count": 348,
+  "updatedAt": "2026-08-17T18:40:16.090Z",
+  "count": 350,
   "stories": [
+    {
+      "id": "08nmauz",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "LiteLLM Supply-Chain Attack – Technology, Banking and Healthcare the Most Affected",
+      "brief": "7M Records Stolen GeoServer Zero-Day Is Already Being Probed. S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Resecurity (USA) estimated the most affected sectors by the “ SANDCLOCK ” backdoor , which was planted as a result of the code repository compromise. According to cybersecurity experts, LiteLLM / TeamPCP Supply-Chain Attack will have long-lasting consequences. By compromising a well-known component in AI applications, adversaries will multiply the blast radius—some of the victim organizations are still unaware of the backdoor and its impact. LiteLLM is a popular open-soure AI gateway and utility library that unifies API calls for over 100 large language model providers, such as OpenAI, Anthropic, Google Gemini, and local Ollama models .",
+      "whyItMatters": "",
+      "words": 122,
+      "url": "https://securityaffairs.com/197377/hacking/litellm-supply-chain-attack-technology-banking-and-healthcare-the-most-affected.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/Resecurity_LiteLLM_AffectedEntities_by_Sector_1.png?resize=783%2C1024&ssl=1",
+      "published": "2026-08-17T17:09:53.000Z",
+      "capturedAt": "2026-08-17T18:40:16.089Z",
+      "tags": [
+        "Hack",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1bj84we",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Securing the Infrastructure of Intelligence",
+      "brief": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking — as well as land, power and shell. Just as NVIDIA has used its scale, long-term visibility and supply-chain partnerships to secure critical semiconductor resources, we are now applying that same discipline to secure LPS capacity exclusively for NVIDIA AI factories. Today, we are partnering with SB Energy to secure LPS capacity at the exceptional PORTS-Pike Technology Campus in Portsmouth, Ohio, to host NVIDIA compute. OpenAI will be the tenant. For the vast majority of NVIDIA customers, securing LPS has long been a part of their infrastructure strategy. The world’s largest cloud service providers and investment-grade enterprises have balance sheets, infrastructure expertise, and long-term contracts to secure LPS independently.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png",
+      "published": "2026-08-17T12:34:51.000Z",
+      "capturedAt": "2026-08-17T18:40:14.943Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "16p0hxw",
       "channel": "sec",
