@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-17T21:26:29.692Z",
-  "count": 352,
+  "updatedAt": "2026-08-18T01:14:57.788Z",
+  "count": 354,
   "stories": [
+    {
+      "id": "0tvmnls",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+      "brief": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
+      "whyItMatters": "",
+      "words": 22,
+      "url": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-08-17T20:26:34.000Z",
+      "capturedAt": "2026-08-18T01:14:57.788Z",
+      "tags": [
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "18np3rg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "What Flock’s defenders are missing",
+      "brief": "As cities reconsider the technology, it’s worth asking how the company’s design choices have shaped the trade-off between solving crimes and protecting civil liberties. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent officers from using the platform for illegal or illegitimate purposes. That includes stalking. The Washington Post recently identified 50 cases in which officers misused systems from Flock and its competitors, often to stalk and harass women. One woman in Wisconsin alleged that her officer ex-boyfriend searched for her car 179 times. Another woman was being stalked by the chief of police, with nobody to report him to.",
+      "whyItMatters": "",
+      "words": 123,
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600",
+      "published": "2026-08-17T19:16:09.000Z",
+      "capturedAt": "2026-08-18T01:14:56.137Z",
+      "tags": [
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "108uz6j",
       "channel": "sec",
