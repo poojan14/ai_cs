@@ -1,48 +1,46 @@
 {
-  "generatedAt": "2026-08-18T03:45:01.116Z",
-  "nextUpdateAt": "2026-08-18T06:45:01.116Z",
+  "generatedAt": "2026-08-18T06:43:03.723Z",
+  "nextUpdateAt": "2026-08-18T09:43:03.723Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1ro7i05",
+      "id": "1mohh8u",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "brief": "Anthropic’s revenue continues to not only grow at an historic pace but also to accelerate. The model maker’s annualized revenue run rate — a projection of a full year’s revenue based on a recent, shorter period —surpassed $65 billion at the end of July, Bloomberg reported on Monday, up from $47 billion in May and just $9 billion at the end of last year. Anthropic didn’t immediately respond to our request for comment. The company’s investors expect it to continue to grow at approximately the same rate for the remainder of the year, finishing 2026 between $100 billion and $120 billion , the Financial Times reported. Meanwhile, rival OpenAI has doubled its revenue to $40 billion, up from $20 billion at the end of 2025, Bloomberg reported last week .",
+      "title": "Who Will Write the Rules for Artificial Intelligence? Why the Experience of the United States, Europe and Ukraine Is Becoming Particularly Important - foreignpolicyjournal.com",
+      "brief": "Who Will Write the Rules for Artificial Intelligence? com",
       "whyItMatters": "",
-      "words": 130,
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "published": "2026-08-17T23:56:26.000Z",
-      "capturedAt": "2026-08-18T03:44:59.478Z",
+      "words": 9,
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPT1hmckhibVBtYkhNblUyd25wYWVBM3dMUzZSbTFGVEJCQjF6ZmUzVFJTVF84djR4N2hpTlB5WG0tRnh2elRSc0ljNTdqcU5FRVp5dW9mcXZ5cG5nNnAxaHhza2JBUTJOMnM2aExvbEJJNEVZQ2t4bjZUQ0hmbl9FVXhWRlBpN0RjOXBzQlVNWF84d1ZhWVp5VDdVdTlGaS1BeXlvWXY3eENfcjZYZkpLOWVZSlBVWGYwODNScEhXWEVDUG5VSTJjU1BIV2VwV0U1R3RTRHFiZ21FZVMyNDF5VFFqbnRzOXRvd1VDeUNobmRlZEw0b3piNnppZHlfZEdZRnBLeTJNS2ZLUkxqRU5ZZU9nN1dCcXNkUE9aSDQxdHU",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-18T05:48:36.000Z",
+      "capturedAt": "2026-08-18T06:43:02.087Z",
       "tags": [
-        "Model",
-        "Anthropic"
+        "Artificial Intelligence"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "1b92g7z",
+      "id": "0ujyf6x",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "brief": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials. yml, which ran when a",
+      "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
+      "brief": "Cybercriminals breached the cloud system of a debt consolidation loan company in May, stealing troves of sensitive financial information and personal data on about 750,000 customers. The company, Heights Finance, published a warning to customers last week about the data breach and told regulators in Texas on Friday that 734,828 people were affected. Heights Finance operates dozens of personal loan companies across Alabama, Tennessee, Georgia, Texas and South Carolina. The stolen information includes contact information like addresses; banking data ranging from account numbers to routing numbers; and government IDs that include Social Security numbers, tax IDs, driver’s license numbers or state IDs. The breach also included any personal information shared during customer service interactions. Heights Finance said the breach was discovered on May 7 when a hacker gained access to a cloud-based platform hosted by a third party that they use to store some customer data.",
       "whyItMatters": "",
-      "words": 44,
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg",
-      "published": "2026-08-17T18:44:17.000Z",
-      "capturedAt": "2026-08-18T03:45:01.116Z",
+      "words": 146,
+      "url": "https://therecord.media/financial-info-leak-debt-consolidator",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/ave_calvar_yfoorpcm_WE_unsplash_d6fadfbf2e.jpg",
+      "published": "2026-08-17T20:05:00.000Z",
+      "capturedAt": "2026-08-18T06:43:03.723Z",
       "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Cyber"
+        "Breach",
+        "Leak"
       ],
       "rewritten": false
     }

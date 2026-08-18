@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-18T03:45:01.116Z",
-  "count": 356,
+  "updatedAt": "2026-08-18T06:43:03.723Z",
+  "count": 358,
   "stories": [
+    {
+      "id": "0ujyf6x",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
+      "brief": "Cybercriminals breached the cloud system of a debt consolidation loan company in May, stealing troves of sensitive financial information and personal data on about 750,000 customers. The company, Heights Finance, published a warning to customers last week about the data breach and told regulators in Texas on Friday that 734,828 people were affected. Heights Finance operates dozens of personal loan companies across Alabama, Tennessee, Georgia, Texas and South Carolina. The stolen information includes contact information like addresses; banking data ranging from account numbers to routing numbers; and government IDs that include Social Security numbers, tax IDs, driver’s license numbers or state IDs. The breach also included any personal information shared during customer service interactions. Heights Finance said the breach was discovered on May 7 when a hacker gained access to a cloud-based platform hosted by a third party that they use to store some customer data.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://therecord.media/financial-info-leak-debt-consolidator",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/ave_calvar_yfoorpcm_WE_unsplash_d6fadfbf2e.jpg",
+      "published": "2026-08-17T20:05:00.000Z",
+      "capturedAt": "2026-08-18T06:43:03.723Z",
+      "tags": [
+        "Breach",
+        "Leak"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1mohh8u",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Who Will Write the Rules for Artificial Intelligence? Why the Experience of the United States, Europe and Ukraine Is Becoming Particularly Important - foreignpolicyjournal.com",
+      "brief": "Who Will Write the Rules for Artificial Intelligence? com",
+      "whyItMatters": "",
+      "words": 9,
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPT1hmckhibVBtYkhNblUyd25wYWVBM3dMUzZSbTFGVEJCQjF6ZmUzVFJTVF84djR4N2hpTlB5WG0tRnh2elRSc0ljNTdqcU5FRVp5dW9mcXZ5cG5nNnAxaHhza2JBUTJOMnM2aExvbEJJNEVZQ2t4bjZUQ0hmbl9FVXhWRlBpN0RjOXBzQlVNWF84d1ZhWVp5VDdVdTlGaS1BeXlvWXY3eENfcjZYZkpLOWVZSlBVWGYwODNScEhXWEVDUG5VSTJjU1BIV2VwV0U1R3RTRHFiZ21FZVMyNDF5VFFqbnRzOXRvd1VDeUNobmRlZEw0b3piNnppZHlfZEdZRnBLeTJNS2ZLUkxqRU5ZZU9nN1dCcXNkUE9aSDQxdHU",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-18T05:48:36.000Z",
+      "capturedAt": "2026-08-18T06:43:02.087Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1b92g7z",
       "channel": "sec",
