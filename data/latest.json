@@ -1,46 +1,48 @@
 {
-  "generatedAt": "2026-08-18T01:14:57.788Z",
-  "nextUpdateAt": "2026-08-18T04:14:57.788Z",
+  "generatedAt": "2026-08-18T03:45:01.116Z",
+  "nextUpdateAt": "2026-08-18T06:45:01.116Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "18np3rg",
+      "id": "1ro7i05",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "What Flock’s defenders are missing",
-      "brief": "As cities reconsider the technology, it’s worth asking how the company’s design choices have shaped the trade-off between solving crimes and protecting civil liberties. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent officers from using the platform for illegal or illegitimate purposes. That includes stalking. The Washington Post recently identified 50 cases in which officers misused systems from Flock and its competitors, often to stalk and harass women. One woman in Wisconsin alleged that her officer ex-boyfriend searched for her car 179 times. Another woman was being stalked by the chief of police, with nobody to report him to.",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "brief": "Anthropic’s revenue continues to not only grow at an historic pace but also to accelerate. The model maker’s annualized revenue run rate — a projection of a full year’s revenue based on a recent, shorter period —surpassed $65 billion at the end of July, Bloomberg reported on Monday, up from $47 billion in May and just $9 billion at the end of last year. Anthropic didn’t immediately respond to our request for comment. The company’s investors expect it to continue to grow at approximately the same rate for the remainder of the year, finishing 2026 between $100 billion and $120 billion , the Financial Times reported. Meanwhile, rival OpenAI has doubled its revenue to $40 billion, up from $20 billion at the end of 2025, Bloomberg reported last week .",
       "whyItMatters": "",
-      "words": 123,
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600",
-      "published": "2026-08-17T19:16:09.000Z",
-      "capturedAt": "2026-08-18T01:14:56.137Z",
+      "words": 130,
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "published": "2026-08-17T23:56:26.000Z",
+      "capturedAt": "2026-08-18T03:44:59.478Z",
       "tags": [
-        "Model"
+        "Model",
+        "Anthropic"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0tvmnls",
+      "id": "1b92g7z",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
-      "brief": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "brief": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials. yml, which ran when a",
       "whyItMatters": "",
-      "words": 22,
-      "url": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-08-17T20:26:34.000Z",
-      "capturedAt": "2026-08-18T01:14:57.788Z",
+      "words": 44,
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg",
+      "published": "2026-08-17T18:44:17.000Z",
+      "capturedAt": "2026-08-18T03:45:01.116Z",
       "tags": [
-        "Malware",
-        "Attack"
+        "Vulnerability",
+        "Exploit",
+        "Cyber"
       ],
       "rewritten": false
     }
