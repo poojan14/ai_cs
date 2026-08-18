@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-18T18:38:53.821Z",
-  "count": 366,
+  "updatedAt": "2026-08-18T21:24:47.870Z",
+  "count": 368,
   "stories": [
+    {
+      "id": "0pgjn3p",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
+      "brief": "Federal cybersecurity agencies warned on Tuesday that troves of new victims of the Medusa ransomware gang have been identified over the last year. The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA previously said 300 victims, many of which are in critical infrastructure sectors, were attacked as of 2025. The group caused widespread outrage in April when it shut down the University of Mississippi Medical Center — Mississippi’s only children's hospital, only Level I trauma center, only Level IV neonatal intensive care unit and home to the state’s only organ transplant program.",
+      "whyItMatters": "",
+      "words": 119,
+      "url": "https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/2021_04_viper_snake_APT_ee201b7107.jpg",
+      "published": "2026-08-18T18:05:00.000Z",
+      "capturedAt": "2026-08-18T21:24:47.870Z",
+      "tags": [
+        "Ransomware",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1i1olb6",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "brief": "OpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco. OpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco. OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face , including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra , that it thinks could have “critical” cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its “latest models intended for deployment” while it tightened up security. ”",
+      "whyItMatters": "",
+      "words": 112,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-18T19:28:30.000Z",
+      "capturedAt": "2026-08-18T21:24:46.317Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0oaotss",
       "channel": "sec",
