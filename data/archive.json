@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-19T15:31:45.036Z",
-  "count": 380,
+  "updatedAt": "2026-08-19T18:36:16.999Z",
+  "count": 382,
   "stories": [
+    {
+      "id": "1dz4ubq",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Inside Operation CameraSwarm: How One Actor Took Over 14,000 Dahua Cameras",
+      "brief": "S. S. 7M Records Stolen A researcher discovered an exposed directory containing the tools of an attacker who compromised more than 14,000 Dahua cameras between June 17 and July 22, 2026, mainly in Ukraine and Russia. io reconstructed the operation, named Operation CameraSwarm, from the leaked files and telemetry. The find started with a mistake. 60 and pulled down 2,616 files across 234 subdirectories, 407 MB in total, from an HTTP directory the operator had left wide open. That single slip handed researchers the operator’s scanning engine, exploit chains, exfiltration bot, and a Windows stealer staged on the same box.",
+      "whyItMatters": "",
+      "words": 100,
+      "url": "https://securityaffairs.com/197527/iot/inside-operation-cameraswarm-how-one-actor-took-over-14000-dahua-cameras.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-55.png?resize=989%2C496&ssl=1",
+      "published": "2026-08-19T17:35:26.000Z",
+      "capturedAt": "2026-08-19T18:36:16.999Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "02v9nqv",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI hit the brakes. Now what?",
+      "brief": "AI safety still depends largely on the industry policing itself. AI safety still depends largely on the industry policing itself. With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes . On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. ” The decision is a very public test of an idea AI safety advocates have pushed for for years: that companies should be willing to bow out of the AI race and slow things down when their safeguards fail to keep up with what they are building. But as the race around them continues, will slowing down accomplish anything?",
+      "whyItMatters": "",
+      "words": 130,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-19T17:10:09.000Z",
+      "capturedAt": "2026-08-19T18:36:14.807Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0zbzfz6",
       "channel": "sec",
