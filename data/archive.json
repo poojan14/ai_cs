@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-19T09:34:25.697Z",
-  "count": 376,
+  "updatedAt": "2026-08-19T12:48:14.702Z",
+  "count": 378,
   "stories": [
+    {
+      "id": "00y5670",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. 8) - An improper authentication vulnerability impacting Apple macOS that could allow an",
+      "whyItMatters": "",
+      "words": 41,
+      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg",
+      "published": "2026-08-19T11:01:48.000Z",
+      "capturedAt": "2026-08-19T12:48:14.702Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "05rvh4c",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI to slow launch of new AI models after Hugging Face hack - MLex",
+      "brief": "OpenAI to slow launch of new AI models after Hugging Face hack MLex",
+      "whyItMatters": "",
+      "words": 13,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRm40TGRBa01tWUF4bUx5WFBUVnpZM09DdDZQcUV3SFlYckhScm5OZUpTRXZBRkx4al9wQWpKYTVUQkdTbDVINFdIeW55c1MzREhlVWRaRFB2THdEN0lPNGxzTmVPUXdydWVvbk4wNy1iVTNxSlhKR2JuWDZ4WHFHNGdCcW5HVktpaUpuWUxRT2p4RlBrNDdoYS1RNWN5N2thWGhtT014bmdPRXRrdEMtVHd6ZjJselJ4dncwSWMyUkpiaG1NZ2k3YtIBWkFVX3lxTFBERkI0dTFKS0dFbVFxZmdPZnZESkZXN2pWN2IyVmtXakV3NjV0LVQ3SXlVVTVYaFpZb0JlbFRrZWFxTV9nNEY1Ujk4bU5xekROSW5kbVNEcllDZw",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-19T11:43:00.000Z",
+      "capturedAt": "2026-08-19T12:48:13.226Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0i7lx3l",
       "channel": "sec",
