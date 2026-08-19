@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-19T01:16:36.098Z",
-  "count": 370,
+  "updatedAt": "2026-08-19T03:46:50.510Z",
+  "count": 372,
   "stories": [
+    {
+      "id": "1dpjrbs",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
+      "brief": "In the first purported \"near-autonomous\" attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
+      "whyItMatters": "",
+      "words": 26,
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-08-19T01:00:00.000Z",
+      "capturedAt": "2026-08-19T03:46:50.510Z",
+      "tags": [
+        "Hack",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1hzmsd6",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "brief": "Zelda, Zak, and Cody Williams say their father’s Instagram account will be a ‘trusted place’ to share photos, videos, and memories. Zelda, Zak, and Cody Williams say their father’s Instagram account will be a ‘trusted place’ to share photos, videos, and memories. Robin Williams’ children are taking over their father’s Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap . ” Robin Williams’ Instagram account remained inactive following his death in 2014. Last year, Zelda Williams asked fans to stop sending her AI-generated videos of her father. “To watch the legacies of real people be condensed down to ‘this vaguely looks and sounds like them so that’s enough’, just so other people can churn out horrible TikTok slop puppeteering them is maddening,” she wrote at the time.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&strip=all&crop=0%2C17.382841712709%2C100%2C43.498314038293&w=1200",
+      "published": "2026-08-18T19:48:26.000Z",
+      "capturedAt": "2026-08-19T03:46:48.958Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1iwxc7r",
       "channel": "sec",
