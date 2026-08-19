@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-18T21:24:47.870Z",
-  "count": 368,
+  "updatedAt": "2026-08-19T01:16:36.098Z",
+  "count": 370,
   "stories": [
+    {
+      "id": "1iwxc7r",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "brief": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous,\" GuidePoint Research",
+      "whyItMatters": "",
+      "words": 58,
+      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg",
+      "published": "2026-08-18T16:58:16.000Z",
+      "capturedAt": "2026-08-19T01:16:36.098Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1obywrv",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "brief": "AI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems. The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. But a new study suggests that it might take a while for us to get there. The researchers behind it found that AI agents are not yet capable of conducting open-ended AI research—free-form investigations that have no clear-cut answers and require judgment and taste, which may be integral to building self-improving AI.",
+      "whyItMatters": "",
+      "words": 124,
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
+      "published": "2026-08-18T09:00:00.000Z",
+      "capturedAt": "2026-08-19T01:16:34.595Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0pgjn3p",
       "channel": "sec",
