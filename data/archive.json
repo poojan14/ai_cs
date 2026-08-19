@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-19T06:43:49.011Z",
-  "count": 374,
+  "updatedAt": "2026-08-19T09:34:25.697Z",
+  "count": 376,
   "stories": [
+    {
+      "id": "0i7lx3l",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "50,000 Stripe Secrets Leaked in Public Code",
+      "brief": "S. S. 7M Records Stolen GeoServer Zero-Day Is Already Being Probed. That’s the Problem Ransomnews researchers have documented a large-scale leak of Stripe merchant API keys found exposed in public code repositories, GitHub Actions logs, and misconfigured web servers, with over 50,000 unique keys identified in total. The research is practical rather than theoretical: the team tested a sample of the keys, found a meaningful portion still active, and documented exactly how quickly a fraudster could exploit them. The answer is fast.",
+      "whyItMatters": "",
+      "words": 82,
+      "url": "https://securityaffairs.com/197504/cyber-crime/50000-stripe-secrets-leaked-in-public-code.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-52.png?resize=1024%2C941&ssl=1",
+      "published": "2026-08-19T08:33:04.000Z",
+      "capturedAt": "2026-08-19T09:34:25.696Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1gh94lw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "brief": "For as long as anyone can remember, GitHub has been the de facto code host preferred by a majority of developers. However, in recent times, the platform has struggled with widely reported outages and performance degradation and, as it drops the ball, Cursor is waiting to pick it up. The AI startup, which is now officially a part of SpaceX , launched Origin this week — a new code-hosting platform designed to do all of the things that developers typically use GitHub for: collaboratively work on codebases, browse and edit them, handle pull-requests (edits made by others asking to be added to the main codebase), and store them in repositories. This seems like a natural next step for Cursor, whose primary focus until this point has been selling automated web development services through its AI Code Editor .",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+      "published": "2026-08-18T22:14:25.000Z",
+      "capturedAt": "2026-08-19T09:34:23.744Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0cra9zz",
       "channel": "sec",
