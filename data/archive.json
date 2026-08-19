@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-19T03:46:50.510Z",
-  "count": 372,
+  "updatedAt": "2026-08-19T06:43:49.011Z",
+  "count": 374,
   "stories": [
+    {
+      "id": "0cra9zz",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "brief": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
+      "whyItMatters": "",
+      "words": 51,
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg",
+      "published": "2026-08-18T17:44:05.000Z",
+      "capturedAt": "2026-08-19T06:43:49.011Z",
+      "tags": [
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ri8mdp",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI Experts Debate Whether Artificial Intelligence Becomes Civilization’s Destroyer or Its Savior - EIN News",
+      "brief": "AI Experts Debate Whether Artificial Intelligence Becomes Civilization’s Destroyer or Its Savior EIN News",
+      "whyItMatters": "",
+      "words": 14,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3piT3hmLWtNeVpYMVZ0eGVIODVZTjM4QjBOVGpPX291LW1BOVlhZWNuOS1IOWE2dzhZZ0NMSGxXdkV1emtlUWtqczZUOWtfU0Z6YS1taXRvNERDWUxQbXBycGt5RzNRZVp6MnJyai1rVmlUOWtjTl9UcUE3cktDM0podFVrcXFieEx4b045aHl4YzRNbjA1NnROc1NoSnJwY2laRkIyZHF1TWhlcWxRZGxtb1AzOUtLU1p1Y3dXdDJsTDN6RGNqc2RUX3gyR1hibXBUMQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-19T05:51:00.000Z",
+      "capturedAt": "2026-08-19T06:43:47.491Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1dpjrbs",
       "channel": "sec",
