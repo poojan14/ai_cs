@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-20T06:46:25.574Z",
-  "count": 390,
+  "updatedAt": "2026-08-20T09:35:17.759Z",
+  "count": 392,
   "stories": [
+    {
+      "id": "0n6pxko",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "StopAndProtect Turns 2,000 Hacked WordPress Sites Into a Criminal Network",
+      "brief": "S. S. S. 7M Records Stolen Check Point Research uncovered a cybercrime operation, dubbed StopAndProtect, that has turned thousands of hacked WordPress websites into a shared platform for malware delivery, data theft, surveillance and ransomware. The operation is a good reminder that a compromised website isn’t just a problem for its owner. It can become part of someone else’s attack infrastructure. “StopAndProtect is a newly identified operation that combines file encryption with data theft. ” reads the report published by Check Point.",
+      "whyItMatters": "",
+      "words": 82,
+      "url": "https://securityaffairs.com/197537/hacking/stopandprotect-turns-2000-hacked-wordpress-sites-into-a-criminal-network.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-56.png?resize=988%2C587&ssl=1",
+      "published": "2026-08-20T07:20:41.000Z",
+      "capturedAt": "2026-08-20T09:35:17.759Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "17m96vz",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "brief": "Binance , the world’s largest crypto exchange with more than 300 million registered users, on Thursday launched a platform that lets AI agents analyze markets and execute trades on users’ behalf, bringing autonomous AI directly into the business of managing real money. Called Agent OS , the platform lets developers connect AI applications and agents to Binance’s financial infrastructure. It brings the exchange’s existing tools and services such as Binance APIs, Binance Wallet Agentic Hub, Binance x402 transaction verification and payment facilitator API, and Binance Skill Hub, along with newly introduced support for its Model Context Protocol (MCP) . The platform also works with tools including OpenAI’s ChatGPT and Codex, Anthropic’s Claude Code, and Cursor, allowing users to authorize agents to access market data, view account information, and execute trades.",
+      "whyItMatters": "",
+      "words": 130,
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/gettyimages-1239052293-594x594-1.jpg?w=594",
+      "published": "2026-08-20T09:30:00.000Z",
+      "capturedAt": "2026-08-20T09:35:16.250Z",
+      "tags": [
+        "Claude",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0ut9x7b",
       "channel": "sec",
