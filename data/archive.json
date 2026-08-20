@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-20T09:35:17.759Z",
-  "count": 392,
+  "updatedAt": "2026-08-20T12:51:03.590Z",
+  "count": 394,
   "stories": [
+    {
+      "id": "1cedq0z",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+      "brief": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking and cryptocurrency applications.",
+      "whyItMatters": "",
+      "words": 55,
+      "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19iWDNnvPUAAC2_MJN09g-1SHoPWQv82zvmQGTvrniDXm9BUWK73QrKCNCgxk0uGp6MrKF8cDQrigQCI3CW1G8V8GNltJ0GRc-yBjt69zPem4YW_b0XCZwsIFhWiOoul7eIhEOjb_F0X9A9B_DOmQNbCWHF6AzqDro4U0XjH_CgtJ_J0MVZjDPmyDL1p/s1600/android-banking-malware.jpg",
+      "published": "2026-08-20T10:38:28.000Z",
+      "capturedAt": "2026-08-20T12:51:03.590Z",
+      "tags": [
+        "Malware",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0fdy9ru",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Unlocking hidden revenue streams with market models",
+      "brief": "Generative AI-powered market models can help enterprises automate commercial decisions. Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name just a few. It is a nuanced process that must constantly adapt to the goings on in the wider world. Generative AI-powered market models are emerging as a means of handling complex tasks like this in real time. These deep learning models are trained on high-resolution numerical data and designed to analyze, simulate, and predict complex financial dynamics.",
+      "whyItMatters": "",
+      "words": 123,
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840",
+      "published": "2026-08-20T09:47:22.000Z",
+      "capturedAt": "2026-08-20T12:51:01.982Z",
+      "tags": [
+        "Model",
+        "Generative"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0n6pxko",
       "channel": "sec",
