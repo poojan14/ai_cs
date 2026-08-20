@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-20T01:15:55.666Z",
-  "count": 386,
+  "updatedAt": "2026-08-20T03:47:25.319Z",
+  "count": 388,
   "stories": [
+    {
+      "id": "096q5wv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology",
+      "brief": "Federal agencies said there is an “active threat” targeting critical infrastructure organizations using AI-generated exploit scripts, in what they called an “evolution” in capabilities. Organizations were urged to treat Wednesday’s advisory “with urgency” and initiate response efforts centered around programmable logic controllers (PLCs) — tools used by the energy, water and agricultural industries to control pumps and monitor processes. The National Security Agency (NSA), FBI and other federal agencies said the campaign is targeting Siemens S7 Series PLCs and was being fueled by “AI-assisted development” alongside exploitation of known vulnerabilities. “This is not a theoretical risk — it is an active threat. Depending on the specific circumstances, exploitation of poorly protected PLCs could lead to disruption of critical industrial processes, safety incidents, downtime or equipment damage, compromise of sensitive data, compliance violations, and cascading impacts across interconnected systems,” the advisory said.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/chuttersnap_E_Fvj_Sgbw1c_unsplash_dbd93b061f.jpg",
+      "published": "2026-08-19T17:58:00.000Z",
+      "capturedAt": "2026-08-20T03:47:25.319Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0mz99q8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "brief": "As AI models have become more powerful, the potential for those models to be misused has grown — as has a clamor for safety guardrails that can stop such abuse from happening. AI companies must now walk a delicate tight rope between respecting their enterprise customers’ privacy while also watching usage for possible issues. Sensing an opportunity to one-up its rival Anthropic, OpenAI just announced a privacy-centric safety approach to monitoring for misuse. The company is previewing a new service to select customers that it calls Private Safety Processing. This is an automated system that watches for potential abuse while simultaneously retaining none of the customer’s data. This system clearly runs counter to Anthropic’s recently announced data-retention policy. ” Those models include all Mythos-class models and “future models with similar capabilities,” the company says.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+      "published": "2026-08-19T22:10:46.000Z",
+      "capturedAt": "2026-08-20T03:47:23.824Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1r7cq3y",
       "channel": "sec",
