@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-20T12:51:03.590Z",
-  "count": 394,
+  "updatedAt": "2026-08-20T15:34:18.606Z",
+  "count": 396,
   "stories": [
+    {
+      "id": "1jjiuzp",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+      "brief": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+      "whyItMatters": "",
+      "words": 22,
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-08-20T14:59:22.000Z",
+      "capturedAt": "2026-08-20T15:34:18.606Z",
+      "tags": [
+        "Cyber",
+        "Attack",
+        "Threat Actor"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0nzwh0b",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "brief": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail. Earlier this week, researchers outlined an attack that used a secret input provided by Microsoft 365 Copilot for enterprise to cause the AI assistant to exfiltrate a password present in the user’s inbox. Now, a separate team has devised a similar attack against Grok. The new data theft hack employs a deceptively simple trick to force the Elon Musk-owned LLM to steal user chats and other personal information. At the time this post went live, the assistant continued to cough up the data, despite xAI being informed of it in June.",
+      "whyItMatters": "",
+      "words": 105,
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
+      "published": "2026-08-20T13:00:35.000Z",
+      "capturedAt": "2026-08-20T15:34:15.751Z",
+      "tags": [
+        "Model",
+        "Copilot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1cedq0z",
       "channel": "sec",
