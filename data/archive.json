@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-20T03:47:25.319Z",
-  "count": 388,
+  "updatedAt": "2026-08-20T06:46:25.574Z",
+  "count": 390,
   "stories": [
+    {
+      "id": "0ut9x7b",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "brief": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. 0. It has been described as a case of unrestricted upload of a file with a dangerous type. \"The flaw lives in the Forms module's File",
+      "whyItMatters": "",
+      "words": 51,
+      "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1600/wordpress.jpg",
+      "published": "2026-08-20T06:04:34.000Z",
+      "capturedAt": "2026-08-20T06:46:25.574Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0biabpi",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI fortifies advanced AI models to block autonomous cyberattacks - Escudo Digital",
+      "brief": "OpenAI fortifies advanced AI models to block autonomous cyberattacks Escudo Digital",
+      "whyItMatters": "",
+      "words": 11,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONkJ2ZmhvMjRBV2FTV3JxcnhBX3pueU9NS25SZEZ3T2xILVI4Vlc1ZVg1dUxTbkR2S0hPUkZRb1l5NU5QR21nemZjSEpmM0FCMFVzTU9RRDdkRUU5SkZuS3BhVlB6NzVlSGxaR05lT3ZSQ1owZmh3SEpQT04wM2w5Wms2TE1FMWxaVnBIYnJhSzYtcHhhUE9Fb29QQlhQMTg1NEowR3V6MTE1TTU1V24xMGtsNDBWaC1rWVEtSGNROHVKNzFaeDYwSThCV25oTXhHY1RoV0ZLR3c",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-20T05:10:02.000Z",
+      "capturedAt": "2026-08-20T06:46:23.884Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "096q5wv",
       "channel": "sec",
