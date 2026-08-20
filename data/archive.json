@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-19T21:25:43.004Z",
-  "count": 384,
+  "updatedAt": "2026-08-20T01:15:55.666Z",
+  "count": 386,
   "stories": [
+    {
+      "id": "1r7cq3y",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
+      "brief": "Security teams are overwhelmed with findings but still struggle to answer a simple question: which risks matter right now? A vulnerability alone is rarely the problem. The same vulnerability running in production, exposed through a misconfiguration or over-permissioned identity, is a real path to compromise. Organizations do not need longer lists of alerts. They need context that connects code, cloud resources, identities, and runtime activity so they can prioritize the issues that pose the greatest risk and stop cyberthreats before they reach production. As organizations adopt cloud-native architectures at scale, protecting workloads requires more than scanning. Today, 82% of container users run Kubernetes in production, making runtime visibility and protection critical for modern applications. 1 That change, from scanning workloads to protecting them where they run, is exactly what Frost & Sullivan describes in its Frost Radar™: Cloud Workload Protection Platforms, 2026 .",
+      "whyItMatters": "",
+      "words": 143,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Picture1-1.webp",
+      "published": "2026-08-19T17:30:00.000Z",
+      "capturedAt": "2026-08-20T01:15:55.665Z",
+      "tags": [
+        "Malware",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1l0p1f1",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "brief": "It’s also rolling out the ability to check your work and get help with complicated topics using Google Lens. It’s also rolling out the ability to check your work and get help with complicated topics using Google Lens. As we’re gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It’s a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates and deadlines to your Google Calendar based on your syllabus.",
+      "whyItMatters": "",
+      "words": 103,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0%2C9.6095766582019%2C100%2C80.780846683596&w=1200",
+      "published": "2026-08-19T19:00:00.000Z",
+      "capturedAt": "2026-08-20T01:15:54.146Z",
+      "tags": [
+        "Gemini"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0p7jrqt",
       "channel": "sec",
