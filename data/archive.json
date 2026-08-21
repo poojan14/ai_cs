@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-21T18:37:03.152Z",
-  "count": 414,
+  "updatedAt": "2026-08-21T21:25:09.823Z",
+  "count": 416,
   "stories": [
+    {
+      "id": "1wb2274",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Your Shredded Visa Card May Still Work at the Checkout",
+      "brief": "S. S. S. S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog Researchers at the University of Massachusetts Amherst demonstrated at USENIX Security 2026 in Baltimore that expired Visa contactless credit cards can complete real purchases, including transactions at live retail and grocery merchants, by exploiting a gap in how the payment protocol handles expiration dates. The paper is titled “ Zombie Cards Back Online: Reviving Expired Credit Cards for Contactless Payments ,” and the name is accurate. Raja Hasnain Anwar, Gerard DeCunha, and Muhammad Taqi Raza built the attack around a structural weakness in EMV, the contactless payment protocol used by Visa, Mastercard, American Express, and Discover.",
+      "whyItMatters": "",
+      "words": 112,
+      "url": "https://securityaffairs.com/197663/hacking/your-shredded-visa-card-may-still-work-at-the-checkout.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-63.png?resize=801%2C792&ssl=1",
+      "published": "2026-08-21T18:03:59.000Z",
+      "capturedAt": "2026-08-21T21:25:09.823Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0j8b721",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "brief": "Nvidia published some interesting new research on Friday suggesting it’s the harness, more than the underlying model, that is far more important when asking an AI to do long-horizon tasks. A harness is the software wrapper around an AI model — the tools, memory management, and rules that turn a raw model into something that can act on its own. The TL;DR: Simply by using a custom harness tweaked to handle memory well and including a “supervisor” boss-like component, researchers got Claude Opus 5 to achieve a 100% score on the interactive reasoning benchmark ARC-AGI-3 — a set of 2D games with no instructions, where the model has to figure out how to play and win, similar to how a human would. ) Without the harness, Opus 5 scored 30%, which was the top result among all the models tested.",
+      "whyItMatters": "",
+      "words": 140,
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+      "published": "2026-08-21T19:43:39.000Z",
+      "capturedAt": "2026-08-21T21:25:07.513Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "002255e",
       "channel": "sec",
