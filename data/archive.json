@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-20T21:28:23.335Z",
-  "count": 400,
+  "updatedAt": "2026-08-21T01:19:28.388Z",
+  "count": 402,
   "stories": [
+    {
+      "id": "0l36h2q",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "brief": "io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. 9, all published from the same owner",
+      "whyItMatters": "",
+      "words": 31,
+      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg",
+      "published": "2026-08-20T20:22:35.000Z",
+      "capturedAt": "2026-08-21T01:19:28.388Z",
+      "tags": [
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1pc3k7y",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "brief": "You’ll soon be able to describe what you want to see in your Google Discover feed. You’ll soon be able to describe what you want to see in your Google Discover feed. Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature , rolling out to the Google app in the “coming days,” will use AI to automatically tweak your feed and “remember” your preferences for future visits. You’ll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you’ll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you’ll also have the option to add more information if it doesn’t get it quite right.",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&strip=all&crop=0%2C3.2683225395565%2C100%2C93.463354920887&w=1200",
+      "published": "2026-08-20T21:50:22.000Z",
+      "capturedAt": "2026-08-21T01:19:26.693Z",
+      "tags": [
+        "Chatbot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "115xyua",
       "channel": "sec",

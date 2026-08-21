@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-20T21:28:23.335Z",
-  "nextUpdateAt": "2026-08-21T00:28:23.335Z",
+  "generatedAt": "2026-08-21T01:19:28.388Z",
+  "nextUpdateAt": "2026-08-21T04:19:28.388Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1vvzupx",
+      "id": "1pc3k7y",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Paving the way for greener ammonia production",
-      "brief": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the world’s population. 5 percent of greenhouse gas emissions, so the search has been underway for ways to produce ammonia more sustainably. The traditional way of making ammonia, in use for more than a century and accounting for the vast majority of production, is the Haber-Bosch process, which relies on fossil fuels to provide the needed heat. Hydrogen used in the process is also largely produced from fossil fuels. There is another way, using electrochemistry instead of heat and pressure, but so far this method has not been anywhere near economically competitive at the scales needed.",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "brief": "You’ll soon be able to describe what you want to see in your Google Discover feed. You’ll soon be able to describe what you want to see in your Google Discover feed. Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature , rolling out to the Google app in the “coming days,” will use AI to automatically tweak your feed and “remember” your preferences for future visits. You’ll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you’ll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you’ll also have the option to add more information if it doesn’t get it quite right.",
       "whyItMatters": "",
-      "words": 133,
-      "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-dmse-ammonia-facility.jpg?itok=JxRn8ST5",
-      "published": "2026-08-20T18:45:00.000Z",
-      "capturedAt": "2026-08-20T21:28:21.934Z",
+      "words": 147,
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&strip=all&crop=0%2C3.2683225395565%2C100%2C93.463354920887&w=1200",
+      "published": "2026-08-20T21:50:22.000Z",
+      "capturedAt": "2026-08-21T01:19:26.693Z",
       "tags": [
-        "Machine Learning",
-        "Model"
+        "Chatbot"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "115xyua",
+      "id": "0l36h2q",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Calling on Cyber Pros to Help Defend City Hall",
-      "brief": "Government agencies with smaller budgets need support — and here's how you can help.",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "brief": "io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. 9, all published from the same owner",
       "whyItMatters": "",
-      "words": 14,
-      "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-08-21T14:00:00.000Z",
-      "capturedAt": "2026-08-20T21:28:23.335Z",
+      "words": 31,
+      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg",
+      "published": "2026-08-20T20:22:35.000Z",
+      "capturedAt": "2026-08-21T01:19:28.388Z",
       "tags": [
-        "Cyber"
+        "Malware",
+        "Attack"
       ],
       "rewritten": false
     }
