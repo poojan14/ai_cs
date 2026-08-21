@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-21T09:36:57.674Z",
-  "nextUpdateAt": "2026-08-21T12:36:57.674Z",
+  "generatedAt": "2026-08-21T12:48:59.659Z",
+  "nextUpdateAt": "2026-08-21T15:48:59.659Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1xjgrrj",
+      "id": "0fvmzh5",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "brief": "The near-bottomless demand for unique AI training data from top labs and corporations is driving a massive boom for a cohort of data-labeling startups. One of these fast-growing businesses is Micro1, a four-year-old startup that expanded its gross annual run rate from $100 million to $500 million over the past eight months, according to a person familiar with the company. Like its peers that hire domain experts such as doctors, lawyers, and scientists on a contract basis, Micro1 retains roughly 60% to 70% of that figure, putting its net annual run rate between $150 million and $200 million. While Micro1 still lags competitors like Mercor (which hit $2 billion in gross annualized revenue this summer) and Handshake (which reached $1 billion earlier this year), the startup’s revenue growth shows that there is more than enough demand to support multiple players supplying AI training data.",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "brief": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
       "whyItMatters": "",
-      "words": 144,
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-      "published": "2026-08-21T00:13:44.000Z",
-      "capturedAt": "2026-08-21T09:36:56.007Z",
+      "words": 11,
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "sourceSite": "deepmind.google",
+      "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
+      "published": "2026-08-21T11:59:48.000Z",
+      "capturedAt": "2026-08-21T12:48:58.072Z",
       "tags": [
-        "Training Data"
+        "Deepmind"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0ruxqik",
+      "id": "0j15dx5",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Cl0p Targets 40+ Organizations Through PTC Windchill Flaw",
-      "brief": "S. S. S. S. 7M Records Stolen Cl0p is using a familiar strategy again: exploit one flaw in enterprise software to attack many companies, then publish the victims’ names if they refuse to pay. The group claims it has targeted more than 40 organizations through a vulnerability in PTC’s Windchill and FlexPLM platforms, which manufacturers and engineering companies use to manage product and design data. 3) is a critical remote code execution (RCE) vulnerability in PTC Windchill PDMlink and PTC FlexPLM. An attacker can exploit this vulnerability through the deserialization of untrusted data. 0 M030.",
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "brief": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
       "whyItMatters": "",
-      "words": 95,
-      "url": "https://securityaffairs.com/197587/cyber-crime/cl0p-targets-40-organizations-through-ptc-windchill-flaw.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-59.png?resize=1024%2C501&ssl=1",
-      "published": "2026-08-21T07:15:02.000Z",
-      "capturedAt": "2026-08-21T09:36:57.674Z",
+      "words": 50,
+      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg",
+      "published": "2026-08-21T11:21:39.000Z",
+      "capturedAt": "2026-08-21T12:48:59.659Z",
       "tags": [
-        "Breach",
-        "Hack",
-        "Ransomware"
+        "Cyber",
+        "Attack",
+        "Security"
       ],
       "rewritten": false
     }
