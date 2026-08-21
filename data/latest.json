@@ -1,46 +1,49 @@
 {
-  "generatedAt": "2026-08-21T01:19:28.388Z",
-  "nextUpdateAt": "2026-08-21T04:19:28.388Z",
+  "generatedAt": "2026-08-21T03:50:58.850Z",
+  "nextUpdateAt": "2026-08-21T06:50:58.850Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1pc3k7y",
+      "id": "1ndluyt",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "brief": "You’ll soon be able to describe what you want to see in your Google Discover feed. You’ll soon be able to describe what you want to see in your Google Discover feed. Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature , rolling out to the Google app in the “coming days,” will use AI to automatically tweak your feed and “remember” your preferences for future visits. You’ll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you’ll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you’ll also have the option to add more information if it doesn’t get it quite right.",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "brief": "Until both OpenAI and Anthropic get close enough to their planned IPOs to release their financials, we have to look to other sources for signs of how well their businesses are doing. S. businesses. OpenAI, which was once the runaway leader with both businesses and consumers, lost the lead among Ramp’s paying business users back in May. That’s when Anthropic hit 41% market share to OpenAI’s 39%. The ChatGPT maker has never regained that lead. As of July, Anthropic has nearly 44% to OpenAI’s nearly 40%. The data covers more than 70,000 American businesses that spend billions via Ramp’s bill pay and corporate card products. Ramp’s customers are spread across industries but, as a popular Silicon Valley corporate credit card, they do skew toward the tech industry.",
       "whyItMatters": "",
-      "words": 147,
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&strip=all&crop=0%2C3.2683225395565%2C100%2C93.463354920887&w=1200",
-      "published": "2026-08-20T21:50:22.000Z",
-      "capturedAt": "2026-08-21T01:19:26.693Z",
+      "words": 127,
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+      "published": "2026-08-20T22:36:37.000Z",
+      "capturedAt": "2026-08-21T03:50:57.329Z",
       "tags": [
-        "Chatbot"
+        "Model",
+        "Openai",
+        "Anthropic"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0l36h2q",
+      "id": "0j50ymg",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "brief": "io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. 9, all published from the same owner",
+      "title": "Manic: The Android Malware That Exfiltrates Data Even When the Phone Is Offline",
+      "brief": "S. S. S. 7M Records Stolen ThreatFabric’s Mobile Threat Intelligence team has identified a new Android malware, dubbed Manic, which has been active in the wild since at least February 2026. The researchers state that the malware is still under development as of July. ” reads the report published by the ThreatFabric’s Mobile Threat Intelligence team. ”",
       "whyItMatters": "",
-      "words": 31,
-      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg",
-      "published": "2026-08-20T20:22:35.000Z",
-      "capturedAt": "2026-08-21T01:19:28.388Z",
+      "words": 57,
+      "url": "https://securityaffairs.com/197570/malware/manic-the-android-malware-that-exfiltrates-data-even-when-the-phone-is-offline.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-58.png?resize=1024%2C681&ssl=1",
+      "published": "2026-08-20T18:03:12.000Z",
+      "capturedAt": "2026-08-21T03:50:58.850Z",
       "tags": [
+        "Hack",
         "Malware",
-        "Attack"
+        "Phishing"
       ],
       "rewritten": false
     }

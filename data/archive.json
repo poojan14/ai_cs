@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-21T01:19:28.388Z",
-  "count": 402,
+  "updatedAt": "2026-08-21T03:50:58.850Z",
+  "count": 404,
   "stories": [
+    {
+      "id": "0j50ymg",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Manic: The Android Malware That Exfiltrates Data Even When the Phone Is Offline",
+      "brief": "S. S. S. 7M Records Stolen ThreatFabric’s Mobile Threat Intelligence team has identified a new Android malware, dubbed Manic, which has been active in the wild since at least February 2026. The researchers state that the malware is still under development as of July. ” reads the report published by the ThreatFabric’s Mobile Threat Intelligence team. ”",
+      "whyItMatters": "",
+      "words": 57,
+      "url": "https://securityaffairs.com/197570/malware/manic-the-android-malware-that-exfiltrates-data-even-when-the-phone-is-offline.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-58.png?resize=1024%2C681&ssl=1",
+      "published": "2026-08-20T18:03:12.000Z",
+      "capturedAt": "2026-08-21T03:50:58.850Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ndluyt",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "brief": "Until both OpenAI and Anthropic get close enough to their planned IPOs to release their financials, we have to look to other sources for signs of how well their businesses are doing. S. businesses. OpenAI, which was once the runaway leader with both businesses and consumers, lost the lead among Ramp’s paying business users back in May. That’s when Anthropic hit 41% market share to OpenAI’s 39%. The ChatGPT maker has never regained that lead. As of July, Anthropic has nearly 44% to OpenAI’s nearly 40%. The data covers more than 70,000 American businesses that spend billions via Ramp’s bill pay and corporate card products. Ramp’s customers are spread across industries but, as a popular Silicon Valley corporate credit card, they do skew toward the tech industry.",
+      "whyItMatters": "",
+      "words": 127,
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+      "published": "2026-08-20T22:36:37.000Z",
+      "capturedAt": "2026-08-21T03:50:57.329Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0l36h2q",
       "channel": "sec",
