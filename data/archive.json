@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-21T03:50:58.850Z",
-  "count": 404,
+  "updatedAt": "2026-08-21T06:48:18.261Z",
+  "count": 406,
   "stories": [
+    {
+      "id": "0lhmpir",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "brief": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. 0), is a case of remote code execution impacting the tech giant's cloud-based identity and access management service. It was previously called Azure Active Directory",
+      "whyItMatters": "",
+      "words": 54,
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg",
+      "published": "2026-08-21T06:06:11.000Z",
+      "capturedAt": "2026-08-21T06:48:18.261Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1a30zwm",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Asia faces scam ‘epidemic’ threat as gangs exploit agentic AI, analyst warns - South China Morning Post",
+      "brief": "Asia faces scam ‘epidemic’ threat as gangs exploit agentic AI, analyst warns South China Morning Post",
+      "whyItMatters": "",
+      "words": 16,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcVF1aFBUNnRweHB2WTVRajNOQ2dVc01hZFhaN2dlUXZaQWVnSy1HeGFZdkNZajlheU5oZWo2QUtQWThzX0xyRkV5R3N6MVN6RmJuTjBOWkE2U2I1YVlZMWlnLW5ua01lWkZXSjY2RXQ1dTUxRTNQUF8yWlBNNW5BMHBLMkZLNFdnRGVnMUMyeDdsbDJ0NDBwVnJDR29RX0dtUFpLaXdLRndKdC1lTzBDcUdxUU9NWTlqNlF4d1Y0dmNWTFNkaWx4WE9VaGVBOFF1RC1R",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-21T06:29:20.000Z",
+      "capturedAt": "2026-08-21T06:48:16.608Z",
+      "tags": [
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0j50ymg",
       "channel": "sec",
