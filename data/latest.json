@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-21T15:33:43.574Z",
-  "nextUpdateAt": "2026-08-21T18:33:43.574Z",
+  "generatedAt": "2026-08-21T18:37:03.152Z",
+  "nextUpdateAt": "2026-08-21T21:37:03.152Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "0tu2rxu",
+      "id": "0oh0vk6",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "brief": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services. Waymo has sharply increased its lobbying spending as it seeks to persuade US regulators to clear a path for fully autonomous taxi services, intensifying its battle with rival Uber over the future of robotaxis. The Alphabet-owned company spent more than $1 million between April and June on lobbying the federal government, more than double its outlay a year earlier, according to filings. That put Waymo’s spending close to Uber’s and well ahead of rivals including Amazon’s Zoox and Tesla. The rise in lobbying comes as Waymo and Uber push competing visions for the future of ride-hailing. Waymo wants a faster route to fully driverless commercial services, while Uber is advocating a staggered rollout in which robotaxis operate alongside human drivers. Their diverging legislative strategies have contributed to their relationship souring.",
+      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+      "brief": "We introduce the Biomarker Discovery Framework, a multi-agent system that supports the discovery of biomarker candidates from wearable sensor data through iterative hypothesis generation, statistical analysis, and literature-grounded reasoning. Wearable devices capture continuous physiological signals at population scale. These streams, ranging from heart rate dynamics to sleep patterns, can reveal early physiological changes before symptoms appear. The bottleneck is no longer data collection, but turning these signals into reliable, clinically meaningful biomarkers. Existing language model-based agent systems automate parts of the scientific workflow, but can often break down on physiological time-series data. These systems optimize for predictive performance while overlooking statistical validity, leading to spurious correlations, leakage, and brittle features.",
       "whyItMatters": "",
-      "words": 147,
-      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
-      "published": "2026-08-21T13:11:35.000Z",
-      "capturedAt": "2026-08-21T15:33:42.138Z",
+      "words": 110,
+      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+      "source": "Google Research",
+      "sourceSite": "research.google",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Biomarker-Discovery-Framework-1.png",
+      "published": "2026-08-21T17:02:24.000Z",
+      "capturedAt": "2026-08-21T18:37:01.339Z",
       "tags": [
-        "Robot"
+        "Generative"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0jakoms",
+      "id": "002255e",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
-      "brief": "Canada’s largest pediatric health center suffered a recent cybersecurity incident that exposed the personal information of current and former employees. The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application. The recent cyberattack briefly took down the careers website for the hospital, which is known colloquially as SickKids, prompting it to begin an investigation. SickKids did not respond to requests for comment about when the attack occurred but said in a statement that investigators believe the hackers likely stole information related to current and former employees as well as job applicants and employees of related organizations, including the SickKids Foundation. The notice does not specify what employee data was taken.",
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "brief": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
       "whyItMatters": "",
-      "words": 142,
-      "url": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/2022_12_sick_kids_hospital_94f66ec5d3.jpg",
-      "published": "2026-08-21T15:00:00.000Z",
-      "capturedAt": "2026-08-21T15:33:43.574Z",
+      "words": 60,
+      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png",
+      "published": "2026-08-21T15:41:44.000Z",
+      "capturedAt": "2026-08-21T18:37:03.152Z",
       "tags": [
-        "Ransomware",
+        "Malware",
         "Cyber",
-        "Attack"
+        "Security"
       ],
       "rewritten": false
     }
