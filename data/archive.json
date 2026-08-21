@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-21T12:48:59.659Z",
-  "count": 410,
+  "updatedAt": "2026-08-21T15:33:43.574Z",
+  "count": 412,
   "stories": [
+    {
+      "id": "0jakoms",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
+      "brief": "Canada’s largest pediatric health center suffered a recent cybersecurity incident that exposed the personal information of current and former employees. The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application. The recent cyberattack briefly took down the careers website for the hospital, which is known colloquially as SickKids, prompting it to begin an investigation. SickKids did not respond to requests for comment about when the attack occurred but said in a statement that investigators believe the hackers likely stole information related to current and former employees as well as job applicants and employees of related organizations, including the SickKids Foundation. The notice does not specify what employee data was taken.",
+      "whyItMatters": "",
+      "words": 142,
+      "url": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/2022_12_sick_kids_hospital_94f66ec5d3.jpg",
+      "published": "2026-08-21T15:00:00.000Z",
+      "capturedAt": "2026-08-21T15:33:43.574Z",
+      "tags": [
+        "Ransomware",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0tu2rxu",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "brief": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services. Waymo has sharply increased its lobbying spending as it seeks to persuade US regulators to clear a path for fully autonomous taxi services, intensifying its battle with rival Uber over the future of robotaxis. The Alphabet-owned company spent more than $1 million between April and June on lobbying the federal government, more than double its outlay a year earlier, according to filings. That put Waymo’s spending close to Uber’s and well ahead of rivals including Amazon’s Zoox and Tesla. The rise in lobbying comes as Waymo and Uber push competing visions for the future of ride-hailing. Waymo wants a faster route to fully driverless commercial services, while Uber is advocating a staggered rollout in which robotaxis operate alongside human drivers. Their diverging legislative strategies have contributed to their relationship souring.",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
+      "published": "2026-08-21T13:11:35.000Z",
+      "capturedAt": "2026-08-21T15:33:42.138Z",
+      "tags": [
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0j15dx5",
       "channel": "sec",
