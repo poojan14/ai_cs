@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-22T06:40:23.611Z",
-  "count": 422,
+  "updatedAt": "2026-08-22T09:27:05.905Z",
+  "count": 424,
   "stories": [
+    {
+      "id": "00cnjph",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Malware Hijacks Android Car Head Units",
+      "brief": "S. S. S. S. S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog Kaspersky researchers found something in June 2026 that made them stop and look twice: an Android app with no interface at all, installed like any ordinary app but making zero effort to disguise itself as legitimate. Their report documents the first known malware infection targeting car head units, the Android-based infotainment and control systems built into many modern vehicles, spread through the vehicle’s own official update mechanism.",
+      "whyItMatters": "",
+      "words": 84,
+      "url": "https://securityaffairs.com/197700/hacking/malware-hijacks-android-car-head-units.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-66.png?resize=1024%2C553&ssl=1",
+      "published": "2026-08-22T08:55:18.000Z",
+      "capturedAt": "2026-08-22T09:27:05.905Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0vp5ix6",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "brief": "Nvidia is doing everything it can to keep fueling the AI buildout that has underpinned its own good fortunes. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers. Cloverleaf was founded in 2024 and raised $300 million that year. It acts as a kind of middleman between utility companies and data centers, providing power sources and other kinds of pivotal infrastructure for site development. While the companies didn’t disclose terms, the Wall Street Journal reports that Nvidia’s investment in Cloverleaf will likely add up to several hundred million dollars. Reuters reports that the chipmaker now owns a minority stake in the company. TechCrunch reached out to Nvidia for more information. The deal is part of Nvidia’s ongoing push to use its immense profits to keep the AI flywheel spinning.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "published": "2026-08-21T22:37:38.000Z",
+      "capturedAt": "2026-08-22T09:27:04.234Z",
+      "tags": [
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0lu39in",
       "channel": "sec",
