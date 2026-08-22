@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-22T09:27:05.905Z",
-  "count": 424,
+  "updatedAt": "2026-08-22T12:39:52.993Z",
+  "count": 426,
   "stories": [
+    {
+      "id": "02jzmu5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+      "brief": "0 malware. Join this live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. CodeSecCon bridges the gap between dev and security. Discover best practices for secure coding, innovative risk-reduction tools, and safe AI integration to cultivate a true DevSecOps culture. Safely secure your apps! WISeKey has appointed Alexander Hirsch as Group Chief Marketing Officer. UltraViolet Cyber has named Andrew Park Chief Information Security Officer. Glow has appointed Patti Degnan as Chief Information Security Officer. Organizations are rushing to implement AI without fully grasping where its legal protections begin and end. (Steve Durbin)",
+      "whyItMatters": "",
+      "words": 108,
+      "url": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
+      "source": "SecurityWeek",
+      "sourceSite": "securityweek.com",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/11/android-banking-malware.png",
+      "published": "2026-08-22T08:30:00.000Z",
+      "capturedAt": "2026-08-22T12:39:52.993Z",
+      "tags": [
+        "Malware",
+        "Security",
+        "Spyware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ko2f6t",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years - The Motley Fool",
+      "brief": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years The Motley Fool",
+      "whyItMatters": "",
+      "words": 18,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVFVpVTNnRFpDdXBoaHRiNHhqbHdaNUE5azROaFpDRGRFUlBPazFyX3hrd2s3VDZNR2FxbnU3RExfUFEtTWJCTjRQS1N5N0hxcE5KMnVWNEpzVTFZME53WjFqbFpneEFyY0p0c0dUaldmSGhfRkpkTVBTUU1RZGNzQy1TcnNzTFk4eVpHbFRmM2hYbkEtZDdXLQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-22T12:34:45.000Z",
+      "capturedAt": "2026-08-22T12:39:51.302Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "00cnjph",
       "channel": "sec",
