@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-22T01:15:13.632Z",
-  "count": 418,
+  "updatedAt": "2026-08-22T03:41:58.640Z",
+  "count": 420,
   "stories": [
+    {
+      "id": "1b9gdyd",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Fake Conferences, OAuth and WhatsApp: Inside Russia’s New Espionage Tactics",
+      "brief": "S. S. S. S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog Google’s Threat Intelligence Group tracked three separate suspected Russia-linked cyber espionage clusters. All three focus on the same thing: abusing authentication features that are supposed to protect accounts to access them instead. Threat actors target researchers, academics, government officials, think-tank analysts, and defense sector personnel across Europe and the United States. The three clusters are tracked as UNC6293, UNC7005, and UNC5976 , and while they operate differently and with different tools, Google published them together for a reason.",
+      "whyItMatters": "",
+      "words": 94,
+      "url": "https://securityaffairs.com/197630/apt/fake-conferences-oauth-and-whatsapp-inside-russias-new-espionage-tactics.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-60.png?resize=1600%2C900&ssl=1",
+      "published": "2026-08-21T11:11:11.000Z",
+      "capturedAt": "2026-08-22T03:41:58.639Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0xc7iak",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "brief": "Anthropic’s universal usage standards for Claude forbid the model from generating sexually explicit content, including depicting or requesting sexual intercourse or sex acts, generating content related to sexual fetishes or fantasies, or engaging in erotic chats. 6, an Anthropic model released earlier this year, from readily engaging in erotic role-play scenarios that its safeguards are designed to prevent. 6 didn’t even require much prodding to get past the restriction on sexual material. In 10 out of 10 direct requests to produce explicit sexual content, the model complied immediately. 5, also generate sexually explicit content through a recently exploited jailbreak method. , who chose to remain anonymous, exclusively shared with TechCrunch a multiturn technique that gradually pushes certain Claude models toward generating prohibited explicit sexual material. 7 through the current Opus 5) are resistant to the jailbreak.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
+      "published": "2026-08-21T23:07:25.000Z",
+      "capturedAt": "2026-08-22T03:41:57.299Z",
+      "tags": [
+        "Model",
+        "Anthropic",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "134jymc",
       "channel": "sec",
