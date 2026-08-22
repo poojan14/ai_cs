@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-21T21:25:09.823Z",
-  "count": 416,
+  "updatedAt": "2026-08-22T01:15:13.632Z",
+  "count": 418,
   "stories": [
+    {
+      "id": "134jymc",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "brief": "0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
+      "whyItMatters": "",
+      "words": 24,
+      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg",
+      "published": "2026-08-21T18:53:00.000Z",
+      "capturedAt": "2026-08-22T01:15:13.632Z",
+      "tags": [
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0hqpqra",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "brief": "LinkedIn’s new AI slop button is apparently getting a lot of use. LinkedIn’s new AI slop button is apparently getting a lot of use. LinkedIn actually announced a “Seems like AI slop” button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan , “over a million people” have clicked on the button, which is accessible from the three dots menu on a post. LinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn’s longform posts were flagged as fully AI generated, which 404 Media reported on . Alongside the AI slop button, LinkedIn introduced “new and improved” classifiers to identify posts as AI and removed a feature that would “enhance your post” with AI.",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&strip=all&crop=0,13.767459555427,100,72.465080889147",
+      "published": "2026-08-21T21:25:50.000Z",
+      "capturedAt": "2026-08-22T01:15:12.291Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1wb2274",
       "channel": "sec",
