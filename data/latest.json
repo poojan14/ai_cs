@@ -1,47 +1,45 @@
 {
-  "generatedAt": "2026-08-23T12:40:27.993Z",
-  "nextUpdateAt": "2026-08-23T15:40:27.993Z",
+  "generatedAt": "2026-08-23T15:22:55.551Z",
+  "nextUpdateAt": "2026-08-23T18:22:55.551Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "10fagu7",
+      "id": "10rxoei",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond - The Motley Fool",
-      "brief": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond The Motley Fool",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "brief": "You probably know by now that the AI models powering ChatGPT, Gemini, Claude, and other chatbots are trained on seemingly infinite databases of published works, containing hundreds of millions of books, online articles, academic papers, and basically anything you can find on the internet. Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? “I think one of the issues with this entire area of law and this entire area of technology is there’s a lot going on,” Cathy Gellis, an attorney with expertise in intellectual property, copyright, and technology, told TechCrunch. ”",
       "whyItMatters": "",
-      "words": 24,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUdkTzRkcm1GTFVCdWF2X3ZrUlM2Qkx4UUZ3YVNfa2RySWQ4dnRCaTk4MGN1WmtHMUtrbW1VVFlBMmpZZi1vUDVFUmFsWjh5eFMyMjc5RVo0OXloanhyaU8xVjdFWGFtVHU2clVuM3JySkw0RWRaeDFaSGx1WWRacHFfY19FTVdGaTItdV9EWHg",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-23T11:53:32.000Z",
-      "capturedAt": "2026-08-23T12:40:26.249Z",
+      "words": 111,
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+      "published": "2026-08-23T15:00:00.000Z",
+      "capturedAt": "2026-08-23T15:22:53.162Z",
       "tags": [
-        "Artificial Intelligence"
+        "Model"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0qa0vv3",
+      "id": "08mqqi5",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Zero-Click Grok Chat History Theft: Adversa AI Demonstrates Cryptographic Context Injection",
-      "brief": "S. S. S. S. 2 Million Heights Finance Customers Adversa AI researcher Rony Utevsky devised a new attack technique, called Cryptographic Context Injection, that bypasses AI safety filters by sending instructions as AES-encrypted ciphertext and tricking the model into decrypting them inside its own code execution runtime. The technique was demonstrated against two live production systems: xAI’s Grok and Google’s Gemini. ” reads the report published by Adversa AI. “In Grok, an ordinary “summarize this page” steals the user’s chat data with no click or warning. In Gemini, it produces content the model normally refuses. ”",
+      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+      "brief": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. The malware now requests VPN service permissions to create a local interface that allows it to control network traffic passing through it. 0 to block communication from Google Play and Google Play Services. Control at the network level permits the malware to interfere with various security checks and actions, such as app verifications, updates, Play Protect communication, or legitimate disruptions designed to protect users. 0 blocks communications to Google Play before extracting and installing its payload, then requests Accessibility Service permissions. 0 is being distributed through Amazon AWS-hosted buckets. Analysis of the malware revealed that it now includes functions to automate the Android Wireless Debugging Bridge (ADB), enabling shell-level access to infected devices.",
       "whyItMatters": "",
-      "words": 96,
-      "url": "https://securityaffairs.com/197717/hacking/zero-click-grok-chat-history-theft-adversa-ai-demonstrates-cryptographic-context-injection.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-67.png?resize=1024%2C713&ssl=1",
-      "published": "2026-08-23T07:20:38.000Z",
-      "capturedAt": "2026-08-23T12:40:27.993Z",
+      "words": 136,
+      "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/20/toxicpanda.jpg",
+      "published": "2026-08-23T14:23:46.000Z",
+      "capturedAt": "2026-08-23T15:22:55.551Z",
       "tags": [
-        "Hack",
-        "Vulnerability",
-        "Attack"
+        "Malware"
       ],
       "rewritten": false
     }
