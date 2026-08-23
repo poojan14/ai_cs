@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-22T21:22:10.238Z",
-  "count": 432,
+  "updatedAt": "2026-08-23T01:21:55.333Z",
+  "count": 434,
   "stories": [
+    {
+      "id": "1e6ro79",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution",
+      "brief": "S. S. S. S. S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog Cycode researchers found that AIT-GUI, the browser-based operator console in NASA/JPL open-source AMMOS Instrument Toolkit, shipped with no authentication, no session checks, and no CSRF protection on any of its state-changing endpoints. ” reads the report published by Cycode. “Anyone who can reach the port, or any website an operator merely visits in a browser, can:",
+      "whyItMatters": "",
+      "words": 73,
+      "url": "https://securityaffairs.com/197689/hacking/critical-flaw-in-nasa-jpl-open-source-spacecraft-command-software.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-65.png",
+      "published": "2026-08-22T08:04:09.000Z",
+      "capturedAt": "2026-08-23T01:21:55.333Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0z55bjw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
+      "brief": "S. Alternative to Chinese AI WSJ",
+      "whyItMatters": "",
+      "words": 6,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-23T00:00:00.000Z",
+      "capturedAt": "2026-08-23T01:21:53.535Z",
+      "tags": [
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "06dw1bw",
       "channel": "sec",
