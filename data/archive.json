@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-23T09:27:55.121Z",
-  "count": 440,
+  "updatedAt": "2026-08-23T12:40:27.993Z",
+  "count": 442,
   "stories": [
+    {
+      "id": "0qa0vv3",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Zero-Click Grok Chat History Theft: Adversa AI Demonstrates Cryptographic Context Injection",
+      "brief": "S. S. S. S. 2 Million Heights Finance Customers Adversa AI researcher Rony Utevsky devised a new attack technique, called Cryptographic Context Injection, that bypasses AI safety filters by sending instructions as AES-encrypted ciphertext and tricking the model into decrypting them inside its own code execution runtime. The technique was demonstrated against two live production systems: xAI’s Grok and Google’s Gemini. ” reads the report published by Adversa AI. “In Grok, an ordinary “summarize this page” steals the user’s chat data with no click or warning. In Gemini, it produces content the model normally refuses. ”",
+      "whyItMatters": "",
+      "words": 96,
+      "url": "https://securityaffairs.com/197717/hacking/zero-click-grok-chat-history-theft-adversa-ai-demonstrates-cryptographic-context-injection.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-67.png?resize=1024%2C713&ssl=1",
+      "published": "2026-08-23T07:20:38.000Z",
+      "capturedAt": "2026-08-23T12:40:27.993Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "10fagu7",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond - The Motley Fool",
+      "brief": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond The Motley Fool",
+      "whyItMatters": "",
+      "words": 24,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUdkTzRkcm1GTFVCdWF2X3ZrUlM2Qkx4UUZ3YVNfa2RySWQ4dnRCaTk4MGN1WmtHMUtrbW1VVFlBMmpZZi1vUDVFUmFsWjh5eFMyMjc5RVo0OXloanhyaU8xVjdFWGFtVHU2clVuM3JySkw0RWRaeDFaSGx1WWRacHFfY19FTVdGaTItdV9EWHg",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-23T11:53:32.000Z",
+      "capturedAt": "2026-08-23T12:40:26.249Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0ccbagw",
       "channel": "sec",

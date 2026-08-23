@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-23T09:27:55.121Z",
-  "nextUpdateAt": "2026-08-23T12:27:55.121Z",
+  "generatedAt": "2026-08-23T12:40:27.993Z",
+  "nextUpdateAt": "2026-08-23T15:40:27.993Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1te114j",
+      "id": "10fagu7",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "brief": "OpenAI is calling for California to add more safeguards to a landmark AI safety bill that was passed last year. ” “As California continues to lead on frontier safety, we are committed to working with the California legislature and the Governor to strengthen California SB 53,” the company said. The post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge. Last month, OpenAI admitted that one of its models had escaped its testing environment and hacked Hugging Face systems . OpenAI’s endorsement of stronger AI safeguards is striking because it previously opposed SB 53 , which imposes transparency requirements and whistleblower protections on large AI companies.",
+      "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond - The Motley Fool",
+      "brief": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond The Motley Fool",
       "whyItMatters": "",
-      "words": 119,
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "published": "2026-08-22T16:30:34.000Z",
-      "capturedAt": "2026-08-23T09:27:53.380Z",
+      "words": 24,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUdkTzRkcm1GTFVCdWF2X3ZrUlM2Qkx4UUZ3YVNfa2RySWQ4dnRCaTk4MGN1WmtHMUtrbW1VVFlBMmpZZi1vUDVFUmFsWjh5eFMyMjc5RVo0OXloanhyaU8xVjdFWGFtVHU2clVuM3JySkw0RWRaeDFaSGx1WWRacHFfY19FTVdGaTItdV9EWHg",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-23T11:53:32.000Z",
+      "capturedAt": "2026-08-23T12:40:26.249Z",
       "tags": [
-        "Openai"
+        "Artificial Intelligence"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0ccbagw",
+      "id": "0qa0vv3",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
-      "brief": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. Join this live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. CodeSecCon bridges the gap between dev and security. Discover best practices for secure coding, innovative risk-reduction tools, and safe AI integration to cultivate a true DevSecOps culture. Safely secure your apps! WISeKey has appointed Alexander Hirsch as Group Chief Marketing Officer. UltraViolet Cyber has named Andrew Park Chief Information Security Officer. Glow has appointed Patti Degnan as Chief Information Security Officer. Organizations are rushing to implement AI without fully grasping where its legal protections begin and end. (Steve Durbin)",
+      "title": "Zero-Click Grok Chat History Theft: Adversa AI Demonstrates Cryptographic Context Injection",
+      "brief": "S. S. S. S. 2 Million Heights Finance Customers Adversa AI researcher Rony Utevsky devised a new attack technique, called Cryptographic Context Injection, that bypasses AI safety filters by sending instructions as AES-encrypted ciphertext and tricking the model into decrypting them inside its own code execution runtime. The technique was demonstrated against two live production systems: xAI’s Grok and Google’s Gemini. ” reads the report published by Adversa AI. “In Grok, an ordinary “summarize this page” steals the user’s chat data with no click or warning. In Gemini, it produces content the model normally refuses. ”",
       "whyItMatters": "",
-      "words": 127,
-      "url": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
-      "source": "SecurityWeek",
-      "sourceSite": "securityweek.com",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
-      "published": "2026-08-21T15:11:16.000Z",
-      "capturedAt": "2026-08-23T09:27:55.120Z",
+      "words": 96,
+      "url": "https://securityaffairs.com/197717/hacking/zero-click-grok-chat-history-theft-adversa-ai-demonstrates-cryptographic-context-injection.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-67.png?resize=1024%2C713&ssl=1",
+      "published": "2026-08-23T07:20:38.000Z",
+      "capturedAt": "2026-08-23T12:40:27.993Z",
       "tags": [
         "Hack",
-        "Attack",
-        "Security"
+        "Vulnerability",
+        "Attack"
       ],
       "rewritten": false
     }
