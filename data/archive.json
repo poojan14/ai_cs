@@ -1,7 +1,45 @@
 {
-  "updatedAt": "2026-08-23T01:21:55.333Z",
-  "count": 434,
+  "updatedAt": "2026-08-23T03:50:56.578Z",
+  "count": 436,
   "stories": [
+    {
+      "id": "05uka6t",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "brief": "Named pipes are a common choice for communication between applications running on the same Windows computer. They are fast, supported directly by the operating system, and work well for communication between Windows services, desktop applications, tray processes, command-line utilities, and background agents. A typical design may include a privileged Windows service acting as the named-pipe server while a user-facing application connects as the client. Because both processes run on the same computer, developers often treat this communication as internal and therefore trusted. In practice, the pipe is accessible from an environment where many unrelated processes may be running under different users, sessions, and security contexts. Named pipes are often treated as private because they are used for communication between applications on the same computer. That assumption is unsafe. A Windows workstation may run processes under LocalSystem , administrators, standard users, service accounts, and separate interactive or remote sessions.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/posts/2026/08/18/0_named-pipe-header-image.jpg",
+      "published": "2026-08-22T13:00:09.000Z",
+      "capturedAt": "2026-08-23T03:50:56.578Z",
+      "tags": [
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1yi4sx3",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "brief": "As Harvard Business School seeks to expand its reach, it’s leaning on AI avatars to provide individual feedback. These avatars were created by a startup called HeyGen and are included in the eight-week, $699 HBS Foundry bootcamp for entrepreneurs. The program offers live sessions with instructors every week, but the AI avatars are the ones providing feedback during practice pitches and board meetings. New York Times reporter Sarah Kessler actually tried this out herself by pitching an AI-generated copy of Flybridge Capital co-founder Jeff Bussgang. Apparently, both the real Bussgang and his simulacra were unimpressed by her plan to build “Uber for bananas,” but Kessler said the virtual version offered a noticeably frozen smile during her pitch. Project director Katharina Rings said she initially envisioned the AI component as something closer to a chatbot. However, after HBS released a trial version, students said they wanted a more guided experience.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+      "published": "2026-08-22T21:46:56.000Z",
+      "capturedAt": "2026-08-23T03:50:54.333Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1e6ro79",
       "channel": "sec",
