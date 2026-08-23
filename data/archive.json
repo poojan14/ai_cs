@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-23T03:50:56.578Z",
-  "count": 436,
+  "updatedAt": "2026-08-23T06:41:09.726Z",
+  "count": 438,
   "stories": [
+    {
+      "id": "052lws7",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. CISA adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog",
+      "brief": "S. S. S. S. S. S. Cybersecurity and Infrastructure Security Agency (CISA) added the Zimbra Collaboration Suite (ZCS) flaw CVE-2026-73570 to its Known Exploited Vulnerabilities (KEV) catalog . CERT Polska, Poland’s national computer emergency response team, confirmed this week that threat actors are actively exploiting the critical vulnerability in Zimbra Collaboration Suite. The flaw allows unauthenticated remote code execution and was patched less than a month ago.",
+      "whyItMatters": "",
+      "words": 67,
+      "url": "https://securityaffairs.com/197693/security/u-s-cisa-adds-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "published": "2026-08-22T07:17:49.000Z",
+      "capturedAt": "2026-08-23T06:41:09.726Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1t9ihr5",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain - AOL.com",
+      "brief": "Broadcom vs. com",
+      "whyItMatters": "",
+      "words": 3,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qcTh4TGQtTTVYMkdVR2poRjV3VDZ1cHg1ZWU1M0JEdTlVOF9KYm1SWnZIZ2xtNmowdWtsVzI3WXl3Q0cySlcxSjRHdUJUQjlxLUZwUWxyc281eWY0eDVZaWxVN2ZoX0NoVE84SjlzLVlGY2NSX1hsYXRRTQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-23T04:38:54.000Z",
+      "capturedAt": "2026-08-23T06:41:07.654Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "05uka6t",
       "channel": "sec",
