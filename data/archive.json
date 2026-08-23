@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-23T15:22:55.551Z",
-  "count": 444,
+  "updatedAt": "2026-08-23T18:30:24.493Z",
+  "count": 446,
   "stories": [
+    {
+      "id": "02pyptu",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "UK Power Plant Disabled for Four Days by Iran-Linked Hackers, Concurrent with US Water Attacks",
+      "brief": "S. S. S. S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft IKE flaws to its Known Exploited Vulnerabilities catalog Iran-linked hackers shut down a British power plant for four days in what The Telegraph describes as the most successful cyberattack of its kind against UK energy infrastructure. ” reads the report published by The Telegraph. ”",
+      "whyItMatters": "",
+      "words": 60,
+      "url": "https://securityaffairs.com/197734/cyber-warfare-2/uk-power-plant-disabled-for-four-days-by-iran-linked-hackers-concurrent-with-us-water-attacks.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2012/04/IranianFlag.jpg",
+      "published": "2026-08-23T08:48:14.000Z",
+      "capturedAt": "2026-08-23T18:30:24.493Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0zchj7s",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead - The Motley Fool",
+      "brief": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead The Motley Fool",
+      "whyItMatters": "",
+      "words": 23,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDVRZnZPLXZQb0RlREJ0MFJ2VFRSRVpxY0pYZTVBM3ZQeTgwS3FHZFhUaDU1Y1g3QnFobHNYbEpnZFJZU3FMbjRXYUFlZjJZYllTOWEwVnQ0dTg2amZaZ0liMTMyOFkxZkpuNTlaOTZsT2RrNEZKRFdUemNxSnNsWHhKYWFRNUpDRWpHUFBrbmFHUQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-23T18:18:24.000Z",
+      "capturedAt": "2026-08-23T18:30:22.670Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "08mqqi5",
       "channel": "sec",

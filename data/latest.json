@@ -1,45 +1,47 @@
 {
-  "generatedAt": "2026-08-23T15:22:55.551Z",
-  "nextUpdateAt": "2026-08-23T18:22:55.551Z",
+  "generatedAt": "2026-08-23T18:30:24.493Z",
+  "nextUpdateAt": "2026-08-23T21:30:24.493Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "10rxoei",
+      "id": "0zchj7s",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "brief": "You probably know by now that the AI models powering ChatGPT, Gemini, Claude, and other chatbots are trained on seemingly infinite databases of published works, containing hundreds of millions of books, online articles, academic papers, and basically anything you can find on the internet. Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? “I think one of the issues with this entire area of law and this entire area of technology is there’s a lot going on,” Cathy Gellis, an attorney with expertise in intellectual property, copyright, and technology, told TechCrunch. ”",
+      "title": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead - The Motley Fool",
+      "brief": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead The Motley Fool",
       "whyItMatters": "",
-      "words": 111,
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
-      "published": "2026-08-23T15:00:00.000Z",
-      "capturedAt": "2026-08-23T15:22:53.162Z",
+      "words": 23,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDVRZnZPLXZQb0RlREJ0MFJ2VFRSRVpxY0pYZTVBM3ZQeTgwS3FHZFhUaDU1Y1g3QnFobHNYbEpnZFJZU3FMbjRXYUFlZjJZYllTOWEwVnQ0dTg2amZaZ0liMTMyOFkxZkpuNTlaOTZsT2RrNEZKRFdUemNxSnNsWHhKYWFRNUpDRWpHUFBrbmFHUQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-23T18:18:24.000Z",
+      "capturedAt": "2026-08-23T18:30:22.670Z",
       "tags": [
-        "Model"
+        "Artificial Intelligence"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "08mqqi5",
+      "id": "02pyptu",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-      "brief": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. The malware now requests VPN service permissions to create a local interface that allows it to control network traffic passing through it. 0 to block communication from Google Play and Google Play Services. Control at the network level permits the malware to interfere with various security checks and actions, such as app verifications, updates, Play Protect communication, or legitimate disruptions designed to protect users. 0 blocks communications to Google Play before extracting and installing its payload, then requests Accessibility Service permissions. 0 is being distributed through Amazon AWS-hosted buckets. Analysis of the malware revealed that it now includes functions to automate the Android Wireless Debugging Bridge (ADB), enabling shell-level access to infected devices.",
+      "title": "UK Power Plant Disabled for Four Days by Iran-Linked Hackers, Concurrent with US Water Attacks",
+      "brief": "S. S. S. S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft IKE flaws to its Known Exploited Vulnerabilities catalog Iran-linked hackers shut down a British power plant for four days in what The Telegraph describes as the most successful cyberattack of its kind against UK energy infrastructure. ” reads the report published by The Telegraph. ”",
       "whyItMatters": "",
-      "words": 136,
-      "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/20/toxicpanda.jpg",
-      "published": "2026-08-23T14:23:46.000Z",
-      "capturedAt": "2026-08-23T15:22:55.551Z",
+      "words": 60,
+      "url": "https://securityaffairs.com/197734/cyber-warfare-2/uk-power-plant-disabled-for-four-days-by-iran-linked-hackers-concurrent-with-us-water-attacks.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2012/04/IranianFlag.jpg",
+      "published": "2026-08-23T08:48:14.000Z",
+      "capturedAt": "2026-08-23T18:30:24.493Z",
       "tags": [
-        "Malware"
+        "Breach",
+        "Hack",
+        "Cyber"
       ],
       "rewritten": false
     }
