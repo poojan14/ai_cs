@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-08-23T21:22:20.010Z",
-  "count": 448,
+  "updatedAt": "2026-08-24T01:19:16.332Z",
+  "count": 449,
   "stories": [
+    {
+      "id": "07864n0",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA Corporation, the world's largest developer of Artificial Intelligence (AI) chips, has signale.. - 매일경제",
+      "brief": "NVIDIA Corporation, the world's largest developer of Artificial Intelligence (AI) chips, has signale.. 매일경제",
+      "whyItMatters": "",
+      "words": 14,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5UXptQkltUW9TNncxYVJ3NGlNSGxrZVFBajVLRGQtUzdDRXF5cHFXT1hTeEtjeGlraHY2ZHlqcVo4YTFES2JIdTZ5aFBxcGM",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-23T22:11:00.000Z",
+      "capturedAt": "2026-08-24T01:19:14.614Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "08u615c",
       "channel": "sec",

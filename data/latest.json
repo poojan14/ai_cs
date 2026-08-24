@@ -1,25 +1,26 @@
 {
-  "generatedAt": "2026-08-23T21:22:20.010Z",
-  "nextUpdateAt": "2026-08-24T00:22:20.010Z",
+  "generatedAt": "2026-08-24T01:19:16.332Z",
+  "nextUpdateAt": "2026-08-24T04:19:16.332Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1t78v7g",
+      "id": "07864n0",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "brief": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it. ” So who’s actually behind Ox Alpha? ” Unsurprisingly , much of the speculation has revolved around China. ”",
+      "title": "NVIDIA Corporation, the world's largest developer of Artificial Intelligence (AI) chips, has signale.. - 매일경제",
+      "brief": "NVIDIA Corporation, the world's largest developer of Artificial Intelligence (AI) chips, has signale.. 매일경제",
       "whyItMatters": "",
-      "words": 44,
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
-      "published": "2026-08-23T20:01:36.000Z",
-      "capturedAt": "2026-08-23T21:22:17.961Z",
+      "words": 14,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5UXptQkltUW9TNncxYVJ3NGlNSGxrZVFBajVLRGQtUzdDRXF5cHFXT1hTeEtjeGlraHY2ZHlqcVo4YTFES2JIdTZ5aFBxcGM",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-23T22:11:00.000Z",
+      "capturedAt": "2026-08-24T01:19:14.614Z",
       "tags": [
-        "Model"
+        "Artificial Intelligence",
+        "Nvidia"
       ],
       "rewritten": false
     },
@@ -37,7 +38,7 @@
       "sourceSite": "securityaffairs.com",
       "image": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
       "published": "2026-08-23T17:04:47.000Z",
-      "capturedAt": "2026-08-23T21:22:20.010Z",
+      "capturedAt": "2026-08-24T01:19:16.332Z",
       "tags": [
         "Hack",
         "Ransomware",
