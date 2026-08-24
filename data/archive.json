@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-24T18:40:27.842Z",
-  "count": 459,
+  "updatedAt": "2026-08-24T21:29:48.515Z",
+  "count": 461,
   "stories": [
+    {
+      "id": "1n5c0y2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "brief": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than they actually are. Plenty to clean up. Here’s the short version. S.",
+      "whyItMatters": "",
+      "words": 61,
+      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxfnZQzz7hUDdRKPJM-KWXJAJemk0-S3QlOB71Z1Bq9nVxHA4G0VtkwUUVJjgO-2gtDImMt-ktLnUQd3rkScujv0fWVlfc_tr3qO7sZ-MI2QDtoyT8pKx4q_ZCndRyxhPQcNtZB70fZ4VlaBuE3YaMcE__MWrRtngOU0rTHcSmOXsGkhlARwfUkIBUj9Q/s1600/recap-n.jpg",
+      "published": "2026-08-24T14:32:10.000Z",
+      "capturedAt": "2026-08-24T21:29:48.515Z",
+      "tags": [
+        "Exploit",
+        "Attack",
+        "Leak"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0g6zqtz",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "How to encourage smarter AI use in the classroom",
+      "brief": "One school is using a traffic light metaphor to explain when students can use AI for their assignments. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any homework question or spin up an essay in seconds. Of course, teachers can often tell when a student is using AI—models make mistakes that most humans don’t, and some teachers say that AI-generated text has simple giveaways like too many em dashes . Nevertheless, the generative AI boom increased the burden on teachers, who were already working long hours to plan lessons, make homework assignments, and grade exams, and now needed to adapt to a new technology. For many, it still feels like there’s no clear path forward.",
+      "whyItMatters": "",
+      "words": 133,
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/8947cf02-f42b-04bb-03ce-c05c80e44d46.jpg?resize=1200,600",
+      "published": "2026-08-24T14:20:19.000Z",
+      "capturedAt": "2026-08-24T21:29:46.968Z",
+      "tags": [
+        "Model",
+        "Chatbot",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "032wnnk",
       "channel": "sec",
