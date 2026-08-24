@@ -1,27 +1,24 @@
 {
-  "generatedAt": "2026-08-24T01:19:16.332Z",
-  "nextUpdateAt": "2026-08-24T04:19:16.332Z",
+  "generatedAt": "2026-08-24T03:54:30.609Z",
+  "nextUpdateAt": "2026-08-24T06:54:30.609Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "07864n0",
+      "id": "1dnn6i5",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "NVIDIA Corporation, the world's largest developer of Artificial Intelligence (AI) chips, has signale.. - 매일경제",
-      "brief": "NVIDIA Corporation, the world's largest developer of Artificial Intelligence (AI) chips, has signale.. 매일경제",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "brief": "With back-to-school season approaching (or already here in some places), keeping track of everyone’s schedules can get pretty chaotic. Between work, school, appointments, sports, chores, and everything else going on, a regular paper calendar just doesn’t cut it. That’s where Linkdaze’s smart digital calendar comes in — a touchscreen tablet built specifically to organize a household rather than a single person. One of Linkdaze’s biggest strengths is its calendar compatibility. The system can synchronize calendars from popular services, including Google, iCloud, Outlook, Yahoo, and Cozi, which is a dedicated family-organizing app. This is particularly useful for families where different members use different platforms. Instead of asking everyone to switch to a single calendar app, Linkdaze brings multiple schedules together and uses color coding to make individual family members easy to identify. 1-inch models, giving you some flexibility depending on how much wall space you have.",
       "whyItMatters": "",
-      "words": 14,
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5UXptQkltUW9TNncxYVJ3NGlNSGxrZVFBajVLRGQtUzdDRXF5cHFXT1hTeEtjeGlraHY2ZHlqcVo4YTFES2JIdTZ5aFBxcGM",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-23T22:11:00.000Z",
-      "capturedAt": "2026-08-24T01:19:14.614Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Nvidia"
-      ],
+      "words": 145,
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
+      "published": "2026-08-23T19:14:08.000Z",
+      "capturedAt": "2026-08-24T03:54:28.765Z",
+      "tags": [],
       "rewritten": false
     },
     "sec": {
@@ -38,7 +35,7 @@
       "sourceSite": "securityaffairs.com",
       "image": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
       "published": "2026-08-23T17:04:47.000Z",
-      "capturedAt": "2026-08-24T01:19:16.332Z",
+      "capturedAt": "2026-08-24T03:54:30.609Z",
       "tags": [
         "Hack",
         "Ransomware",
