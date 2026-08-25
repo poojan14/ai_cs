@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-25T18:39:44.348Z",
-  "count": 475,
+  "updatedAt": "2026-08-25T21:28:52.080Z",
+  "count": 477,
   "stories": [
+    {
+      "id": "0lusrgc",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "brief": "S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime",
+      "whyItMatters": "",
+      "words": 56,
+      "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg",
+      "published": "2026-08-25T18:17:17.000Z",
+      "capturedAt": "2026-08-25T21:28:52.080Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0i5i60o",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+      "brief": "AgentHands is an LLM-powered XR prototype that augments conversational agents with synchronized, expressive hand gestures to provide spatially grounded guidance, bridging the mental mapping gap and enhancing user engagement in physical tasks. As AI assistants evolve from simple text interfaces to multimodal companions, we are seeing a shift toward more proactive, situated assistance. 1 Flash Live already allow users to discuss their physical surroundings in real time, often utilizing visual bounding box overlays to identify objects in a camera feed. While these overlays are highly effective for 2D screens, the transition to immersive platforms like Android XR presents a unique challenge: how do we move beyond flat UI to create a truly embodied, spatially aware dialogue?",
+      "whyItMatters": "",
+      "words": 116,
+      "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+      "source": "Google Research",
+      "sourceSite": "research.google",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgentHands5_Workflow.png",
+      "published": "2026-08-25T19:10:59.000Z",
+      "capturedAt": "2026-08-25T21:28:50.836Z",
+      "tags": [
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1l5i2d5",
       "channel": "sec",
