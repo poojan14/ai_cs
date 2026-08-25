@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-25T01:17:29.686Z",
-  "count": 463,
+  "updatedAt": "2026-08-25T03:49:08.294Z",
+  "count": 465,
   "stories": [
+    {
+      "id": "0s5uomn",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "brief": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
+      "whyItMatters": "",
+      "words": 56,
+      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM9ML6Oc83309fnrqC5YOyteVjfKTYCzrm3KoKbrmts4w0P7kQoBMu9btpIWFoYZePuTnU0TL7Olt7jVqdJylmuxwKcI0_NaKNuHxe0pQwi6W2mz7D-qS4WvW1da7E-QG2eEfNf-MbqmB3GR0psJTTT8RO-NtFnx9yVe8dlItdO2G0Dh4wXFNLs_WIqAHP/s1600/mine.jpg",
+      "published": "2026-08-24T17:41:11.000Z",
+      "capturedAt": "2026-08-25T03:49:08.294Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1lcaiph",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "How XPUs Meet a World-Class AI Factory",
+      "brief": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider not just XPU design, but the design and development of the entire AI platform, including scale-up and scale-out networking, rack-scale architecture, production factory software and a robust supplier ecosystem. At AI factory scale, this path is complex and costly, and represents a fundamental obstacle to getting XPUs to market quickly. Breaking the constraint means combining custom XPUs with proven, mature infrastructure — allowing builders to focus innovation where it matters most while harnessing established technology for the rest.",
+      "whyItMatters": "",
+      "words": 133,
+      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nvidia-dsx-maxlps-fg-i4of6-d-scaled.jpg",
+      "published": "2026-08-24T15:00:54.000Z",
+      "capturedAt": "2026-08-25T03:49:06.652Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1wad5nt",
       "channel": "sec",
