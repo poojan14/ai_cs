@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-25T03:49:08.294Z",
-  "count": 465,
+  "updatedAt": "2026-08-25T06:49:24.042Z",
+  "count": 467,
   "stories": [
+    {
+      "id": "0m7e8cu",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
+      "brief": "S. sanctioned several Iranian nationals on Monday for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom. S. attempts to reopen the critical Strait of Hormuz. Among those sanctioned were at least six men accused of being part of a hacking operation housed within Iran’s Ministry of Intelligence and Security (MOIS). Four of the men were indicted last week for allegedly breaching employee email accounts connected to the Department of Labor, the Federal Energy Regulatory Commission and multiple organizations within the United Nations. S. ”",
+      "whyItMatters": "",
+      "words": 98,
+      "url": "https://therecord.media/iran-cyberattacks-us-uk",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/mostafa_meraji_y8n_K_Kc_APZU_unsplash_b50d3fe17b.jpg",
+      "published": "2026-08-24T23:00:00.000Z",
+      "capturedAt": "2026-08-25T06:49:24.042Z",
+      "tags": [
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1xsukvr",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26 - AOL.com",
+      "brief": "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. com",
+      "whyItMatters": "",
+      "words": 16,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLU9lb3lVZDBrdHNfRl9BaFJGZTljVzc0OEpud1gzU0dha3E0ZkxvX2IzMEVJeUVSakF0REZGN0otSDlvWkFqOFh6TG82NS12bDVSN3NJM2xpSHFreWxZeFZzSmpQZ0hMQnY0Y3hodXR6WU1KeWJ2aktFa2pUdllaS080X0kyNU9nX2daSnUxcGE",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-25T05:09:55.000Z",
+      "capturedAt": "2026-08-25T06:49:22.343Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0s5uomn",
       "channel": "sec",
