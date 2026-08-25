@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-25T15:42:12.647Z",
-  "count": 473,
+  "updatedAt": "2026-08-25T18:39:44.348Z",
+  "count": 475,
   "stories": [
+    {
+      "id": "1l5i2d5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "The patch window is collapsing: Why security needs a new control plane",
+      "brief": "For decades, cybersecurity defenders have relied on a relatively straightforward model: a vulnerability is disclosed, security teams assess exposure, test available fixes, deploy patches into production, and ultimately close the risk before attackers can exploit it at scale. That model increasingly reflects a world that no longer exists. Today’s enterprises operate thousands of interconnected workloads across hybrid and multicloud environments. Mission-critical applications power revenue-generating services, customer experiences, and core business operations that cannot simply be taken offline whenever a security update becomes available. At the same time, vulnerabilities are becoming more visible, more widely distributed, and more rapidly weaponized than ever before. The result is a growing gap between how quickly organizations can safely remediate vulnerabilities and how quickly adversaries can exploit them. It is time to rethink how the industry approaches security during the critical period between disclosure and remediation.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/image-1.jpg",
+      "published": "2026-08-25T16:00:00.000Z",
+      "capturedAt": "2026-08-25T18:39:44.348Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "149t4wx",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "brief": "A change to Claude’s memory system will eliminate one of the most annoying things about using agents — the constant need to rebrief the AI on things it already knows. On Tuesday, Anthropic announced it’s merging the memory system used by chat and Claude Cowork, which means that Claude will always remember what it learned in one area, even when you’re engaging with it in another. Anthropic is also exposing what Claude has retained in its memory, allowing users to read, edit, or delete information on any topic. The update will improve the experience for Claude’s users as it will allow them to more seamlessly move between the research phase and taking action. Before, you may have developed ideas for projects over time while chatting with Claude, but when it came time to actually enact the changes, you’d have to start over by telling Cowork all the details.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "published": "2026-08-25T17:50:33.000Z",
+      "capturedAt": "2026-08-25T18:39:42.690Z",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0aspr1h",
       "channel": "sec",
