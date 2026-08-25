@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-25T09:35:39.842Z",
-  "count": 469,
+  "updatedAt": "2026-08-25T12:48:11.218Z",
+  "count": 471,
   "stories": [
+    {
+      "id": "00gixbc",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Fake Minecraft Sites Are Still Spreading WeedHack After C2 Takedown",
+      "brief": "S. S. S. S. CISA adds an MLflow flaw to its Known Exploited Vulnerabilities catalog McAfee Labs published a follow-up report on the WeedHack Malware-as-a-Service campaign this week, documenting ten active malicious sites and multiple file-hosting accounts that are still spreading the infostealer despite a disruption to its command-and-control infrastructure. Over the past month alone, McAfee WebAdvisor blocked more than 6,300 user attempts to reach these sites. “During our investigation of this campaign, we observed that most of these websites appear legitimate, as they are well-crafted and often mimic legitimate websites. ” reads the report published by McAfee. “We published the original article in the first week of July, and, as a result, we’ve seen a disruption in WeedHack’s campaign: its C2 server is no longer active. Consequently, we have observed a shift in tactics by these attackers. “",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://securityaffairs.com/197784/malware/fake-minecraft-sites-are-still-spreading-weedhack-after-c2-takedown.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-73.png?resize=1024%2C509&ssl=1",
+      "published": "2026-08-25T07:15:46.000Z",
+      "capturedAt": "2026-08-25T12:48:11.218Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1x1ihnd",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "brief": "The state is investigating whether OpenAI’s ‘inability or unwillingness to ensure the safety of its products’ endangers citizens. The state is investigating whether OpenAI’s ‘inability or unwillingness to ensure the safety of its products’ endangers citizens. Alabama’s attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI’s safety practices violated state consumer protection laws and pose a risk to Alabama citizens, the AG’s office said in a statement. “This AI lab leak showed that Alabamians’ and Americans’ worst fears about artificial intelligence are not just theoretical,” said Attorney General Steve Marshall. ”",
+      "whyItMatters": "",
+      "words": 123,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-08-25T09:15:03.000Z",
+      "capturedAt": "2026-08-25T12:48:09.308Z",
+      "tags": [
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "01odbz6",
       "channel": "sec",
