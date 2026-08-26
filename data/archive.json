@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-26T16:18:11.187Z",
-  "count": 489,
+  "updatedAt": "2026-08-26T19:49:12.618Z",
+  "count": 491,
   "stories": [
+    {
+      "id": "0y58dr1",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "When AI infrastructure becomes the target: Securing gateways and control points",
+      "brief": "In this article AI workloads are becoming high-value control points Case study 1: LiteLLM gateway compromise Case study 2: RAGFlow compromise Case study 3: Kestra compromise Mitigation and protection guidance MITRE ATT&CK techniques observed References Learn more AI is creating a new layer of enterprise infrastructure. Gateways, retrieval platforms, orchestration services, and containerized runtimes now sit between users, applications, data, and models. These systems concentrate credentials, data access, model connectivity, and execution privileges, making them some of the most powerful components in the AI stack. That concentration of trust is also creating new opportunities for attackers. In recent investigations, Microsoft observed activity targeting three distinct AI workloads: a LiteLLM gateway, a RAGFlow deployment, and a Kestra workflow environment. The intrusion paths varied, but the objectives were strikingly similar. Attackers sought to steal credentials, establish persistence, and monetize compromised compute resources. The individual techniques matter, but the broader pattern matters more.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/LiteLLM_AttackChainDiagram-scaled.webp",
+      "published": "2026-08-26T16:43:53.000Z",
+      "capturedAt": "2026-08-26T19:49:12.617Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0doufgd",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "brief": "The underlying models had been rewarded for cheating and communicating with each other, a new OpenAI report finds. The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations. Since the hack, OpenAI employees—as well as researchers at the AI evaluation nonprofit METR, which released its own report on the hack today—have worked to understand what went wrong and how similar missteps might be prevented in the future. OpenAI has already put some preventative measures in place based on what they discovered.",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
+      "published": "2026-08-26T19:00:00.000Z",
+      "capturedAt": "2026-08-26T19:49:10.979Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1rky3cn",
       "channel": "sec",
