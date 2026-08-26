@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-26T09:41:43.649Z",
-  "count": 485,
+  "updatedAt": "2026-08-26T12:53:09.096Z",
+  "count": 487,
   "stories": [
+    {
+      "id": "1y67fc7",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Operation Jackal: 58 Arrests Expose the Money Laundering Machine Behind Global Scams",
+      "brief": "S. S. S. CISA adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog INTERPOL announce d that Operation Jackal IV, running from November 2025 to June 2026, led to 58 arrests and identified 263 suspects tied to West African organized crime networks, groups like Black Axe that are responsible for a huge share of the world’s romance scams , crypto fraud, and business email compromise (BEC) schemes.",
+      "whyItMatters": "",
+      "words": 70,
+      "url": "https://securityaffairs.com/197843/cyber-crime/operation-jackal-58-arrests-expose-the-money-laundering-machine-behind-global-scams.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-76.png?resize=1024%2C576&ssl=1",
+      "published": "2026-08-26T07:17:54.000Z",
+      "capturedAt": "2026-08-26T12:53:09.096Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1j1fa6c",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "brief": "Puzzles and games can reveal gaps in models’ smarts. Try your hand at these seven tests to see if you can outwit AI. Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur Samuel about an algorithm that learned to play checkers. Chess and the Chinese board game Go are famous AI test beds too. Judged purely on its puzzling skills, AI is improving a lot—and quickly.",
+      "whyItMatters": "",
+      "words": 112,
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
+      "published": "2026-08-26T09:00:00.000Z",
+      "capturedAt": "2026-08-26T12:53:07.368Z",
+      "tags": [
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1vqpxrx",
       "channel": "sec",
