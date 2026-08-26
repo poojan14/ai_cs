@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-25T21:28:52.080Z",
-  "count": 477,
+  "updatedAt": "2026-08-26T01:20:04.985Z",
+  "count": 479,
   "stories": [
+    {
+      "id": "0i8egyw",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+      "brief": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+      "whyItMatters": "",
+      "words": 30,
+      "url": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd29ebaa9ac3f0fdd/6a8d90fa24739f39a5e9ecd4/openclaw_Koshiro_K_shutterstock.png?width=720&quality=80&disable=upscale",
+      "published": "2026-08-25T19:50:16.000Z",
+      "capturedAt": "2026-08-26T01:20:04.985Z",
+      "tags": [
+        "Exploit",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ic9x8n",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "brief": "Generalist, a robotics startup, is now valued at $3 billion after raising additional capital led by 8VC, according to two people with knowledge of the funding. The fresh capital totals nearly $200 million according to a regulatory filing. That additional capital is an extension of a $400 million Series B led by Radical Ventures that the company announced in June at a $2 billion valuation, the people said. The new capital brings the round’s total funding to $600 million. Generalist was founded in 2024 by former Google DeepMind researchers Pete Florence and Andy Zeng, along with former Boston Dynamics engineer Andrew Barry. It received early backing from 8VC and Radical Ventures as well as Nvidia, Union Square Ventures, Bezos Expeditions, and AI researcher Fei-Fei Li. Until recently, the startup operated quietly and with little publicity. Generalist is developing an AI foundation model that can work with various robots.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
+      "published": "2026-08-26T00:40:59.000Z",
+      "capturedAt": "2026-08-26T01:20:03.551Z",
+      "tags": [
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0lusrgc",
       "channel": "sec",
