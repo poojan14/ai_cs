@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-27T13:52:02.210Z",
-  "count": 495,
+  "updatedAt": "2026-08-28T00:16:19.744Z",
+  "count": 497,
   "stories": [
+    {
+      "id": "0b94iu2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "brief": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of several OpenAI models, and that it was mainly fueled by what it described as a \"highly capable",
+      "whyItMatters": "",
+      "words": 63,
+      "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1600/openai.jpg",
+      "published": "2026-08-27T18:36:19.000Z",
+      "capturedAt": "2026-08-28T00:16:19.744Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "137fdhp",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Looking beyond natural sequences",
+      "brief": "A protein’s function is determined by its structure, and structure — the way a protein folds — is determined by its sequence of amino acids, the building blocks of proteins. Many methods for designing novel proteins, including examples that could bind to a disease-causing molecule in our cells, involve a two-step process: The structure comes first, and then a machine-learning framework generates a repertoire of sequences that could potentially adopt that structure. In nature, many different amino acid sequences can fold into the same structure. At the same time, one amino acid sequence can potentially adopt different structures depending on the protein’s flexibility or a functional trigger. Therefore, when researchers use artificial intelligence to design new proteins, the challenge is to guide AI to “see” that there are many potentially useful answers — that many sequences can adopt the same fold",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-biology-Keating-Lab-proteins.jpg?itok=OZhh3B-X",
+      "published": "2026-08-27T19:20:00.000Z",
+      "capturedAt": "2026-08-28T00:16:18.295Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0yuvj8f",
       "channel": "sec",
