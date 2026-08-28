@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-28T00:16:19.744Z",
-  "count": 497,
+  "updatedAt": "2026-08-28T14:57:54.174Z",
+  "count": 499,
   "stories": [
+    {
+      "id": "1p74w42",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Russian APT BlueDelta Uses HOOKEDGE to Target Defense and Diplomatic Organizations",
+      "brief": "S. S. S. S. site, a service built for developers to test HTTP requests, as its command-and-control backbone. The campaign ran from late September 2025 through early April 2026, targeting government and diplomatic organizations in Romania, Spain, and Türkiye.",
+      "whyItMatters": "",
+      "words": 39,
+      "url": "https://securityaffairs.com/197996/apt/russian-apt-bluedelta-uses-hookedge-to-target-defense-and-diplomatic-organizations.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-84.png?resize=1024%2C485&ssl=1",
+      "published": "2026-08-28T11:26:50.000Z",
+      "capturedAt": "2026-08-28T14:57:54.174Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0yithtq",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+      "brief": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign. Authorities in Australia said Wednesday that they arrested two men accused of participating in cybercrimes for TeamPCP, a prolific group of hackers that, over nine months, has carried out a relentless series of supply-chain attacks that infected more than 1,000 organizations worldwide. In a statement , the Australian Federal Police said the two men were arrested and charged with 14 offenses. The statement said the men were members of TeamPCP, which by the authorities’ count, compromised more than 1,000 organizations worldwide. The statement didn’t identify the men, except to say they lived in the Western Australian towns of Cottesloe and Mandurah. KrebsOnSecurity, citing a lengthy investigation, provided what it reports to be both defendants’ names , along with an extensive background of their lives and the mistakes that led to their downfall.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest-1152x648.jpg",
+      "published": "2026-08-28T11:15:05.000Z",
+      "capturedAt": "2026-08-28T14:57:52.551Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0b94iu2",
       "channel": "sec",
