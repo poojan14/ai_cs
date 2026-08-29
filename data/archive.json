@@ -1,7 +1,45 @@
 {
-  "updatedAt": "2026-08-29T06:56:50.925Z",
-  "count": 503,
+  "updatedAt": "2026-08-29T14:11:52.341Z",
+  "count": 505,
   "stories": [
+    {
+      "id": "1m2srvm",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+      "brief": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+      "whyItMatters": "",
+      "words": 10,
+      "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-10-08T15:00:00.000Z",
+      "capturedAt": "2026-08-29T14:11:52.341Z",
+      "tags": [],
+      "rewritten": false
+    },
+    {
+      "id": "03z4da7",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "brief": "As AI infiltrates the electronic dance music scene, a callout culture is brewing. As audio-focused generative tools and platforms have gotten more sophisticated , the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI , others have denied using the technology until increasing public scrutiny forced them to tell the truth . For musicians — especially those creating art in technologically-focused spaces like electronic dance music — the increasingly complicated question of what is “real” and what isn’t feels particularly urgent and personal. Professional courtesy can make this only more complex; listeners can call out performers they suspect of using gen AI, but it’s something else for artists to raise concerns about their professional peers.",
+      "whyItMatters": "",
+      "words": 144,
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0%2C11.150136769481%2C85.33125%2C67.014037093516&w=1200",
+      "published": "2026-08-29T12:00:00.000Z",
+      "capturedAt": "2026-08-29T14:11:50.853Z",
+      "tags": [
+        "Generative"
+      ],
+      "rewritten": false
+    },
     {
       "id": "06etta3",
       "channel": "sec",

@@ -1,48 +1,44 @@
 {
-  "generatedAt": "2026-08-29T06:56:50.925Z",
-  "nextUpdateAt": "2026-08-29T09:56:50.925Z",
+  "generatedAt": "2026-08-29T14:11:52.341Z",
+  "nextUpdateAt": "2026-08-29T17:11:52.341Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1o1oyre",
+      "id": "03z4da7",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’ - Federal News Network",
-      "brief": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’ Federal News Network",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "brief": "As AI infiltrates the electronic dance music scene, a callout culture is brewing. As audio-focused generative tools and platforms have gotten more sophisticated , the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI , others have denied using the technology until increasing public scrutiny forced them to tell the truth . For musicians — especially those creating art in technologically-focused spaces like electronic dance music — the increasingly complicated question of what is “real” and what isn’t feels particularly urgent and personal. Professional courtesy can make this only more complex; listeners can call out performers they suspect of using gen AI, but it’s something else for artists to raise concerns about their professional peers.",
       "whyItMatters": "",
-      "words": 13,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFI4RWdtQ1B0MHJQbFVVN21Bc1VKclJkdnV3andjZDN3LU11VDdmamN5RlVOaWFKczJra1NBclZyeEM3ZVZ0eEpXRE52dlZhRk5ESURoTUo1R3ZkWTdUdVc4WHRyTXVQNTI3VUNSZnBXNjREWGpST3JnQXRtT3JKbWZScGppX0dXVWZaal9ERERrQ1ljMEM1YnY1WFBWR0FkTjd1Y29od2JnaUE3UkpvMGNmUWJtVWozWmJSaUdPZnRHME9ReENNWks0b1E4cVBXYmtv",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-29T05:13:05.000Z",
-      "capturedAt": "2026-08-29T06:56:48.940Z",
+      "words": 144,
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0%2C11.150136769481%2C85.33125%2C67.014037093516&w=1200",
+      "published": "2026-08-29T12:00:00.000Z",
+      "capturedAt": "2026-08-29T14:11:50.853Z",
       "tags": [
-        "Anthropic"
+        "Generative"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "06etta3",
+      "id": "1m2srvm",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines. 8), is a case of",
+      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+      "brief": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
       "whyItMatters": "",
-      "words": 47,
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg",
-      "published": "2026-08-28T15:56:55.000Z",
-      "capturedAt": "2026-08-29T06:56:50.925Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Cyber"
-      ],
+      "words": 10,
+      "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-10-08T15:00:00.000Z",
+      "capturedAt": "2026-08-29T14:11:52.341Z",
+      "tags": [],
       "rewritten": false
     }
   }
