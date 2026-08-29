@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-29T14:11:52.341Z",
-  "count": 505,
+  "updatedAt": "2026-08-29T18:12:22.445Z",
+  "count": 507,
   "stories": [
+    {
+      "id": "00s7mrf",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "brief": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. 8) - An authentication bypass flaw in",
+      "whyItMatters": "",
+      "words": 40,
+      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg",
+      "published": "2026-08-29T16:25:03.000Z",
+      "capturedAt": "2026-08-29T18:12:22.444Z",
+      "tags": [
+        "Patch",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0clu4d6",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "brief": "It used to be that Vijay Pande was better known in academic circles than investor circles. That changed pretty abruptly a dozen years ago, when Marc Andreessen and Ben Horowitz — who’d spent their firm’s first five years explicitly avoiding healthcare and life sciences — decided the category was worth betting on after all and handed the keys to Pande. At the time, he was a Stanford chemistry professor who was best known for building Folding@home, the distributed-computing project that turned millions of home PCs into a supercomputer for disease research. Over the next decade-plus, he grew a16z’s bet into a practice managing close to $4 billion. So it was somewhat unexpected when in June of last year, Pande walked away from it all to start something much smaller.",
+      "whyItMatters": "",
+      "words": 129,
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
+      "published": "2026-08-29T17:36:47.000Z",
+      "capturedAt": "2026-08-29T18:12:20.809Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1m2srvm",
       "channel": "sec",
