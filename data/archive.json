@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-28T23:59:24.522Z",
-  "count": 501,
+  "updatedAt": "2026-08-29T06:56:50.925Z",
+  "count": 503,
   "stories": [
+    {
+      "id": "06etta3",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines. 8), is a case of",
+      "whyItMatters": "",
+      "words": 47,
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg",
+      "published": "2026-08-28T15:56:55.000Z",
+      "capturedAt": "2026-08-29T06:56:50.925Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1o1oyre",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’ - Federal News Network",
+      "brief": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’ Federal News Network",
+      "whyItMatters": "",
+      "words": 13,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFI4RWdtQ1B0MHJQbFVVN21Bc1VKclJkdnV3andjZDN3LU11VDdmamN5RlVOaWFKczJra1NBclZyeEM3ZVZ0eEpXRE52dlZhRk5ESURoTUo1R3ZkWTdUdVc4WHRyTXVQNTI3VUNSZnBXNjREWGpST3JnQXRtT3JKbWZScGppX0dXVWZaal9ERERrQ1ljMEM1YnY1WFBWR0FkTjd1Y29od2JnaUE3UkpvMGNmUWJtVWozWmJSaUdPZnRHME9ReENNWks0b1E4cVBXYmtv",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-29T05:13:05.000Z",
+      "capturedAt": "2026-08-29T06:56:48.940Z",
+      "tags": [
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "054ipqi",
       "channel": "sec",

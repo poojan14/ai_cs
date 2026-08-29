@@ -1,44 +1,48 @@
 {
-  "generatedAt": "2026-08-28T23:59:24.522Z",
-  "nextUpdateAt": "2026-08-29T02:59:24.522Z",
+  "generatedAt": "2026-08-29T06:56:50.925Z",
+  "nextUpdateAt": "2026-08-29T09:56:50.925Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1owa1o6",
+      "id": "1o1oyre",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "brief": "Lambda, an AI cloud company that buys computing chips and rents them out to businesses, has raised $1 billion in private, short-dated debt to buy Nvidia’s AI chips that it will lease to Microsoft, Bloomberg reports . The terms of the deal, which Bloomberg says was arranged by JP Morgan Chase, signal that Lambda is betting it will be able to quickly deploy the chips and start generating revenue from them, letting it repay the debt fairly quickly using that incoming cash. This is the latest in a string of loans that Lambda is using to fund GPU infrastructure for specific customers. In May, it closed a $1 billion secured credit facility, and this week it announced the closing of a $926 million loan to fund Nvidia GB300 GPUs, one of Nvidia’s newest chip models, for a deployment it’s under contract to provide Nvidia.",
+      "title": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’ - Federal News Network",
+      "brief": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’ Federal News Network",
       "whyItMatters": "",
-      "words": 144,
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "published": "2026-08-28T20:24:11.000Z",
-      "capturedAt": "2026-08-28T23:59:23.083Z",
+      "words": 13,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFI4RWdtQ1B0MHJQbFVVN21Bc1VKclJkdnV3andjZDN3LU11VDdmamN5RlVOaWFKczJra1NBclZyeEM3ZVZ0eEpXRE52dlZhRk5ESURoTUo1R3ZkWTdUdVc4WHRyTXVQNTI3VUNSZnBXNjREWGpST3JnQXRtT3JKbWZScGppX0dXVWZaal9ERERrQ1ljMEM1YnY1WFBWR0FkTjd1Y29od2JnaUE3UkpvMGNmUWJtVWozWmJSaUdPZnRHME9ReENNWks0b1E4cVBXYmtv",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-29T05:13:05.000Z",
+      "capturedAt": "2026-08-29T06:56:48.940Z",
       "tags": [
-        "Nvidia"
+        "Anthropic"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "054ipqi",
+      "id": "06etta3",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
-      "brief": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines. 8), is a case of",
       "whyItMatters": "",
-      "words": 16,
-      "url": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt947fd68cd895a80d/6a060e70239afa534b9406ac/DR_Anatomy_of_a_Data_Breach_Virtual_Event_2026.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-11-12T16:00:00.000Z",
-      "capturedAt": "2026-08-28T23:59:24.522Z",
-      "tags": [],
+      "words": 47,
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg",
+      "published": "2026-08-28T15:56:55.000Z",
+      "capturedAt": "2026-08-29T06:56:50.925Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Cyber"
+      ],
       "rewritten": false
     }
   }
