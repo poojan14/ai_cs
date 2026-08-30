@@ -1,44 +1,48 @@
 {
-  "generatedAt": "2026-08-30T11:25:31.386Z",
-  "nextUpdateAt": "2026-08-30T14:25:31.386Z",
+  "generatedAt": "2026-08-30T16:12:11.435Z",
+  "nextUpdateAt": "2026-08-30T19:12:11.435Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1xlbtmt",
+      "id": "062z0lf",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "brief": "S. District Court for the Northern District of California, was first reported by Music Business Worldwide . The publishers accuse Anthropic of “blatant theft” by using thousands of copyrighted works to train its AI model Claude. “We disagree with the publishers’ claims and we intend to defend ourselves robustly in court,” an Anthropic spokesperson wrote in an emailed statement sent to TechCrunch.",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "brief": "The company is testing robots on tasks that can performed by technicians. Meta is testing robots that can plug in cables, reset servers, and handle other tasks inside its data centers , according to several current and former workers familiar with the projects. The ongoing effort, which has not been previously reported, may eventually allow Meta to operate its rapidly expanding data center footprint with fewer humans, keeping labor costs in check as its spending on AI infrastructure soars . Meta is using robots and related hardware from several different vendors, including Watney Robotics, Kinova, and ABB, according to the same workers, who asked to remain anonymous because they weren’t authorized to speak to the media. Kinova and ABB declined to comment. Watney didn’t respond to requests for comment.",
       "whyItMatters": "",
-      "words": 62,
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-      "published": "2026-08-29T18:41:59.000Z",
-      "capturedAt": "2026-08-30T11:25:29.446Z",
+      "words": 129,
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "published": "2026-08-30T11:03:47.000Z",
+      "capturedAt": "2026-08-30T16:12:09.788Z",
       "tags": [
-        "Anthropic"
+        "Robot"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0gzrvq3",
+      "id": "0xu1agk",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "brief": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
+      "title": "Hackers Are Probing PaperCut Servers, and 47% Still Have No Patch",
+      "brief": "S. S. S. 7 Million Customers Across Three Airports PaperCut, the print management software running in schools, hospitals, and offices worldwide, confirmed on August 27 that a pre-authentication remote code execution flaw is being actively exploited against real customers. Researchers at Huntress found evidence of exploitation in two customer environments, and the security firm went further, reproducing the entire attack chain from scratch against a clean, unpatched install. “Observed activity focused on system discovery. ” reads the report published by Hutress.",
       "whyItMatters": "",
-      "words": 57,
-      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg",
-      "published": "2026-08-30T07:36:33.000Z",
-      "capturedAt": "2026-08-30T11:25:31.386Z",
-      "tags": [],
+      "words": 81,
+      "url": "https://securityaffairs.com/198107/uncategorized/hackers-are-probing-papercut-servers-and-47-still-have-no-patch.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-93.png?resize=1024%2C486&ssl=1",
+      "published": "2026-08-30T11:26:29.000Z",
+      "capturedAt": "2026-08-30T16:12:11.435Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
       "rewritten": false
     }
   }
