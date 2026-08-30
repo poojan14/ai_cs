@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-29T23:00:39.980Z",
-  "nextUpdateAt": "2026-08-30T02:00:39.980Z",
+  "generatedAt": "2026-08-30T04:05:55.097Z",
+  "nextUpdateAt": "2026-08-30T07:05:55.097Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1diuxb8",
+      "id": "03j5ixe",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "brief": "” Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for “tens of thousands” copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner’s favor and awards the maximum amount. 5 billion . It’s also faced multiple lawsuits from Universal Music Group, Concord, and ABKCO, plus separate suits from BMG and Round Hill Music .",
+      "title": "Apple unveils M5 Ultra and M6 chips with focus on artificial intelligence - The Daily Star",
+      "brief": "Apple unveils M5 Ultra and M6 chips with focus on artificial intelligence The Daily Star",
       "whyItMatters": "",
-      "words": 102,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-29T18:19:53.000Z",
-      "capturedAt": "2026-08-29T23:00:37.810Z",
+      "words": 15,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSUF5RnZHbm5fcHZRWWN5ZmtRdGRldmk1YklQY2EyVm4tSlBhWThmM2oydVNhQnYwemlHRkJweVdXUFNlRW00WjNDOElmVmxtTmNFcmVtZjhaeVVQUnpRWHBLX3RoTlNhejc5ZkdqZi1lR19YY2ZjN1JlTEMweHZiWVVBSFZDUi1IR2lZSk83YTZFbS15ODlROEtDU3AxWlY3LXVqbl9NZVFhMmM3R3drNzV3MEV5eTFkSFRveTdiSnQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-30T03:01:04.000Z",
+      "capturedAt": "2026-08-30T04:05:53.803Z",
       "tags": [
-        "Anthropic"
+        "Artificial Intelligence"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "12e78av",
+      "id": "18ij84f",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Hack One Robot, Reach the Next: Unitree G1 Security Flaws",
-      "brief": "S. S. S. S. CISA adds Gitea flaw to its Known Exploited Vulnerabilities catalog Security researcher Olivier Laflamme spent about three months digging into the Unitree G1 humanoid robot and eventually found a way to fully compromise it without plugging in a single cable. In his technical write-up , he details two vulnerabilities, CVE-2026-76639 and CVE-2026-76640, that can be chained across Bluetooth, Unitree’s cloud infrastructure, the mobile app, and the robot’s firmware to gain unauthenticated root access to any G1 within Bluetooth range.",
+      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+      "brief": "In this article Attack chain overview Mitigation and protection guidance Learn more Microsoft Threat Intelligence has observed a TerminalFix campaign, a variant of ClickFix, targeting organizations across multiple industries. The campaign uses compromised websites to display a fake Cloudflare CAPTCHA verification overlay that tricks users into copying and executing a malicious PowerShell command. While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex, multi-line scripts execute successfully. Unlike earlier ClickFix variants that typically deliver a single infostealer, this TerminalFix campaign deploys a sophisticated multi-stage attack chain that combines DLL sideloading, steganographic payload extraction, extensive Active Directory reconnaissance, and a custom reverse-tunnel implant – giving the attacker persistent, network-level proxy access through the compromised host. dll ) used for sideloading.",
       "whyItMatters": "",
-      "words": 83,
-      "url": "https://securityaffairs.com/198085/hacking/hack-one-robot-reach-the-next-unitree-g1-security-flaws.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-91.png?resize=912%2C292&ssl=1",
-      "published": "2026-08-29T11:55:44.000Z",
-      "capturedAt": "2026-08-29T23:00:39.980Z",
+      "words": 140,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/image-35.webp",
+      "published": "2026-08-29T03:43:27.000Z",
+      "capturedAt": "2026-08-30T04:05:55.096Z",
       "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
+        "Ransomware",
+        "Malware",
+        "Vulnerability"
       ],
       "rewritten": false
     }

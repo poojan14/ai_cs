@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-29T23:00:39.980Z",
-  "count": 509,
+  "updatedAt": "2026-08-30T04:05:55.097Z",
+  "count": 511,
   "stories": [
+    {
+      "id": "18ij84f",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+      "brief": "In this article Attack chain overview Mitigation and protection guidance Learn more Microsoft Threat Intelligence has observed a TerminalFix campaign, a variant of ClickFix, targeting organizations across multiple industries. The campaign uses compromised websites to display a fake Cloudflare CAPTCHA verification overlay that tricks users into copying and executing a malicious PowerShell command. While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex, multi-line scripts execute successfully. Unlike earlier ClickFix variants that typically deliver a single infostealer, this TerminalFix campaign deploys a sophisticated multi-stage attack chain that combines DLL sideloading, steganographic payload extraction, extensive Active Directory reconnaissance, and a custom reverse-tunnel implant – giving the attacker persistent, network-level proxy access through the compromised host. dll ) used for sideloading.",
+      "whyItMatters": "",
+      "words": 140,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/image-35.webp",
+      "published": "2026-08-29T03:43:27.000Z",
+      "capturedAt": "2026-08-30T04:05:55.096Z",
+      "tags": [
+        "Ransomware",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "03j5ixe",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Apple unveils M5 Ultra and M6 chips with focus on artificial intelligence - The Daily Star",
+      "brief": "Apple unveils M5 Ultra and M6 chips with focus on artificial intelligence The Daily Star",
+      "whyItMatters": "",
+      "words": 15,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSUF5RnZHbm5fcHZRWWN5ZmtRdGRldmk1YklQY2EyVm4tSlBhWThmM2oydVNhQnYwemlHRkJweVdXUFNlRW00WjNDOElmVmxtTmNFcmVtZjhaeVVQUnpRWHBLX3RoTlNhejc5ZkdqZi1lR19YY2ZjN1JlTEMweHZiWVVBSFZDUi1IR2lZSk83YTZFbS15ODlROEtDU3AxWlY3LXVqbl9NZVFhMmM3R3drNzV3MEV5eTFkSFRveTdiSnQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-30T03:01:04.000Z",
+      "capturedAt": "2026-08-30T04:05:53.803Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "12e78av",
       "channel": "sec",
