@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-31T04:11:35.148Z",
-  "count": 521,
+  "updatedAt": "2026-08-31T12:56:06.776Z",
+  "count": 523,
   "stories": [
+    {
+      "id": "0pp15zo",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "brief": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool",
+      "whyItMatters": "",
+      "words": 58,
+      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OUY2TmBxA9RLM9yG0dnv8OShMmr_0KXcJUWtPvcTbFKQ-jmG4_6PyVNCNxQH9VacMVqmi3ZdmcHepDqoLT4XOl5AHZ6mnxmg_QrTUmK2D01fsjrBJKQ1KmlodLNjgbNp65TVoTslEHW5s1IqgFR8xYQWab9WQBvn30sYuM-xh7pSQfAKUOFi3v4q3Do/s1600/adblock.jpg",
+      "published": "2026-08-31T12:14:00.000Z",
+      "capturedAt": "2026-08-31T12:56:06.776Z",
+      "tags": [
+        "Malware",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "00z99g7",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Meta’s ‘Hatch’ AI Agent Could Open a New Consumer Revenue Engine - citybiz",
+      "brief": "Meta’s ‘Hatch’ AI Agent Could Open a New Consumer Revenue Engine citybiz",
+      "whyItMatters": "",
+      "words": 12,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3E2dlVONDhMS0R5aHd3OFZGZ2dsY0phQjJKVlVfNS1YZGdtYnFESWMwaVBkRXJSWnZRdkZpTXBodm83aEhabXhJcnFFSzRFLVhER3VPcU1Gcy1UOHZvLXNUbUhNemdWWS1LektaSl8xaFRfZUN3dC1YY1VnSjRVaTdXVjlLNWN4elRrZ1N0OFNwTjJZT2ZoSHJkaC10eEpfcEE",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-08-31T12:53:06.000Z",
+      "capturedAt": "2026-08-31T12:56:05.133Z",
+      "tags": [
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1kkdll9",
       "channel": "sec",
