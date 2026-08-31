@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-31T12:56:06.776Z",
-  "count": 523,
+  "updatedAt": "2026-08-31T20:41:08.192Z",
+  "count": 525,
   "stories": [
+    {
+      "id": "0nx9g4y",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ValleyRAT: When Legitimate Software Becomes a Malware Delivery Tool",
+      "brief": "S. S. S. 7 Million Customers Across Three Airports ValleyRAT doesn’t always need to disguise itself as a cracked game or a fake browser update. It can also hide behind something much more ordinary: an application that looks like adware and appears to serve a legitimate purpose. Kaspersky’s latest analysis shows how this works. Researchers found a malicious installer that uses a modified version of QN Wallpaper, a legitimate Chinese desktop wallpaper application, to deliver the ValleyRAT backdoor while making the infection look like a normal software installation. Researchers found a malicious installer that uses a modified version of QN Wallpaper, a legitimate Chinese desktop wallpaper application, to deliver the ValleyRAT backdoor while making the infection look like a normal software installation.",
+      "whyItMatters": "",
+      "words": 122,
+      "url": "https://securityaffairs.com/198191/security/valleyrat-when-legitimate-software-becomes-a-malware-delivery-tool.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-97.png",
+      "published": "2026-08-31T19:45:08.000Z",
+      "capturedAt": "2026-08-31T20:41:08.191Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "10vccmi",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+      "brief": "The MIT Quantum Initiative (QMIT) has launched a new postdoctoral fellowship program to accelerate interdisciplinary quantum research and develop the next generation of scientific leaders working at the frontiers of quantum science and technology. Supported by a grant from the Gordon and Betty Moore Foundation, the program reflects QMIT’s vision of expanding the boundaries of quantum science by encouraging researchers to connect quantum approaches with other disciplines and emerging applications. As opportunities in quantum research expand, investing in outstanding early-career researchers has never been more important. These fellowships are designed to help cultivate the next generation of quantum leaders, providing the resources and collaborative environment needed to advance transformative research at MIT. “Quantum science and technology is in a period of extraordinary opportunity, opening new pathways to solving problems across computation, materials, sensing, and communication.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-qmit.jpg?itok=-AA_RhRU",
+      "published": "2026-08-31T19:30:00.000Z",
+      "capturedAt": "2026-08-31T20:41:06.329Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0pp15zo",
       "channel": "sec",

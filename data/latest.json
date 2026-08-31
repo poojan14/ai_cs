@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-31T12:56:06.776Z",
-  "nextUpdateAt": "2026-08-31T15:56:06.776Z",
+  "generatedAt": "2026-08-31T20:41:08.192Z",
+  "nextUpdateAt": "2026-08-31T23:41:08.192Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "00z99g7",
+      "id": "10vccmi",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Meta’s ‘Hatch’ AI Agent Could Open a New Consumer Revenue Engine - citybiz",
-      "brief": "Meta’s ‘Hatch’ AI Agent Could Open a New Consumer Revenue Engine citybiz",
+      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+      "brief": "The MIT Quantum Initiative (QMIT) has launched a new postdoctoral fellowship program to accelerate interdisciplinary quantum research and develop the next generation of scientific leaders working at the frontiers of quantum science and technology. Supported by a grant from the Gordon and Betty Moore Foundation, the program reflects QMIT’s vision of expanding the boundaries of quantum science by encouraging researchers to connect quantum approaches with other disciplines and emerging applications. As opportunities in quantum research expand, investing in outstanding early-career researchers has never been more important. These fellowships are designed to help cultivate the next generation of quantum leaders, providing the resources and collaborative environment needed to advance transformative research at MIT. “Quantum science and technology is in a period of extraordinary opportunity, opening new pathways to solving problems across computation, materials, sensing, and communication.",
       "whyItMatters": "",
-      "words": 12,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3E2dlVONDhMS0R5aHd3OFZGZ2dsY0phQjJKVlVfNS1YZGdtYnFESWMwaVBkRXJSWnZRdkZpTXBodm83aEhabXhJcnFFSzRFLVhER3VPcU1Gcy1UOHZvLXNUbUhNemdWWS1LektaSl8xaFRfZUN3dC1YY1VnSjRVaTdXVjlLNWN4elRrZ1N0OFNwTjJZT2ZoSHJkaC10eEpfcEE",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-31T12:53:06.000Z",
-      "capturedAt": "2026-08-31T12:56:05.133Z",
+      "words": 135,
+      "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-qmit.jpg?itok=-AA_RhRU",
+      "published": "2026-08-31T19:30:00.000Z",
+      "capturedAt": "2026-08-31T20:41:06.329Z",
       "tags": [
-        "Agent"
+        "Artificial Intelligence"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0pp15zo",
+      "id": "0nx9g4y",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-      "brief": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool",
+      "title": "ValleyRAT: When Legitimate Software Becomes a Malware Delivery Tool",
+      "brief": "S. S. S. 7 Million Customers Across Three Airports ValleyRAT doesn’t always need to disguise itself as a cracked game or a fake browser update. It can also hide behind something much more ordinary: an application that looks like adware and appears to serve a legitimate purpose. Kaspersky’s latest analysis shows how this works. Researchers found a malicious installer that uses a modified version of QN Wallpaper, a legitimate Chinese desktop wallpaper application, to deliver the ValleyRAT backdoor while making the infection look like a normal software installation. Researchers found a malicious installer that uses a modified version of QN Wallpaper, a legitimate Chinese desktop wallpaper application, to deliver the ValleyRAT backdoor while making the infection look like a normal software installation.",
       "whyItMatters": "",
-      "words": 58,
-      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OUY2TmBxA9RLM9yG0dnv8OShMmr_0KXcJUWtPvcTbFKQ-jmG4_6PyVNCNxQH9VacMVqmi3ZdmcHepDqoLT4XOl5AHZ6mnxmg_QrTUmK2D01fsjrBJKQ1KmlodLNjgbNp65TVoTslEHW5s1IqgFR8xYQWab9WQBvn30sYuM-xh7pSQfAKUOFi3v4q3Do/s1600/adblock.jpg",
-      "published": "2026-08-31T12:14:00.000Z",
-      "capturedAt": "2026-08-31T12:56:06.776Z",
+      "words": 122,
+      "url": "https://securityaffairs.com/198191/security/valleyrat-when-legitimate-software-becomes-a-malware-delivery-tool.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-97.png",
+      "published": "2026-08-31T19:45:08.000Z",
+      "capturedAt": "2026-08-31T20:41:08.191Z",
       "tags": [
+        "Hack",
         "Malware",
-        "Cyber",
-        "Attack"
+        "Exploit"
       ],
       "rewritten": false
     }
