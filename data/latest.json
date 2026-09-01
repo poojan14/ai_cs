@@ -1,47 +1,48 @@
 {
-  "generatedAt": "2026-09-01T08:22:25.109Z",
-  "nextUpdateAt": "2026-09-01T11:22:25.109Z",
+  "generatedAt": "2026-09-01T13:58:21.079Z",
+  "nextUpdateAt": "2026-09-01T16:58:21.079Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1dn8za8",
+      "id": "0p0a5wp",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Ila Kumar: Innovating with communities",
-      "brief": "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license . You may not alter the images provided, other than to crop them to size. \" Before Ila Kumar thinks about how to build technology, she asks a different question: What is the context that technology will operate in, and who needs to be involved in the design? For Kumar, meaningful innovation doesn’t result from engineers or designers working in isolation. Instead, she believes the best innovations emerge when the people who stand to benefit from a technology help create it from the very beginning.",
+      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "brief": "DLSS 5 is almost here, but only for NBA 2K27, and only officially for 50-series RTX GPUs. DLSS 5 is almost here, but only for NBA 2K27, and only officially for 50-series RTX GPUs. ” DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now cloud gaming, though the only game with the tech so far is NBA 2K27 — which is launching September 3rd at 9PM PT on PC. When it was announced, Nvidia lauded DLSS 5 as “the company’s most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018,” and highlighted how the tech uses AI to make games look more realistic by enhancing a game based on its source content. Nvidia also stressed that DLSS 5 gave developers controls that let them decide how changes from DLSS 5 appeared in their games.",
       "whyItMatters": "",
-      "words": 114,
-      "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-kumar-ila-A1.jpg?itok=c4VttTnq",
-      "published": "2026-09-01T04:00:00.000Z",
-      "capturedAt": "2026-09-01T08:22:16.556Z",
+      "words": 147,
+      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&strip=all&crop=0%2C10.724534322093%2C100%2C78.550931355815&w=1200",
+      "published": "2026-09-01T13:00:00.000Z",
+      "capturedAt": "2026-09-01T13:58:19.285Z",
       "tags": [
-        "Artificial Intelligence"
+        "Nvidia",
+        "Generative"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "1ci8786",
+      "id": "09ej0b0",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "U.S. CISA adds PaperCut NG/MF flaws to its Known Exploited Vulnerabilities catalog",
-      "brief": "S. S. S. S. S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : PaperCut, the print management software running in schools, hospitals, and offices worldwide, recently confirmed that a pre-authentication remote code execution flaw, tracked as CVE-2026-81578, is being actively exploited against real customers. Researchers at Huntress found evidence of exploitation in two customer environments, and the security firm went further, reproducing the entire attack chain from scratch against a clean, unpatched install.",
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "brief": "js and JavaScript. Russian cybersecurity company Kaspersky is tracking the",
       "whyItMatters": "",
-      "words": 83,
-      "url": "https://securityaffairs.com/198200/security/u-s-cisa-adds-papercut-ng-mf-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-93.png?resize=1024%2C486&ssl=1",
-      "published": "2026-09-01T08:13:38.000Z",
-      "capturedAt": "2026-09-01T08:22:25.109Z",
+      "words": 10,
+      "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2I0vj1ygDfFQ8UzazaxECq0aAP3UJ_VRMzeCN0MgTkWk4yLEUbKKU9dE0pIyXZIfJ0MgxjYEqAqWLAXAtuATDCdFZPI9WGkgwz04Mdd7LChIfMrWk-vhGfaHDGtySDkbIXgzBcNfh5qcobm-bz8QWuyVCcH7z9CM_RNZusA2rPEHV5g2WJ2tU6Llrdnu/s1600/iran-hacking.jpg",
+      "published": "2026-09-01T13:08:58.000Z",
+      "capturedAt": "2026-09-01T13:58:21.079Z",
       "tags": [
         "Hack",
         "Malware",
-        "Vulnerability"
+        "Cyber"
       ],
       "rewritten": false
     }
