@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-01T18:12:35.162Z",
-  "count": 533,
+  "updatedAt": "2026-09-01T23:04:37.121Z",
+  "count": 535,
   "stories": [
+    {
+      "id": "0zisqjo",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "brief": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. S. S. government officials whose drivers licenses can be found for sale.",
+      "whyItMatters": "",
+      "words": 101,
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/09/nexus-phegseth.png",
+      "published": "2026-09-01T22:40:28.000Z",
+      "capturedAt": "2026-09-01T23:04:37.120Z",
+      "tags": [
+        "Breach",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "099iu2t",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "brief": "Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind , its agentic cybersecurity system developed by the CrowdStrike Cyber Superintelligence Lab. “This is the beginning of a new age of cybersecurity,” Huang told the crowd of 10,000 security professionals. “On the one hand, the adversaries are going to be more armed than ever. ” SafeMind combines CrowdStrike’s purpose-built, beyond frontier-capable models and customized agentic harnesses, with defensive models built on NVIDIA Nemotron , in a continuous coevolution loop where offense and defense repeatedly challenge and improve each other. CrowdStrike also announced CrowdStrike Falcon IQ to operationalize Project QuiltWorks through agentic workload automation and expanded its CrowdStrike Guardian AI safety solution.",
+      "whyItMatters": "",
+      "words": 132,
+      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/crowdstrike-nvidia-stage-scaled.jpg",
+      "published": "2026-09-01T21:19:20.000Z",
+      "capturedAt": "2026-09-01T23:04:35.119Z",
+      "tags": [
+        "Model",
+        "Chatbot",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "184hhmc",
       "channel": "sec",
