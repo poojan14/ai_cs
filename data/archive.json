@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-01T00:25:06.737Z",
-  "count": 527,
+  "updatedAt": "2026-09-01T08:22:25.109Z",
+  "count": 529,
   "stories": [
+    {
+      "id": "1ci8786",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. CISA adds PaperCut NG/MF flaws to its Known Exploited Vulnerabilities catalog",
+      "brief": "S. S. S. S. S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : PaperCut, the print management software running in schools, hospitals, and offices worldwide, recently confirmed that a pre-authentication remote code execution flaw, tracked as CVE-2026-81578, is being actively exploited against real customers. Researchers at Huntress found evidence of exploitation in two customer environments, and the security firm went further, reproducing the entire attack chain from scratch against a clean, unpatched install.",
+      "whyItMatters": "",
+      "words": 83,
+      "url": "https://securityaffairs.com/198200/security/u-s-cisa-adds-papercut-ng-mf-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-93.png?resize=1024%2C486&ssl=1",
+      "published": "2026-09-01T08:13:38.000Z",
+      "capturedAt": "2026-09-01T08:22:25.109Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1dn8za8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Ila Kumar: Innovating with communities",
+      "brief": "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license . You may not alter the images provided, other than to crop them to size. \" Before Ila Kumar thinks about how to build technology, she asks a different question: What is the context that technology will operate in, and who needs to be involved in the design? For Kumar, meaningful innovation doesn’t result from engineers or designers working in isolation. Instead, she believes the best innovations emerge when the people who stand to benefit from a technology help create it from the very beginning.",
+      "whyItMatters": "",
+      "words": 114,
+      "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-kumar-ila-A1.jpg?itok=c4VttTnq",
+      "published": "2026-09-01T04:00:00.000Z",
+      "capturedAt": "2026-09-01T08:22:16.556Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "06f3h9i",
       "channel": "sec",
