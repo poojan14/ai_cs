@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-02T20:37:49.676Z",
-  "count": 543,
+  "updatedAt": "2026-09-02T23:02:18.641Z",
+  "count": 545,
   "stories": [
+    {
+      "id": "1vrsspv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "OpenAI Astra Brings Autonomous Zero-Day Exploitation to AI",
+      "brief": "S. CISA adds PaperCut NG/MF flaws to its Known Exploited Vulnerabilities catalog Astra is now officially OpenAI’s highest-risk cybersecurity model. In August, OpenAI said it “ couldn’t rule out ” that its upcoming model had reached the highest cybersecurity risk level in its Preparedness Framework . In a new post, the company confirmed it: Astra meets the Critical cybersecurity capability threshold, making it the first OpenAI model ever classified at that level. ” reads the announcement . ”",
+      "whyItMatters": "",
+      "words": 78,
+      "url": "https://securityaffairs.com/198317/ai/openai-astra-brings-autonomous-zero-day-exploitation-to-ai.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-6.png?resize=891%2C797&ssl=1",
+      "published": "2026-09-02T21:31:29.000Z",
+      "capturedAt": "2026-09-02T23:02:18.641Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "06rhzyg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "From MIT to IBM, expediting AI and quantum deployment",
+      "brief": "The experience of transitioning from research based in theory to focusing on real-world application can vary significantly for different researchers. However, for two former MIT graduate students and a former postdoc, all now at IBM, working with the MIT-IBM Computing Research Lab (formerly the MIT-IBM Watson AI Lab) during their formative years enabled them to not only close the gap between education and employment, but also to generate ideas promising to business impact. Despite pursuing varied careers in quantum machine learning, reinforcement learning and artificial intelligence agents,and trustworthy and fair AI, respectively, Srinivasan Arunachalam , Zhang-Wei Hong PhD ’25, and Irene Ko PhD ’24 have consistently found ways to tackle problems defined by novelty and rigor, and translate them to systems with real constraints. Here, the MIT-IBM Computing Research Lab served as a conduit for research relationship building and the flow of their expertise to industry applications.",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/ibm-mit-alumni-00_0.png?itok=uFF5Hcp-",
+      "published": "2026-09-02T20:25:00.000Z",
+      "capturedAt": "2026-09-02T23:02:17.211Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0wcthqf",
       "channel": "sec",
