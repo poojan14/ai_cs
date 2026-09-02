@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-01T23:04:37.121Z",
-  "count": 535,
+  "updatedAt": "2026-09-02T03:18:57.845Z",
+  "count": 537,
   "stories": [
+    {
+      "id": "183uhwb",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
+      "brief": "In this article Attack chain overview Campaign scope and targeting Mitigation and protection guidance References Learn more Microsoft Defender Experts is tracking an active malware campaign that uses counterfeit software-download websites to impersonate trusted vendors and distribute malicious installers. The campaign has targeted users looking to download popular software and has resulted in compromises across multiple organizations and industries, primarily affecting China-based operations of multinational organizations and Chinese-speaking users. Microsoft has observed victims across healthcare, manufacturing, gaming, technology, logistics, government, and education sectors. Once executed, the malicious installers deploy malware that establishes persistence, attempts to weaken security protections, and communicates with attacker-controlled infrastructure. Microsoft assesses with moderate confidence that this activity is consistent with the publicly reported Silver Fox (also known as Yinhu, 银狐) fake software campaign but has not attributed it to a nation-state actor.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-458x1024.webp",
+      "published": "2026-09-01T22:48:28.000Z",
+      "capturedAt": "2026-09-02T03:18:57.845Z",
+      "tags": [
+        "Ransomware",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0qwsqc9",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Walter Torous named executive director of MIT Center for Real Estate",
+      "brief": "Walter Torous , senior lecturer in the MIT Department of Urban Studies and Planning (DUSP) and the MIT Sloan School of Management , and director of the Master of Science in Real Estate Development Program (MSRED), was recently named executive director of the MIT Center for Real Estate (CRE) — effective July 1, 2026. In announcing Torous’ appointment, School of Architecture and Planning Dean Hashim Sarkis also said that Justin Steil , professor of law and urban planning, will represent CRE as faculty chair of the Academic Curriculum Council. “Together, Walter and Justin will guide CRE’s academic and strategic direction as it continues to strengthen its role within our school and the Institute,” Sarkis said. ”",
+      "whyItMatters": "",
+      "words": 116,
+      "url": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/Torous-MIT-A1.jpg?itok=8qiWk_oP",
+      "published": "2026-09-01T21:25:00.000Z",
+      "capturedAt": "2026-09-02T03:18:56.140Z",
+      "tags": [
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0zisqjo",
       "channel": "sec",
