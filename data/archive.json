@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-03T15:55:58.223Z",
-  "count": 551,
+  "updatedAt": "2026-09-03T20:37:05.222Z",
+  "count": 553,
   "stories": [
+    {
+      "id": "1ibyyyv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "brief": "8, with no workaround for any IOS XR version. 8), is",
+      "whyItMatters": "",
+      "words": 11,
+      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg",
+      "published": "2026-09-03T15:52:07.000Z",
+      "capturedAt": "2026-09-03T20:37:05.222Z",
+      "tags": [
+        "Vulnerability",
+        "Patch",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1x9yraa",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "brief": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators more ways to run capable agents locally and securely. Getting a local agent up and running with local models required some effort — choosing a model, finding a compatible inference server, dialing in quantization settings and keeping everything updated. That friction is disappearing on RTX and DGX systems. cpp and incorporating NVIDIA’s latest inference optimizations. The new setup experiences are designed to reduce manual configuration and make it easier to get local agents up and running.",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
+      "published": "2026-09-03T16:00:59.000Z",
+      "capturedAt": "2026-09-03T20:37:03.996Z",
+      "tags": [
+        "Model",
+        "Chatbot",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "09mqakj",
       "channel": "sec",
