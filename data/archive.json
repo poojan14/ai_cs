@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-03T03:21:17.061Z",
-  "count": 547,
+  "updatedAt": "2026-09-03T10:48:22.435Z",
+  "count": 549,
   "stories": [
+    {
+      "id": "0bulwtb",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. 0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
+      "whyItMatters": "",
+      "words": 44,
+      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg",
+      "published": "2026-09-03T05:19:04.000Z",
+      "capturedAt": "2026-09-03T10:48:22.435Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0fzgcgr",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "What is OpenAI's Direct Competitor to Anthropic's Mythos? - AI Magazine",
+      "brief": "What is OpenAI's Direct Competitor to Anthropic's Mythos? AI Magazine",
+      "whyItMatters": "",
+      "words": 10,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDJCZzRGMG9IcUpueDRzMC1SVWpjQm9iVzNiTU9VTWRCMk9OOXhpc2tuYkpEVldVTHU3MUZ5ZmszZ280ZVhCekc0cXZOeURKeHlRU3JQa0p5THFkQUtMWjRTU3hrYXhFR0NvQ3lXeWlVWFphbmlQQU9UYUMwanY4U0RxOFhRSzNNdWc",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-03T10:04:11.000Z",
+      "capturedAt": "2026-09-03T10:48:21.242Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0oiaroz",
       "channel": "sec",
