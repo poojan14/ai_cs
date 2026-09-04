@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-04T03:19:09.357Z",
-  "count": 557,
+  "updatedAt": "2026-09-04T10:47:05.347Z",
+  "count": 559,
   "stories": [
+    {
+      "id": "0u0jk5g",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "brief": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. 8) - A missing file type validation vulnerability in Super Forms – Drag & Drop Form Builder that allows unauthenticated attackers to upload files of any type, including",
+      "whyItMatters": "",
+      "words": 49,
+      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg",
+      "published": "2026-09-04T08:48:45.000Z",
+      "capturedAt": "2026-09-04T10:47:05.347Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "09wrwcn",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "brief": "The front line is being turned into a place to train AI models, and right now it’s effectively a regulation-free zone. Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life. For every flight, unmanned systems collect thousands of points of data, from images and video to controller inputs. Together, those records show how a machine and a person responded to constantly shifting circumstances. Ukraine has now begun converting that experience into a resource.",
+      "whyItMatters": "",
+      "words": 128,
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
+      "published": "2026-09-04T09:25:19.000Z",
+      "capturedAt": "2026-09-04T10:47:03.678Z",
+      "tags": [
+        "Model",
+        "Training Data"
+      ],
+      "rewritten": false
+    },
     {
       "id": "066wvvv",
       "channel": "sec",
