@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-03T23:00:55.296Z",
-  "count": 555,
+  "updatedAt": "2026-09-04T03:19:09.357Z",
+  "count": 557,
   "stories": [
+    {
+      "id": "066wvvv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+      "brief": "In this article What is ASCII smuggling? Writing a practical ASCII-smuggling signature What we observed: ASCII smuggling repurposed for phishing What is known and what is new Is there a detection gap? Mitigation and protection guidance References Learn More Microsoft researchers observed a high-volume phishing campaign using invisible Unicode tag characters , a technique popularized in AI prompt injection research as ASCII Smuggling . Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as ‘funding’ to prevent email filters from parsing them. The finding emerged from Microsoft Defender for Office 365 prompt injection protection research, showing how AI-era evasion techniques can surface in traditional phishing campaigns. In Microsoft telemetry, hits on a hunting signature designed to detect ASCII-smuggling increased sharply beginning February 9, 2026, and remained elevated on weekdays for approximately three months.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-7.webp",
+      "published": "2026-09-03T16:00:00.000Z",
+      "capturedAt": "2026-09-04T03:19:09.357Z",
+      "tags": [
+        "Exploit",
+        "Phishing",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0qyvmgg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "brief": "It emphasized stronger guardrails for GPT-6 Astra after the company’s models hacked Hugging Face. It emphasized stronger guardrails for GPT-6 Astra after the company’s models hacked Hugging Face. OpenAI’s next big model is here: GPT-6 Astra. The company calls it a “generational leap in capability” for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week , it’s also the first model designated as meeting OpenAI’s “critical cybersecurity capability threshold” — but the company promises that won’t lead to a repeat of its models hacking a rival company’s internal systems. ’ I think it’s going to be about this time, and I think it might be about this model,” OpenAI president Greg Brockman said during a Thursday press briefing. ”",
+      "whyItMatters": "",
+      "words": 127,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-09-03T18:00:00.000Z",
+      "capturedAt": "2026-09-04T03:19:07.924Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0ioz45k",
       "channel": "sec",
