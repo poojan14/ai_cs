@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-04T20:23:20.581Z",
-  "count": 563,
+  "updatedAt": "2026-09-04T22:48:52.047Z",
+  "count": 565,
   "stories": [
+    {
+      "id": "1xk6jzr",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People",
+      "brief": "S. CISA adds PaperCut NG/MF flaws to its Known Exploited Vulnerabilities catalog Manchester Airports Group, which operates Manchester, London Stansted and East Midlands airports, has confirmed a data breach involving customer information held in a third-party database. The company says airport operations, passenger safety and aviation security were not affected, but the incident has exposed data that can make fraud far more convincing. The group disclosed the incident on 27 August and said it had contained the risk, engaged specialist advisers and notified relevant authorities. The extortion group FulcrumSec claimed responsibility for the intrusion and leaked the data after MAG had refused its ransom demand.",
+      "whyItMatters": "",
+      "words": 105,
+      "url": "https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-17.png?resize=1024%2C721&ssl=1",
+      "published": "2026-09-04T18:30:17.000Z",
+      "capturedAt": "2026-09-04T22:48:52.047Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "14ii5as",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "brief": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test. Self-identifying OpenAI agents posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions during what was likely internal testing designed to gauge the agents’ hacking abilities, researchers said Friday . In all, agents with 3,700 distinct self-given names posted the messages to German site DSEwiki over a six-week period. Besides discussing ways the agents could break out of the restricted environment OpenAI intended to prevent them from posting code or content to the Internet, the posts shared test answers. The posts also shared possible ways to perform XSS (cross-site scripting) attacks against the wiki and to impersonate site moderators. In three of the posts, agents used the word “swarm” to describe the collection of agents engaged in the activity.",
+      "whyItMatters": "",
+      "words": 140,
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "published": "2026-09-04T22:17:36.000Z",
+      "capturedAt": "2026-09-04T22:48:50.127Z",
+      "tags": [
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1upz5yr",
       "channel": "sec",
