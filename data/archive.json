@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-05T10:04:44.237Z",
-  "count": 569,
+  "updatedAt": "2026-09-05T14:44:10.306Z",
+  "count": 571,
   "stories": [
+    {
+      "id": "0xw5nft",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "brief": "S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass and remote code execution chain – to conduct command execution and reconnaissance, as well as",
+      "whyItMatters": "",
+      "words": 36,
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg",
+      "published": "2026-09-05T07:31:53.000Z",
+      "capturedAt": "2026-09-05T14:44:10.306Z",
+      "tags": [
+        "Exploit",
+        "Attack",
+        "Threat Actor"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1y0kaow",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "brief": "The company pledged to overhaul their agent ‘misalignment incident’ reporting. The company pledged to overhaul their agent ‘misalignment incident’ reporting. OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site . ” OpenAI said it has typically treated cases of AI agents acting in unintended ways as a “research question,” but that recent incidents involving real-world targets, particularly the hack on Hugging Face , show the need to take stock.",
+      "whyItMatters": "",
+      "words": 101,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "published": "2026-09-05T11:15:55.000Z",
+      "capturedAt": "2026-09-05T14:44:08.402Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0a9215p",
       "channel": "sec",
