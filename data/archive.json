@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-05T03:21:48.482Z",
-  "count": 567,
+  "updatedAt": "2026-09-05T10:04:44.237Z",
+  "count": 569,
   "stories": [
+    {
+      "id": "0a9215p",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities",
+      "brief": "S. 5 Million Records Broadcom published advisory VMSA-2026-0007, patching two vulnerabilities in VMware Workstation and Fusion that allow an attacker inside a virtual machine to execute code on the underlying host. One is rated Critical. Neither has a workaround. 3), is an integer-overflow vulnerability. The issue resides in the VMXNET3, a virtual network adapter (virtual NIC) designed by VMware for virtual machines. An attacker with local admin privileges on a virtual machine using a VMXNET3 network adapter could exploit this flaw to run code on the host. ” reads the advisory . ”",
+      "whyItMatters": "",
+      "words": 93,
+      "url": "https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2021/04/vmware-logo.png",
+      "published": "2026-09-05T04:54:27.000Z",
+      "capturedAt": "2026-09-05T10:04:44.237Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0995gk7",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "brief": "A once-overlooked block of unicode that’s invisible to humans is gaining ever wider use. A clever technique used to hide malicious prompts in attacks on AI agents has been adopted by spammers to evade filters on email platforms that are designed to flag unwanted messages used in mass campaigns. The technique is broadly known as ASCII smuggling. It gained attention two years ago as a means of making a class of AI attack known as prompt injections more stealthy. Malicious instructions embedded in emails or other untrusted content to be processed by an LLM aren’t written in ordinary text. Instead, they’re rendered by a special range of Unicode tags. ” The block of 128 tags mimics a portion of the American Standard Code for Information Interchange almost perfectly, with one major difference: the characters they encode are readable by computers but, by design, are almost completely invisible to humans.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
+      "published": "2026-09-04T17:18:12.000Z",
+      "capturedAt": "2026-09-05T10:04:42.099Z",
+      "tags": [
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0zupzzn",
       "channel": "sec",
