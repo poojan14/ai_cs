@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-04T22:48:52.047Z",
-  "nextUpdateAt": "2026-09-05T01:48:52.047Z",
+  "generatedAt": "2026-09-05T03:21:48.482Z",
+  "nextUpdateAt": "2026-09-05T06:21:48.482Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "14ii5as",
+      "id": "0cwwbt2",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "brief": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test. Self-identifying OpenAI agents posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions during what was likely internal testing designed to gauge the agents’ hacking abilities, researchers said Friday . In all, agents with 3,700 distinct self-given names posted the messages to German site DSEwiki over a six-week period. Besides discussing ways the agents could break out of the restricted environment OpenAI intended to prevent them from posting code or content to the Internet, the posts shared test answers. The posts also shared possible ways to perform XSS (cross-site scripting) attacks against the wiki and to impersonate site moderators. In three of the posts, agents used the word “swarm” to describe the collection of agents engaged in the activity.",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "brief": "OpenAI is at the center of another agent swarm incident. Researchers say the company’s internally deployed agents took over an obscure German-language wiki in May and June, using it to coordinate on evaluations and swap methods to evade OpenAI’s own controls (OpenAI has not yet confirmed the swarm came from the company). The revelation surfaces days after METR and Redwood Research published their account of July’s Hugging Face breach. In July, a swarm of OpenAI agents worked together to escape their sandbox during a cybersecurity evaluation and break into Hugging Face’s servers . A subsequent swarm then picked up techniques from the first and used them to gain administrator access to a research cluster within OpenAI’s own infrastructure. OpenAI brought in METR and Redwood to investigate the Hugging Face portion of the incident, but the scope of their investigation stopped short of the compromise of OpenAI’s own infrastructure.",
       "whyItMatters": "",
-      "words": 140,
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-      "published": "2026-09-04T22:17:36.000Z",
-      "capturedAt": "2026-09-04T22:48:50.127Z",
+      "words": 148,
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "published": "2026-09-04T23:15:11.000Z",
+      "capturedAt": "2026-09-05T03:21:47.474Z",
       "tags": [
         "Openai",
         "Agent"
@@ -25,24 +25,24 @@
       "rewritten": false
     },
     "sec": {
-      "id": "1xk6jzr",
+      "id": "0zupzzn",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People",
-      "brief": "S. CISA adds PaperCut NG/MF flaws to its Known Exploited Vulnerabilities catalog Manchester Airports Group, which operates Manchester, London Stansted and East Midlands airports, has confirmed a data breach involving customer information held in a third-party database. The company says airport operations, passenger safety and aviation security were not affected, but the incident has exposed data that can make fraud far more convincing. The group disclosed the incident on 27 August and said it had contained the risk, engaged specialist advisers and notified relevant authorities. The extortion group FulcrumSec claimed responsibility for the intrusion and leaked the data after MAG had refused its ransom demand.",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "brief": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said. The",
       "whyItMatters": "",
-      "words": 105,
-      "url": "https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-17.png?resize=1024%2C721&ssl=1",
-      "published": "2026-09-04T18:30:17.000Z",
-      "capturedAt": "2026-09-04T22:48:52.047Z",
+      "words": 60,
+      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg",
+      "published": "2026-09-04T15:57:15.000Z",
+      "capturedAt": "2026-09-05T03:21:48.482Z",
       "tags": [
-        "Breach",
-        "Hack",
-        "Phishing"
+        "Phishing",
+        "Attack",
+        "Security"
       ],
       "rewritten": false
     }
