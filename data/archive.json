@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-05T20:01:12.898Z",
-  "count": 575,
+  "updatedAt": "2026-09-05T22:41:04.345Z",
+  "count": 577,
   "stories": [
+    {
+      "id": "15ckr43",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "OpenAI Announced $1B in Defensive Tools for Water Utilities",
+      "brief": "S. S. 5 Million Records OpenAI announced Daybreak for Frontline Defenders on September 3, 2026, committing $1 billion in subsidized access to its Daybreak cyber models, training, and technical support to help organizations that protect essential services in the United States and internationally. “A $1 billion global commitment to expand subsidized access to Daybreak cyber models and products, training, technical support, and partnerships in the United States and internationally. com. The $1 billion is product credits and subsidized access, not a cash grant, targeted to be used over the next six months.",
+      "whyItMatters": "",
+      "words": 92,
+      "url": "https://securityaffairs.com/198506/ai/openai-announced-1b-in-defensive-tools-for-water-utilities.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2024/07/openai.png",
+      "published": "2026-09-05T21:14:01.000Z",
+      "capturedAt": "2026-09-05T22:41:04.345Z",
+      "tags": [
+        "Hack",
+        "Patch",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0vc2mfg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
+      "brief": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior Reuters",
+      "whyItMatters": "",
+      "words": 14,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-05T21:23:43.000Z",
+      "capturedAt": "2026-09-05T22:41:01.610Z",
+      "tags": [
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1ckhwg6",
       "channel": "sec",
