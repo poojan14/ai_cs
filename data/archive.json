@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-05T14:44:10.306Z",
-  "count": 571,
+  "updatedAt": "2026-09-05T17:11:19.315Z",
+  "count": 573,
   "stories": [
+    {
+      "id": "01at8ks",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+      "brief": "8), the bug described as an arbitrary file upload issue in the function that handles form submissions. Join as speakers examine the various components of ASM strategy, the push to mandate continuous asset visibility and inventory tools, and the use of red-teaming, bug bounties and pen-tests in modern security programs. In this live webinar, learn how to define your minimum viable business, identify the systems it depends on, measure actual recovery time against business requirements, and present the gaps to the board as measurable risk. Frank Verdecanna has been appointed Chief Financial Officer at Armadin. Keeper Security has named Jessica Krowel and Bill Grabner as SVPs of sales for North America. Skyhigh Security has named Anthony Palladino as Chief Operating Officer. Security teams must treat autonomous agents as highly privileged identities. (Etay Maor)",
+      "whyItMatters": "",
+      "words": 133,
+      "url": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+      "source": "SecurityWeek",
+      "sourceSite": "securityweek.com",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+      "published": "2026-09-05T13:00:28.000Z",
+      "capturedAt": "2026-09-05T17:11:19.315Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "01i0uuu",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Rogue Agents No Longer A Theory. World Must Regulate Agentic AI Now - NDTV",
+      "brief": "Rogue Agents No Longer A Theory. World Must Regulate Agentic AI Now NDTV",
+      "whyItMatters": "",
+      "words": 13,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTg1X0E3djllU0IzTFpRd19ibXNwVENkbWw4YmkzR09zUV9IWDluVVFlU0dUMnRuVjNubTh0M05Ud3lLU1N0UFM3UHRfdDJsa1k3YW9KOGtDX3A3SEcyMHFPbjZScHlCV3ZYMHhPQ21pMHVzdjNDdHJ1MGltcHVWU2NBQm1GTjVfY2ROOWltQ2s5bnZub0ZvVlJ6SWVxOHNETEpnODNPSdIBrwFBVV95cUxOOWRuU21pZmV4cHktMTdqaXEzemk4YWRBbTdVZHlURjFNSVc1YVFGdmJWUEpuSjBkMS1BdmZtR0RRWXFhRGtnM050b0hHRkl3ejZYSEJNdENNaktMVVFKaVkyMTRReE1BUUtUZFVfQTV6V3hnTGVKb1B6dFZ6MDJEZXRxcGxFV0J2Smw0MklianpvWjlqLXhRdU9mWXBWLWtNNDRtUnJHdDRBSzRpdDZJ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-05T16:56:14.000Z",
+      "capturedAt": "2026-09-05T17:11:17.405Z",
+      "tags": [
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0xw5nft",
       "channel": "sec",
