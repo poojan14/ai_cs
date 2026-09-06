@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-06T20:05:22.695Z",
-  "count": 585,
+  "updatedAt": "2026-09-06T22:44:07.166Z",
+  "count": 587,
   "stories": [
+    {
+      "id": "0g2di9n",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "brief": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. ASCII smuggling has been used in AI prompt injection attacks to conceal malicious instructions from users by encoding them with Unicode characters from the Tags block (U+E0000–U+E007F). 37 million daily messages in late February. Although the volume has dropped gradually in May, the operation is still active. “The high-volume phase persisted for roughly three months after February 9 and dropped sharply after May 15, 2026,” explains Microsoft . ” In this campaign, the attacker inserts an invisible Unicode character inside finance-related lure words to split them. In doing so, a keyword like ‘funding’ becomes something like ‘ fun[invisible character]ding ’ and evades email filters that rely on word lists to detect suspicious or malicious messages.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/05/13/Phishing.jpg",
+      "published": "2026-09-06T14:23:46.000Z",
+      "capturedAt": "2026-09-06T22:44:07.166Z",
+      "tags": [
+        "Phishing",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "162wywz",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI's Astra Reveals Memory as Key to AI Performance - 조선일보",
+      "brief": "OpenAI's Astra Reveals Memory as Key to AI Performance 조선일보",
+      "whyItMatters": "",
+      "words": 10,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXpQNl84Z21aancxazUxcU1aWk9JTkNtdkkxQnpieHJuUmZoZ2w1cklkbHgtRXFhQlg3aVA5WGRPcFFrdnJYaW1NQ1hOdlJlczVmUTVvZzByT3NaWG9xMjJlR09CMWVzWHZWdTlTbTlwRUNhVXpLNTZNUV9NLWR5WHRGMm1EUm5u",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-06T22:04:06.000Z",
+      "capturedAt": "2026-09-06T22:44:05.152Z",
+      "tags": [
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0l71279",
       "channel": "sec",
