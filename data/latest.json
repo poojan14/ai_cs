@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-06T15:03:05.705Z",
-  "nextUpdateAt": "2026-09-06T18:03:05.705Z",
+  "generatedAt": "2026-09-06T20:05:22.695Z",
+  "nextUpdateAt": "2026-09-06T23:05:22.695Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1njvfv7",
+      "id": "04j1c36",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "GPT-6 Astra: A new generation of intelligence - openai.com",
-      "brief": "com",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "brief": "7 billion funding round led by Andreessen Horowitz . But even after raising that mega round, the Uber founder remained a bit cagey about what he was actually aiming to do. Now a story in the Financial Times offers more details about Atoms’ goals. The startup is reportedly preparing for a hiring spree, as well as acquisitions, that could make it a major player in the autonomous vehicle industry. In fact, the FT said Atoms has talked to Uber about how the ride-hailing company could use the startup’s robotaxi technology. ) The report also noted that Uber has invested $100 million in Atoms — a figure previously confirmed by TechCrunch . ”",
       "whyItMatters": "",
-      "words": 1,
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-09-06T14:57:50.000Z",
-      "capturedAt": "2026-09-06T15:03:04.534Z",
+      "words": 112,
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+      "published": "2026-09-06T16:45:00.000Z",
+      "capturedAt": "2026-09-06T20:05:20.941Z",
       "tags": [
-        "Openai"
+        "Robot"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0703cjl",
+      "id": "0l71279",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "brief": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or",
+      "title": "Your MikroTik Router May Already Be Compromised: Look for SSH User “-2”",
+      "brief": "S. S. 8 Million People Anyone running a MikroTik router with SSH exposed to the internet should treat it as compromised until proven otherwise. The popular cybersecurity expert Costin Raiu published a detailed technical breakdown of the active exploitation on September 5, 2026, the same day CERT Polska issued its advisory titled “ Critical vulnerabilities in MikroTik RouterOS are being actively exploited. ” “If you have a MikroTik router on the internet with SSH open, it may already be compromised” Raiu wrote on Medium. 2), an SSH authentication bypass, and CVE-2026-86060, an SSH session privilege escalation.",
       "whyItMatters": "",
-      "words": 57,
-      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg",
-      "published": "2026-09-06T09:32:38.000Z",
-      "capturedAt": "2026-09-06T15:03:05.704Z",
+      "words": 96,
+      "url": "https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-18.png?resize=1024%2C388&ssl=1",
+      "published": "2026-09-06T13:46:02.000Z",
+      "capturedAt": "2026-09-06T20:05:22.695Z",
       "tags": [
         "Hack",
         "Exploit",
-        "Attack"
+        "Patch"
       ],
       "rewritten": false
     }

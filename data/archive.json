@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-06T15:03:05.705Z",
-  "count": 583,
+  "updatedAt": "2026-09-06T20:05:22.695Z",
+  "count": 585,
   "stories": [
+    {
+      "id": "0l71279",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Your MikroTik Router May Already Be Compromised: Look for SSH User “-2”",
+      "brief": "S. S. 8 Million People Anyone running a MikroTik router with SSH exposed to the internet should treat it as compromised until proven otherwise. The popular cybersecurity expert Costin Raiu published a detailed technical breakdown of the active exploitation on September 5, 2026, the same day CERT Polska issued its advisory titled “ Critical vulnerabilities in MikroTik RouterOS are being actively exploited. ” “If you have a MikroTik router on the internet with SSH open, it may already be compromised” Raiu wrote on Medium. 2), an SSH authentication bypass, and CVE-2026-86060, an SSH session privilege escalation.",
+      "whyItMatters": "",
+      "words": 96,
+      "url": "https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-18.png?resize=1024%2C388&ssl=1",
+      "published": "2026-09-06T13:46:02.000Z",
+      "capturedAt": "2026-09-06T20:05:22.695Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "04j1c36",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "brief": "7 billion funding round led by Andreessen Horowitz . But even after raising that mega round, the Uber founder remained a bit cagey about what he was actually aiming to do. Now a story in the Financial Times offers more details about Atoms’ goals. The startup is reportedly preparing for a hiring spree, as well as acquisitions, that could make it a major player in the autonomous vehicle industry. In fact, the FT said Atoms has talked to Uber about how the ride-hailing company could use the startup’s robotaxi technology. ) The report also noted that Uber has invested $100 million in Atoms — a figure previously confirmed by TechCrunch . ”",
+      "whyItMatters": "",
+      "words": 112,
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+      "published": "2026-09-06T16:45:00.000Z",
+      "capturedAt": "2026-09-06T20:05:20.941Z",
+      "tags": [
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0703cjl",
       "channel": "sec",
