@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-09-06T03:21:47.607Z",
-  "count": 579,
+  "updatedAt": "2026-09-06T10:25:48.528Z",
+  "count": 581,
   "stories": [
+    {
+      "id": "17omsy4",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "PaperCut Flaws Exploited in Attacks on U.S. and European Schools",
+      "brief": "S. S. S. and Europe, as reported by TheHackerNews. Arctic Wolf researchers observed threat actors chaining an authentication bypass with remote code execution to run commands, perform reconnaissance and create privileged accounts. The activity shows how quickly attackers can turn newly disclosed vulnerabilities into real-world attacks, putting sensitive credentials and systems at risk. ” reads the advisory . ”",
+      "whyItMatters": "",
+      "words": 59,
+      "url": "https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2023/08/PaperCut-Logotype.png",
+      "published": "2026-09-05T18:47:14.000Z",
+      "capturedAt": "2026-09-06T10:25:48.528Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0geuugt",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "brief": "For many small-to-medium-sized businesses (SMBs), VMware has become too expensive. Broadcom’s acquisition of the virtualization firm brought the end of perpetual license sales and the arrival of pricey, stacked, subscription-based bundles that priced out many SMBs. The most obvious is VMware Cloud Foundation (VCF), VMware’s flagship private cloud bundle that has been Broadcom’s primary focus since taking over VMware. Many SMBs find that VCF is unaffordable and stuffed with unnecessary offerings. However, numerous customers have reported online that VMware sales representatives have still pushed them toward VCF, with some claiming that sales reps have told them that the lower-priced edition of VMware’s virtualization platform, vSphere Standard, was no longer available . Speaking with The Register this week, Paul Turner, VCF’s chief product officer, said Broadcom’s new sales incentives encouraged the sales team to push VCF. “We corrected this,” Turner told the publication. ”",
+      "whyItMatters": "",
+      "words": 143,
+      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+      "published": "2026-09-04T17:35:02.000Z",
+      "capturedAt": "2026-09-06T10:25:46.076Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0yzv1lo",
       "channel": "sec",
