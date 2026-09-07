@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-07T11:47:16.270Z",
-  "nextUpdateAt": "2026-09-07T14:47:16.270Z",
+  "generatedAt": "2026-09-07T17:24:30.594Z",
+  "nextUpdateAt": "2026-09-07T20:24:30.594Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "06gu4py",
+      "id": "0ks83qh",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "OpenAI has sent EU incident report on hijacked German website, Commission says - Reuters",
-      "brief": "OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "brief": "5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments. Anthropic settled a copyright class action suit last year, after a judge ruled that training AI models on copyrighted material is legal under fair use doctrine, but pirating that material was not. The deal received final approval in July, allowing the payments to move forward. Under the terms of the settlement, the authors of nearly 500,000 titles will be paid $3,000 for each pirated work. If the book is still in-print with a traditional publisher, the money will be split 50-50 between author and publisher. If the book was self-published, or if the publisher reverted the rights by allowing the book to go out-of-print, then the author should get the entire payment.",
       "whyItMatters": "",
-      "words": 13,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-09-07T10:56:49.000Z",
-      "capturedAt": "2026-09-07T11:47:15.017Z",
+      "words": 137,
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "published": "2026-09-06T20:47:37.000Z",
+      "capturedAt": "2026-09-07T17:24:29.075Z",
       "tags": [
-        "Openai"
+        "Anthropic",
+        "Agent"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0urrhe5",
+      "id": "0acsjui",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Berlin Ransomware Leak Exposes State Secrets",
-      "brief": "S. S. 8 Million People When a ransomware gang dumps nearly six terabytes of state administration files onto the dark web, ignoring them does not make the problem go away. The Rhysida ransomware group recently carried out this exact threat against Berlin after local authorities refused to pay a thirty Bitcoin ransom. At the end of August, Berlin’s state government confirmed it was dealing with an extortion attempt following an August cyberattack on the city-state’s administrative network, and officials have already refused the requested ransom. 44 million files, with personal information on 12,076 individuals allegedly included.",
+      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "brief": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice presidents, and other executive staff",
       "whyItMatters": "",
-      "words": 96,
-      "url": "https://securityaffairs.com/198545/cyber-crime/berlin-ransomware-leak-exposes-state-secrets.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-89.png?resize=1024%2C440&ssl=1",
-      "published": "2026-09-07T07:19:51.000Z",
-      "capturedAt": "2026-09-07T11:47:16.270Z",
+      "words": 50,
+      "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-Zo4zgxCrVcz6-00WV2qAPHSD-av2Ed5hgRmR-2vUzkr9jVeph0NNb6gGsQfwSkFyuRfRcSsaISSpfysl_Xx5F48IM7HdBpO4F3CaVuLhk1v0a4vcH5xK_bxX6BxIjkfAjhDaNGcLG7_R9IcTjVGlFcW7y1ZV64imACHi9528LOjH1Flhk-cy9LFgrMv/s1600/phish-ms.jpg",
+      "published": "2026-09-07T15:51:56.000Z",
+      "capturedAt": "2026-09-07T17:24:30.594Z",
       "tags": [
-        "Breach",
-        "Hack",
-        "Ransomware"
+        "Attack",
+        "Data Theft"
       ],
       "rewritten": false
     }
