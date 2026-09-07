@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-07T03:20:42.337Z",
-  "count": 589,
+  "updatedAt": "2026-09-07T11:47:16.270Z",
+  "count": 591,
   "stories": [
+    {
+      "id": "0urrhe5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Berlin Ransomware Leak Exposes State Secrets",
+      "brief": "S. S. 8 Million People When a ransomware gang dumps nearly six terabytes of state administration files onto the dark web, ignoring them does not make the problem go away. The Rhysida ransomware group recently carried out this exact threat against Berlin after local authorities refused to pay a thirty Bitcoin ransom. At the end of August, Berlin’s state government confirmed it was dealing with an extortion attempt following an August cyberattack on the city-state’s administrative network, and officials have already refused the requested ransom. 44 million files, with personal information on 12,076 individuals allegedly included.",
+      "whyItMatters": "",
+      "words": 96,
+      "url": "https://securityaffairs.com/198545/cyber-crime/berlin-ransomware-leak-exposes-state-secrets.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-89.png?resize=1024%2C440&ssl=1",
+      "published": "2026-09-07T07:19:51.000Z",
+      "capturedAt": "2026-09-07T11:47:16.270Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "06gu4py",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI has sent EU incident report on hijacked German website, Commission says - Reuters",
+      "brief": "OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
+      "whyItMatters": "",
+      "words": 13,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-07T10:56:49.000Z",
+      "capturedAt": "2026-09-07T11:47:15.017Z",
+      "tags": [
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "135v1cd",
       "channel": "sec",

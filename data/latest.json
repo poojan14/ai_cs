@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-07T03:20:42.337Z",
-  "nextUpdateAt": "2026-09-07T06:20:42.337Z",
+  "generatedAt": "2026-09-07T11:47:16.270Z",
+  "nextUpdateAt": "2026-09-07T14:47:16.270Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1mm28b1",
+      "id": "06gu4py",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "brief": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement . The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times , Ziff Davis , Merriam-Webster, and Encyclopedia Britannica against OpenAI. The Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI’s technology. The publishers join a list of nearly 400 local newspapers that recently sued the two companies, saying that because the chatbots reduce the need to visit their sites for reporting and answers, they cost them valuable subscription revenue.",
+      "title": "OpenAI has sent EU incident report on hijacked German website, Commission says - Reuters",
+      "brief": "OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
       "whyItMatters": "",
-      "words": 129,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
-      "published": "2026-09-06T23:36:04.000Z",
-      "capturedAt": "2026-09-07T03:20:41.121Z",
+      "words": 13,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-07T10:56:49.000Z",
+      "capturedAt": "2026-09-07T11:47:15.017Z",
       "tags": [
-        "Model",
-        "Openai",
-        "Training Data"
+        "Openai"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "135v1cd",
+      "id": "0urrhe5",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-      "brief": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner. The company named the four programs ProManager, WinUpdate, SoftManager, and",
+      "title": "Berlin Ransomware Leak Exposes State Secrets",
+      "brief": "S. S. 8 Million People When a ransomware gang dumps nearly six terabytes of state administration files onto the dark web, ignoring them does not make the problem go away. The Rhysida ransomware group recently carried out this exact threat against Berlin after local authorities refused to pay a thirty Bitcoin ransom. At the end of August, Berlin’s state government confirmed it was dealing with an extortion attempt following an August cyberattack on the city-state’s administrative network, and officials have already refused the requested ransom. 44 million files, with personal information on 12,076 individuals allegedly included.",
       "whyItMatters": "",
-      "words": 53,
-      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg",
-      "published": "2026-09-06T08:34:20.000Z",
-      "capturedAt": "2026-09-07T03:20:42.337Z",
+      "words": 96,
+      "url": "https://securityaffairs.com/198545/cyber-crime/berlin-ransomware-leak-exposes-state-secrets.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-89.png?resize=1024%2C440&ssl=1",
+      "published": "2026-09-07T07:19:51.000Z",
+      "capturedAt": "2026-09-07T11:47:16.270Z",
       "tags": [
-        "Security"
+        "Breach",
+        "Hack",
+        "Ransomware"
       ],
       "rewritten": false
     }
