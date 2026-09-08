@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-08T03:27:29.792Z",
-  "count": 597,
+  "updatedAt": "2026-09-08T10:45:36.458Z",
+  "count": 599,
   "stories": [
+    {
+      "id": "06aos6b",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "North Korea-linked Hackers Hide a Backdoor Inside HAProxy",
+      "brief": "S. S. 8 Million People North Korean-linked hackers found a genuinely clever hiding spot for their malware: inside the actual source code of HAProxy, the load balancing software running at the edge of two South Korean companies’ networks. Rapid7’s research documents a previously undocumented Linux toolkit hitting South Korea’s automotive and media sectors, and the depth of integration here goes well beyond a typical backdoor bolted onto a system. “A new Linux toolkit, identified by Rapid7 Labs, has been targeting organizations across South Korea’s automotive and media industries with minimal detection. ” reads the report published by Rapid7. ”",
+      "whyItMatters": "",
+      "words": 99,
+      "url": "https://securityaffairs.com/198656/apt/north-korea-linked-hackers-hide-a-backdoor-inside-haproxy.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-23.png?resize=1024%2C572&ssl=1",
+      "published": "2026-09-08T09:11:01.000Z",
+      "capturedAt": "2026-09-08T10:45:36.458Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1bjvvp8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "brief": "Danijar Hafner has a startup in stealth and a long track record of teaching AI agents about our world. Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up for in robots. Humanoids of various shapes and sizes hang like marionettes from racks that run down the center of the wide-open space.",
+      "whyItMatters": "",
+      "words": 97,
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600",
+      "published": "2026-09-08T10:34:00.000Z",
+      "capturedAt": "2026-09-08T10:45:35.110Z",
+      "tags": [
+        "Model",
+        "Deepmind",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "13qxdx0",
       "channel": "sec",
