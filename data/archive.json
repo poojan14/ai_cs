@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-08T10:45:36.458Z",
-  "count": 599,
+  "updatedAt": "2026-09-08T16:09:01.143Z",
+  "count": 600,
   "stories": [
+    {
+      "id": "0ns5wli",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+      "brief": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. 0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026. \"This update resolves a critical",
+      "whyItMatters": "",
+      "words": 47,
+      "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xdakttovno7kFgFYIw5XGFGcSZibVvXYB64vih4iZpc4_WY_t7oe1X3igSPGXBa8UTkf4z4xn_GzZ_n7PmuFFvYC8Wsmb04PxYP5z-XHjZZFe_SASihwZNg1dxHXQzz8hBRo-6LhvQmwyo_MA9Kj6hrcci6ouvOX1D4f-0dNvs57M6WneQHC61yZkF_o/s1600/magento.jpg",
+      "published": "2026-09-08T09:13:47.000Z",
+      "capturedAt": "2026-09-08T16:09:01.143Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1nzhyi2",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "brief": "DeepMind’s new AI-powered tool can learn patterns between DNA changes and our biology. DeepMind’s new AI-powered tool can learn patterns between DNA changes and our biology. Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a “predictive map of every possible DNA letter change in the human genome,” the researchers said in a blog post published on Tuesday.",
+      "whyItMatters": "",
+      "words": 94,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published": "2026-09-08T14:00:00.000Z",
+      "capturedAt": "2026-09-08T16:08:59.422Z",
+      "tags": [
+        "Deepmind"
+      ],
+      "rewritten": false
+    },
     {
       "id": "06aos6b",
       "channel": "sec",
@@ -12590,24 +12632,6 @@
         "Hack",
         "Cyber"
       ],
-      "rewritten": false
-    },
-    {
-      "id": "1bay8zs",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "brief": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "whyItMatters": "",
-      "words": 27,
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
-      "published": "2026-07-26T01:30:00.000Z",
-      "capturedAt": "2026-07-26T02:55:24.620Z",
-      "tags": [],
       "rewritten": false
     }
   ]
