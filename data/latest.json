@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-08T20:49:22.336Z",
-  "nextUpdateAt": "2026-09-08T23:49:22.336Z",
+  "generatedAt": "2026-09-08T23:13:29.676Z",
+  "nextUpdateAt": "2026-09-09T02:13:29.676Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "00wxlis",
+      "id": "0ojma1e",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "brief": "Less than two weeks after Meta agreed to a massive $18 billion multistate settlement in a lawsuit over social media’s consumer harms, the company announced its biggest bet on consumer AI to date — and one that requires significantly more trust than social media ever did. S. To use Muse, consumers will have to trust Meta with more of their personal information than ever before. The AI agent works by connecting to the user’s apps and services that are a part of everyday workflows, like email, calendars, payments, and other things the individual may regularly use, like apps for health and fitness, the smart home, dining, shopping, music and events, and more. The idea is a sizable bet on what comes after the ChatGPT era, where AI chatbots answered questions, served as sounding boards, or even became digital companions.",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "brief": "OpenAI’s updated image generation tools in ChatGPT let you use a doodle as part of your prompt. OpenAI’s updated image generation tools in ChatGPT let you use a doodle as part of your prompt. 5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch. You can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make your drawing. I briefly tested it, and it successfully turned my bad doodle of a cat that I drew with my computer mouse into a realistic photo, per my instructions.",
       "whyItMatters": "",
-      "words": 139,
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
-      "published": "2026-09-08T19:00:00.000Z",
-      "capturedAt": "2026-09-08T20:49:20.299Z",
+      "words": 142,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-09-08T20:16:09.000Z",
+      "capturedAt": "2026-09-08T23:13:28.140Z",
       "tags": [
-        "Agent"
+        "Openai"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "1de2800",
+      "id": "0v04b5u",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-      "brief": "What a maintainer's disclosure inbox already knows about the question the EU Cyber Resilience Act is about to ask every software vendor. Last year, someone submitted a vulnerability report to a security address for a free software project I help to review. The report followed our reporting guidelines, with a GPG signature and proper responsible disclosure ceremony, addressed only to the people who should have seen it. It contained 95 vulnerabilities, purportedly. We took it seriously, because that security process exists for exactly this reason. Yet something felt off, because how many human security researchers would compile a list 95 long and keep going instead of stopping at three or four and asking for a longer engagement. Two or three of the 95 turned out to be real.",
+      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+      "brief": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider. \"The adversary demonstrates deep operational knowledge of Brazilian financial infrastructure, including the instant payment",
       "whyItMatters": "",
-      "words": 128,
-      "url": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/posts/2026/09/08/activestate-what-shipped.jpg",
-      "published": "2026-09-08T20:24:16.000Z",
-      "capturedAt": "2026-09-08T20:49:22.336Z",
+      "words": 49,
+      "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6TzHNI7Stg7pvo_Pu0vMltU2jmnIr922wxLWIYFfaRpN3G7rVZCy76FgWwyZUCT36dRygtzxVmZPFTPSm1FuRrmqXwuvTjJhxwJE7zl34ZHuwZUEDdlrnunlem-Xo7KS6Buy1xlHYYxf-0u-d3qWer-o64MrNvrsh5V1WC7dVtGVwubINEgB1AtfQBNC/s1600/brazil-hackers.jpg",
+      "published": "2026-09-08T16:20:23.000Z",
+      "capturedAt": "2026-09-08T23:13:29.676Z",
       "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Cyber"
+        "Cyber",
+        "Attack",
+        "Security"
       ],
       "rewritten": false
     }
