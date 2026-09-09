@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-09T10:53:13.304Z",
+  "updatedAt": "2026-09-09T16:03:44.686Z",
   "count": 600,
   "stories": [
+    {
+      "id": "172enbu",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "FBI puts its cyber strategy on paper",
+      "brief": "The FBI on Wednesday released its first-ever public cybersecurity strategy that details how the agency will combat malicious hackers and digital criminal gangs. C. “We know that cybercrime and nation-state hacking right now is continuing to increase in complexity, sophistication and tempo,” he added. ”",
+      "whyItMatters": "",
+      "words": 45,
+      "url": "https://therecord.media/fbi-releases-first-public-cybersecurity-strategy",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/david_trinks_Vvh_9ooe_EZ_0_unsplash_b2cf67bd03.jpg",
+      "published": "2026-09-09T15:37:00.000Z",
+      "capturedAt": "2026-09-09T16:03:44.686Z",
+      "tags": [
+        "Hack",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0jvaus8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "brief": "A departing researcher says AI companies are ‘gambling with our lives’ by racing to develop self-improving AI. A departing researcher says AI companies are ‘gambling with our lives’ by racing to develop self-improving AI. A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence “could kill all humans” by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build “superhuman systems” they cannot control. In a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax approach to safety. ”",
+      "whyItMatters": "",
+      "words": 117,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK269_ANTHROPIC_2_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-09-09T09:56:28.000Z",
+      "capturedAt": "2026-09-09T16:03:42.900Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "08e1tp5",
       "channel": "sec",
@@ -12597,44 +12640,6 @@
         "Ransomware",
         "Cyber",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1syh5nx",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "brief": "A power line went down outside of Washington, DC, this week. Normally, the grid would only need a few seconds to recover from such an event. But this one took more than 10 minutes because more than 3 gigawatts of data centers stopped drawing power nearly simultaneously. The event caused voltage across the PJM grid to spike from Northern Virginia to Chicago, according to data collected by Ting Labs , a startup that runs an IoT sensor network out of people’s electrical sockets. The event didn’t cause a blackout, but it did cause lights across the region to flicker. The incident demonstrated the effect that data centers can have on the grid — an outcome that experts believe will become more frequent. Northern Virginia, which is in PJM’s territory, is home to the highest concentration of data centers in the world. Energy , told TechCrunch.",
-      "whyItMatters": "",
-      "words": 145,
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
-      "published": "2026-07-25T13:05:00.000Z",
-      "capturedAt": "2026-07-26T10:44:55.311Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1gdtvqb",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "brief": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. BleepingComputer learned of the campaign from a reader, who told us threat actors are creating random Steam accounts to post what appears to be helpful fixes for people's posts about games crashing, lost inventory items, and other technical issues. The threat actors reply to posts, telling other members to open PowerShell as an administrator and run a command to fix the issue. However, when executing the command, it quietly downloads an XMRig miner executable and launches it on the computer. These types of attacks are known as ClickFix, a social engineering tactic that displays fake errors, verification prompts, or troubleshooting instructions to trick victims into manually executing malicious commands.",
-      "whyItMatters": "",
-      "words": 134,
-      "url": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2022/09/12/steam-header-new.jpg",
-      "published": "2026-07-25T22:37:47.000Z",
-      "capturedAt": "2026-07-26T06:08:41.028Z",
-      "tags": [
-        "Attack"
       ],
       "rewritten": false
     }
