@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-09T20:34:32.053Z",
+  "updatedAt": "2026-09-09T22:59:33.542Z",
   "count": 600,
   "stories": [
+    {
+      "id": "180xxw8",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "brief": "S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to Madagascar to help disrupt 13 scam compounds run by Chinese organized crime",
+      "whyItMatters": "",
+      "words": 56,
+      "url": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg",
+      "published": "2026-09-09T18:26:05.000Z",
+      "capturedAt": "2026-09-09T22:59:33.542Z",
+      "tags": [
+        "Scam"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0xm408t",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+      "brief": "This summer, the MIT Schwarzman College of Computing welcomed faculty from colleges and universities across Greater Boston, South Carolina, West Virginia, and Texas to campus for the inaugural AI Educators Pilot, a weeklong workshop aimed at expanding how artificial intelligence is taught across disciplines and learning environments. Inspired by MIT class C01/C51 (Modeling with Machine Learning) , a course developed through the Common Ground for computing and AI education that focuses on helping students understand and apply foundational AI and machine learning concepts to problem-solving in their own disciplines, the workshop gave educators an opportunity to explore how its materials and teaching methods could be adapted for their classrooms. “The broader goal is to expand AI education to more students by investing in training for instructors,” says Dan Huttenlocher, dean of the MIT Schwarzman College of Computing and the Panasonic Professor of Electrical Engineering and Computer Science (EECS).",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-schwarzman-AI-EDUCATORS.jpg?itok=7n4L56BI",
+      "published": "2026-09-09T20:40:00.000Z",
+      "capturedAt": "2026-09-09T22:59:31.672Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0bmcsw6",
       "channel": "sec",
@@ -12597,50 +12639,6 @@
       "capturedAt": "2026-07-26T16:01:45.832Z",
       "tags": [
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "11rt1bc",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "brief": "The latest Meta AI update allows it to pull from your calendar to generate daily briefings. The latest Meta AI update allows it to pull from your calendar to generate daily briefings. Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. In a blog post, Meta says this update marks its “next step toward personal superintelligence,” something CEO Mark Zuckerberg has touted as the future of AI . 1 model , which the company says will allow its chatbot to go beyond its current capabilities of answering questions, generating images, and drafting documents.",
-      "whyItMatters": "",
-      "words": 139,
-      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0%2C4.9744178812656%2C100%2C60.121795706945&w=1200",
-      "published": "2026-07-24T17:00:00.000Z",
-      "capturedAt": "2026-07-26T16:01:43.717Z",
-      "tags": [
-        "Chatbot",
-        "Claude",
-        "Gemini"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "00yzyoe",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Credentials",
-      "brief": "S. S. 20 patches multiple security issues, including a critical command injection bug ReliaQuest’s threat research team just documented attackers compromising the Wi-Fi gateways at hotels and conference centers, then quietly rerouting guests toward fake Microsoft login pages. No phishing email required. No malicious attachment. Just bad luck about which hotel you picked. ” reads the report published by ReliaQuest. ”",
-      "whyItMatters": "",
-      "words": 61,
-      "url": "https://securityaffairs.com/196017/security/hackers-hijack-hotel-wi-fi-to-steal-microsoft-365-credentials.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/07/image-71.png?resize=1000%2C154&ssl=1",
-      "published": "2026-07-26T13:04:27.000Z",
-      "capturedAt": "2026-07-26T13:24:13.247Z",
-      "tags": [
-        "Hack",
-        "Exploit",
-        "Phishing"
       ],
       "rewritten": false
     }
