@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-09T03:31:13.718Z",
+  "updatedAt": "2026-09-09T10:53:13.304Z",
   "count": 600,
   "stories": [
+    {
+      "id": "08e1tp5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+      "brief": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's JavaScript and WebAssembly engine. \"Out-of-bounds write in V8 in Google Chrome prior to",
+      "whyItMatters": "",
+      "words": 55,
+      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg",
+      "published": "2026-09-09T09:11:03.000Z",
+      "capturedAt": "2026-09-09T10:53:13.304Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "00b2qh2",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "brief": "AI companies are making impressive mathematical strides. Human mathematicians are losing out. OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations that OpenAI used NYU mathematician Tristan Buckmaster’s and Anthropic employee Levent Alpöge’s AI-assisted work on the problem as a jumping-off point and failed to credit them. OpenAI has denied the accusations. It remains uncertain if OpenAI’s models made use of the work completed by Buckmaster and Alpöge, though Sébastien Bubeck, a member of the technical staff at OpenAI, said in a press briefing that the team was inspired to pursue the problem after hearing a rumor about Buckmaster and Alpöge’s efforts.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
+      "published": "2026-09-09T03:10:08.000Z",
+      "capturedAt": "2026-09-09T10:53:11.753Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1meq05r",
       "channel": "sec",
@@ -12590,49 +12634,6 @@
       "published": "2026-07-25T22:37:47.000Z",
       "capturedAt": "2026-07-26T06:08:41.028Z",
       "tags": [
-        "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0sumw9n",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "SK Telecom will open its own artificial intelligence (AI) model to startups and expand the domestic - 매일경제",
-      "brief": "SK Telecom will open its own artificial intelligence (AI) model to startups and expand the domestic 매일경제",
-      "whyItMatters": "",
-      "words": 17,
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EMnBneUhRN0oyMmwtNFlJR3FJYVlKcDJrSGVKQmx3MTNsZWlUS3NUaVBhNWszMEFrYmd1MjA4Uk1faFBqZDloNE9IQQ",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-07-26T04:09:17.000Z",
-      "capturedAt": "2026-07-26T06:08:39.046Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "074deyx",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "brief": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
-      "whyItMatters": "",
-      "words": 56,
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg",
-      "published": "2026-07-25T10:14:03.000Z",
-      "capturedAt": "2026-07-26T03:22:54.702Z",
-      "tags": [
-        "Ransomware",
-        "Exploit",
         "Attack"
       ],
       "rewritten": false
