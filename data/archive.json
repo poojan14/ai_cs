@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-08T23:13:29.676Z",
+  "updatedAt": "2026-09-09T03:31:13.718Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1meq05r",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Patch Tuesday Sets Another Record With 974 CVEs",
+      "brief": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
+      "whyItMatters": "",
+      "words": 20,
+      "url": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98de777797b4199/6aa074f14648d949d3cdf38d/ptchtuesday_bombermoon_shutterstock.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-09-08T21:26:02.000Z",
+      "capturedAt": "2026-09-09T03:31:13.718Z",
+      "tags": [
+        "Exploit",
+        "Patch",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "043vgpx",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "brief": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks. Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and organizations published an open letter warning of a narrowing window for patching vulnerabilities ahead of an expected tsunami of AI-enabled attacks that actively exploit them first. The industry is taking the threat seriously by pumping out unprecedented numbers of patches in their software.",
+      "whyItMatters": "",
+      "words": 132,
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "published": "2026-09-08T21:11:46.000Z",
+      "capturedAt": "2026-09-09T03:31:12.110Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0v04b5u",
       "channel": "sec",
@@ -12591,46 +12634,6 @@
         "Ransomware",
         "Exploit",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0j9vbqu",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "brief": "” jokes Charlie Bailey, a librarian in South Philadelphia. He’s just asked his audience to pull out their phones so that he can walk them through the steps of disabling Apple Intelligence and Gemini. ” But the 20-odd adults in the room aren’t here to learn about the alphabet. ” “I was inspired by the feeling of people’s frustration with AI tools being kind of forced onto them, and feeling like AI tools we didn’t ask for are suddenly everywhere in our lives,” Bailey told TechCrunch.",
-      "whyItMatters": "",
-      "words": 86,
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
-      "published": "2026-07-25T16:00:00.000Z",
-      "capturedAt": "2026-07-26T03:22:53.148Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "08oa3il",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Iran-Linked Actors Breach Are Targeting US Water and Energy Control Systems",
-      "brief": "S. S. 20 patches multiple security issues, including a critical command injection bug Critical 7-Zip Flaw Allows Code Execution by Opening Crafted XZ-Compressed Files. Update it now! Federal agencies updated their cybersecurity advisory this week: Iran-linked actors are inside American water and energy control systems, and they’re not just looking around. They’re changing things. The updated advisory from CISA, the FBI, NSA, and the Department of Energy says these actors are getting into programmable logic controllers, the small industrial computers that run pumps, valves, and safety alarms. Once inside, they can mess with what operators see on their screens. That’s how you get outages nobody saw coming.",
-      "whyItMatters": "",
-      "words": 107,
-      "url": "https://securityaffairs.com/195991/apt/iran-linked-actors-breach-are-targeting-us-water-and-energy-control-systems.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2015/03/iran-cyber-attacks1.jpg",
-      "published": "2026-07-25T20:11:48.000Z",
-      "capturedAt": "2026-07-26T03:22:24.962Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Cyber"
       ],
       "rewritten": false
     }
