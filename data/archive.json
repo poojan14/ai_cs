@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-09-10T15:57:30.323Z",
+  "updatedAt": "2026-09-10T20:30:17.276Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1lnap5f",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+      "brief": "In this article Attack chain overview Email Delivery Domain registration Generative AI usage Mitigation and protection guidance Microsoft Defender detections Microsoft Security Copilot Threat intelligence reports MITRE ATT&CK Techniques observed Indicators of compromise (IOC) Learn More Threat actors are increasingly improving their tactics to make suspicious emails look like legitimate email notifications to potential victims, deploying techniques that impersonate internally sent emails from executive team members. While this technique is not new, the adoption of AI has enabled threat actors to improve their campaign templates and construct emails tailored to their recipients. Additionally, threat actors are incorporating multiple techniques within the same email to improve the overall narrative further. In this blog, we will discuss a recent campaign observed using third-party email delivery infrastructure to send out over a million financial fraud scam emails that displayed multiple indicators consistent with the use of generative AI during email template creation.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-38.webp",
+      "published": "2026-09-10T17:23:05.000Z",
+      "capturedAt": "2026-09-10T20:30:17.275Z",
+      "tags": [
+        "Malware",
+        "Vulnerability",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1hq7k8h",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Powering AI is an architecture problem",
+      "brief": "Moving power protection up the voltage stack, outside the building, and into the power path doesn't just solve outages; it changes density, permitting timelines and backup power economics. On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world's largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn't the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No one could anticipate so much uniform load responding to grid faults the same way, at the same time. The AI power debate is mostly about generation: more turbines, more solar, more transmission. The grid needs more electrons. But the outages in Virginia weren't supply failures; they were architecture failures. And a giant wave of interconnections is arriving on that same architecture, putting grid reliability at risk.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?w=840",
+      "published": "2026-09-10T11:00:00.000Z",
+      "capturedAt": "2026-09-10T20:30:15.681Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "11pn025",
       "channel": "sec",
@@ -12595,50 +12635,6 @@
         "Malware",
         "Cyber",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1s7dkg2",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "brief": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "whyItMatters": "",
-      "words": 9,
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face",
-      "sourceSite": "huggingface.co",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/68c1279544f671330c604f4c/Cj0RZwvOSUhFGFEFKgyDw.png",
-      "published": "2026-07-27T09:32:20.000Z",
-      "capturedAt": "2026-07-27T09:53:49.025Z",
-      "tags": [
-        "Robot",
-        "Nvidia",
-        "Generative"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1t4ifef",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 107",
-      "brief": "S. S. 3 Sol Searching | Can Frontier Models Tackle Autonomous Long-Horizon Malware Analysis?",
-      "whyItMatters": "",
-      "words": 14,
-      "url": "https://securityaffairs.com/196037/malware/security-affairs-malware-newsletter-round-107.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-      "published": "2026-07-26T13:30:44.000Z",
-      "capturedAt": "2026-07-27T03:16:30.442Z",
-      "tags": [
-        "Hack",
-        "Ransomware",
-        "Malware"
       ],
       "rewritten": false
     }
