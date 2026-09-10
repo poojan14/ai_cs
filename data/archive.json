@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-09-09T22:59:33.542Z",
+  "updatedAt": "2026-09-10T03:29:01.278Z",
   "count": 600,
   "stories": [
+    {
+      "id": "00tmuim",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Threat matrix: Mapping threats across cloud web applications",
+      "brief": "In this article Overview Technique Catalog Privilege Escalation Mitigation and protection guidance References Learn more Microsoft introduces the cloud web applications threat matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms. Cloud-hosted web applications and serverless platforms create attack paths that can cross application code, managed runtimes, workload identities, deployment pipelines, and connected cloud resources. Investigating the application and underlying cloud platform separately can leave gaps in how defenders understand those paths. Microsoft developed the Cloud web applications threat matrix to organize relevant techniques using MITRE ATT&CK tactics. The matrix can help security teams assess visibility gaps, prioritize hardening, and plan investigations across cloud-native environments. This blog introduces the framework, examines selected techniques, and outlines defensive priorities for reducing exposure.",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-35.webp",
+      "published": "2026-09-09T21:30:00.000Z",
+      "capturedAt": "2026-09-10T03:29:01.278Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0yd2sg3",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "brief": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors. A nearly identical exploit kit that targets critical vulnerabilities in both Chromium-based browsers and older versions of Windows is being actively used by at least four hacking groups, some of which have ties to the Chinese government. Researchers from security firm Proofpoint said Wednesday that BlueMoon, the name they gave to the kit, chains three vulnerabilities together so the attackers using it can install malware of their choice. BlueMoon exploits two Chromium vulnerabilities and one in the kernel of Windows 10 (Oct 2018 Update), Windows Server 2019, Windows 10 2004, Windows Server 2022, and the initial release of Windows 11. All three vulnerabilities have received patches in the past 24 hours.",
+      "whyItMatters": "",
+      "words": 125,
+      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+      "published": "2026-09-09T20:55:02.000Z",
+      "capturedAt": "2026-09-10T03:28:59.650Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "180xxw8",
       "channel": "sec",
@@ -12598,47 +12638,6 @@
         "Breach",
         "Hack",
         "Ransomware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1jlr21i",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "brief": "’” Then, in a follow-up post on Saturday, Delangue outlined what he’d asked for from OpenAI. ” Delangue added, “The first autonomous agent cyberattack is an unprecedented event. ” Despite the autonomous nature of the attack, cybersecurity experts suggested that it could also be blamed on human error — namely, OpenAI’s apparent failure to properly configure what should have been a fully isolated testing environment.",
-      "whyItMatters": "",
-      "words": 65,
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
-      "published": "2026-07-26T16:33:13.000Z",
-      "capturedAt": "2026-07-26T19:12:35.843Z",
-      "tags": [
-        "Openai",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0bz0s72",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
-      "brief": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. Specifically, Dependabot comes with a default three-day cooldown setting, while PyPI will reject new files uploaded to releases older than 14 days. The measure comes after the two development ecosystems experienced multiple high-profile attacks over the past year. Some notable examples include the ‘chalk’ and ‘debug’ attacks, the “ s1ngularity ” operation, the Shai-Hulud campaign, and the GhostAction supply-chain attack. GitHub announced last month changes to tackle supply chain threats, and the hardening process progresses with the new measures. Dependabot is GitHub’s dependency-update service that reads files containing information about new package versions and opens update pull requests to notify software maintainers.",
-      "whyItMatters": "",
-      "words": 129,
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/21/GitHub_headpic.jpg",
-      "published": "2026-07-26T14:13:39.000Z",
-      "capturedAt": "2026-07-26T16:01:45.832Z",
-      "tags": [
-        "Attack"
       ],
       "rewritten": false
     }
