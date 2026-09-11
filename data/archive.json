@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-09-10T22:57:15.456Z",
+  "updatedAt": "2026-09-11T03:26:38.821Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1xzj7w2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+      "brief": "Every wave of technology excitement creates a new opportunity for cyberattackers, and AI is no exception. Microsoft Threat Intelligence has published research showing a growing set of campaigns that impersonate popular AI platforms and tools, including ChatGPT, Microsoft Copilot, DeepSeek, and Claude. 1 The goal is to make phishing, search-driven malware campaigns, and malvertising—which is malicious advertising that uses online ads to lure users to harmful sites, downloads, or redirect chains—more convincing. A ChatGPT-themed phishing campaign sent up to 100,000 emails in a single day, tricking users into updating their ChatGPT Plus payment information and stealing personal and credit card data. These campaigns do not represent a compromise of the AI services being referenced. They represent something more familiar—cyberattackers doing what they have always done: borrowing trust. Right now, AI brands can carry significant trust and curiosity, making them attractive themes for cyberattackers to exploit.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Fig2-ChatGPT.jpg",
+      "published": "2026-09-10T16:00:00.000Z",
+      "capturedAt": "2026-09-11T03:26:38.820Z",
+      "tags": [
+        "Ransomware",
+        "Malware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "014ogdr",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "brief": "You can ask Slackbot to build a tool for you by just describing it. You can ask Slackbot to build a tool for you by just describing it. A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces , you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it. Once Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200",
+      "published": "2026-09-10T21:25:21.000Z",
+      "capturedAt": "2026-09-11T03:26:35.072Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "14gahs5",
       "channel": "sec",
@@ -12591,50 +12631,6 @@
         "Exploit",
         "Patch",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1jkv7l9",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "brief": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of the Linux Foundation’ s Akrites initiative and OpenSSF community work — will work to remediate and disclose vulnerabilities using open technologies. Just as open source created a shared foundation for software, the United States and its partners now face a choice in AI security: whether the defenses that protect our infrastructure will sit inside a few opaque systems or be built on open models, harnesses and tools that any defender can study, adapt and deploy. The world needs both closed and open models .",
-      "whyItMatters": "",
-      "words": 139,
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080_V4.png",
-      "published": "2026-07-27T09:00:07.000Z",
-      "capturedAt": "2026-07-27T16:58:34.969Z",
-      "tags": [
-        "Model",
-        "Agent",
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "18f3hoy",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "GitLab Users Urged to Patch After Research Reveals Critical RCE Chain",
-      "brief": "S. 5 Flash Cyber AI, a Specialized AI Model for Vulnerability Hunting Depthfirst researchers published a working remote code execution exploit for GitLab on July 24, chaining two memory corruption bugs in Oj, a Ruby JSON parser with a native C implementation, into full command execution inside a GitLab Puma worker. Any authenticated user who can push to a project and view commit diffs could run it. The researchers pointed out that no admin rights, no CI access, and no victim interaction are needed. GitLab patched the bugs on June 10 but listed the fix under bug fixes, not the security table, so operators triaging the release had no reason to treat it as urgent.",
-      "whyItMatters": "",
-      "words": 115,
-      "url": "https://securityaffairs.com/196062/hacking/gitlab-users-urged-to-patch-after-research-reveals-critical-rce-chain.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/07/image-74.png?resize=1024%2C629&ssl=1",
-      "published": "2026-07-27T11:20:35.000Z",
-      "capturedAt": "2026-07-27T14:36:27.408Z",
-      "tags": [
-        "Hack",
-        "Exploit",
-        "Patch"
       ],
       "rewritten": false
     }
