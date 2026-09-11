@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-11T03:26:38.821Z",
+  "updatedAt": "2026-09-11T10:45:02.941Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1vhbo6t",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "brief": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. 0), an authentication bypass vulnerability in the web interface of FMC software that could allow an unauthenticated, remote attacker to bypass",
+      "whyItMatters": "",
+      "words": 47,
+      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1600/cisco-ransomware.jpg",
+      "published": "2026-09-11T06:19:59.000Z",
+      "capturedAt": "2026-09-11T10:45:02.941Z",
+      "tags": [
+        "Ransomware",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1rq11nx",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "brief": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035 , with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is a next-level computing challenge; it means delivering the same safe, reliable performance across thousands of vehicles. Meeting those demands requires enormous amounts of compute across the robotaxi development lifecycle, from preparing and training AI models to simulating and validating driving behavior, as well as real-time processing in the vehicle. NVIDIA provides an open platform for AI training , simulation and safety validation , with libraries, software development kits, workflows and models that developers can use alongside their own technology stacks.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/auto-robotaxi-hero-kv-blog-r7-1920x1080-1.jpg",
+      "published": "2026-09-10T16:00:04.000Z",
+      "capturedAt": "2026-09-11T10:45:01.311Z",
+      "tags": [
+        "Model",
+        "Neural",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1xzj7w2",
       "channel": "sec",
@@ -12587,50 +12631,6 @@
         "Vulnerability",
         "Exploit",
         "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "10qhqh3",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "brief": "A decade-old experiment showed OpenAI how far an AI will go to achieve the goals it’s given. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face , another AI company, was the first time I got genuine chills about what large language models are now able to do. But this is a case of human hubris, not rogue AI. I am not an alarmist. In fact, I have been pushing back against AI scare stories for years. Even so, this incident crossed a line. I think it’s the clearest illustration yet of how the people building and testing this technology do not fully understand what they’re doing. OpenAI could—and should—have seen this coming. Here’s what happened, at least according to the two companies involved. ”",
-      "whyItMatters": "",
-      "words": 139,
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
-      "published": "2026-07-27T18:00:00.000Z",
-      "capturedAt": "2026-07-27T19:28:04.868Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "01jk507",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "brief": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. 6 and earlier, as affected, but does not give a lower version",
-      "whyItMatters": "",
-      "words": 51,
-      "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg",
-      "published": "2026-07-27T14:40:00.000Z",
-      "capturedAt": "2026-07-27T16:58:36.707Z",
-      "tags": [
-        "Exploit",
-        "Patch",
-        "Attack"
       ],
       "rewritten": false
     }
