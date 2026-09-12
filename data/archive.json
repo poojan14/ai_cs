@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-09-12T10:14:21.019Z",
+  "updatedAt": "2026-09-12T15:08:42.153Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0kfktaa",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "brief": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. io, disclosed details of a coordinated cyber attack that targeted the package manager for the",
+      "whyItMatters": "",
+      "words": 50,
+      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg",
+      "published": "2026-09-12T09:07:56.000Z",
+      "capturedAt": "2026-09-12T15:08:42.153Z",
+      "tags": [
+        "Cyber",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0vq9qee",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Trump is giving data centers a pass to pollute",
+      "brief": "The Trump administration is sacrificing Americans’ health to build data centers, former EPA officials warn. The Trump administration is sacrificing Americans’ health to build data centers, former EPA officials warn. President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report . They are urging — perhaps futilely — the president to adopt a “Data Center Health Protection Pledge” to signal that the administration is taking the environmental threat seriously. At the start of his term, Trump’s EPA administrator, Lee Zeldin, proclaimed his goal of making America “ the AI capital of the world ” through deregulation. Since then, Zeldin and the White House have rolled back dozens of rules on top of cutting staff and funding at the US EPA.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-09-12T14:41:27.000Z",
+      "capturedAt": "2026-09-12T15:08:39.961Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1pwv54h",
       "channel": "sec",
@@ -12582,48 +12622,6 @@
         "Hack",
         "Malware",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "122rfli",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Smart rings are looking like my kind of AI gadget",
-      "brief": "While everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device. While everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device. Over the last few months, I’ve spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology — even the fastest, cheapest models are getting very good at understanding and processing speech. I’ve tested lots of these apps, from WisprFlow to Monologue to Spokenly to Handy to so many others, and have found them all to be useful ways to quickly write emails, Slack messages, and more.",
-      "whyItMatters": "",
-      "words": 125,
-      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-07-28T12:00:00.000Z",
-      "capturedAt": "2026-07-28T14:08:38.356Z",
-      "tags": [
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "037xgxb",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "brief": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. 8), affects all TeamCity On-Premises versions. 3. TeamCity Cloud instances have already",
-      "whyItMatters": "",
-      "words": 42,
-      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiX3xcF2Bm9BY5obe-T5JItuKynq8bPijOxp14p5damNEjPGtAbYyuLSqp6vKN_KkhPx1qYeTXHxpgnZllCrtLvDaDuJNyHpY1qV0i8KWCe79_bnFtBtTRPCTU28LcN7OFM26h_WZdxeM3KPWBK4dlp0jY8JKrs1UILNR0qRgtxhKJqCcrht69sc3gcwsU/s1600/tc.jpg",
-      "published": "2026-07-28T08:11:22.000Z",
-      "capturedAt": "2026-07-28T11:18:12.308Z",
-      "tags": [
-        "Vulnerability",
-        "Attack",
-        "Security"
       ],
       "rewritten": false
     }
