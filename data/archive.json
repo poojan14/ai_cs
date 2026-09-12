@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-12T15:08:42.153Z",
+  "updatedAt": "2026-09-12T20:16:38.529Z",
   "count": 600,
   "stories": [
+    {
+      "id": "13u5v27",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons",
+      "brief": "S. S. 8 Million Users Offered for Sale After WIRED Leak Artificial intelligence (AI) is becoming more than a tool for people who want to do something malicious. It is increasingly becoming part of the operational machinery itself. That is the main message emerging from Anthropic ‘s latest Threat Intelligence report, which examines malicious activity identified and disrupted between December 2025 and August 2026. The cases cover cyber operations, influence campaigns, surveillance, fraud, biological research, conventional weapons and attempts to extract the capabilities of frontier AI models. The report makes an important distinction from the usual discussion about AI-powered hacking. The biggest change may not be that AI can discover a new vulnerability or write malware. It is that models can now contribute across almost the entire attack chain, from reconnaissance and tool development to exploitation, credential theft, data processing and exfiltration.",
+      "whyItMatters": "",
+      "words": 142,
+      "url": "https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/02/Anthropic-Claude-Code-Security.png",
+      "published": "2026-09-12T16:46:56.000Z",
+      "capturedAt": "2026-09-12T20:16:38.529Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0v89a7f",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "brief": "We’ve been seeing increasingly dire warnings from AI researchers about the dangers of artificial intelligence, and even comments from OpenAI CEO Sam Altman that it may be time to “pace” AI development. But what would that actually look like? In a new blog post , Anthropic CEO Dario Amodei not only echoed the call to “pace the frontier,” but also outlined three broad strategies for doing so. And he said Anthropic is “unilaterally committing” to one of them, with Altman chiming in to say OpenAI will follow suit. The debate over AI safety and alignment intensified this week after researcher Jacob Coxon wrote that he’s resigning from Anthropic over concerns that the leading AI companies are “gambling with our lives” while the people building the technology “earnestly believe it could kill us all by the end of the decade,” a claim repeated by others at Anthropic .",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "published": "2026-09-12T19:34:44.000Z",
+      "capturedAt": "2026-09-12T20:16:36.832Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0kfktaa",
       "channel": "sec",
@@ -12578,50 +12621,6 @@
         "Breach",
         "Exploit",
         "Zero-Day"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0j974om",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "brief": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors , highlighted how the NVIDIA Jetson platform for edge AI and robotics gives busy developers both power and portability in one agentic-ready AI platform built for the physical world — and every industry. The best part? It all fits in one handbag. Compact enough to carry in a bag, yet powerful enough to take on the toughest problems, NVIDIA Jetson modules and developer kits power robots, autonomous machines and real-world AI projects in classrooms, labs and makerspaces — wherever inspiration strikes — enabling developers to build using industry-transforming frontier open models at the highest standard of safety and security .",
-      "whyItMatters": "",
-      "words": 147,
-      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson_FeaturedImage.png",
-      "published": "2026-07-28T15:00:19.000Z",
-      "capturedAt": "2026-07-28T16:40:32.633Z",
-      "tags": [
-        "Model",
-        "Agent",
-        "Robot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "00k2ggy",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "New Crypter-as-a-Service Cruciferra Fuels Stealthy Malware Attacks Worldwide",
-      "brief": "S. S. CISA adds Microsoft SharePoint and Check Point SmartConsole flaws to its Known Exploited Vulnerabilities catalog Proofpoint’s research team traced a wave of income-tax-themed lures targeting Indian taxpayers, tax professionals, and corporate finance teams back to a crypter service called Cruciferra, and the tool turns out to be shared infrastructure used across multiple unrelated criminal groups. A crypter’s job is simple to describe and hard to build well: scramble a malicious payload so antivirus tools can’t detect it, then unwrap it at just the right moment on the victim’s machine. Cruciferra does that job with a level of polish researchers don’t see often. It’s written in Mono and packs in indirect system calls, API unhooking, and a custom flavor of Process Ghosting designed to leave almost nothing behind for a forensic investigator to find.",
-      "whyItMatters": "",
-      "words": 135,
-      "url": "https://securityaffairs.com/196151/malware/new-crypter-as-a-service-cruciferra-fuels-stealthy-malware-attacks-worldwide.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/07/image-78.png?resize=1017%2C1024&ssl=1",
-      "published": "2026-07-28T09:35:40.000Z",
-      "capturedAt": "2026-07-28T14:08:40.092Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Patch"
       ],
       "rewritten": false
     }
