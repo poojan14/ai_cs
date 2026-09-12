@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-12T20:16:38.529Z",
+  "updatedAt": "2026-09-12T22:52:26.135Z",
   "count": 600,
   "stories": [
+    {
+      "id": "12038mu",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. 1) - An incorrect authorization",
+      "whyItMatters": "",
+      "words": 40,
+      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1600/jj.jpg",
+      "published": "2026-09-12T15:54:45.000Z",
+      "capturedAt": "2026-09-12T22:52:26.135Z",
+      "tags": [
+        "Exploit",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1w9gyq2",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "brief": "The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users’ API keys. At the time, RubyGems described it as a “ major malicious attack ” and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI.",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-09-12T21:41:36.000Z",
+      "capturedAt": "2026-09-12T22:52:24.685Z",
+      "tags": [
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "13u5v27",
       "channel": "sec",
@@ -12579,48 +12622,6 @@
         "Hack",
         "Malware",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1hsdp2i",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "brief": "’ Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world’s most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a “general-purpose digital worker” that can access local files and apps to perform actions on your behalf, such as creating documents and updating spreadsheets. This launch builds on Personal Computer integrations that Perplexity launched for Microsoft’s 365 workspace apps and Teams virtual meeting software in May. ”",
-      "whyItMatters": "",
-      "words": 90,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-07-28T12:30:00.000Z",
-      "capturedAt": "2026-07-28T19:25:23.496Z",
-      "tags": [
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0n37a4f",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "brief": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud",
-      "whyItMatters": "",
-      "words": 57,
-      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s1600/openai-0day.jpg",
-      "published": "2026-07-28T13:33:47.000Z",
-      "capturedAt": "2026-07-28T16:40:33.917Z",
-      "tags": [
-        "Breach",
-        "Exploit",
-        "Zero-Day"
       ],
       "rewritten": false
     }
