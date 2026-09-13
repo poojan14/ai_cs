@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-13T11:14:23.204Z",
+  "updatedAt": "2026-09-13T15:44:33.822Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1x0blji",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "brief": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent’s Sogou Input Method for Windows to deploy the GrayRabbit backdoor. Researchers at cybersecurity company Gen Digital warn that the security issue is a one-click remote code execution (RCE) flaw. \"We observed this vulnerability actively exploited in the wild by the UNC3569 threat group to deploy the GRAYRABBIT backdoor through a crafted link,\" Gen Threat Labs says . Sogou Input Method is a popular Windows application that lets users type Chinese characters using a standard keyboard and also offers a custom link handler and a built-in web browser using an outdated Chromium engine. Developed by Chinese tech giant Tencent, Sogou Input Method reportedly has hundreds of millions of installations in China. exe executable without validating them.",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/11/rabbit.jpg",
+      "published": "2026-09-13T14:26:32.000Z",
+      "capturedAt": "2026-09-13T15:44:33.822Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0h1vszg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Trump's former AI czar tells Anthropic and OpenAI to slow down, and to stop asking for anything in return - The Next Web",
+      "brief": "Trump's former AI czar tells Anthropic and OpenAI to slow down, and to stop asking for anything in return The Next Web",
+      "whyItMatters": "",
+      "words": 22,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91WDR0Z2p3WUNENW12QVlBNFNpb3hrZVQ2UHN1SFAzdnBBYW4zS2luMnEwZE1nUTdiSmNaSVlEUUUtSUYwVFJqeU1DUVNJWHUwZDZIOHBvWi1jTnJxelZFaEVRTXNVNEtkN21HWkVYTQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-13T15:31:49.000Z",
+      "capturedAt": "2026-09-13T15:44:32.094Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1wjpmi2",
       "channel": "sec",
@@ -12580,48 +12623,6 @@
       "capturedAt": "2026-07-29T05:53:42.732Z",
       "tags": [
         "Malware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "10a7avm",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "brief": "Data security company Cyera, which recently raised $600 million at a $12 billion valuation, announced Tuesday that it signed a letter of intent to acquire Oasis Security for approximately $1 billion in a deal expected to be paid mostly in cash, with the remainder in Cyera shares. Oasis focuses on non-human identities, primarily AI agents. As the number of AI agents proliferates, companies must deploy cybersecurity software that monitors these agents’ behavior and grants them permission to access other software. Founded in 2022, Oasis has raised about $195 million from Accel, Craft Ventures, Cyberstarts and other investors. The deal highlights a surging market for cybersecurity providers defending enterprises against AI-weaponized threats. Cyera, which shares investors Accel and Cyberstarts with Oasis, has been on an acquisition spree, recently purchasing Index Ventures-backed Ryft and the less-than-one-year-old Genie Security.",
-      "whyItMatters": "",
-      "words": 136,
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-      "published": "2026-07-29T00:09:05.000Z",
-      "capturedAt": "2026-07-29T05:53:41.111Z",
-      "tags": [
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0dl723t",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
-      "brief": "There’s new benchmark measuring AI’s ability to perform mathematical cryptanalysis. Anthropic’s frontier model actually found new attacks. The benchmark: “ CryptanalysisBench: Can LLMs do Cryptanalysis? ” The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms. Anthropic used the benchmark to test Mythos Preview, and found new vulnerabilities in Hawk and reduced-round AES. Still early results, but this is definitely something to watch.",
-      "whyItMatters": "",
-      "words": 74,
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
-      "source": "Schneier on Security",
-      "sourceSite": "schneier.com",
-      "image": "",
-      "published": "2026-07-29T01:47:05.000Z",
-      "capturedAt": "2026-07-29T02:42:27.644Z",
-      "tags": [
-        "Exploit",
-        "Cyber",
-        "Attack"
       ],
       "rewritten": false
     }
