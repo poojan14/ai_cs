@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-13T15:44:33.822Z",
-  "nextUpdateAt": "2026-09-13T18:44:33.822Z",
+  "generatedAt": "2026-09-13T20:26:02.242Z",
+  "nextUpdateAt": "2026-09-13T23:26:02.242Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "0h1vszg",
+      "id": "1fx5si8",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Trump's former AI czar tells Anthropic and OpenAI to slow down, and to stop asking for anything in return - The Next Web",
-      "brief": "Trump's former AI czar tells Anthropic and OpenAI to slow down, and to stop asking for anything in return The Next Web",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "brief": "The Republicans fear slowing down AI development could give China the edge. The Republicans fear slowing down AI development could give China the edge. Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to “pace the frontier” and slow down AI development. OpenAI’s Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet’s Demis Hassabis offered tentative support for Amodei’s proposal. Donald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times , Trump said “Look, we’re leading China in AI ... ” He urged people not to panic. ”",
       "whyItMatters": "",
-      "words": 22,
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91WDR0Z2p3WUNENW12QVlBNFNpb3hrZVQ2UHN1SFAzdnBBYW4zS2luMnEwZE1nUTdiSmNaSVlEUUUtSUYwVFJqeU1DUVNJWHUwZDZIOHBvWi1jTnJxelZFaEVRTXNVNEtkN21HWkVYTQ",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-09-13T15:31:49.000Z",
-      "capturedAt": "2026-09-13T15:44:32.094Z",
+      "words": 127,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "published": "2026-09-13T19:41:48.000Z",
+      "capturedAt": "2026-09-13T20:26:00.368Z",
       "tags": [
         "Openai",
         "Anthropic"
@@ -25,24 +25,24 @@
       "rewritten": false
     },
     "sec": {
-      "id": "1x0blji",
+      "id": "1ajo4gg",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-      "brief": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent’s Sogou Input Method for Windows to deploy the GrayRabbit backdoor. Researchers at cybersecurity company Gen Digital warn that the security issue is a one-click remote code execution (RCE) flaw. \"We observed this vulnerability actively exploited in the wild by the UNC3569 threat group to deploy the GRAYRABBIT backdoor through a crafted link,\" Gen Threat Labs says . Sogou Input Method is a popular Windows application that lets users type Chinese characters using a standard keyboard and also offers a custom link handler and a built-in web browser using an outdated Chromium engine. Developed by Chinese tech giant Tencent, Sogou Input Method reportedly has hundreds of millions of installations in China. exe executable without validating them.",
+      "title": "Security Affairs newsletter Round 594 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "brief": "S. S. CISA adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog Critical vulnerabilities in MikroTik RouterOS are being actively exploited. S. AI Companies AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
       "whyItMatters": "",
-      "words": 131,
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/11/rabbit.jpg",
-      "published": "2026-09-13T14:26:32.000Z",
-      "capturedAt": "2026-09-13T15:44:33.822Z",
+      "words": 46,
+      "url": "https://securityaffairs.com/198957/security/security-affairs-newsletter-round-594-by-pierluigi-paganini-international-edition.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "published": "2026-09-13T14:23:47.000Z",
+      "capturedAt": "2026-09-13T20:26:02.242Z",
       "tags": [
+        "Breach",
         "Hack",
-        "Malware",
-        "Vulnerability"
+        "Ransomware"
       ],
       "rewritten": false
     }

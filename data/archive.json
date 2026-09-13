@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-13T15:44:33.822Z",
+  "updatedAt": "2026-09-13T20:26:02.242Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1ajo4gg",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Security Affairs newsletter Round 594 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "brief": "S. S. CISA adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog Critical vulnerabilities in MikroTik RouterOS are being actively exploited. S. AI Companies AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
+      "whyItMatters": "",
+      "words": 46,
+      "url": "https://securityaffairs.com/198957/security/security-affairs-newsletter-round-594-by-pierluigi-paganini-international-edition.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "published": "2026-09-13T14:23:47.000Z",
+      "capturedAt": "2026-09-13T20:26:02.242Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1fx5si8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "brief": "The Republicans fear slowing down AI development could give China the edge. The Republicans fear slowing down AI development could give China the edge. Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to “pace the frontier” and slow down AI development. OpenAI’s Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet’s Demis Hassabis offered tentative support for Amodei’s proposal. Donald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times , Trump said “Look, we’re leading China in AI ... ” He urged people not to panic. ”",
+      "whyItMatters": "",
+      "words": 127,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "published": "2026-09-13T19:41:48.000Z",
+      "capturedAt": "2026-09-13T20:26:00.368Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1x0blji",
       "channel": "sec",
@@ -12582,47 +12625,6 @@
         "Breach",
         "Hack",
         "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0xz7bfx",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach - The Hacker News",
-      "brief": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach The Hacker News",
-      "whyItMatters": "",
-      "words": 15,
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEwzdWhXVjUxNHZtMkszdkxRamZPOGYzY1EyMHZoU1ZlZlBMOVFZVjBLRE81QVJzZnFpZUJsSDI0RVNzb2x4OU9ZWTNvLXltQWNRNVQ1bURRSDRDMm0zQVdMNWdMWTc5dEtYNGt4WUZQU1VJSVNSdkFkcHUxM1JkRXZB",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-07-29T06:45:00.000Z",
-      "capturedAt": "2026-07-29T08:42:00.630Z",
-      "tags": [
-        "Openai",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1h2g9gr",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-      "brief": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. 4 The two packages \"contain an import-time JavaScript implant that resolves encrypted code",
-      "whyItMatters": "",
-      "words": 40,
-      "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg",
-      "published": "2026-07-29T04:20:57.000Z",
-      "capturedAt": "2026-07-29T05:53:42.732Z",
-      "tags": [
-        "Malware"
       ],
       "rewritten": false
     }
