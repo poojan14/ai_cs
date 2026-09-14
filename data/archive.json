@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-13T22:56:36.488Z",
+  "updatedAt": "2026-09-14T03:47:36.558Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1iyun87",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read – Exploited Within 24 Hours",
+      "brief": "S. S. 0) on September 10, 2026, a path traversal vulnerability in its repository commits API. CVE-2026-85706 affects GitLab’s repository commits API and can let attackers access files they should not see. A crafted request may expose SSH keys, database credentials, deploy tokens, CI/CD variables, and other sensitive configuration data. By September 11, active probing and exploitation attempts were already underway. CISA has since added the flaw to its Known Exploited Vulnerabilities catalog. watchTowr researchers are already seeing in-the-wild probes targeting CVE-2026-85706. ” the company wrote on LinkedIn.",
+      "whyItMatters": "",
+      "words": 88,
+      "url": "https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-35-scaled.png",
+      "published": "2026-09-13T12:26:54.000Z",
+      "capturedAt": "2026-09-14T03:47:36.557Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0vgg8de",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Adobe announced on the 14th that it will establish an artificial intelligence (AI)-based content sup.. - 매일경제",
+      "brief": "Adobe announced on the 14th that it will establish an artificial intelligence (AI)-based content sup.. 매일경제",
+      "whyItMatters": "",
+      "words": 16,
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYSFpKZlp1a3Q2ZDdkNVRUbU4zM2tuZS1xaVUtQWFlSHdrTUZrRkFXNTVnbmplM1hUSVZNaU81UUVXeHI2bmNjT1hkWQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-14T01:41:49.000Z",
+      "capturedAt": "2026-09-14T03:47:34.152Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1x2np93",
       "channel": "sec",
@@ -12576,50 +12618,6 @@
         "Breach",
         "Hack",
         "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0h4p3lg",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
-      "brief": "Before the advancement of scientific data storage and collaboration via the cloud, medical investigators seeking health research breakthroughs had to overcome significant obstacles to collaboration and key clinical data gathering. Data were siloed and difficult to distribute, so those looking to undertake research had no option but to gather them themselves. This not only made research more expensive, but it was challenging to compare findings across datasets. In 1975, researchers studying arrhythmias at MIT and Boston’s Beth Israel Hospital envisioned another way: the team began collecting and digitizing electrocardiogram recordings with the intention of not only studying them, but of also making them available to the wider research community. The team built their own computers for the process, painstakingly duplicated tapes one by one, and created more than 100,000 annotations for the recordings. The process took years, but by summer 1980, the tapes were finally ready.",
-      "whyItMatters": "",
-      "words": 146,
-      "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-RogerMark-GeorgeMoody.jpg?itok=57wqdl_A",
-      "published": "2026-07-29T14:00:00.000Z",
-      "capturedAt": "2026-07-29T14:11:30.489Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1skt35h",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "brief": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. 3), is an authentication bypass in the SmartConsole login process that",
-      "whyItMatters": "",
-      "words": 46,
-      "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg",
-      "published": "2026-07-29T08:58:27.000Z",
-      "capturedAt": "2026-07-29T11:26:48.304Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Patch"
       ],
       "rewritten": false
     }
