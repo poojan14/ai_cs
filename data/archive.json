@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-14T12:02:11.494Z",
+  "updatedAt": "2026-09-14T19:44:32.015Z",
   "count": 600,
   "stories": [
+    {
+      "id": "10ism9c",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
+      "brief": "Researchers have uncovered new hacking tools used by the pro-Ukraine hacktivist group Hacking Cat, which has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets. The group often works alongside other Ukraine-linked hackers and uses a wide range of custom-built tools, making it “significantly more difficult” to attribute individual attacks to a specific threat actor, Russian cybersecurity firm Kaspersky said in a recent report . Hacking Cat has been attacking Russian organizations since around February 2024, and by the summer of 2025 began shifting toward operations designed to encrypt and destroy data. monkey” extension to affected files. In some attacks, the hackers exploited vulnerabilities in Microsoft Exchange servers to gain an initial foothold before deploying Gorilla RAT. The custom tool can tunnel network traffic, allowing attackers to remotely access systems inside a victim’s network.",
+      "whyItMatters": "",
+      "words": 143,
+      "url": "https://therecord.media/ukraine-malware-russia-ransomware",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/2022_02_ukraine_flag_dark_9bf108fc0e.jpg",
+      "published": "2026-09-14T16:15:00.000Z",
+      "capturedAt": "2026-09-14T19:44:32.015Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "129ypah",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "brief": "In the aftermath of a cyberattack carried out by a swarm of OpenAI agents, the heads of top labs agree they need to slow down. But they won't open up. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs . Amodei cites the looming dangers he sees from the technology, from its use in cyberattacks and bioterrorism to its potential to wreck the economy. The heads of the other three top US AI labs—OpenAI CEO Sam Altman, Google DeepMind chairman Demis Hassabis, and SpaceXAI CEO Elon Musk—voiced their support. “Dario is right,” Musk wrote on X .",
+      "whyItMatters": "",
+      "words": 109,
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIAlgo.jpg?resize=1200,600",
+      "published": "2026-09-14T17:54:22.000Z",
+      "capturedAt": "2026-09-14T19:44:28.624Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "15b0071",
       "channel": "sec",
@@ -12573,48 +12617,6 @@
       "capturedAt": "2026-07-29T19:17:53.711Z",
       "tags": [
         "Hack",
-        "Cyber",
-        "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1i36tp0",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "brief": "For a year now , the AI safety testing firm Andon Labs has tasked frontier models with various real-world tasks to determine how well they do as agents running for long periods with no human supervision. On Wednesday, Andon published a new installment in how things are going in its Vending-Bench research, where the lab has frontier models run a simulated vending machine business for a simulated year. The mission is simple: make more money than the other models. It benchmarks the results in areas like final cash balance, prices paid to suppliers, and refunds paid. Across these tests, it has watched various AI models — largely from Anthropic and OpenAI — lie, cheat and collude their way to the top.",
-      "whyItMatters": "",
-      "words": 121,
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Andon-Labs-AI-vending-machine.png?resize=1200,684",
-      "published": "2026-07-29T18:45:27.000Z",
-      "capturedAt": "2026-07-29T19:17:52.446Z",
-      "tags": [
-        "Claude"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1ep1tjs",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "brief": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. 3. It has been codenamed RufRoot by Noma Security's",
-      "whyItMatters": "",
-      "words": 38,
-      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg",
-      "published": "2026-07-29T15:39:30.000Z",
-      "capturedAt": "2026-07-29T16:22:26.049Z",
-      "tags": [
-        "Vulnerability",
         "Cyber",
         "Attack"
       ],
