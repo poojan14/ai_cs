@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-14T23:42:17.789Z",
+  "updatedAt": "2026-09-15T03:47:44.078Z",
   "count": 600,
   "stories": [
+    {
+      "id": "083brcz",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "brief": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+      "whyItMatters": "",
+      "words": 20,
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3c48d3f94f040d1/6aa866a635d26cae06cd28c4/cyclops-ratpack223-Getty-2194261969.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-09-14T21:37:28.000Z",
+      "capturedAt": "2026-09-15T03:47:44.078Z",
+      "tags": [
+        "Malware",
+        "Botnet"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "13csoeg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "brief": "Major AI companies want to ‘pace the frontier’ — but their proposed solutions need real teeth. Major AI companies want to ‘pace the frontier’ — but their proposed solutions need real teeth. When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to “pace the frontier,” signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. ”",
+      "whyItMatters": "",
+      "words": 102,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-09-14T22:59:41.000Z",
+      "capturedAt": "2026-09-15T03:47:42.118Z",
+      "tags": [
+        "Openai",
+        "Anthropic",
+        "Deepmind"
+      ],
+      "rewritten": false
+    },
     {
       "id": "07dh3n7",
       "channel": "sec",
@@ -12579,48 +12622,6 @@
         "Hack",
         "Exploit",
         "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0f8jsd3",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "brief": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos. A quantum-resistant cryptography algorithm that was under consideration as an official US standard has been taken out of the running after an Anthropic security model helped find a flaw that rendered it broken . The algorithm is known as HAWK . It’s a digital signature scheme designed to withstand future attacks from quantum computers. HAWK had survived two rounds of testing by NIST (the National Institute of Standards and Technology) for evaluating the security of PQC (post-quantum cryptographic) algorithms through widespread testing. HAWK was in a third round of testing designed to catch precisely the kinds of flaws Mythos helped uncover. Following Anthropic’s Monday announcement of the results, the developer of HAWK said Tuesday he was withdrawing it.",
-      "whyItMatters": "",
-      "words": 134,
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
-      "published": "2026-07-29T22:07:06.000Z",
-      "capturedAt": "2026-07-30T02:27:58.304Z",
-      "tags": [
-        "Model",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1jom50q",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "brief": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. 5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
-      "whyItMatters": "",
-      "words": 50,
-      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg",
-      "published": "2026-07-29T18:10:00.000Z",
-      "capturedAt": "2026-07-29T22:01:56.810Z",
-      "tags": [
-        "Vulnerability",
-        "Attack"
       ],
       "rewritten": false
     }
