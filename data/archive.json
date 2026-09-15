@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-15T11:16:12.129Z",
+  "updatedAt": "2026-09-15T16:26:55.821Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0pud4yv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+      "brief": "If you run PaperCut NG or MF, the last week of August showed what vulnerability response looks like when AI speeds up vulnerability discovery. On August 27, PaperCut's urgent advisory said attackers were already exploiting servers. No CVE, no exploit, no patch. The first emergency patch came a day later and was bypassed the same day. The third one landed on September 1. Six days without a patch that held or an exploit to test with, while attackers were already exploiting in the wild. And the window is closing. 5 days last year. It is measured in hours now . PaperCut isn't the outlier. It's the template. Below is one day in the life of a security team, told through a hypothetical CVE . The CVE is made up. The day is not: it is what PaperCut's customers lived through in August. Let's walk through it hour by hour.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/posts/2026/09/10/picus-assembly-line.jpg",
+      "published": "2026-09-15T13:45:54.000Z",
+      "capturedAt": "2026-09-15T16:26:55.821Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "08rm8xj",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "brief": "Chris Lehane, OpenAI’s global policy chief, told reporters on Tuesday that the company has been working with rivals Anthropic and Google DeepMind on AI safety for weeks, as first reported by Bloomberg . S. lawmakers addressing catastrophic risks associated with AI. The revelation comes in the wake of Anthropic CEO Dario Amodei’s essay , published Saturday, which called for the industry to work together to slow the pace of frontier AI and avoid catastrophic risks. AI leaders across the industry, including OpenAI’s Sam Altman , Google’s Demis Hassabis , and SpaceXAI’s Elon Musk , supported Amodei’s letter and call to action, with Altman saying that OpenAI would join Anthropologic in embedding third party evaluators into the company to monitor for safety.",
+      "whyItMatters": "",
+      "words": 121,
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?resize=1200,800",
+      "published": "2026-09-15T15:47:03.000Z",
+      "capturedAt": "2026-09-15T16:26:54.190Z",
+      "tags": [
+        "Openai",
+        "Anthropic",
+        "Deepmind"
+      ],
+      "rewritten": false
+    },
     {
       "id": "03igdbq",
       "channel": "sec",
@@ -12579,50 +12623,6 @@
       "tags": [
         "Hack",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0ondi3h",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "brief": "Microsoft is in a unique position as AI overtakes the tech industry. It’s one of the world’s largest cloud providers and software-as-a-service companies, while also holding valuable stakes in the two biggest AI labs , OpenAI and Anthropic. Those incentives are starting to clash as Microsoft posts blockbuster financial results. 8 billion. 7 billion for the year. And CEO Satya Nadella is not about to let the trajectory of Anthropic and OpenAI — which are expanding into applications and agentic infrastructure that could ultimately let them own customer relationships — derail that kind of cash. Nadella has been preaching to enterprises to use multiple models and to stop relying on the frontier AI labs for the agentic harness/app layer.",
-      "whyItMatters": "",
-      "words": 119,
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
-      "published": "2026-07-30T00:21:06.000Z",
-      "capturedAt": "2026-07-30T08:28:02.966Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1t090lw",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "brief": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies",
-      "whyItMatters": "",
-      "words": 55,
-      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg",
-      "published": "2026-07-29T13:42:57.000Z",
-      "capturedAt": "2026-07-30T05:42:19.786Z",
-      "tags": [
-        "Cyber",
-        "Security",
-        "Fraud"
       ],
       "rewritten": false
     }
