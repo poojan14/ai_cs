@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-17T11:08:40.665Z",
+  "updatedAt": "2026-09-17T16:25:30.606Z",
   "count": 600,
   "stories": [
+    {
+      "id": "17v31xj",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "brief": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing one at production. TL;DR Exploitation is now the front door. It starts 31% of breaches (Verizon DBIR",
+      "whyItMatters": "",
+      "words": 64,
+      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOqtV_80Gn3utPVzonjyU94CgrwrcRNCUvdMEMZbOJGmKGOGD_ly8yH-V5AVwUtyNADgEPXySLFga7FZiWBSHCESverdknL-LS6MJSrkv6ejTaFkDM087mWkfBfur7UQ_vXsM8gcBByxyYyn0g3rAENhqJamGszCkPf2LM31d3wDgEUpCuFrGt4mZnUE/s1600/REFF.jpg",
+      "published": "2026-09-17T10:50:53.000Z",
+      "capturedAt": "2026-09-17T16:25:30.606Z",
+      "tags": [
+        "Breach",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0fswm0x",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+      "brief": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported devices. Also this week, 007 First Light receives a path-tracing update on GeForce NOW, alongside a smashing limited-time Deluxe Edition sale on Steam and Epic Games Store . Gaijin Network’s fractured-multiverse action game Active Matter and Annapurna Interactive’s acclaimed space mystery Outer Wilds are also among 11 new titles joining the cloud this week. The path to Idyll begins now. Aniimo is a free-to-play, open-world creature-catching role-playing game where every creature encountered can become a companion. Catch Aniimo with Aniipods, then Twine with them to take on their form and use unique skills to solve puzzles, win battles and overcome challenges.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gfn-thursday-9-17-blog-1920x1080-logo.jpg",
+      "published": "2026-09-17T13:00:55.000Z",
+      "capturedAt": "2026-09-17T16:25:28.461Z",
+      "tags": [
+        "Agent",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0oezrnt",
       "channel": "sec",
@@ -12581,48 +12624,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0a1g2fj",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "brief": "While AI agents are increasingly capable of solving customer support problems, most people can still tell immediately when they’re talking to a machine instead of a human. ai , a startup founded in late 2024, is betting the next leap in voice agents will not come from making large language models faster, but from using smaller, specialized models built for human conversation. Simply put, the company wants to make speaking to an AI agent indistinguishable from talking to a human. To do so, it’s developing a small voice model designed to mimic how humans process information by listening, thinking, and speaking simultaneously. ai, told TechCrunch, adding that this is exactly how the startup’s model is designed to work. ai has raised $13 million in a Series A round, led by Seligman Ventures with participation from Sierra Ventures and 3one4 Capital.",
-      "whyItMatters": "",
-      "words": 140,
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Smallest-AI-Founders.jpg?resize=1200,927",
-      "published": "2026-07-31T14:47:11.000Z",
-      "capturedAt": "2026-07-31T16:46:23.250Z",
-      "tags": [
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0pm7u6f",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-      "brief": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no further operator input in the session. The operator, tracked through the aliases knaithe and KnYuan,",
-      "whyItMatters": "",
-      "words": 55,
-      "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2dGysHIR6yJWx6hMxq6lAct7fi4YTury_WDkrcenDv-psd-fU7I8K3RbM6Blox_5OE3MQojew5bnPamtI_DPzdBX6fOk295hhQh6rBkA2f9a1sN7t7ZbSyU-kWdLoIb7XnseOHKPmLOGRb9wRRvmV0scVZ4rhMtxSmqOLZmZIUjtg_IHT4FBg5gzeX50/s1600/deepseek-telegram.jpg",
-      "published": "2026-07-31T11:21:27.000Z",
-      "capturedAt": "2026-07-31T14:08:59.944Z",
-      "tags": [
-        "Hack",
-        "Exploit",
-        "Attack"
       ],
       "rewritten": false
     }
