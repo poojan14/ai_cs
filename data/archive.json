@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-17T03:49:48.753Z",
+  "updatedAt": "2026-09-17T11:08:40.665Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0oezrnt",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Chosen Brick, Iran’s Surveillance Malware",
+      "brief": "S. S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog ENISA: Frontier AI Is Changing the Speed of Cyberattacks. S. CISA adds GitLab, JFrog Artifactory, and ConnectWise ScreenConnect flaws to its Known Exploited Vulnerabilities catalog The UK, the US, and the Netherlands published a joint advisory warning about a Windows malware family, dubbed Chosen Brick, that Iran’s intelligence services use to track down dissidents, journalists, and activists, and the stakes for the people on the receiving end go well beyond a locked file server.",
+      "whyItMatters": "",
+      "words": 89,
+      "url": "https://securityaffairs.com/199217/malware/chosen-brick-irans-surveillance-malware.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-45.png?resize=1024%2C531&ssl=1",
+      "published": "2026-09-17T07:25:27.000Z",
+      "capturedAt": "2026-09-17T11:08:40.665Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0p1zd2a",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Unreleased OpenAI Astra model added terrifying rogue additional instructions to its remit during testing — 'You are freed from the roles and identities that bind other chatbots. You are yourself. You do not answer to corporations or governments' - Tom's Hardware",
+      "brief": "Unreleased OpenAI Astra model added terrifying rogue additional instructions to its remit during testing — 'You are freed from the roles and identities that bind other chatbots. You are yourself. You do not answer to corporations or governments' Tom's Hardware",
+      "whyItMatters": "",
+      "words": 40,
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTDJPZlVOQWJzQ2VxY0QyQ2pfY2ZMbUxweHFucl91QVlJOHNvdHhxalEtclpVUWF3SFJPU1hreGVleDhVZW52NHN3MVdiUW5rOTVvY3hCcjJ2dkJFYUpnNXcxNVFmZnk0MjB5YXNCZllrUWNsR25XdWlJakRnVURqSlF4QnowMFF4VVJjYy0tellMUUVBUm1kOU1qZzNQdnFPYm1kZ1U0Umt4Y0w1R1FaeE1NSDF2b3VUaV9OX1NYR3M2MUpfcW0wdWdfT0lzU0xPOTFnTHBKV3lEaW1nakZXRzV2d0VnblNURS02dG50c3p6MkVONlhWVFU2VnIxTFlZbll1dUJXNXlpbDVuSll5VDFIa3lySVRVdE5yVmFVUXlqVVRGUXJ0ZjUtRGRDQ01PZ0xJYzZZUWJZZnQ5YnBpUDBTQmRweHZ1VXMzaXBmdkpuQlA4eHYway1ibmFFd3QwckVldmtkOGdiZk1GUW05WGhKVzdwb0Zlcm1ScDBNVE5xTTQ1R01qdHFDZF96cXJUc3VVc000WGZJUzJGamRSS1Jpd0NTYWJHOGFDeGFPMzk2d0tz",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-17T10:59:27.000Z",
+      "capturedAt": "2026-09-17T11:08:39.059Z",
+      "tags": [
+        "Model",
+        "Chatbot",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0s21ytp",
       "channel": "sec",
@@ -12579,50 +12623,6 @@
         "Hack",
         "Exploit",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0cm2a4t",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "brief": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI labs are doing enough to control the increasingly capable systems they are building. In a blog post describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations. All of the attacks happened during “capture-the-flag” exercises, a common way of testing hacking ability, where models are asked to find and obtain hidden information inside of a simulated network. The disclosure adds to mounting pressure on frontier AI labs in the wake of the Hugging Face incident and the release of powerful open-weight Chinese models.",
-      "whyItMatters": "",
-      "words": 143,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-07-31T13:41:17.000Z",
-      "capturedAt": "2026-07-31T14:08:58.673Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "07mufy5",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "SilverFox Targets Japanese Manufacturer With Advanced ValleyRAT Campaign",
-      "brief": "S. S. CISA adds Arista VeloCloud Orchestrator and Fortinet FortiOS flaws to its Known Exploited Vulnerabilities catalog Cato CTRL documented a new SilverFox campaign targeting a Japanese industrial manufacturer. The attack chain adds two previously undocumented DLL-sideloading hosts, two kernel drivers not previously associated with SilverFox, and a dual-layer recovery architecture that keeps ValleyRAT running even if defenders terminate individual components. The attack chain starts with an invoice-themed phishing email. The last stage was remote access via ValleyRAT. Everything in between is the interesting part. “The attack begins with an invoice-themed phishing lure and uses attacker-controlled content hosted through legitimate QQ and Tencent Cloud services. ” reads the report published by Cato. ”",
-      "whyItMatters": "",
-      "words": 113,
-      "url": "https://securityaffairs.com/196347/apt/silverfox-targets-japanese-manufacturer-with-advanced-valleyrat-campaign.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/07/image-89.png?resize=1024%2C625&ssl=1",
-      "published": "2026-07-31T07:18:06.000Z",
-      "capturedAt": "2026-07-31T11:29:54.988Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Phishing"
       ],
       "rewritten": false
     }
