@@ -1,46 +1,48 @@
 {
-  "generatedAt": "2026-09-18T20:31:52.337Z",
-  "nextUpdateAt": "2026-09-18T23:31:52.337Z",
+  "generatedAt": "2026-09-18T23:04:32.952Z",
+  "nextUpdateAt": "2026-09-19T02:04:32.952Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1h90lex",
+      "id": "1r64y5r",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "A new chapter for MIT Reads",
-      "brief": "As it marks its 10-year anniversary, MIT Reads is being reimagined for the age of artificial intelligence. Recognizing the need to foster social connection and a sense of our shared humanity, the popular MIT Libraries’ program will turn its focus to fiction and memoir, and to the particular power of stories to help us understand ourselves and our place in the world. “At MIT, we spend a great deal of time on imagining and building for the future. Reading fiction prompts us to think about how what we build might change us,” says MIT Libraries Director Chris Bourg. ” MIT Reads is also evolving with MIT as it explores AI’s influence on the education landscape and the social fabric of the Institute. The value of collective reading, reflection, and discussion has never been more relevant.",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "brief": "The companies knew they were driving us toward Google Zero, and did it anyway. The companies knew they were driving us toward Google Zero, and did it anyway. Recently unsealed court documents in the New York Times ’ case against OpenAI and Microsoft are pretty damning. ” Many of the most eye-catching quotes from the document come from Microsoft’s Director of Applied Science, Brent Hecht. Though, the company has tried to distance itself from Hecht’s assertions. ”",
       "whyItMatters": "",
-      "words": 135,
-      "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-reads-10-years-00_0.png?itok=0ZOA1D2u",
-      "published": "2026-09-18T16:30:00.000Z",
-      "capturedAt": "2026-09-18T20:31:50.795Z",
+      "words": 77,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "published": "2026-09-18T21:07:24.000Z",
+      "capturedAt": "2026-09-18T23:04:31.253Z",
       "tags": [
-        "Artificial Intelligence",
-        "Robot"
+        "Model",
+        "Openai"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0c9mx84",
+      "id": "1srmbro",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
-      "brief": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
+      "title": "Brevo Supply-Chain Attack Infected Over 100,000 Websites",
+      "brief": "S. S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog Brevo, formerly known as Sendinblue, is a French cloud-based marketing and customer communication platform whose clients include eBay, Louis Vuitton and Michelin. The company was first compromised on September 10, when attackers exploited a vulnerability in its SAML SSO system and gained access to 138 accounts, including one belonging to cryptocurrency hardware wallet maker Trezor. Six accounts were used to send phishing emails, while contact data was exported from 43 accounts. Brevo blocked the unauthorized access, but attackers returned four days later using a compromised, long-lived Cloudflare API key. They used the key to deploy a malicious Cloudflare Worker that injected code into Brevo’s websites and three JavaScript files embedded in customer sites.",
       "whyItMatters": "",
-      "words": 21,
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b9202e55102d483/6aad857c8cb60c3268956114/api-saifulasmee_chede-Getty-2203607940.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-09-18T19:26:47.000Z",
-      "capturedAt": "2026-09-18T20:31:52.337Z",
+      "words": 128,
+      "url": "https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-51.png?resize=907%2C737&ssl=1",
+      "published": "2026-09-18T21:38:15.000Z",
+      "capturedAt": "2026-09-18T23:04:32.952Z",
       "tags": [
-        "Zero-Day"
+        "Breach",
+        "Hack",
+        "Malware"
       ],
       "rewritten": false
     }
