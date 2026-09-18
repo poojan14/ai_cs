@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-09-18T15:58:06.997Z",
+  "updatedAt": "2026-09-18T20:31:52.337Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0c9mx84",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "brief": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
+      "whyItMatters": "",
+      "words": 21,
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b9202e55102d483/6aad857c8cb60c3268956114/api-saifulasmee_chede-Getty-2203607940.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-09-18T19:26:47.000Z",
+      "capturedAt": "2026-09-18T20:31:52.337Z",
+      "tags": [
+        "Zero-Day"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1h90lex",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "A new chapter for MIT Reads",
+      "brief": "As it marks its 10-year anniversary, MIT Reads is being reimagined for the age of artificial intelligence. Recognizing the need to foster social connection and a sense of our shared humanity, the popular MIT Libraries’ program will turn its focus to fiction and memoir, and to the particular power of stories to help us understand ourselves and our place in the world. “At MIT, we spend a great deal of time on imagining and building for the future. Reading fiction prompts us to think about how what we build might change us,” says MIT Libraries Director Chris Bourg. ” MIT Reads is also evolving with MIT as it explores AI’s influence on the education landscape and the social fabric of the Institute. The value of collective reading, reflection, and discussion has never been more relevant.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-reads-10-years-00_0.png?itok=0ZOA1D2u",
+      "published": "2026-09-18T16:30:00.000Z",
+      "capturedAt": "2026-09-18T20:31:50.795Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1kdkqx4",
       "channel": "sec",
@@ -12586,49 +12627,6 @@
       "tags": [
         "Vulnerability",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1nb3k4k",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "brief": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have been just as much to blame as the model itself. And Altman’s not alone in this stance: both OpenAI and Anthropic have come out in support of a petition echoing that same message. Watch TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into whether the industry is ready to pump the brakes or just temporarily spooked, and who’s on the hook when a model goes rogue.",
-      "whyItMatters": "",
-      "words": 133,
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "published": "2026-07-31T17:26:32.000Z",
-      "capturedAt": "2026-08-01T08:24:28.774Z",
-      "tags": [
-        "Model",
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "12xpsiy",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "South Korea Warns of State-Backed Watering Hole Attacks",
-      "brief": "S. CISA adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog South Korea agencies (The National Intelligence Service, the National Police Agency, the Korea Internet & Security Agency, and the Financial Security Institute) jointly published an advisory warning that a state-backed hacking group is actively targeting South Korean citizens and businesses. The warning names two attack techniques: phishing emails and watering hole attacks, and it doesn’t sugarcoat how little a victim has to do wrong. The phishing side runs on two tricks. In one version, attackers disguise themselves as job applicants and send a resume email with a link instead of an attachment, pointing to a blog or GitHub page the attacker controls.",
-      "whyItMatters": "",
-      "words": 119,
-      "url": "https://securityaffairs.com/196417/apt/south-korea-warns-of-state-backed-watering-hole-attacks.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2015/10/south-korea-malware.jpg",
-      "published": "2026-07-31T21:25:30.000Z",
-      "capturedAt": "2026-08-01T05:55:52.274Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
