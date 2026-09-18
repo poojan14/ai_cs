@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-18T10:42:47.605Z",
+  "updatedAt": "2026-09-18T15:58:06.997Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1kdkqx4",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "brief": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. 0. \"Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,\"",
+      "whyItMatters": "",
+      "words": 46,
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg",
+      "published": "2026-09-18T12:47:04.000Z",
+      "capturedAt": "2026-09-18T15:58:06.997Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "15a0oxm",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "brief": "You had a lot of questions about the recent claims that humanity is facing an existential risk from AI. We had a go at answering a few. But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and AI reporter Grace Huckins to round up some of the best questions attendees submitted and try their best to answer them. Yes, eventually. Unfortunately, my journalistic powers of prognostication aren’t powerful enough for me to tell you how. But it certainly could be because of AI. AI-powered drones have already killed people in Ukraine, and AI-driven cyberattacks on hospitals will surely claim victims before long.",
+      "whyItMatters": "",
+      "words": 121,
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
+      "published": "2026-09-18T11:29:22.000Z",
+      "capturedAt": "2026-09-18T15:58:05.582Z",
+      "tags": [
+        "Model",
+        "Chatbot",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0b8px65",
       "channel": "sec",
@@ -12585,46 +12629,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1enrkwh",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AI degree sees first full enrollment surge at UK as demand for tech careers grows - LEX 18 News",
-      "brief": "AI degree sees first full enrollment surge at UK as demand for tech careers grows LEX 18 News",
-      "whyItMatters": "",
-      "words": 18,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXAtNmVpRUlTdDhOUnk0djRMRjV4RHFCVGN4RUdGa3BQODRZZkFlS1hzMkJKZjQxYW42cFFVU3ZWd1FjMFBXM2IwZmZCV2dkOTRJeDlxWUdVaEN5UFlXbGZsZFJmWDJkVnlkWjVLVGlneFk4SnpfZkZmbmJ0eWxpcVlGNVNodFhXMnZNMUQ1UTd0enN3ZUdHMTlLdXA3SUp3THFlSlAwOFRIcVVxc3JiMTZkdnJFd1B5WG1CSVNkYnpwa2RQ",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-01T04:54:27.000Z",
-      "capturedAt": "2026-08-01T05:55:50.423Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1bnmldd",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "brief": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that",
-      "whyItMatters": "",
-      "words": 55,
-      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg",
-      "published": "2026-07-31T16:39:31.000Z",
-      "capturedAt": "2026-08-01T02:52:07.214Z",
-      "tags": [
-        "Malware",
-        "Phishing",
-        "Cyber"
       ],
       "rewritten": false
     }
