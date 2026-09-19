@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-18T23:04:32.952Z",
+  "updatedAt": "2026-09-19T03:33:37.861Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0yhxbww",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "brief": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated. The flaws",
+      "whyItMatters": "",
+      "words": 70,
+      "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfmcEQbMRp9dJbUmuhA3LSquz7yG3lph_Nbh6NqiVGOPOiOoKYcWbspSqEDBpeyUMH-KK_DHWoBSFmaZPE_BlWRjy4swhpEPCBJ-p2NCJRTceTeDx84tDToap0VrFW304zxv0nKsRSVOMM3GPhFyJ7GZkGPG92N3aKvW3edGBBdoAJl0_fH6IehDA0I8/s1600/linux-kernel.jpg",
+      "published": "2026-09-18T18:02:24.000Z",
+      "capturedAt": "2026-09-19T03:33:37.861Z",
+      "tags": [
+        "Exploit",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1vl2rir",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "brief": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch",
+      "whyItMatters": "",
+      "words": 61,
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
+      "published": "2026-09-18T17:09:56.000Z",
+      "capturedAt": "2026-09-19T03:33:36.143Z",
+      "tags": [
+        "Anthropic",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1srmbro",
       "channel": "sec",
@@ -12584,49 +12626,6 @@
       "tags": [
         "Hack",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0yyxfbd",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "It’s time to panic about AI safety",
-      "brief": "On The Vergecast: Why everyone’s worried about powerful AI, and why it seems nobody will stop it. Plus, what’s a computer? On The Vergecast: Why everyone’s worried about powerful AI, and why it seems nobody will stop it. Plus, what’s a computer? When the phrase “OpenAI hacked Hugging Face” has more or less entered mainstream culture, you know we have an AI problem . This week, we learned more about exactly how OpenAI’s agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of cheating on a benchmark tests.",
-      "whyItMatters": "",
-      "words": 103,
-      "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-07-31T14:03:04.000Z",
-      "capturedAt": "2026-08-01T13:22:43.321Z",
-      "tags": [
-        "Openai",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0c5xouk",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
-      "brief": "The federal cybersecurity agency is reporting a “significant increase” in malicious activity aimed at water utilities, as investigators are reportedly trying to determine whether recent incidents in Minnesota might be the work of Iran-linked hackers. ” PLCs — programmable logic controllers — are at the core of processes in multiple industries. Multiple news outlets reported that state and federal investigators were working to determine whether disruptions to water systems in Minnesota earlier this month were connected to Iran. Wired magazine reported that a memo from the WaterISAC, the industry’s cybersecurity information-sharing body, said the attacks were tied to Iran. Minnesota’s state IT agency said earlier this week that “more than 30 Minnesota community water systems” were affected by a coordinated cyberattack beginning July 26. The threat actor is “targeting water entities of all sizes,” CISA said.",
-      "whyItMatters": "",
-      "words": 136,
-      "url": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/water_utility_pexels_r9media_44309d2e1e.jpg",
-      "published": "2026-07-31T17:47:00.000Z",
-      "capturedAt": "2026-08-01T10:41:14.500Z",
-      "tags": [
-        "Cyber",
-        "Attack",
-        "Security"
       ],
       "rewritten": false
     }
