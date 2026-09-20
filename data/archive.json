@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-09-20T03:49:28.986Z",
+  "updatedAt": "2026-09-20T10:47:44.240Z",
   "count": 600,
   "stories": [
+    {
+      "id": "00m16vy",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "brief": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in",
+      "whyItMatters": "",
+      "words": 54,
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg",
+      "published": "2026-09-19T13:28:41.000Z",
+      "capturedAt": "2026-09-20T10:47:44.240Z",
+      "tags": [
+        "Breach",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1vbxmge",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Physical AI Robot Aims to Fully Automate Household Chores - News On Japan",
+      "brief": "Physical AI Robot Aims to Fully Automate Household Chores News On Japan",
+      "whyItMatters": "",
+      "words": 12,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zV0FoY3FWbmNhTEJ1Zm02RnpRSnNfLUtiQTNVdTdHUURkSG1aSXRNcnRlMmEwcDV1QjRKc1ZZaWRQWU9CbS1fUU1HQXpULXhUVkhKUA",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-20T10:40:10.000Z",
+      "capturedAt": "2026-09-20T10:47:42.555Z",
+      "tags": [
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1ieeixj",
       "channel": "sec",
@@ -12589,49 +12630,6 @@
       "capturedAt": "2026-08-02T10:41:59.996Z",
       "tags": [
         "Malware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "080wsrw",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math - Gizmodo",
-      "brief": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math Gizmodo",
-      "whyItMatters": "",
-      "words": 17,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjRxVEJ0YVIyTFBhRHpXaWw0V0xVRnFsT3REanBuRDFBWkZDeTJ2OWRPZk5CR3pjMjBVXzhNRzlQN1M5bE1pQUpONHN3TC0zQnJWVEpVZkVtNnA3Y2h4ang4SVlDYnEtTzlJNzBITHBacWN5MnRPejFONUVJZFZWM3RpYVpwLW5rVnhLTmE1b1hibW5FSG9kYjB2NDVUWGVWVzRhLUUwZzFvWDBiN0tZZ0JISVZmTGJTMUE",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-02T09:00:45.000Z",
-      "capturedAt": "2026-08-02T10:41:58.314Z",
-      "tags": [
-        "Model",
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1exspt6",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "CISA Urges Utilities to Remove Internet-Exposed PLCs After Minnesota Attacks",
-      "brief": "S. CISA adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog Between Sunday and Monday, July 26 and 27, a coordinated cyberattack hit operational technology (OT) systems at more than 30 community water utilities across the state, according to Minnesota IT Services (MNIT) . “A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27. ” reads the statement published by MNIT. ” The agency activated its statewide incident response the moment it learned of the attack, and it’s still active as of this week. Four cities went public with details: Braham , Maple Plain , Plymouth , and South St. Paul . Braham took the hardest hit of the group; the town of about 1,700 people had its water plant knocked offline entirely after attackers disabled the computerized controls running its well and treatment systems.",
-      "whyItMatters": "",
-      "words": 150,
-      "url": "https://securityaffairs.com/196453/ics-scada/cisa-urges-utilities-to-remove-internet-exposed-plcs-after-minnesota-attacks.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
-      "published": "2026-08-02T05:06:33.000Z",
-      "capturedAt": "2026-08-02T06:00:35.380Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
