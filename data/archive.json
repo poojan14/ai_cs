@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-09-20T20:26:22.592Z",
+  "updatedAt": "2026-09-20T23:02:27.211Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1jffbek",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "brief": "Security researchers found two ways out of the OpenAI Codex sandbox, one of them capable of running commands on a developer's machine from Codex's most locked-down mode, with no approval prompt and nothing shown on screen. Both flaws were reported to OpenAI on August 12 and fixed within eight days, according to Oren Yomtov of Accomplish AI. The more serious of the two, which the researchers call Heapjack, turns a routine action into remote code execution: open someone else's repository in Codex, ask it a question about the code, and whoever wrote that repository gets unsandboxed command execution on your computer. Codex is OpenAI's coding agent, available as a command-line tool and a desktop app. Like rival agents, it runs the model's actions inside a sandbox so that untrusted code cannot touch the wider system. Both escapes work by defeating that boundary from the inside. toml' file at install time.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/17/OpenAI.jpg",
+      "published": "2026-09-20T12:00:00.000Z",
+      "capturedAt": "2026-09-20T23:02:27.211Z",
+      "tags": [
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "03xpjxh",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "World model companies are keeping a lot of secrets",
+      "brief": "This week, I moderated a panel on world models at the All In conference (no relation to the podcast), and it gave me a chance to dig into one of the most mysterious corners of the AI world. The big players in the space are Yann LeCun’s AMI Labs and Fei-Fei Li’s World Labs — and while both have accumulated a lot of buzz and funding, they also rank pretty low on the trying-to-make-money scale . At their core, world models are about automating spatial intelligence , so the field could head in lots of exciting and lucrative directions, from robotics to interactive video to more complex self-driving systems.",
+      "whyItMatters": "",
+      "words": 109,
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+      "published": "2026-09-20T20:29:07.000Z",
+      "capturedAt": "2026-09-20T23:02:24.850Z",
+      "tags": [
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1gfbhjh",
       "channel": "sec",
@@ -12586,46 +12626,6 @@
       "capturedAt": "2026-08-02T19:10:48.916Z",
       "tags": [
         "Cyber",
-        "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0l2o2go",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "brief": "” Altman’s post prompted lots of virtual eye-rolling, including a simple response from Alex Hirsch, creator of the animated series “Gravity Falls”: “What if you just talked to your children”? Hirsch’s question seems to have gone even more viral than Altman’s initial post — while Altman’s comment has been reposted around 300 times and liked around 9,600 times (as of Saturday morning), Hirsch’s response has been reposted 9,000 times and received 122,000 likes.",
-      "whyItMatters": "",
-      "words": 73,
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-      "published": "2026-08-01T17:07:34.000Z",
-      "capturedAt": "2026-08-02T19:10:47.028Z",
-      "tags": [
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1nmyy2f",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-      "brief": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. BleepingComputer spotted the protection in a chain of work-in-progress Chromium Gerrit changes. It has not shipped yet, but Google plans to enable it by default once the changes are approved. \"In low-trust environments (unmanaged consumer devices), enterprise policy force-installs and recommendations are abused to lock in search engine or new tab page hijackers,\" Anunoy Ghosh, who works at Google, wrote in a post. \" Right now, Chrome allows organizations to use enterprise policies to force-install extensions and control browser settings. It's not exactly bad on properly managed work devices connected to a domain or mobile device management system, but malware has been abusing the same feature on regular consumer PCs.",
-      "whyItMatters": "",
-      "words": 135,
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/29/Google-Chrome.jpg",
-      "published": "2026-08-02T14:17:16.000Z",
-      "capturedAt": "2026-08-02T16:01:39.077Z",
-      "tags": [
         "Security"
       ],
       "rewritten": false

@@ -1,47 +1,45 @@
 {
-  "generatedAt": "2026-09-20T20:26:22.592Z",
-  "nextUpdateAt": "2026-09-20T23:26:22.592Z",
+  "generatedAt": "2026-09-20T23:02:27.211Z",
+  "nextUpdateAt": "2026-09-21T02:02:27.211Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "02qweg0",
+      "id": "03xpjxh",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-      "brief": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning , he claimed there was a “0% chance” of AI being the end of the world . He also said of people sounding the alarm about the dangers of AI that, “Scaring people is unnecessary. ” He even argued that there was no need for new rules, laws, or guidelines, in the face of several high-profile cases in which models escaped containment and hacked other companies.",
+      "title": "World model companies are keeping a lot of secrets",
+      "brief": "This week, I moderated a panel on world models at the All In conference (no relation to the podcast), and it gave me a chance to dig into one of the most mysterious corners of the AI world. The big players in the space are Yann LeCun’s AMI Labs and Fei-Fei Li’s World Labs — and while both have accumulated a lot of buzz and funding, they also rank pretty low on the trying-to-make-money scale . At their core, world models are about automating spatial intelligence , so the field could head in lots of exciting and lucrative directions, from robotics to interactive video to more complex self-driving systems.",
       "whyItMatters": "",
-      "words": 107,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-09-20T18:50:18.000Z",
-      "capturedAt": "2026-09-20T20:26:20.618Z",
+      "words": 109,
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+      "published": "2026-09-20T20:29:07.000Z",
+      "capturedAt": "2026-09-20T23:02:24.850Z",
       "tags": [
-        "Nvidia"
+        "Model"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "1gfbhjh",
+      "id": "1jffbek",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "U.S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog",
-      "brief": "S. S. S. Cybersecurity and Infrastructure Security Agency (CISA) added [ 1 , 2 ] the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : At the time of this writing, there are currently no details on how the three vulnerabilities are being exploited in the wild, or whether they are being used together as part of a single attack chain. According to Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities , FCEB agencies have to address the identified vulnerabilities by the due date to protect their networks against attacks exploiting the flaws in the catalog. Experts also recommend that private organizations review the Catalog and address the vulnerabilities in their infrastructure.",
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "brief": "Security researchers found two ways out of the OpenAI Codex sandbox, one of them capable of running commands on a developer's machine from Codex's most locked-down mode, with no approval prompt and nothing shown on screen. Both flaws were reported to OpenAI on August 12 and fixed within eight days, according to Oren Yomtov of Accomplish AI. The more serious of the two, which the researchers call Heapjack, turns a routine action into remote code execution: open someone else's repository in Codex, ask it a question about the code, and whoever wrote that repository gets unsandboxed command execution on your computer. Codex is OpenAI's coding agent, available as a command-line tool and a desktop app. Like rival agents, it runs the model's actions inside a sandbox so that untrusted code cannot touch the wider system. Both escapes work by defeating that boundary from the inside. toml' file at install time.",
       "whyItMatters": "",
-      "words": 118,
-      "url": "https://securityaffairs.com/199430/security/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog-2.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "published": "2026-09-20T16:12:59.000Z",
-      "capturedAt": "2026-09-20T20:26:22.592Z",
+      "words": 150,
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/17/OpenAI.jpg",
+      "published": "2026-09-20T12:00:00.000Z",
+      "capturedAt": "2026-09-20T23:02:27.211Z",
       "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
+        "Patch"
       ],
       "rewritten": false
     }
