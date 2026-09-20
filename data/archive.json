@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-09-20T10:47:44.240Z",
+  "updatedAt": "2026-09-20T15:35:51.686Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1ctkc4r",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "brief": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. The package, spotted by Checkmarx researchers, attempts to impersonate the legitimate 'sorted-btree' library and has already amassed 2 million weekly downloads. The campaign may also have generated significant profits for the attackers, who, according to Checkmarx, use a wallet holding 109 ETH. However, the report does not say those funds came from cryptocurrency theft. In June 2026, GitHub announced a set of npm security measures designed to help prevent supply chain attacks that have shaken open-source ecosystems repeatedly since late 2025. One key security measure is to block dependency lifecycle scripts such as 'preinstall', 'install ', and 'postinstall,' unless explicitly approved. Other measures prevent npm from automatically retrieving dependencies from Git repositories or remote URLs without permission.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/15/npm.jpg",
+      "published": "2026-09-20T14:11:21.000Z",
+      "capturedAt": "2026-09-20T15:35:51.685Z",
+      "tags": [
+        "Malware",
+        "Threat Actor"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1dhzu40",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "brief": "Google’s threat intelligence group said it had a mole inside TeamPCP’s inner circle. Before two of its alleged members were arrested and charged in Australia last month, the hacker group known as TeamPCP carried out a hacking spree unlike any other in history. It tainted hundreds of open-source programs with its malware, stole developer accounts to perpetuate that software supply-chain hacking, and even released a Dune -themed self-spreading worm to automate the process, ultimately breaching more than a thousand companies. Now Google’s threat intelligence group has revealed that during a key moment of TeamPCP’s rampage, the company’s own undercover researcher had infiltrated the group—allowing Google to monitor the hacking spree from the inside, warn breach targets, and even help disrupt the group’s attempts to exploit those victims.",
+      "whyItMatters": "",
+      "words": 127,
+      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg",
+      "published": "2026-09-20T11:07:00.000Z",
+      "capturedAt": "2026-09-20T15:35:49.846Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "00m16vy",
       "channel": "sec",
@@ -12588,48 +12627,6 @@
         "Vulnerability",
         "Exploit",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "14sx637",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "brief": "Pippa is trying to entice artists with a revenue share system. Pippa is trying to entice artists with a revenue share system. Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists’ work without permission. They’ve pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it’s necessary for the technology’s evolution. This has led to contentious legal battles , but it’s also given rise to a new wave of AI startups like Pippa that market their services as being more ethical than the competition. Pippa’s cofounders, Hogan Shrum and Sean Wright, think that their focus on working with artists is what will attract customers. They also believe that their company will prove that AI firms can generate content ethically. But Pippa faces an uphill battle as it seeks to convince artists.",
-      "whyItMatters": "",
-      "words": 148,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&strip=all&crop=2.6881256103516%2C4.7093735253803%2C97.311874389648%2C90.581252949239&w=1200",
-      "published": "2026-08-02T13:00:00.000Z",
-      "capturedAt": "2026-08-02T13:22:38.988Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Model",
-        "Generative"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "07z5pmx",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "brief": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as",
-      "whyItMatters": "",
-      "words": 60,
-      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg",
-      "published": "2026-08-01T06:29:05.000Z",
-      "capturedAt": "2026-08-02T10:41:59.996Z",
-      "tags": [
-        "Malware"
       ],
       "rewritten": false
     }
