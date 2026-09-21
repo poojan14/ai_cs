@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-21T03:46:06.495Z",
+  "updatedAt": "2026-09-21T12:12:29.837Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0mn8paq",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "brief": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
+      "whyItMatters": "",
+      "words": 58,
+      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg",
+      "published": "2026-09-21T06:06:44.000Z",
+      "capturedAt": "2026-09-21T12:12:29.837Z",
+      "tags": [
+        "Breach",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "06a0rxx",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "brief": "Surveillance towers, increasingly powered by AI, promised faster responses to crossings. Our investigation of deaths near the towers found they are failing to deliver. When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed by US Customs and Border Protection (CBP), they were built by the defense tech company Anduril and equipped with cameras and AI to automatically detect and track people. They transmit live video to nearby control rooms and can send alerts to the government-issued smartphones held by agents in the area, prompting the closest available to respond.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/site-bernal-death.jpg",
+      "published": "2026-09-21T12:00:00.000Z",
+      "capturedAt": "2026-09-21T12:12:27.516Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0x5ttuo",
       "channel": "sec",
@@ -12590,46 +12634,6 @@
       "capturedAt": "2026-08-03T02:52:17.454Z",
       "tags": [
         "Vulnerability",
-        "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "03o9xpm",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Sam Altman and AI’s decel debate",
-      "brief": "” On the latest episode of TechCrunch’s Equity podcast , Kirsten Korosec, Sean O’Kane, and I discussed how Altman’s comments were probably prompted by a recent hack in which an OpenAI agent breached Hugging Face’s systems . ” “It was more like Nixon’s people breaking into Watergate than some real stealthy cyber-op, because it didn’t need to be, and it wasn’t instructed to be,” Sean said. ”",
-      "whyItMatters": "",
-      "words": 67,
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "published": "2026-08-02T20:54:22.000Z",
-      "capturedAt": "2026-08-03T02:52:15.713Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1ezraar",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "CareCloud Breach Exposes Medical and Financial Data of 345,000",
-      "brief": "S. CISA adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog TechCrunch reports that CareCloud, the New Jersey-based health tech company that stores patient records for more than 45,000 providers across the US, is finally notifying people impacted by a breach the firm first disclosed back in March. New disclosures put the number affected so far at nearly 350,000, and that number is still climbing as more states get their filings. S. healthcare technology company that provides cloud-based electronic health records (EHR), medical practice management, revenue cycle management, billing, and AI-powered software for hospitals and medical practices. 8 million in GAAP net income for fiscal year 2025.",
-      "whyItMatters": "",
-      "words": 113,
-      "url": "https://securityaffairs.com/196480/cyber-crime/carecloud-breach-exposes-medical-and-financial-data-of-345000.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2015/03/healthcare-MedicalData-breach.jpg",
-      "published": "2026-08-02T20:08:44.000Z",
-      "capturedAt": "2026-08-02T21:57:14.664Z",
-      "tags": [
-        "Breach",
-        "Hack",
         "Attack"
       ],
       "rewritten": false
