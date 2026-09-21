@@ -1,45 +1,48 @@
 {
-  "generatedAt": "2026-09-20T23:02:27.211Z",
-  "nextUpdateAt": "2026-09-21T02:02:27.211Z",
+  "generatedAt": "2026-09-21T03:46:06.495Z",
+  "nextUpdateAt": "2026-09-21T06:46:06.495Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "03xpjxh",
+      "id": "1gp4bjc",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "World model companies are keeping a lot of secrets",
-      "brief": "This week, I moderated a panel on world models at the All In conference (no relation to the podcast), and it gave me a chance to dig into one of the most mysterious corners of the AI world. The big players in the space are Yann LeCun’s AMI Labs and Fei-Fei Li’s World Labs — and while both have accumulated a lot of buzz and funding, they also rank pretty low on the trying-to-make-money scale . At their core, world models are about automating spatial intelligence , so the field could head in lots of exciting and lucrative directions, from robotics to interactive video to more complex self-driving systems.",
+      "title": "Generative artificial intelligence (AI) has made information retrieval easier and work faster. But i.. - 매일경제",
+      "brief": "Generative artificial intelligence (AI) has made information retrieval easier and work faster. But i.. 매일경제",
       "whyItMatters": "",
-      "words": 109,
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
-      "published": "2026-09-20T20:29:07.000Z",
-      "capturedAt": "2026-09-20T23:02:24.850Z",
+      "words": 15,
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zRzJvRVNuRGV3NS1xN1pzUU9jVmNRWkRvVVdRVEM5RHd2U0hCVWlmeWZPSkZYckdtcDdaYld5UU1nay1nQW9leWIyWQ",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-21T01:55:45.000Z",
+      "capturedAt": "2026-09-21T03:45:59.503Z",
       "tags": [
-        "Model"
+        "Artificial Intelligence",
+        "Generative"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "1jffbek",
+      "id": "0x5ttuo",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "brief": "Security researchers found two ways out of the OpenAI Codex sandbox, one of them capable of running commands on a developer's machine from Codex's most locked-down mode, with no approval prompt and nothing shown on screen. Both flaws were reported to OpenAI on August 12 and fixed within eight days, according to Oren Yomtov of Accomplish AI. The more serious of the two, which the researchers call Heapjack, turns a routine action into remote code execution: open someone else's repository in Codex, ask it a question about the code, and whoever wrote that repository gets unsandboxed command execution on your computer. Codex is OpenAI's coding agent, available as a command-line tool and a desktop app. Like rival agents, it runs the model's actions inside a sandbox so that untrusted code cannot touch the wider system. Both escapes work by defeating that boundary from the inside. toml' file at install time.",
+      "title": "AI Hallucinations Nearly Triggered a US-China Military Confrontation",
+      "brief": "S. S. 49M Records Stolen According to CNN, four sources familiar with the episode say an intelligence report circulated through the military claiming a Chinese vessel in the Middle East was carrying components for a nuclear weapons program. The response was immediate. Armed boarding teams were preparing to move in, and military planes were already in the air.",
       "whyItMatters": "",
-      "words": 150,
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/17/OpenAI.jpg",
-      "published": "2026-09-20T12:00:00.000Z",
-      "capturedAt": "2026-09-20T23:02:27.211Z",
+      "words": 58,
+      "url": "https://securityaffairs.com/199415/ai/ai-hallucination-nearly-triggered-a-us-china-military-confrontation.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-56.png",
+      "published": "2026-09-20T13:44:39.000Z",
+      "capturedAt": "2026-09-21T03:46:06.495Z",
       "tags": [
-        "Patch"
+        "Hack",
+        "Attack",
+        "Security"
       ],
       "rewritten": false
     }
