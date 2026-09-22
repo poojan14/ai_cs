@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-22T16:26:54.535Z",
+  "updatedAt": "2026-09-22T20:58:01.859Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1vlyz8t",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "brief": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point released a fix on September 22 for the server that controls firewall policies for the Check Point",
+      "whyItMatters": "",
+      "words": 64,
+      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTjrp93lIMdPVKigtkoXjbsk75AIXEvqJuXoYMQLAmvzQfqSy3V1XhBTLXY1SAWp92vTbajtnxBgHYvDr2e3EZOi9Yf8KgT8EzQOp61PjmPsI55nERsYckaL-pfmQDDzRTiCWXegVWrJ0Fu_9I8GUi5O0M0103r218S3dC67Zmr9BZ3quLBRBm9T6Xqo/s1600/cp-upload.jpg",
+      "published": "2026-09-22T18:29:39.000Z",
+      "capturedAt": "2026-09-22T20:58:01.859Z",
+      "tags": [
+        "Exploit",
+        "Zero-Day",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "01b7bd0",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+      "brief": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier. Microsoft said Tuesday that it led an industry-wide disruption of a subscription-based scam platform that used an AI chatbot to compromise 12,000 Microsoft accounts over a few-month span. Named EvilTokens, the platform was introduced over a Telegram channel in February and charged an initial $1,500 fee and a recurring $500 charge each month after that. EvilTokens provided a single service for streamlining most steps required to compromise email accounts in large numbers. From there, the platform helped customers analyze inboxes, select targets that would provide the biggest potential payouts, and draft follow-up emails that provided realistic ruses for tricking company employees into transferring funds to attacker-controlled accounts.",
+      "whyItMatters": "",
+      "words": 119,
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
+      "published": "2026-09-22T19:45:47.000Z",
+      "capturedAt": "2026-09-22T20:58:00.513Z",
+      "tags": [
+        "Chatbot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1kzx3s1",
       "channel": "sec",
@@ -12594,49 +12636,6 @@
         "Cyber",
         "Attack",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1acbg73",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "brief": "Tech companies could face fines if they don’t meet new requirements for AI transparency. Tech companies could face fines if they don’t meet new requirements for AI transparency. The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc’s landmark AI Act came into effect on August 2nd , requiring companies to disclose when people are interacting with AI models, and if content has been generated or altered by them. The transparency rules differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.",
-      "whyItMatters": "",
-      "words": 124,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-03T17:38:45.000Z",
-      "capturedAt": "2026-08-04T02:36:16.902Z",
-      "tags": [
-        "Model",
-        "Chatbot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "02umdp9",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
-      "brief": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
-      "whyItMatters": "",
-      "words": 17,
-      "url": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38063499658fdf3d/6a70e89e220415e290089159/N_able_Ontario_Office-JHVEPhoto-GettyImages-2153902736.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-08-03T21:21:11.000Z",
-      "capturedAt": "2026-08-03T22:09:42.987Z",
-      "tags": [
-        "Exploit",
-        "Patch",
-        "Attack"
       ],
       "rewritten": false
     }
