@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-22T03:43:29.889Z",
+  "updatedAt": "2026-09-22T11:06:23.808Z",
   "count": 600,
   "stories": [
+    {
+      "id": "148uf0v",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. 8), is a stack-based buffer overflow vulnerability that could result in arbitrary operating",
+      "whyItMatters": "",
+      "words": 44,
+      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1600/veeam.jpg",
+      "published": "2026-09-22T05:31:59.000Z",
+      "capturedAt": "2026-09-22T11:06:23.808Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1r9qu6a",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic, OpenAI call for Australia to relax ban on training of AI models - Deccan Herald",
+      "brief": "Anthropic, OpenAI call for Australia to relax ban on training of AI models Deccan Herald",
+      "whyItMatters": "",
+      "words": 15,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNV8xVGdYdGotakhRdExiRzA1SEtDUFdZRG9TZHJnN0duVTBGd29nYjNyY0ZMS2tPNU9uY185Z0RFeVVlYVA1OWNiVlNUMWdNQXZqZDBxS0ZVOWUzRHpwNGpEMGI4NHAtSDY0SUxNeU9qY20wbEVucnFqWVJyRWtZZGotVjJfRkZpaHhLUkxub0pQZFE4dGVLcHhJNFRyUTVKQzU0ZW1CcUtvTkFMdUFodU5pd2tvX2NrM3JXOXpVdGdrLW1UTXFwclNyLVY5dWh0RWlEWS1MdTBudmlCb2hsdENLMzhzRUhlbTJ3T2JtYjc",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-22T09:02:00.000Z",
+      "capturedAt": "2026-09-22T11:06:22.180Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0813zo2",
       "channel": "sec",
@@ -12591,50 +12635,6 @@
         "Ransomware",
         "Exploit",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "08u0wku",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "brief": "The FTC has banned foreign-made humanoids, making a fragile, nascent sector part of America’s AI industrial policy. Humanoid robots usually elicit more cringe than awe: They stumble , kick children , and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes. It was a surprise, then, when last week the Federal Trade Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots. The decision, made by an increasingly partisan and Trump-aligned FTC, cites two reasons. One is that foreign-made humanoids will collect so much data—in homes but also potentially at sensitive facilities—that they’d pose a threat to national security. The second is that US robotics companies need protection from Chinese competition to create a more robust and secure domestic supply chain.",
-      "whyItMatters": "",
-      "words": 150,
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
-      "published": "2026-08-03T18:43:30.000Z",
-      "capturedAt": "2026-08-03T19:38:31.967Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "17l1q3c",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "AI Runs the Hack: Chinese Actor Automates Cyberattacks With DeepSeek",
-      "brief": "Researchers at Palo Alto’s Unit 42 got a front-row seat to something they’d only theorized about before: an AI system running an actual hacking campaign with almost no human steering it. The researchers spotted a Chinese-speaking actor, going by the handles knaithe and KnYuan, who wired DeepSeek into an open-source framework called Hermes Agent and let it hunt for vulnerable targets, find exploit code, and launch attacks on its own. The researchers only saw any of this because the attacker made one careless mistake. That mistake was starting a file server in the operation’s home directory instead of an isolated staging folder. It exposed everything: API keys, exploit scripts, target lists, bash history, and full session logs of the AI actually doing the work. Unit 42 essentially got to watch the attacker’s screen after the fact.",
-      "whyItMatters": "",
-      "words": 136,
-      "url": "https://securityaffairs.com/196544/ai/ai-runs-the-hack-chinese-actor-automates-cyberattacks-with-deepseek.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-5.png?resize=1024%2C448&ssl=1",
-      "published": "2026-08-03T15:52:27.000Z",
-      "capturedAt": "2026-08-03T17:09:29.626Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
