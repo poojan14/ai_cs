@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-22T11:06:23.808Z",
+  "updatedAt": "2026-09-22T16:26:54.535Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1kzx3s1",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
+      "brief": "In this article What is device code phishing? EvilTokens platform and operations EvilTokens phishing emails Mitigation and protection guidance Microsoft Defender XDR detections Hunting queries Following its emergence in February 2026, EvilTokens quickly became one of the most widely used phishing-as-a-service (PhaaS) platforms, providing cybercriminals with AI capabilities for tailoring phishing lures and analyzing compromised inboxes to identify high-value targets. This AI-powered cybercrime platform facilitated sophisticated business email compromise (BEC) campaigns that compromised more than 12,000 inboxes in over 10,000 organizations worldwide. EvilTokens enabled threat actors to abuse the device code authentication flow, steal tokens, and compromise organizational accounts at scale using an AI-driven infrastructure and automating multiple parts of the attack chain. The toolkit offered a plethora of prebuilt phishing templates and landing pages with an AI-powered assistant to aid in structuring target-specific emails.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Fig1-EvilTokens-Telegram-bot-1.jpg",
+      "published": "2026-09-22T15:00:00.000Z",
+      "capturedAt": "2026-09-22T16:26:54.535Z",
+      "tags": [
+        "Breach",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "05b36o2",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "brief": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. 0 — a collection of GPU-accelerated packages built on ROS, released today at the ROSCon conference in Toronto, Canada — helps humans and AI agents build robots together. The release introduces new agentic workflows and platform support to help developers build, customize and deploy robotics applications faster. ROS provides the open source foundation for much of modern robotics development, giving developers common tools, libraries and standards for building and connecting robot applications. 3 million ROS users, helping developers build high-performance robotics applications using free, familiar, open source tools.",
+      "whyItMatters": "",
+      "words": 127,
+      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
+      "published": "2026-09-22T12:00:41.000Z",
+      "capturedAt": "2026-09-22T16:26:53.185Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "148uf0v",
       "channel": "sec",
@@ -12593,48 +12637,6 @@
         "Exploit",
         "Patch",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1mq03v9",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
-      "brief": "Alexander “Sasha” Rakhlin PhD ’06, the Distinguished Professor in Data, Systems, and Society at the MIT Institute for Data, Systems, and Society (IDSS); and a professor of brain and cognitive sciences at MIT, has been named the next director of the MIT Statistics and Data Science Center (SDSC). Rakhlin succeeds Ankur Moitra, the Norbert Wiener Professor of Mathematics, associate director of the IDSS, and a faculty member in the MIT Department of Electrical Engineering and Computer Science (EECS) who has been SDSC director since 2021. Philippe Rigollet, the Cecil and Ida Green Distinguished Professor of Mathematics and a core faculty member in IDSS, also served as interim director in 2024-25.",
-      "whyItMatters": "",
-      "words": 110,
-      "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/sasha-rakhlin-mit-A1.jpg?itok=E-0MgF5E",
-      "published": "2026-08-03T19:50:00.000Z",
-      "capturedAt": "2026-08-03T22:09:41.658Z",
-      "tags": [
-        "Machine Learning"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0xfx19s",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "brief": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
-      "whyItMatters": "",
-      "words": 59,
-      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg",
-      "published": "2026-08-03T16:15:13.000Z",
-      "capturedAt": "2026-08-03T19:38:33.243Z",
-      "tags": [
-        "Ransomware",
-        "Exploit",
-        "Security"
       ],
       "rewritten": false
     }
