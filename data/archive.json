@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-22T23:33:53.837Z",
+  "updatedAt": "2026-09-23T03:42:22.568Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0njth7m",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "brief": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid Naceri, is a former Microsoft security researcher whose earlier Defender exploits were used in",
+      "whyItMatters": "",
+      "words": 57,
+      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg",
+      "published": "2026-09-22T16:14:04.000Z",
+      "capturedAt": "2026-09-23T03:42:22.568Z",
+      "tags": [
+        "Exploit",
+        "Patch",
+        "Zero-Day"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0g1y57o",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "brief": "NVIDIA AI Day Singapore , which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region at large. AI is becoming a matter of national strategy, with governments looking to move from pilots to production and deliver impact at scale, while building trusted AI capabilities that reflect local languages, cultures, priorities and economic needs. NVIDIA is working to enable all nations to be AI nations — providing the technology, infrastructure, ecosystem and expertise needed to make this possible. To accelerate this transition across Southeast Asia, NVIDIA is helping nations move AI from experimentation to production-scale deployment through open models, developer tools and a broad partner ecosystem.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/ai-day-singapore-key-visul-1920x1080-1.jpg",
+      "published": "2026-09-23T02:30:22.000Z",
+      "capturedAt": "2026-09-23T03:42:21.161Z",
+      "tags": [
+        "Model",
+        "Chatbot",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0wp0agl",
       "channel": "sec",
@@ -12597,46 +12641,6 @@
         "Vulnerability",
         "Exploit",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1e8r2c4",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "brief": "Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises. The CEO, who famously studied philosophy and earned a PhD in social theory, implied in Palantir’s quarterly shareholder letter that these were the kinds of capitalists who gave rise to Marxist socialism. “There are Marxist overtones and undertones to our business,” he wrote in a letter to shareholders about Palantir’s outstanding quarter . ” To be clear, AI labs have hardly cornered Palantir out of the market. Quite the opposite. The skyrocketing use of AI helped Palantir achieve record-breaking results. 1 billion in profit, “more profit in a single quarter than we did in total revenue in the same period the year before,” he wrote.",
-      "whyItMatters": "",
-      "words": 123,
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Palantir-Alex-Karp.png?resize=1200,762",
-      "published": "2026-08-03T23:19:50.000Z",
-      "capturedAt": "2026-08-04T08:38:06.533Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "18h8vds",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "brief": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. The activity was previously disclosed in a report from cybersecurity company ReliaQuest, which detailed how the attacker changed DNS settings on Wi-Fi devices to steal Microsoft 365 accounts. Besides attributing the campaign to Russian hackers tracked as Storm-2945 - a sub-cluster of Midnight Blizzard, Microsoft identified two malware families called CornFlake and ChocoShell with capabilities for persistent access, credential theft, surveillance, and data exfiltration. Microsoft named the campaign CaptiveCrunch and believes it has been active since at least early May, although the threat actor has been running device and OAuth code phishing operations since February. The attackers manipulate DNS and HTTP traffic on networks served by captive portal equipment, allowing them to intercept user connections to hotel and conference center Wi-Fi networks.",
-      "whyItMatters": "",
-      "words": 143,
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/03/hotel.jpg",
-      "published": "2026-08-04T00:17:15.000Z",
-      "capturedAt": "2026-08-04T05:48:00.054Z",
-      "tags": [
-        "Breach",
-        "Malware",
-        "Attack"
       ],
       "rewritten": false
     }
