@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-23T10:56:20.720Z",
+  "updatedAt": "2026-09-23T16:16:56.051Z",
   "count": 600,
   "stories": [
+    {
+      "id": "12wqdxk",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "brief": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2026, involved the chaining of two vulnerabilities in Chrome (CVE-2026-85046, CVE-2026-87491) and one impacting Windows Advanced Local Procedure Call (CVE-2026-85880) to break",
+      "whyItMatters": "",
+      "words": 53,
+      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVEmuPJKZAlboodZWejG4dGZXXejOLThyXPoOnycqTY8lznAewTW5ovv8XFJzhyjPRMXT-njudYOVWFEYCLvmEPDyUrfDTZzAmp1S4KE4DuzsDFxt8R-biL2puZZBWG36_dkhfzvpeigcPb9WJNy31oIXo6Oh3zMUzL3JG6MEr4OaGE4Yi_k5JCpohVrZ/s1600/windows-china.jpg",
+      "published": "2026-09-23T08:29:24.000Z",
+      "capturedAt": "2026-09-23T16:16:56.051Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1j83i8d",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
+      "brief": "David Siegel SM ’86, PhD ’91, a computer scientist, entrepreneur, and philanthropist, will serve as the next MIT Innovation Fellow during the 2026-27 academic year. Working with the MIT Schwarzman College of Computing, Siegel will explore how artificial intelligence can accelerate scientific discovery at the Institute and beyond. “From the MIT Schwarzman College of Computing to the MIT Siegel Family Quest for Intelligence, David has been a superb thought partner for me and other Institute leaders on a range of very significant initiatives, so we're delighted to have him join us now as an MIT Innovation Fellow,” says MIT President Sally Kornbluth. “Our community has long benefited from David's exceptional technical insight, entrepreneurial experience, instinct for connecting people, and infectious love for MIT. ”",
+      "whyItMatters": "",
+      "words": 124,
+      "url": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/David%20Siegel%20-%20Robot%20Lab.jpg?itok=IzGx5loC",
+      "published": "2026-09-23T15:30:00.000Z",
+      "capturedAt": "2026-09-23T16:16:54.796Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1o3pvxw",
       "channel": "sec",
@@ -12596,50 +12640,6 @@
         "Hack",
         "Cyber",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "18dhy4f",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "brief": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines designed to turn agentic cybersecurity incidents into shared protection for the entire ecosystem. The SAFE guidelines are being drafted by an Open Secure AI Alliance working group. NVIDIA, Cisco, CrowdStrike , Hugging Face and Red Hat are among Open Secure AI Alliance members working with the Linux Foundation to contribute to the initial proposal. The SAFE guidelines include proposals to confidentially collect and analyze AI incidents and near misses, inform those impacted, identify recurring control failures and publish evidence-based operating recommendations that reduce systemic risk.",
-      "whyItMatters": "",
-      "words": 140,
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-press-osaia-5518050-1280x680-r2.png",
-      "published": "2026-08-04T13:00:47.000Z",
-      "capturedAt": "2026-08-04T14:13:29.762Z",
-      "tags": [
-        "Model",
-        "Agent",
-        "Robot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "100kdb7",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "U.S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog",
-      "brief": "S. S. 2), to its Known Exploited Vulnerabilities (KEV) catalog . 2) is an authentication bypass flaw caused by an incomplete fix for a previous vulnerability tracked as CVE-2026-18556. It allows remote attackers to take over accounts and gain administrative access to vulnerable N-able N-central servers. From there, they can use the built-in Take Control feature to move into managed endpoints and establish persistent access. The company confirmed that a limited number of customers have been identified to be impacted by this, and, for those impacted customers, N‑able support has directly engaged. 7. exe file in users’ Documents folders, a registered Cloudflared service, or inbound firewall connections from the listed IP addresses:",
-      "whyItMatters": "",
-      "words": 112,
-      "url": "https://securityaffairs.com/196585/security/u-s-cisa-adds-a-n-able-n-central-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "published": "2026-08-04T11:02:44.000Z",
-      "capturedAt": "2026-08-04T11:24:03.915Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
