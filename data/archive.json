@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-23T03:42:22.568Z",
+  "updatedAt": "2026-09-23T10:56:20.720Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1o3pvxw",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Fake LastPass on GitHub Led to an Infostealer That Killed 145 Security Tools",
+      "brief": "CVE-2026-87902: how close is your WordPress to remote code execution? S. S. CISA adds Linux Kernel flaws to its Known Exploited Vulnerabilities catalog Someone impersonated LastPass on GitHub, got users to download a fake authenticator, and ended up killing 145 different antivirus and EDR products using a driver that Microsoft itself had signed. That last part is the one worth sitting with. LastPass’s Threat Intelligence, Mitigation, and Escalation team spotted the fake GitHub organization on August 13, 2026. It appeared high in search results for “LastPass Authenticator download” and used real LastPass logos and branding to look legitimate. ” The badges were meaningless and were simply there to make users feel safe enough to download the file.",
+      "whyItMatters": "",
+      "words": 117,
+      "url": "https://securityaffairs.com/199577/malware/fake-lastpass-on-github-led-to-an-infostealer-that-killed-145-security-tools.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-62.png?resize=729%2C637&ssl=1",
+      "published": "2026-09-23T08:25:27.000Z",
+      "capturedAt": "2026-09-23T10:56:20.720Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0933eq3",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI, Anthropic, Hugging Face execs to brief UNSC on AI dangers, capabilities - The Jerusalem Post",
+      "brief": "OpenAI, Anthropic, Hugging Face execs to brief UNSC on AI dangers, capabilities The Jerusalem Post",
+      "whyItMatters": "",
+      "words": 15,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mT0lmbklQeE9fZUMtMzVWZVhVOUcxdnI3eE45WkNkRGhvYTRJY3hPOEZQMm9OS0c1bkpRZVlWTFl1QjI4YWl2N2pIdi0zVXEyMHNDNmVmQVNheXNWTEFv",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-09-23T10:32:57.000Z",
+      "capturedAt": "2026-09-23T10:56:19.207Z",
+      "tags": [
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0njth7m",
       "channel": "sec",
@@ -12597,50 +12640,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1j4y3ox",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "The benefits of medical AI assistance vary based on user expertise",
-      "brief": "A one-size-fits-all approach likely isn’t the best strategy when designing artificial intelligence systems that assist users in disease diagnosis. A new study by researchers at MIT and elsewhere found that, while AI assistance generally improved the accuracy of non-experts and clinicians in diagnosing skin diseases, AI explainability methods had different impacts depending on the users’ knowledge level. Explainable AI methods help users know when to trust a model’s predictions by describing or validating the model’s decision-making. For instance, a model might use a heat map to highlight image regions that were most important in its diagnosis or a large language model (LLM) to explain the prediction in plain language. In this study, researchers tested non-experts and primary care providers in skin disease diagnosis, with and without the help of different explainable AI systems.",
-      "whyItMatters": "",
-      "words": 133,
-      "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-AI-Dermatology-01.jpg?itok=SvrI0eha",
-      "published": "2026-08-04T09:00:00.000Z",
-      "capturedAt": "2026-08-04T11:23:58.273Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1b0atww",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. 2) that allows",
-      "whyItMatters": "",
-      "words": 35,
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png",
-      "published": "2026-08-04T07:00:13.000Z",
-      "capturedAt": "2026-08-04T08:38:08.585Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Patch"
       ],
       "rewritten": false
     }
