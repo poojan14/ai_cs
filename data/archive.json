@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-24T16:38:49.254Z",
+  "updatedAt": "2026-09-24T21:14:06.628Z",
   "count": 600,
   "stories": [
+    {
+      "id": "05iy8hf",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
+      "brief": "A new bill has been introduced by a bipartisan team of senators that would create a set of voluntary cybersecurity best practices for the telecommunications industry and build out an optional certification companies could obtain. S. Sens. S. over the span of several years. “The Salt Typhoon intrusion was the worst telecom hack in our nation’s history and showed us just how vulnerable our critical infrastructure is, but it does not have to be that way,” Warner said in a statement. ” The bill creates a Telecommunications Cybersecurity Working Group within the National Telecommunications and Information Administration (NTIA) that would bring together telecoms, suppliers, cybersecurity experts and federal officials.",
+      "whyItMatters": "",
+      "words": 109,
+      "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/54410645743_a70613199e_o_0f409c137e.jpg",
+      "published": "2026-09-24T20:15:00.000Z",
+      "capturedAt": "2026-09-24T21:14:06.628Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "18u93o6",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Estimating suicide risk from text",
+      "brief": "When people reach out during a mental health crisis, a top priority for counselors is identifying those with a high risk of suicide. The distressed person’s language holds critical clues, and a new tool developed by scientists at MIT’s McGovern Institute for Brain Research is designed to pick up on and rapidly evaluate those signals. The language-processing tool was developed by Daniel Low, a former graduate student in Senior Research Scientist Satra Ghosh ’s Senseable Intelligence Group who is now a research scientist at the Child Mind Institute , where he leads its AI, Risk, and Contemplative Science Lab , as well as a visiting scholar at Harvard University. It uses a custom-built list of words and phrases linked to 49 suicide risk factors, searching text for these and using them to estimate an individual’s risk.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-mcgovern-suicide.jpg?itok=Zo0kabFj",
+      "published": "2026-09-24T21:00:00.000Z",
+      "capturedAt": "2026-09-24T21:14:05.125Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1a6uned",
       "channel": "sec",
@@ -12606,46 +12650,6 @@
         "Breach",
         "Cyber",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0kx3vir",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AMD’s data center business is booming while gaming takes a backseat",
-      "brief": "7 billion. 7 billion. 7 billion. 2 billion it reported for the same period a year ago. During Tuesday’s earnings call, AMD CEO Lisa Su said the company expects “data center segment revenue to more than double year-over-year in 2027,” as well. At the same time, AMD’s gaming revenue fell 31 percent compared to last year, to $779 million, as price hikes and component shortages slowed sales for the Xbox Series X / S, PS5, and Valve’s Steam Deck. ”",
-      "whyItMatters": "",
-      "words": 80,
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-04T20:57:49.000Z",
-      "capturedAt": "2026-08-05T05:46:39.624Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0486j15",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-      "brief": "In this article Attack chain overview Mitigation and protection guidance Indicators of compromise (IOC) Microsoft Defender XDR detections Advanced hunting queries Learn more Microsoft Threat Intelligence identified a large-scale npm supply chain attack affecting more than 400 packages across multiple unrelated publishers, including packages associated with major enterprise software ecosystems such as keyv, flat-cache, cache-manager, and others. The malicious releases contain a Mini Shai-Hulud variant, a self-propagating credential-stealing worm delivered through a large, heavily obfuscated Bun-based JavaScript payload. The malware typically executes automatically through an npm preinstall lifecycle hook before package installation completes. Once executed, the malware searches developer workstations and continuous integration and continuous delivery (CI/CD) environments for npm, GitHub, cloud, and infrastructure credentials. It uses recovered identities to authenticate to npm, GitHub, Amazon Web Services (AWS), Kubernetes, and HashiCorp Vault, enabling it to enumerate packages, repositories, workflow secrets, cloud parameters, and secret-store values.",
-      "whyItMatters": "",
-      "words": 145,
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-      "source": "Microsoft Security Blog",
-      "sourceSite": "microsoft.com",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/image.webp",
-      "published": "2026-08-04T23:46:41.000Z",
-      "capturedAt": "2026-08-05T02:34:49.622Z",
-      "tags": [
-        "Malware",
-        "Vulnerability",
-        "Patch"
       ],
       "rewritten": false
     }
