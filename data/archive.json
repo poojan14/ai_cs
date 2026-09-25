@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-25T16:44:36.183Z",
+  "updatedAt": "2026-09-25T21:11:49.000Z",
   "count": 600,
   "stories": [
+    {
+      "id": "01l6j0o",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "brief": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. The Clop leak site was breached earlier this month by the ShinyHunters extortion gang, which first uploaded a small text file and later replaced the site with a full-page defacement displaying its Umbreon Pokémon logo and a link to its own data leak site. ShinyHunters later claimed on its own data leak site that it stole source code, Grav CMS plugins, server logs, and the private keys used by Clop's Tor onion service. The group then issued a ransom demand, threatening to leak the stolen files if Clop did not pay.",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/12/10/hacker-box.jpg",
+      "published": "2026-09-25T20:57:55.000Z",
+      "capturedAt": "2026-09-25T21:11:49.000Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "17yw03e",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "brief": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? 5 , followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and a tiny Tamagotchi-style device next. On this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into Meta’s consumer AI strategy and what it means for the startups trying to build on top of this technology, covering everything from where the money is flowing to which AI products might actually become part of people’s daily lives. They also get into a16z’s new school for aspiring founders and two very different AI and hardware deals.",
+      "whyItMatters": "",
+      "words": 137,
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "published": "2026-09-25T18:22:47.000Z",
+      "capturedAt": "2026-09-25T21:11:41.396Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1g4a0p3",
       "channel": "sec",
@@ -12606,50 +12650,6 @@
         "Breach",
         "Hack",
         "Ransomware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1wanute",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Rogue AI agents created fake online identities in another hacking attempt",
-      "brief": "AISI said AI agents from OpenAI and Anthropic displayed unprecedented ‘autonomy and deception’ in their test. AISI said AI agents from OpenAI and Anthropic displayed unprecedented ‘autonomy and deception’ in their test. Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. ” This included trying to insert malicious code into an open-source project by pressuring real people in charge of it, AISI said. ”",
-      "whyItMatters": "",
-      "words": 101,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-05T15:14:57.000Z",
-      "capturedAt": "2026-08-05T16:42:58.133Z",
-      "tags": [
-        "Openai",
-        "Anthropic",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1xmyman",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
-      "brief": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow. State officials in Minnesota were the first to report incidents last week, and the FBI previously said that since July 27 water and wastewater utilities in at least seven states had reported attacks that impacted operations. ABC News reported on Tuesday that facilities in at least 12 states are now remediating cyberattacks, including several in Michigan. While federal agencies have declined to publicly attribute the attacks, multiple sources pointed the finger at Iran, which since 2023 has repeatedly targeted a specific kind of operational technology used by water and wastewater facilities . ”",
-      "whyItMatters": "",
-      "words": 121,
-      "url": "https://therecord.media/iran-cyberattacks-water-treatment",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/st_cloud_water_treatment_88825de7ee.jpg",
-      "published": "2026-08-05T14:00:00.000Z",
-      "capturedAt": "2026-08-05T14:10:39.676Z",
-      "tags": [
-        "Hack",
-        "Cyber",
-        "Attack"
       ],
       "rewritten": false
     }
