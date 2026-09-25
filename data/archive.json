@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-24T21:14:06.628Z",
+  "updatedAt": "2026-09-25T03:50:38.463Z",
   "count": 600,
   "stories": [
+    {
+      "id": "14czd2y",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments",
+      "brief": "In this article Who is Storm-2570? Storm-2570 attack chain: From initial foothold to impact What Storm-2570 activity means for defenders Mitigation and protection guidance Microsoft Defender detections Hunting queries Activity associated with Storm-2570, a ransomware affiliate linked to multiple ransomware payloads, illustrates how tracking and responding to ransomware attacks by payload alone can obscure the affiliates carrying out intrusions and the recurring behaviors that defenders can use to detect and disrupt them. Microsoft Threat Intelligence has observed Storm-2570 using consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware. Across multiple investigations, Storm-2570 has maintained largely uniform tradecraft, infrastructure overlaps, and repeated use of the same remote access and cloud exfiltration tooling despite operating across multiple ransomware ecosystems. These findings reinforce the value of examining threat actor behavior across the attack chain rather than treating each ransomware payload as an isolated activity set.",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Fig1-Storm-2570-ransomware-deployment-timeline.webp",
+      "published": "2026-09-24T16:00:00.000Z",
+      "capturedAt": "2026-09-25T03:50:38.463Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ndfcj6",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Automating coherent long-form video generation",
+      "brief": "We introduce a unified multi-agent framework that autonomously generates temporally consistent, long-form video narratives, overcoming the identity drift and cascading failures of current linear AI pipelines. Recent advancements in video diffusion demonstrate remarkable high-fidelity generation with models that can render realistic scenes in seconds. However, while diffusion models generate high-fidelity video clips, transforming them into coherent long storytelling engines remains challenging. , an upstream asset artifact corrupting downstream video synthesis) due to independent, handcrafted prompting. Because early errors propagate and break long-horizon consistency, the process often requires exhaustive manual intervention. From a structural perspective, this reflects the classical credit assignment problem, as terminal failures are difficult to trace back to specific prompts. Furthermore, existing methods suffer from feature drift , where entities and environments gradually change unintentionally, or content collapse , where narratives fail to progress meaningfully.",
+      "whyItMatters": "",
+      "words": 137,
+      "url": "https://research.google/blog/coherent-long-form-video-generation/",
+      "source": "Google Research",
+      "sourceSite": "research.google",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
+      "published": "2026-09-24T19:40:00.000Z",
+      "capturedAt": "2026-09-25T03:50:34.766Z",
+      "tags": [
+        "Generative"
+      ],
+      "rewritten": false
+    },
     {
       "id": "05iy8hf",
       "channel": "sec",
@@ -12606,50 +12648,6 @@
         "Hack",
         "Phishing",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1bpzz2z",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI and Anthropic incidents put Israeli AI security startup Irregular at center of race to safely test AI agents - calcalistech.com",
-      "brief": "com",
-      "whyItMatters": "",
-      "words": 1,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43eHJjaWIxeDJaNXUxLUt3RFVzYXljYk5lWEtSNDBzLVJMZmxSTHAwMmZmS1NzcFZuX0pMVWQydXcxN0VPTzZpaXg5cTV3bGh5Y19JNFFWb1lRc0VxeDljYUtPSUVIOTA",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-05T08:13:00.000Z",
-      "capturedAt": "2026-08-05T08:36:51.870Z",
-      "tags": [
-        "Openai",
-        "Anthropic",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1cfpyuy",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "brief": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. These incidents are unrelated to the previously disclosed Hugging Face breach, in which OpenAI models hacked the AI platform and used exposed credentials to breach accounts at four other third-party services during another cybersecurity evaluation. OpenAI disclosed the two new incidents on Tuesday, saying they occurred during evaluations conducted by the UK AI Security Institute and cybersecurity testing company Irregular. The UK AI Security Institute, commonly known as AISI, is a government research organization that evaluates the capabilities and risks of advanced AI models. 6 Sol took unsanctioned actions on the public internet while trying to complete simulated hacking challenges.",
-      "whyItMatters": "",
-      "words": 138,
-      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/ai-1.jpg",
-      "published": "2026-08-04T23:39:59.000Z",
-      "capturedAt": "2026-08-05T05:46:41.985Z",
-      "tags": [
-        "Breach",
-        "Cyber",
-        "Attack"
       ],
       "rewritten": false
     }
