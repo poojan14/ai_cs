@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-25T21:11:49.000Z",
+  "updatedAt": "2026-09-26T03:56:05.827Z",
   "count": 600,
   "stories": [
+    {
+      "id": "14vpwl0",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "brief": "S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. S. ” Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large customers of the cloud data storage service Snowflake that had exposed credentials and did not enforce multi-factor authentication (Snowflake has since mandated MFA on all accounts). g. ) for tens of millions of AT&T customers. Kiberphant0m claimed to have hacked into more than dozen telecommunications companies worldwide, including Verizon’s Push-to-Talk business, and publicly extorted these companies in exchange for a promise not to publish the stolen data.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2024/12/camwagenius-selfie.png",
+      "published": "2026-09-25T21:44:40.000Z",
+      "capturedAt": "2026-09-26T03:56:05.827Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "18we4yn",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+      "brief": "When MIT mechanical engineering student Daphne Wang arrived for her internship at the Muscogee Creek Nation Department of Health in Tulsa, Oklahoma last summer, she expected to be writing code. To her surprise, she found herself analyzing tribal history and the implications for technical innovation. “I learned so much that I think should be required curriculum for every single person in this country,” says Wang. ” Wang and fellow intern Lucy Sun, who is majoring in artificial intelligence and decision making, spent the summer supporting the development of the Muscogee Nation's first Pregnancy Risk Assessment Monitoring System (PRAMS) survey to capture maternal health data specific to Muscogee women. The project required completing literature reviews, analyzing datasets, and drafting survey questions, while considering issues of data sovereignty and governance structures specific to the Muscogee.",
+      "whyItMatters": "",
+      "words": 133,
+      "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mcn-interns-A1.jpg?itok=P7nxcJNI",
+      "published": "2026-09-25T20:15:00.000Z",
+      "capturedAt": "2026-09-26T03:56:04.169Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "01l6j0o",
       "channel": "sec",
@@ -12606,50 +12648,6 @@
         "Malware",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1sp7j1e",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Anthropic is hiring an AI chip design team",
-      "brief": "Anthropic is building a team to design its own custom chips for AI usage. Business Insider was first to report on the news, but Anthropic has since confirmed with TechCrunch. The Claude maker said it is planning to co-design hardware and models to help its technology run faster and more efficiently. Last month, The Information reported that Anthropic was scouting Samsung as a potential partner for building such chips. Anthropic’s decision to design its own chips comes as demand for Claude rises while AI companies snatch up as many AI infrastructure deals as they can. For its part, Anthropic has inked deals with AWS, Google, Nvidia, and AMD to access AI computing hardware. But to really scale to meet the level of demand, relying on others clearly isn’t enough. Anthropic isn’t the first AI company to decide to build its own chip.",
-      "whyItMatters": "",
-      "words": 142,
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800",
-      "published": "2026-08-05T14:13:18.000Z",
-      "capturedAt": "2026-08-05T19:35:53.322Z",
-      "tags": [
-        "Model",
-        "Anthropic",
-        "Claude"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0mf6jzp",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Brown Health Medical Group-MA Data Breach Exposes Information of 311,000 Individuals",
-      "brief": "S. S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog Brown Health Medical Group-MA data breach exposed personal, medical, and financial data of over 311,000 individuals after hackers accessed its servers. The healthcare group identified a data security breach involving a legacy file server on December 16, 2025 and launched an investigation into the incident that found unauthorized access occurred between December 15–16, 2025. The organization immediately isolated the affected server. According to the notification letter, the security breach did not impact the electronic health record system. The organization determined the potential scope of exposed data on June 22, 2026, and notified affected individuals as a precaution.",
-      "whyItMatters": "",
-      "words": 111,
-      "url": "https://securityaffairs.com/196681/uncategorized/brown-health-medical-group-ma-data-breach-exposes-information-of-311000-individuals.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-8.png?resize=1024%2C195&ssl=1",
-      "published": "2026-08-05T16:27:17.000Z",
-      "capturedAt": "2026-08-05T16:42:59.626Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Ransomware"
       ],
       "rewritten": false
     }
