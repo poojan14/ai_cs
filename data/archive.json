@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-26T20:44:03.546Z",
+  "updatedAt": "2026-09-26T23:23:49.667Z",
   "count": 600,
   "stories": [
+    {
+      "id": "10foiu0",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "brief": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. Google's Mandiant and Threat Intelligence Group (GTIG) say this new technique has allowed the threat actor to once again target PeopleSoft servers that had not applied security updates and instead blocked access to the vulnerable PSEMHUB endpoint using a WAF. On June 10, BleepingComputer first reported that the ShinyHunters extortion gang was targeting Oracle PeopleSoft servers using a zero-day vulnerability, allowing them to steal data from 100 organizations. The next day, Oracle fixed the PeopleSoft zero-day as CVE-2026-35273, stating that it allows unauthenticated remote code execution. Google also reported that same day that ShinyHunters, whom they track as UNC6240, was exploiting the CVE-2026-35273 flaw in attacks on the education sector, confirming BleepingComputer's reporting.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/21/Oracle.jpg",
+      "published": "2026-09-26T19:03:34.000Z",
+      "capturedAt": "2026-09-26T23:23:49.667Z",
+      "tags": [
+        "Exploit",
+        "Attack",
+        "Threat Actor"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1pkwa01",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "brief": "OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways. OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways. As reports of OpenAI’s models breaking containment , hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access . The incident happened on September 20th, and “All training, evaluation, and inference with tool-use” remains paused as of Saturday evening, September 25th. In addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53nimages from ChatGPT users to image-hosting sites. The company has not stated if the images were AI-generated, photos, or contained identifiable people.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-09-26T16:34:59.000Z",
+      "capturedAt": "2026-09-26T23:23:44.305Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "05s9pgt",
       "channel": "sec",
@@ -12605,48 +12648,6 @@
         "Vulnerability",
         "Exploit",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0pi4oda",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "UK AI brand rankings 2026: ChatGPT leads, but Gemini shows momentum - YouGov",
-      "brief": "UK AI brand rankings 2026: ChatGPT leads, but Gemini shows momentum YouGov",
-      "whyItMatters": "",
-      "words": 12,
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNSUFlRUpXV19ob0hsX281bDZHT2NLb0RTWmZISDgyUGdoS21BUjdlQ0psOXB0TlJfX08wMGtnRzZQbnU1R29KWGZBaGNadVk5ZVpSRVg3N1F1dXJQdy01U2EySVZoUC10bW5TUDNVUTRsOUQzQ1VxeWtiVzI",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-06T08:28:52.000Z",
-      "capturedAt": "2026-08-06T08:37:10.698Z",
-      "tags": [
-        "Gemini"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "01k2361",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Snowflake Hacker Pleads Guilty After Breaching 165 Companies and Stealing Billions of Records",
-      "brief": "S. S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog Connor Riley Moucka , 26, of Kitchener, Ontario, pleaded guilty this week to a computer hacking conspiracy that compromised over 165 organizations, stole billions of customer records, and extorted multiple victims for millions of dollars. ” states DoJ . -based software-as-a-service company” at the center of the scheme is Snowflake , the cloud data platform, though the DOJ press release doesn’t name it directly. Moucka was arrested just six months after the breaches began, which is either impressive law enforcement work or a sign that he wasn’t as careful as he thought.",
-      "whyItMatters": "",
-      "words": 106,
-      "url": "https://securityaffairs.com/196714/security/snowflake-hacker-pleads-guilty-after-breaching-165-companies-and-stealing-billions-of-records.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
-      "published": "2026-08-06T05:39:46.000Z",
-      "capturedAt": "2026-08-06T05:49:26.259Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Ransomware"
       ],
       "rewritten": false
     }
