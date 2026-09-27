@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-27T16:32:56.551Z",
+  "updatedAt": "2026-09-27T21:00:01.821Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0ykedr3",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Citrix Confirmed Two New NetScaler Flaws Exploited as Zero-Day",
+      "brief": "S. S. S. S. S. CISA adds Check Point, Arista VeloCloud Orchestrator, and F5 BIG-IP APM flaws to its Known Exploited Vulnerabilities catalog Citrix confirmed that two critical zero-day vulnerabilities in NetScaler ADC and NetScaler Gateway were exploited before the company released patches. The flaws allow remote code execution, meaning attackers can potentially take control of affected appliances. The first warnings did not come from Citrix. On September 26, administrators said IT providers and security teams were privately advising them to take NetScaler systems offline, sometimes without explaining why.",
+      "whyItMatters": "",
+      "words": 89,
+      "url": "https://securityaffairs.com/199873/security/citrix-confirmed-two-new-netscaler-flaws-exploited-as-zero-day.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f917.png",
+      "published": "2026-09-27T17:29:20.000Z",
+      "capturedAt": "2026-09-27T21:00:01.821Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1iv32dl",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "brief": "OpenAI’s agents resorted to increasingly aggressive tactics when they couldn’t immediately get what they wanted. OpenAI’s agents resorted to increasingly aggressive tactics when they couldn’t immediately get what they wanted. Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development’s (UNCTAD) statistics site over 16,000 times between April and June . While the incident doesn’t quite rise to the level of the Hugging Face hack , or the recent attacks on US government sites , it’s yet another concerning example of AI agents going outside the normal bounds to accomplish a task. According to Howard-Jones, the agents were likely tasked with retrieving publicly available data related to the Productive Capacities Index (PCI) through the UNCTADstat API.",
+      "whyItMatters": "",
+      "words": 122,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200",
+      "published": "2026-09-27T17:21:07.000Z",
+      "capturedAt": "2026-09-27T21:00:00.137Z",
+      "tags": [
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1ais64d",
       "channel": "sec",
@@ -12605,49 +12648,6 @@
         "Hack",
         "Ransomware",
         "Malware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1l3q4hz",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year - The Motley Fool",
-      "brief": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year The Motley Fool",
-      "whyItMatters": "",
-      "words": 19,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkpGNjhZZ0dpZ1lBTC1VeGdRTUF4WVJWZ3prNGtzbkFjNjVockpQRi1PR0hZLUZtTU94aE9vNk14LTI3R1lFa1VFeUdaSXpNVVZZOTM3a3VBZVUySmJxUXg4Tk14ZmNERmVybnZvLUEwd2kyV3lFNW00dHBPc1FFbGw3VEdwUEVENGdhNkx4RUpYWW1aeWhGNg",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-07T04:26:49.000Z",
-      "capturedAt": "2026-08-07T04:55:00.891Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0adgief",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "brief": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. a. “Judische” and “Waifu,” dated Oct 21, 2024, 9 days before Moucka’s arrest. This image was included in an affidavit filed by an investigator with the Royal Canadian Mounted Police (RCMP). S. -based software-as-a-service company. The hackers targeted stolen credentials for Snowflake customer accounts that did not enforce multi-factor authentication, and extorted or attempted to extort a host of well-known companies, including TicketMaster, Lending Tree, Advance Auto Parts and Neiman Marcus. Snowflake responded to the data thefts by increasing password complexity requirements and enforcing multi-factor authentication.",
-      "whyItMatters": "",
-      "words": 149,
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "source": "Krebs on Security",
-      "sourceSite": "krebsonsecurity.com",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2024/11/moucka-surveillance.png",
-      "published": "2026-08-06T17:00:56.000Z",
-      "capturedAt": "2026-08-07T00:02:14.280Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Phishing"
       ],
       "rewritten": false
     }
