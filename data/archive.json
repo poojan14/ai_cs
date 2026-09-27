@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-09-26T23:23:49.667Z",
+  "updatedAt": "2026-09-27T04:07:00.999Z",
   "count": 600,
   "stories": [
+    {
+      "id": "09xy3e6",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "brief": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. 8), a critical security flaw that could result in unauthenticated remote code execution. The vulnerability was first exploited as a zero-day",
+      "whyItMatters": "",
+      "words": 45,
+      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg",
+      "published": "2026-09-26T11:46:40.000Z",
+      "capturedAt": "2026-09-27T04:07:00.999Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Zero-Day"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "134y91j",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "brief": "Google has started testing a way for shoppers in India to buy products from Walmart-owned Flipkart directly through Gemini and AI Mode, as the search giant looks to expand its AI services from product discovery into transactions. Users in the test see a “Buy” button on select Flipkart product listings appearing in Gemini and Google’s AI Mode, which takes them directly to a Flipkart checkout flow without leaving the AI interface, according to people familiar with the matter and an experience seen by TechCrunch. The early test is limited to some users and a small selection of products, including smartphones, electronics, and mobile accessories, the people told TechCrunch. Other users continue to see regular product listings from Flipkart in Gemini and AI Mode without the option to buy them directly from the AI interface.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
+      "published": "2026-09-27T01:30:00.000Z",
+      "capturedAt": "2026-09-27T04:06:59.284Z",
+      "tags": [
+        "Gemini"
+      ],
+      "rewritten": false
+    },
     {
       "id": "10foiu0",
       "channel": "sec",
@@ -12606,48 +12648,6 @@
         "Breach",
         "Hack",
         "Vulnerability"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0wvoqix",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "brief": "” In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup’s employees as theft, and “generic” product development information as “trade secrets,” adding that Apple made no reasonable efforts to maintain such secrecy. The dismissal request is in response to a lawsuit filed by Apple in July , alleging that former Apple employees that went on to work for OpenAI stole confidential documents to further OpenAI’s hardware development plans . ”",
-      "whyItMatters": "",
-      "words": 83,
-      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758%2C21.869598945592%2C95.251249694824%2C74.804666989327&w=1200",
-      "published": "2026-08-06T09:33:11.000Z",
-      "capturedAt": "2026-08-06T11:23:39.857Z",
-      "tags": [
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0vtzhwd",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA). 8), a case of deserialization of untrusted data that could allow an unauthenticated attacker with access to a TeamCity server",
-      "whyItMatters": "",
-      "words": 27,
-      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg",
-      "published": "2026-08-06T06:51:43.000Z",
-      "capturedAt": "2026-08-06T08:37:12.126Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Patch"
       ],
       "rewritten": false
     }
