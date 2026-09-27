@@ -1,49 +1,47 @@
 {
-  "generatedAt": "2026-09-27T11:33:47.629Z",
-  "nextUpdateAt": "2026-09-27T14:33:47.629Z",
+  "generatedAt": "2026-09-27T16:32:56.551Z",
+  "nextUpdateAt": "2026-09-27T19:32:56.551Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1uwjm61",
+      "id": "151nxk5",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Developer says Jev decision model beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends - Tom's Hardware",
-      "brief": "Developer says Jev decision model beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends Tom's Hardware",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "brief": "Saturday Night Live took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei. Weekend Update host Michael Che — who sounded a little uncertain about how to pronounce Amodei’s last name — kicked the segment off by describing the CEO as having “stumbled through a press tour” where he seemingly agreed with a former employee’s claim that artificial intelligence might destroy humanity . ” “AI is not a weapon, it’s a tool: A tool for building weapons,” she declared. ”",
       "whyItMatters": "",
-      "words": 35,
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPdmFDV2FYbE1abnppSDl0OXo1NVhQLUpoc3k0ZjhqdjJRa0FsY3pVekN6cG5fSElxaHlmSGxfaWVYTFJxM1BLWHV5WG01cy1HUUptWmhxdl9GODlIcnpReGdnSjhCWFlVRWRPYzBsX1czbThZTzRWUDJqc0lMSjczT1FfNk1NQW92cUlwNGtPSnVsdXR1X3RwVnpXa2h3cVowdnpVOUF0WnBCOVFlSmNVMW00WlBzd3c1UFE1QTBHSm9kXzB4bnhsNHJuUk96aHVIZENoQU5JaEpnUUpodzBVWXZqMU5sUE52Y01iVXEtVUpqeGZZOThhVC0wZVExaTJjZXNZRzgtRlNWTFprR1hsM2xDZDVUWU5qUU1SV21qUHVROFpfMGhxblhDNjBuNFlScEJ0aFBpRVlJNGNjWHdPVDBmU19fLXJlTFpaTUVsN0tfLVpRRHQzLWdabi1wY3Y4QnFBNU15SEczaEZqZTBUSlRPZlVJYWM3",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-09-27T11:30:00.000Z",
-      "capturedAt": "2026-09-27T11:33:45.767Z",
+      "words": 94,
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
+      "published": "2026-09-27T16:30:00.000Z",
+      "capturedAt": "2026-09-27T16:32:55.156Z",
       "tags": [
-        "Model",
-        "Chatbot",
-        "Claude"
+        "Anthropic"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "18gyxs9",
+      "id": "1ais64d",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
-      "brief": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. Join as speakers examine the various components of ASM strategy, the push to mandate continuous asset visibility and inventory tools, and the use of red-teaming, bug bounties and pen-tests in modern security programs. Explore what it takes to operationalize continuous authorization at scale, including the technical, organizational, and cultural changes required. Doppel has named Joey Rachid as Chief Security Advisor and Field Chief Information Security Officer. Delinea has appointed Timothy Regan as Chief Financial Officer. Gwen Gann has become State Chief Information Security Officer for the State of Washington at WaTech. Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. (Nadir Izrael)",
+      "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+      "brief": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week. The first signs of the incident appeared when Citrix administrators began reporting on Reddit that IT suppliers and security teams were privately contacting their organizations and advising them to shut down their NetScaler appliances. \"We got a call from our IT supplier's security team, they couldn't give any details but they advised to shut our Netscalers down immediately,\" one administrator wrote . Other administrators said law enforcement, CERTs, and national cybersecurity agencies had also been contacting organizations about the issue. \" \"We are currently rapidly reacting to rumors that multiple unpatched Citrix NetScaler RCE vulnerabilities are circulating in the wild. While details are scarce, the information is credible,\" watchTowr said .",
       "whyItMatters": "",
-      "words": 130,
-      "url": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
-      "source": "SecurityWeek",
-      "sourceSite": "securityweek.com",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/SharePoint.jpeg",
-      "published": "2026-09-27T09:23:09.000Z",
-      "capturedAt": "2026-09-27T11:33:47.629Z",
+      "words": 143,
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg",
+      "published": "2026-09-27T16:02:37.000Z",
+      "capturedAt": "2026-09-27T16:32:56.550Z",
       "tags": [
         "Exploit",
         "Patch",
-        "Attack"
+        "Zero-Day"
       ],
       "rewritten": false
     }
