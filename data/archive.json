@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-28T13:08:30.694Z",
+  "updatedAt": "2026-09-28T21:05:40.498Z",
   "count": 600,
   "stories": [
+    {
+      "id": "09f9k1w",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "brief": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect’s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. 7 million.",
+      "whyItMatters": "",
+      "words": 90,
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/09/umbreon-nl-rf.png",
+      "published": "2026-09-28T15:08:57.000Z",
+      "capturedAt": "2026-09-28T21:05:40.498Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0akhixa",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI’s AI agents need to catch up",
+      "brief": "A rumored new ‘Aeon’ platform could be entering a crowded market of 24/7 assistants. A rumored new ‘Aeon’ platform could be entering a crowded market of 24/7 assistants. OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it’s fallen behind in one of the industry’s hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon — its answer to Meta’s Muse, SpaceX’s Grok Bot, OpenClaw, and many more. Aeon could have a shot at success, but to beat the competition, it would need to pull together the best features of several different agent platforms.",
+      "whyItMatters": "",
+      "words": 121,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-09-28T18:45:00.000Z",
+      "capturedAt": "2026-09-28T21:05:38.540Z",
+      "tags": [
+        "Chatbot",
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0eataml",
       "channel": "sec",
@@ -12608,49 +12652,6 @@
         "Breach",
         "Hack",
         "Phishing"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1o4m9xq",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Not Micron, Not Nvidia. This Artificial Intelligence (AI) Giant Could Be the Ultimate Winner of the AI Arms Race. - The Motley Fool",
-      "brief": "Not Micron, Not Nvidia. This Artificial Intelligence (AI) Giant Could Be the Ultimate Winner of the AI Arms Race. The Motley Fool",
-      "whyItMatters": "",
-      "words": 22,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWNIRlByTDJvOVBiUXdCdnRLUXNtdFNQSV8weWk3OVRkUUphNndSZDJDeUZBUm1ITWJ1dU9LVS1uelp1QjZ2UHZKZTZZbF95MWhRQkwybmNLMmtMUVlZT1F3enN3dExCenVtYXVhVnBXNUUzdjQ1MWRNS2VNT1kwZFFlOW1sRGxlMEFSQ0pCd2pfazVvdWVvMQ",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-07T13:36:01.000Z",
-      "capturedAt": "2026-08-07T15:56:37.321Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "05fjznj",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "brief": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"The campaign uses residential proxies to disguise malicious sign-ins as ordinary consumer traffic,",
-      "whyItMatters": "",
-      "words": 52,
-      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg",
-      "published": "2026-08-07T10:38:27.000Z",
-      "capturedAt": "2026-08-07T13:04:49.801Z",
-      "tags": [
-        "Phishing",
-        "Cyber",
-        "Security"
       ],
       "rewritten": false
     }
