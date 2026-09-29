@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-29T12:17:29.092Z",
+  "updatedAt": "2026-09-29T19:48:55.346Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0vgymku",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "brief": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a report (in French) published on Tuesday: it worked because of weak",
+      "whyItMatters": "",
+      "words": 62,
+      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg",
+      "published": "2026-09-29T17:47:01.000Z",
+      "capturedAt": "2026-09-29T19:48:55.346Z",
+      "tags": [
+        "Cyber",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1n1jttw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "brief": "Dots are always-on AI assistants that OpenAI says can ‘do nearly anything’ using a cloud computer and connected apps. Dots are always-on AI assistants that OpenAI says can ‘do nearly anything’ using a cloud computer and connected apps. OpenAI is responding to Meta’s buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can “do nearly anything” across connected apps in the background while learning your preferences over time. The company’s capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that’s similar to the one offered by Muse , as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published": "2026-09-29T17:15:00.000Z",
+      "capturedAt": "2026-09-29T19:48:53.486Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0cj0vn2",
       "channel": "sec",
@@ -12609,50 +12653,6 @@
         "Phishing",
         "Cyber",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0com27n",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "brief": "OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. OpenAI says it is pausing “internal activities” around an in-development AI model, Astra, because it doesn’t yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face . Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. Recent internal evaluations of an OpenAI model called Astra indicate that it offers “significant advancements in agentic coding and cybersecurity,” according to the company . ” Astra was “not involved” in the Hugging Face breach, OpenAI says. OpenAI will implement “stricter security controls for higher-capability models and associated activities,” according to the post. ”",
-      "whyItMatters": "",
-      "words": 136,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-07T18:40:34.000Z",
-      "capturedAt": "2026-08-08T01:42:10.928Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1bpak7p",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "WordPress XSS2Shell Flaw Turns Simple Login Bug Into Full Server Takeover",
-      "brief": "S. S. S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog Researchers at Pwn just published a report on a vulnerability chain they’re calling XSS2Shell, and the entry point is quite simple: type a username that doesn’t exist, and WordPress echoes it back with a tiny formatting flaw baked into how two different sanitizers read the same string. The bug lives in the login page’s error message. When someone submits a username that isn’t registered, WordPress builds an error using that submitted text, after running it through a function meant to strip out any HTML tags. That stripping function relies on PHP’s built-in strip_tags() , which only recognizes a tag if the opening bracket is immediately followed by a letter, no space in between.",
-      "whyItMatters": "",
-      "words": 128,
-      "url": "https://securityaffairs.com/196820/hacking/wordpress-xss2shell-flaw-turns-simple-login-bug-into-full-server-takeover.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-15.png?resize=1024%2C406&ssl=1",
-      "published": "2026-08-07T16:48:22.000Z",
-      "capturedAt": "2026-08-07T21:39:28.035Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Patch"
       ],
       "rewritten": false
     }
