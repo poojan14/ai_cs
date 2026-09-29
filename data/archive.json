@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-09-29T04:40:49.060Z",
+  "updatedAt": "2026-09-29T12:17:29.092Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0cj0vn2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "24-Year-Old Arrested in Dutch Investigation Into ShinyHunters",
+      "brief": "S. S. S. S. CISA adds Adobe and WSO2 flaws to its Known Exploited Vulnerabilities catalog Dutch police confirmed this week that a 24-year-old man from Amsterdam was arrested earlier this month as part of an investigation into the cybercrime group ShinyHunters . The suspect appears before Rotterdam District Court today, September 29. ”",
+      "whyItMatters": "",
+      "words": 54,
+      "url": "https://securityaffairs.com/199979/cyber-crime/24-year-old-arrested-in-dutch-investigation-into-shinyhunters.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-85.png?resize=900%2C1024&ssl=1",
+      "published": "2026-09-29T07:30:30.000Z",
+      "capturedAt": "2026-09-29T12:17:29.092Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "19s8tw8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Making AI an asset, not an expense",
+      "brief": "As AI moves from pilots to production, enterprises must decide when consumption pricing still fits—and when AI infrastructure should be treated as a productive asset. When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only part of the equation. When demand becomes steady and business-critical, a consumption-only approach can turn AI spending into a variable monthly line item that is difficult to forecast as usage, workloads, and model requirements change. At that point, the question is no longer simply which model to consume, or which provider offers the lowest token price: It is how to run AI economically, predictably, and at sustained scale.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?w=840",
+      "published": "2026-09-29T10:43:45.000Z",
+      "capturedAt": "2026-09-29T12:17:26.995Z",
+      "tags": [
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "027ksu9",
       "channel": "sec",
@@ -12610,48 +12653,6 @@
         "Hack",
         "Vulnerability",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0k3zms9",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns - WSJ",
-      "brief": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns WSJ",
-      "whyItMatters": "",
-      "words": 12,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0hoTXhycW0xZGFURlVCbWpTblpwSXM5dE9pMm1sX2ZjNkI1RFctQWZROUR5WlJDdG8wWk5Qa1ZqV3FUY3ZNYndXVlRpemFWcDEwTTJYcWs1QU5VckJwQWR3aTN0LVlZcElqWHg0dHdrb2VpcjA2WmlBeWdqNEo2T1l3YXVRWWM5WVV0cTA4S2pKZWhYd29kYUZrSTFwb3ZtNE5GNHBBN2dnMEdoY1YzLXpkYklsRHNGRXYwazd6cnM",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-07T21:17:00.000Z",
-      "capturedAt": "2026-08-07T21:39:26.441Z",
-      "tags": [
-        "Model",
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0mg4roq",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-      "brief": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. 9), the",
-      "whyItMatters": "",
-      "words": 49,
-      "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg",
-      "published": "2026-08-07T12:56:23.000Z",
-      "capturedAt": "2026-08-07T18:58:04.072Z",
-      "tags": [
-        "Patch",
-        "Attack"
       ],
       "rewritten": false
     }
