@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-30T21:56:48.415Z",
+  "updatedAt": "2026-10-01T04:36:42.214Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0ppu8zb",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
+      "brief": "In this article Why you should attend Microsoft Ignite Make the most of your time at Microsoft Ignite Explore the Security sessions at Microsoft Ignite 2026 Build your schedule In the agentic era, the stakes are higher: AI agents now act with real access to your identities, your data, and your cloud, so every adoption decision is a trust decision. That is why security is a through line at Microsoft Ignite 2026, from a Security Pre-Day before the event opens to a security segment in the keynote, and four security themes across all four days. Join us in San Francisco from November 17 to 20, 2026 , or online. See the Microsoft Security roadmap first, get hands-on with new agentic security solutions, and connect directly with the experts, partners, and peers who can help you make it real.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Ignite_2025-11-18_0339-1-scaled.jpg",
+      "published": "2026-09-30T19:31:00.000Z",
+      "capturedAt": "2026-10-01T04:36:42.214Z",
+      "tags": [
+        "Vulnerability",
+        "Phishing",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "14r66et",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "brief": "Gemini 4 Argon is launching first in a limited capacity so Google can make sure it’s not misaligned. Gemini 4 Argon is launching first in a limited capacity so Google can make sure it’s not misaligned. Google today revealed its next AI frontier model, which it’s calling Gemini 4 Argon. The new model delivers “frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,” according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. S. ”",
+      "whyItMatters": "",
+      "words": 86,
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-09-30T20:41:41.000Z",
+      "capturedAt": "2026-10-01T04:36:40.662Z",
+      "tags": [
+        "Model",
+        "Gemini",
+        "Deepmind"
+      ],
+      "rewritten": false
+    },
     {
       "id": "19bh989",
       "channel": "sec",
@@ -12612,46 +12656,6 @@
         "Breach",
         "Hack",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "02jdbtq",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Using AI has an environmental impact — here are 4 ways you can minimize it - Live Science",
-      "brief": "Using AI has an environmental impact — here are 4 ways you can minimize it Live Science",
-      "whyItMatters": "",
-      "words": 17,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVU4ZnZNakpmNG1sVmRKWUJ0ZE1tUzcyWjBuRGt6MXNOQ3VNS29ndGg2NUthN0pJeTFTQy1oaVJfdU82R19pRkY0RlE1N2xMV2ROOHZjdFFkRWFFNFdvdWdQdVpQS1pGaUE1ZE4ta0tjb3JYbURqRDZ3N2phRGVaanh3SHRLR3NHMTFnN2VlaDlob01fSmlJX0g4aExzYjA2V3QwckhBWGhpbmtENFN2OGhfYWhIYWhVdkxKaVI3cUZxdnZ2cVlDQzhBS3d6ZllE",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-08T15:00:00.000Z",
-      "capturedAt": "2026-08-08T15:30:14.568Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1hfmwe1",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-      "brief": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. 0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain",
-      "whyItMatters": "",
-      "words": 52,
-      "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv2q8ukeawl9ALLfPnkrRkD2a9umOrSxPHUJdclgLcKj5zM8k19y-NWuTGLrV1yIU4u0F2-QbAsD4zO-NkeEuWPwDqdUYbVFDG69EgOl0v55K0Brjp7lfIb6hExJGyVj9rj5KjeZPtoU97DwoaHAi_umLzQVqpedMMt08eas1akWBhNXUZ2WHOqVXczAf4/s1600/metabase.jpg",
-      "published": "2026-08-08T06:58:31.000Z",
-      "capturedAt": "2026-08-08T12:49:25.948Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Zero-Day"
       ],
       "rewritten": false
     }
