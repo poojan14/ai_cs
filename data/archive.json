@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-02T09:26:34.798Z",
+  "updatedAt": "2026-10-02T17:34:24.043Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1ccakso",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "brief": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. 0) - A missing authentication for critical function vulnerability in the csm-authorization-storage gRPC server that an",
+      "whyItMatters": "",
+      "words": 45,
+      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiypcfC3W6keUc31zSJympZfpI6eLwDhyphenhyphen4uy_0M3VFljfoSn2pjzBmS3yyAZTzILPxi_sXeOx2jyeu6mdSPKqjiFv7LAMd2mn6Q8GvIRq6yVXUoQm5MiXeEs96i9IT-ZCP2W7hAzR08B9JOuOJv8NNI7o7DfCSa7cplzrsT_x_0R0dPVSQxKmdLP8NvAsnp/s1600/dell.jpg",
+      "published": "2026-10-02T17:02:12.000Z",
+      "capturedAt": "2026-10-02T17:34:24.043Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1hzhkdl",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Documenting the tech worker movement",
+      "brief": "Despite the “dot-com crash” in 2000, the tech industry remained an attractive career destination for many who believed technology represented the future. The digital age — defined by global connectivity and computers — had firmly taken hold, and over time, the tech industry emerged as a dominant force in the labor market. High-paying jobs for engineers, designers, and professionals across a wide range of fields became increasingly common. MIT PhD student JS Tan SM ’22 was among those who, upon graduating from Brown University and Rhode Island School of Design in 2015, joined the tech industry. “A lot of us had this idea that technology, and in particular the technologies related to the internet, had the potential for bringing about a more progressive version of the world,” Tan says.",
+      "whyItMatters": "",
+      "words": 129,
+      "url": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-dusp-JS-Tan-book-release.jpg?itok=xetiKsr3",
+      "published": "2026-10-02T17:00:00.000Z",
+      "capturedAt": "2026-10-02T17:34:22.638Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1gsyk2c",
       "channel": "sec",
@@ -12621,49 +12665,6 @@
       "tags": [
         "Attack",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0wxv1qh",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Gemini, how do we reverse the DeepMind brain drain? - The Observer",
-      "brief": "Gemini, how do we reverse the DeepMind brain drain? The Observer",
-      "whyItMatters": "",
-      "words": 11,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHV2amRLbWlUR200WWMzZTZYb0lZV3RZbTBFeFZjdkVQTXluTXh1b3h5N1R0UjlYODZLdEdNSUhOOUJsRnhGWC14Q2ZGWHlaTlpmMEpocEtJS0w0aExsOEV6dW5rb0ExcnE3NWR0ZnEyYUdweEwzc1J6bDluTC1pLTYtWmVNai12cmNOQVNtbnZQeVZaam92cXV3",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-09T05:32:54.000Z",
-      "capturedAt": "2026-08-09T06:57:35.540Z",
-      "tags": [
-        "Gemini",
-        "Deepmind"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1nd0815",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "U.S. CISA adds a Progress LoadMaster flaw to its Known Exploited Vulnerabilities catalog",
-      "brief": "S. S. S. S. 6), to its Known Exploited Vulnerabilities (KEV) catalog . The vulnerability is an OS Command Injection Remote Code Execution issue that resides in API in Progress ADC Products. An unauthenticated attacker can trigger the flaw to execute arbitrary commands on the LoadMaster appliance by exploiting unsanitized input in multiple command endpoints In early July, cybersecurity firm eSentire observed exploitation attempts targeting CVE-2026-8037. Activity began June 29, 2026, but the attacks failed and no post-compromise activity was detected. Researchers warned that the public PoC and technical details could lead to increased exploitation.",
-      "whyItMatters": "",
-      "words": 95,
-      "url": "https://securityaffairs.com/196863/hacking/u-s-cisa-adds-a-progress-loadmaster-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "published": "2026-08-08T11:00:08.000Z",
-      "capturedAt": "2026-08-09T04:18:00.120Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
