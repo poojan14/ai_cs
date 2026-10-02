@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-02T17:34:24.043Z",
+  "updatedAt": "2026-10-02T21:54:33.069Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0jjk7qa",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+      "brief": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
+      "whyItMatters": "",
+      "words": 19,
+      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf31fc70ff522da98/6ac0148dfc9ca54499deca08/GettyImages-2207912388.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-10-02T20:18:37.000Z",
+      "capturedAt": "2026-10-02T21:54:33.069Z",
+      "tags": [
+        "Cyber",
+        "Attack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0pmz004",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "brief": "Composable infrastructure, sovereign data, and cross-functional coordination can enable intelligence to flow and AI to grow smarter. Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. 5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has produced fragmentation. Intelligence can accumulate in silos so that sales agents are unaware of open support tickets, for instance, or marketing systems are personalizing content without visibility into what finance already knows about a customer. Each function may perform well in isolation, but the enterprise as a whole learns little and has less information to act upon.",
+      "whyItMatters": "",
+      "words": 122,
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Report-2026-UPDATE-cover.png",
+      "published": "2026-10-02T15:49:04.000Z",
+      "capturedAt": "2026-10-02T21:54:30.607Z",
+      "tags": [
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1ccakso",
       "channel": "sec",
@@ -12626,45 +12669,6 @@
         "Hack",
         "Exploit",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0vlwj1h",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "brief": "Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song. Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song. ” His comments follow the producer Medasin’s videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it as Treblo AI-created . ”",
-      "whyItMatters": "",
-      "words": 68,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
-      "published": "2026-08-07T20:01:51.000Z",
-      "capturedAt": "2026-08-09T09:40:07.005Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0amgc51",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "brief": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was",
-      "whyItMatters": "",
-      "words": 61,
-      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFYjJTxVoOMkR9DDRPZ5PkeR_EWAqmBScR3TPw3mlweipGlnQKq0OdfVqR2f26QIV3kBJWQIM65f8XwMSFq3zT6Bl4fsTvkPHxJiU2LilhK9s0tcreXt2gotEpE8sKoDrLQJ3SSVY9B-RS0FsS2dC480op8OV-caeaZvNyTiIipQbeNFJGMnAcjWEVq7g/s1600/rovo.jpg",
-      "published": "2026-08-08T08:54:50.000Z",
-      "capturedAt": "2026-08-09T06:57:36.706Z",
-      "tags": [
-        "Attack",
-        "Security"
       ],
       "rewritten": false
     }
