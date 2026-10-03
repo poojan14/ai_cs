@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-03T11:13:42.211Z",
+  "updatedAt": "2026-10-03T15:52:02.345Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1nx9oco",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Antino Backdoor Lets China-Linked UAT-11587 Turn Microsoft 365 Into a C2 Channel",
+      "brief": "S. S. S. S. CISA adds Apple Multiple Products flaw to its Known Exploited Vulnerabilities catalog Cisco Talos has been tracking a cluster of espionage activity since September 2025 that it calls UAT-11587, and by July 2026 the group had hit at least 16 government and policy organizations across eight Asian countries. The toolset includes a previously undocumented backdoor Talos named Antino, and the thing that makes it worth paying attention to isn’t how it gets in. It’s where it hides once it’s there. Antino is written in Rust and works on both 32-bit and 64-bit versions of Windows. It supports the usual backdoor features, including shell and PowerShell access, file transfers, in-memory shellcode execution and persistence.",
+      "whyItMatters": "",
+      "words": 117,
+      "url": "https://securityaffairs.com/200264/apt/antino-backdoor-uses-your-inbox-as-its-control-panel.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-6.png?resize=868%2C612&ssl=1",
+      "published": "2026-10-03T09:26:04.000Z",
+      "capturedAt": "2026-10-03T15:52:02.345Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1munrgn",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "brief": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic . It’s understandable if you’re feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous the thing they helped build is. They did, after all, make this mess. But that doesn’t mean we should discount their warnings. Robinson says that the culture in industry is fundamentally broken. That this is a deeper issue than simply slapping a few new rules or regulations on how we handle training models. Silicon Valley has operated with “extreme confidence” and “perpetual sprints,” he says, building bigger and better models with “unimpeded optimism” that ignores or underestimates potential problems.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-10-03T14:31:56.000Z",
+      "capturedAt": "2026-10-03T15:52:00.400Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1g5ie1x",
       "channel": "sec",
@@ -12630,49 +12673,6 @@
         "Vulnerability",
         "Exploit",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1dlf017",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "The AI safety test is becoming a safety risk",
-      "brief": "Over the past few months, AI agents undergoing cybersecurity evaluations have escaped their boundaries, accessed the internet, and, in some cases, hacked into real-world systems. The incidents have involved models from OpenAI, Anthropic, Meta, and most recently, Chinese AI lab Moonshot AI, with testing conducted by several different organizations including a cyber evaluation startup called Irregular. The episodes expose a growing problem for the AI industry: As autonomous agents become more capable, the environments designed to safely test their limits are failing to contain them. “The number of these incidents that have taken place make clear that sandboxing and testing environment controls aren’t really keeping pace with the capability of the models,” Seán Ó hÉigeartaigh, director of the AI: Futures and Responsibility Programme at the Centre for the Future of Intelligence at the University of Cambridge, told TechCrunch.",
-      "whyItMatters": "",
-      "words": 138,
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
-      "published": "2026-08-09T14:30:00.000Z",
-      "capturedAt": "2026-08-09T18:41:14.700Z",
-      "tags": [
-        "Model",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0y6csh0",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Palo Alto Networks Faces China Cybersecurity Review Amid Rising Tech Tensions",
-      "brief": "S. S. S. CISA adds Langflow, Apache Tomcat, and N-able N-central flaws to its Known Exploited Vulnerabilities catalog China’s Cyberspace Administration (CAC) announced that it’s launching a cybersecurity review of products Palo Alto Networks sells in the country. The announcement itself runs to a few sentences of formal Chinese, citing national security law and cybersecurity law as the basis for the review, and offers essentially nothing beyond that. ” the regulator says .",
-      "whyItMatters": "",
-      "words": 73,
-      "url": "https://securityaffairs.com/196881/intelligence/palo-alto-networks-faces-china-cybersecurity-review-amid-rising-tech-tensions.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2020/05/Palo-Alto-Networks.png",
-      "published": "2026-08-08T13:41:32.000Z",
-      "capturedAt": "2026-08-09T15:31:57.683Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Cyber"
       ],
       "rewritten": false
     }

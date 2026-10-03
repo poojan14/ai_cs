@@ -1,46 +1,48 @@
 {
-  "generatedAt": "2026-10-03T11:13:42.211Z",
-  "nextUpdateAt": "2026-10-03T14:13:42.211Z",
+  "generatedAt": "2026-10-03T15:52:02.345Z",
+  "nextUpdateAt": "2026-10-03T18:52:02.345Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "0dxyvwv",
+      "id": "1munrgn",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "brief": "Meta says FDA isn’t sufficient to Muse reading messages. Apple begs to differ. Apple says it is changing its macOS privacy settings to stop third-party app developers from misusing them to access message histories. Friday’s announcement comes two weeks after tech columnist Jason Aten said that Meta’s new general-purpose AI agent Muse sent him an unsolicited notification referencing a thread between him and a co-worker over Apple Messages. Aten said he never granted Muse permissions to read his messages and had assumed they were off-limits. Social media last week blew up with masses of people who agreed and said the incident showed that AI assistants given access to calendars, emails, messages, shopping accounts, and other resources are akin to a skill saw or other power tool. While potentially useful, they can do real damage if not used carefully.",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "brief": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic . It’s understandable if you’re feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous the thing they helped build is. They did, after all, make this mess. But that doesn’t mean we should discount their warnings. Robinson says that the culture in industry is fundamentally broken. That this is a deeper issue than simply slapping a few new rules or regulations on how we handle training models. Silicon Valley has operated with “extreme confidence” and “perpetual sprints,” he says, building bigger and better models with “unimpeded optimism” that ignores or underestimates potential problems.",
       "whyItMatters": "",
-      "words": 138,
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "published": "2026-10-02T23:03:16.000Z",
-      "capturedAt": "2026-10-03T11:13:41.021Z",
+      "words": 135,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-10-03T14:31:56.000Z",
+      "capturedAt": "2026-10-03T15:52:00.400Z",
       "tags": [
-        "Agent"
+        "Model",
+        "Openai"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "1g5ie1x",
+      "id": "1nx9oco",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-      "brief": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the ability to respond to risk at scale. This report examines how core areas of",
+      "title": "Antino Backdoor Lets China-Linked UAT-11587 Turn Microsoft 365 Into a C2 Channel",
+      "brief": "S. S. S. S. CISA adds Apple Multiple Products flaw to its Known Exploited Vulnerabilities catalog Cisco Talos has been tracking a cluster of espionage activity since September 2025 that it calls UAT-11587, and by July 2026 the group had hit at least 16 government and policy organizations across eight Asian countries. The toolset includes a previously undocumented backdoor Talos named Antino, and the thing that makes it worth paying attention to isn’t how it gets in. It’s where it hides once it’s there. Antino is written in Rust and works on both 32-bit and 64-bit versions of Windows. It supports the usual backdoor features, including shell and PowerShell access, file transfers, in-memory shellcode execution and persistence.",
       "whyItMatters": "",
-      "words": 52,
-      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6JJFsgFmlQyQC0ZFye5jB8OydQuNv7BQYFdVh0meweGiJD5bXisFLalhMTHPTfkPkbOewEeAepAz9Pd1mOIRy_1q67d4J-ougj5reZ4j9PjmpzIgk7wAr8HGlY4Mk8o3js2s_6Wpa0z4IC55ozyl4Yc60OEFjU1U8FXz8562V3IYFnoikN16KsrVu1w/s1600/py-report.jpg",
-      "published": "2026-10-03T11:00:00.000Z",
-      "capturedAt": "2026-10-03T11:13:42.211Z",
+      "words": 117,
+      "url": "https://securityaffairs.com/200264/apt/antino-backdoor-uses-your-inbox-as-its-control-panel.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-6.png?resize=868%2C612&ssl=1",
+      "published": "2026-10-03T09:26:04.000Z",
+      "capturedAt": "2026-10-03T15:52:02.345Z",
       "tags": [
-        "Cyber",
-        "Security"
+        "Hack",
+        "Malware",
+        "Exploit"
       ],
       "rewritten": false
     }
