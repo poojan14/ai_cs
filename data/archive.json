@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-10-03T04:11:29.041Z",
+  "updatedAt": "2026-10-03T11:13:42.211Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1g5ie1x",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "brief": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the ability to respond to risk at scale. This report examines how core areas of",
+      "whyItMatters": "",
+      "words": 52,
+      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6JJFsgFmlQyQC0ZFye5jB8OydQuNv7BQYFdVh0meweGiJD5bXisFLalhMTHPTfkPkbOewEeAepAz9Pd1mOIRy_1q67d4J-ougj5reZ4j9PjmpzIgk7wAr8HGlY4Mk8o3js2s_6Wpa0z4IC55ozyl4Yc60OEFjU1U8FXz8562V3IYFnoikN16KsrVu1w/s1600/py-report.jpg",
+      "published": "2026-10-03T11:00:00.000Z",
+      "capturedAt": "2026-10-03T11:13:42.211Z",
+      "tags": [
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0dxyvwv",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "brief": "Meta says FDA isn’t sufficient to Muse reading messages. Apple begs to differ. Apple says it is changing its macOS privacy settings to stop third-party app developers from misusing them to access message histories. Friday’s announcement comes two weeks after tech columnist Jason Aten said that Meta’s new general-purpose AI agent Muse sent him an unsolicited notification referencing a thread between him and a co-worker over Apple Messages. Aten said he never granted Muse permissions to read his messages and had assumed they were off-limits. Social media last week blew up with masses of people who agreed and said the incident showed that AI assistants given access to calendars, emails, messages, shopping accounts, and other resources are akin to a skill saw or other power tool. While potentially useful, they can do real damage if not used carefully.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "published": "2026-10-02T23:03:16.000Z",
+      "capturedAt": "2026-10-03T11:13:41.021Z",
+      "tags": [
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0du3znw",
       "channel": "sec",
@@ -12632,45 +12673,6 @@
         "Hack",
         "Vulnerability",
         "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1ws3mtn",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AI detectors are creating a new era of distrust",
-      "brief": "Tools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Tools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway. If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Long before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled with content from across the web, scholarly articles, and more to check for matching sentences and phrases. Some, like Turnitin, offer a percentage that claims to illustrate how much of the student’s writing overlaps with other works.",
-      "whyItMatters": "",
-      "words": 144,
-      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-09T12:00:00.000Z",
-      "capturedAt": "2026-08-09T15:31:55.413Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1d5wwts",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-      "brief": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email. PortSwigger researcher Gareth",
-      "whyItMatters": "",
-      "words": 57,
-      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUnWbFb6UGu3ML1MqcuVXYwk0yoD6WzgXIQmi8ijkZQjS6M3g1F3kgV-RanNgyP1bdpNxDOOqMJzJnutZGh4MUVyYCbbu98sNXtAp-GWxueyKH9fDo3z9HmBl4tL-rj91kb11bhdhRvWGAYe56YGYMEzJgGIZeUqj9eGH10Bynj0YE6WMLl0J7O-HhLc/s1600/css-bomb.jpg",
-      "published": "2026-08-08T08:03:57.000Z",
-      "capturedAt": "2026-08-09T12:51:46.455Z",
-      "tags": [
-        "Attack",
-        "Leak"
       ],
       "rewritten": false
     }
