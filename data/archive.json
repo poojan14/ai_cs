@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-03T15:52:02.345Z",
+  "updatedAt": "2026-10-03T20:42:25.048Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0itk0qq",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "brief": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations. \"In the",
+      "whyItMatters": "",
+      "words": 52,
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg",
+      "published": "2026-10-03T14:36:33.000Z",
+      "capturedAt": "2026-10-03T20:42:25.048Z",
+      "tags": [
+        "Ransomware",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "137pymw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "brief": "Amazon Web Services CEO Matt Garman said the company has stopped using nondisclosure agreements (NDAs) in its dealings with government agencies as it seeks approval to build new data centers. Garman’s statement is just one sentence in a longer blog post in which he tried to push back against widespread suspicion of data centers, and to make the case that they’re actually good for communities. NDAs are a significant piece of the broader data center backlash. ” As a result of that backlash, New York announced a one-year moratorium on permits for large data centers , and according to Garman, there are more than 100 data center moratoriums currently being considered across the United States.",
+      "whyItMatters": "",
+      "words": 115,
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "published": "2026-10-03T18:43:57.000Z",
+      "capturedAt": "2026-10-03T20:42:23.677Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1nx9oco",
       "channel": "sec",
@@ -12631,48 +12671,6 @@
         "Breach",
         "Hack",
         "Phishing"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "13nt3yn",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "The global artificial intelligence (AI) and semiconductor markets are going through unprecedented vo.. - 매일경제",
-      "brief": "The global artificial intelligence (AI) and semiconductor markets are going through unprecedented vo.. 매일경제",
-      "whyItMatters": "",
-      "words": 14,
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xb1QtMEFUZXV4c3BhRlI5U0EwVWoxWjhqLTlUSDVtakZTd0t0TU5yWHA4WGlHdlBlclc2WG1ZbFFKSGx2Z2VBejZoSElIUms",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-09T20:47:54.000Z",
-      "capturedAt": "2026-08-09T21:32:40.877Z",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1v0toko",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
-      "brief": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. Join this live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. CodeSecCon bridges the gap between dev and security. Discover best practices for secure coding, innovative risk-reduction tools, and safe AI integration to cultivate a true DevSecOps culture. Safely secure your apps! ServiceNow has appointed Simon Mouyal as Chief Marketing Officer. James Wilkinson has been named Chief Information Security Officer for the City of Dallas. Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. (Etay Maor)",
-      "whyItMatters": "",
-      "words": 131,
-      "url": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
-      "source": "SecurityWeek",
-      "sourceSite": "securityweek.com",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Atlassian-Rovo.webp",
-      "published": "2026-08-08T11:30:00.000Z",
-      "capturedAt": "2026-08-09T18:41:16.010Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Attack"
       ],
       "rewritten": false
     }
