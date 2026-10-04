@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-04T20:57:13.195Z",
+  "updatedAt": "2026-10-04T23:54:18.139Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1w1rgtf",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "brief": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. The vulnerability is a memory buffer flaw affecting NetScaler ADC and NetScaler Gateway appliances using SAML authentication with Gateway or AAA functionality. 7 and has been used in targeted attacks against unmitigated NetScaler deployments, causing denial-of-service conditions. \"Citrix has observed targeted attacks on unmitigated NetScaler deployments which can lead to Denial of Service,\" Citrix said in a related blog post published today. \"If the condition is triggered repeatedly, the service may remain unavailable. 28 to fix the CVE-2026-88779 zero-day flaw.",
+      "whyItMatters": "",
+      "words": 114,
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg",
+      "published": "2026-10-04T21:58:01.000Z",
+      "capturedAt": "2026-10-04T23:54:18.139Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0g04tmz",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+      "brief": "Anthropic, OpenAI and Google DeepMind shipped 4 frontier-class models within 30 days. 1 arrived on September 1. GPT-6 Astra followed on September 3. 1 Sol and Gemini 4 Argon landed in the last days of September. We covered each launch on its own. This piece puts them side by side. The benchmark scores overlap more than the launch posts suggest. The prices, access rules and cost per task do not. One change frames the lineup. 1 Astra on September 28 after it failed internal scope and authorization tests. GPT-6 Astra stays OpenAI’s top model for now. 1 share the same $10 input and $50 output list price. Sol and Argon list at one-fifth of that. Argon’s price is introductory and doubles later. 1 specs . Standard first-party list prices, short-context tier.",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-04T20:59:56.000Z",
+      "capturedAt": "2026-10-04T23:54:16.643Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1oy9ye5",
       "channel": "sec",
@@ -12628,48 +12672,6 @@
         "Hack",
         "Ransomware",
         "Threat Actor"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1k32idj",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-      "brief": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence — his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled “The Future is for Everyone,” broadly lays out his beliefs about how the technology should be developed, expanded, and regulated, and how Meta is positioning itself to enable those goals. Some points echo a similar (albeit, much shorter) public letter that Zuckerberg put out last year , heralding the importance of public access to superintelligent AI — a term for artificial general intelligence (AGI) models capable of surpassing human intelligence, which AI companies are racing to develop. Both were published with similar intentions: to pitch the supposed personal, societal, and economic benefits of superintelligent AI, and to grandstand Meta as a responsible steward to deliver that future.",
-      "whyItMatters": "",
-      "words": 149,
-      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-10T15:19:05.000Z",
-      "capturedAt": "2026-08-10T18:58:05.377Z",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1q7srwz",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
-      "brief": "In this article Pre-encryption Encryption Post-encryption Defending against DeadLock ransomware Indicators of compromise Microsoft Threat Intelligence tracks DeadLock ransomware as an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications and data leak operations. Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process. This architecture likely increases the resilience of portions of its communication, leak-hosting, and negotiation infrastructure, allowing DeadLock operators to recover from some disruption efforts while maintaining continuity for victims. Microsoft has observed DeadLock ransomware being deployed by multiple groups including an affiliate of the Lynx and INC ransomware ecosystems. First observed in July 2025, DeadLock operators employ double extortion tactics, encrypting victim environments while threatening to publicly release exfiltrated data.",
-      "whyItMatters": "",
-      "words": 131,
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
-      "source": "Microsoft Security Blog",
-      "sourceSite": "microsoft.com",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Figure-1.-DeadLock-icon-for-encrypted-files.jpg",
-      "published": "2026-08-10T15:00:00.000Z",
-      "capturedAt": "2026-08-10T16:00:04.695Z",
-      "tags": [
-        "Breach",
-        "Ransomware",
-        "Malware"
       ],
       "rewritten": false
     }
