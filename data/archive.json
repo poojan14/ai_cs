@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-05T04:31:21.306Z",
+  "updatedAt": "2026-10-05T13:50:20.972Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0phz2f6",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+      "brief": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new propagation technique, but because it repurposes ordinary STUN behavior into a practical command-and-control channel,\" Nozomi Networks said in a report",
+      "whyItMatters": "",
+      "words": 57,
+      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s1600/botnet.jpg",
+      "published": "2026-10-05T11:46:25.000Z",
+      "capturedAt": "2026-10-05T13:50:20.972Z",
+      "tags": [
+        "Malware",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0bbd2uw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "brief": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. Companies in the NVIDIA Inception program for startups are building AI applications to support clinicians at each of these friction points, including imaging, risk assessment and treatment planning. S. each year, but a projected shortfall of tens of thousands of radiologists over the next decade is straining the system’s capacity to read them. At the other end of the care timeline, treatment decisions often hinge on genomic assays sent off to outside labs — assays that take weeks to process, at a moment when speed and certainty matter most.",
+      "whyItMatters": "",
+      "words": 144,
+      "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/AdobeStock_422714256_BCAMheader.jpeg",
+      "published": "2026-10-05T13:00:57.000Z",
+      "capturedAt": "2026-10-05T13:50:19.199Z",
+      "tags": [
+        "Model",
+        "Nvidia",
+        "Inference"
+      ],
+      "rewritten": false
+    },
     {
       "id": "07x0p3j",
       "channel": "sec",
@@ -12626,50 +12670,6 @@
         "Vulnerability",
         "Zero-Day",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0v4lsdv",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "brief": "At a convening for the Schmidt Sciences AI2050 program, I saw how academic researchers are facing up to the challenges of the AI era. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI researchers in the world. I was hosting roundtable interviews and speaking at a media training for a convening of the Schmidt Sciences AI2050 program, an initiative funded by Eric and Wendy Schmidt that supports academics whose work involves AI. The fellows list is a who’s who of AI luminaries, and though not all of them made it out to the Bay, every time I turned a corner I saw a scientist whom I’d interviewed previously or whose research I admired. )",
-      "whyItMatters": "",
-      "words": 136,
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/pacademicAI1a.jpg?resize=1200,600",
-      "published": "2026-08-10T20:00:00.000Z",
-      "capturedAt": "2026-08-11T01:47:57.173Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0gbnoz2",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
-      "brief": "Security teams are being asked to defend a growing attack surface with fewer people and around the clock, against threat actors who never take a night off. As cyberattackers increasingly use AI to launch and scale campaigns, the volume, speed, and sophistication of threats continue to rise. Closing that gap takes more than tooling. It takes a partner that pairs a leading security platform with scaled intelligence and human experts who can act on your behalf at any hour. That’s exactly what Microsoft Defender Experts MDR is built to do. We are excited to announce that we have been named a Leader in the 2026 IDC MarketScape: Worldwide MDR/MXDR for the Enterprise Vendor Assessment (Doc #US54792426, July 2026). Read the excerpt here .",
-      "whyItMatters": "",
-      "words": 123,
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
-      "source": "Microsoft Security Blog",
-      "sourceSite": "microsoft.com",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/IDC-MDR.jpg",
-      "published": "2026-08-10T16:00:00.000Z",
-      "capturedAt": "2026-08-10T21:41:35.536Z",
-      "tags": [
-        "Malware",
-        "Phishing",
-        "Cyber"
       ],
       "rewritten": false
     }
