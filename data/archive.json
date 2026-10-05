@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-04T23:54:18.139Z",
+  "updatedAt": "2026-10-05T04:31:21.306Z",
   "count": 600,
   "stories": [
+    {
+      "id": "07x0p3j",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2",
+      "brief": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. AI agents can automate tasks, analyze large amounts of data, discover vulnerabilities and accelerate offensive operations. At the same time, AI is creating new capabilities for threat detection, incident analysis and response. Security Affairs’ new newsletter follows this evolution, covering every week the latest threats, attacks, vulnerabilities and developments at the intersection of AI and cybersecurity. gov with AI chatbots at its core OpenAI CEO announces new AI agent and avoids mention of security concerns at developer conference Why can’t we just keep rogue AIs off the internet? S.",
+      "whyItMatters": "",
+      "words": 127,
+      "url": "https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/09/Security-Affairs-NewsLetter-AI-Cyber.jpg",
+      "published": "2026-10-04T15:28:51.000Z",
+      "capturedAt": "2026-10-05T04:31:21.306Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1o7jtfp",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Former Anthropic researcher Jacob Coxon to testify at NYC hearing on AI - Business Standard",
+      "brief": "Former Anthropic researcher Jacob Coxon to testify at NYC hearing on AI Business Standard",
+      "whyItMatters": "",
+      "words": 14,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXlRNUNLZXViV3BCSHVOOF9STTloRnc4bllqR0d1R0IyYVRfaW9ZWFZlb3gzOXJBYlMxbU5pWUpTZDU1X3ptRkdUbVpRNVA3UG5ZZ0VRcXZhdml6M3o2SU9WRGRBLWhfZzdJaEl3LVUzaHNid1NuTlVoV1FwNW5CSmhHZmduemhnSkkyNzY0b3EwYVl6cFZiX1FuaDY5MmhnOFJEWElqTGQydUhjR0cwRnFXcmNla1E1MkowOHJkXzlqN1l3NWF1VHBqbTcwS2ZvOVHSAdcBQVVfeXFMT0ViQVpDUkxDUjg2cXhuQ2RWdE5ndWxkUjV4UTNzV2h6OGk0N1V1dndrVHg0akF5YWo4QmxxZkpjVURZSTNpTzdYdmpNbTNNaWVKTlJzV1ZrZTlDbTJOeS1obzNNRHFtSi0tS0xkUW1LdC1MRFJKQmt4RUVrY2Z5SHlwNXMzVWdZMWN1VnlUVndnRklrRzJzbXFrdTNlQmhZc1hyRDFPejRBV3preVg4VTFFNmRHcEdoNm9ESVdkU0pZeXpDaGFtampBUE1VcmxRZnFxNmpCTUU",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-10-05T03:22:46.000Z",
+      "capturedAt": "2026-10-05T04:31:13.649Z",
+      "tags": [
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1w1rgtf",
       "channel": "sec",
@@ -12628,50 +12670,6 @@
         "Malware",
         "Phishing",
         "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0n80xj7",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-      "brief": "Artificial intelligence models are jacks of many trades, including writing, generating images, and creating 3D models. But they aren’t as helpful when it comes to testing robots or designs for vehicles in diverse environments, since they don’t understand physics as well as they do pixels or text. To build an AI system that can reliably simulate a variety of physical scenarios, engineers need a range of physics data at a scale that isn’t yet feasible. That’s because it’s very time-consuming to get neural networks just a few data points they can understand. They rely on algorithms called “numerical solvers” to calculate physical properties at different points of a 3D shape. It’s a thorough process, but it takes so long that it limits how much data you’ll have to, say, test if your plane designs are safe and aerodynamic.",
-      "whyItMatters": "",
-      "words": 138,
-      "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-csail-geopt.jpg?itok=QbX1i1qV",
-      "published": "2026-08-10T19:25:00.000Z",
-      "capturedAt": "2026-08-10T21:41:34.116Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0wqmyl3",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "brief": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said. encrypted",
-      "whyItMatters": "",
-      "words": 44,
-      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s1600/strom-ransomware.jpg",
-      "published": "2026-08-10T16:38:37.000Z",
-      "capturedAt": "2026-08-10T18:58:06.583Z",
-      "tags": [
-        "Hack",
-        "Ransomware",
-        "Threat Actor"
       ],
       "rewritten": false
     }
