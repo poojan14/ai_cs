@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-06T12:54:13.250Z",
+  "updatedAt": "2026-10-06T19:59:59.979Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0gg5eil",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "CISO perspectives on managing vulnerability risks in the age of AI",
+      "brief": "Most of what has been written about AI and vulnerability management focuses on speed: how much faster frontier AI models can scan code, find weaknesses, design patches, and build exploits than any human team. That part is true, and it matters to how we remediate vulnerabilities. The more challenging question is what happens after the scan? Frontier AI models are about to hand every security team a far larger set of findings than they have ever had to work through. The real test for chief information security officers (CISOs) and IT security leaders is not how fast they can patch. It is whether they can keep the balance between patching quickly and patching correctly, at a scale no human review process was built for. This shift creates both new challenges and new opportunities.",
+      "whyItMatters": "",
+      "words": 133,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/CISO-managing-risks.jpg",
+      "published": "2026-10-06T16:00:00.000Z",
+      "capturedAt": "2026-10-06T19:59:59.979Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ck4ltr",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
+      "brief": "Chris Bourg, who has served as director of the MIT Libraries since 2015, has been named vice provost and Barbara K. Ostrom (1978) Director of the Libraries, MIT Provost Anantha Chandrakasan announced today. “The title ‘vice provost’ signals the enduring importance of the MIT Libraries in the digital age,” said Chandrakasan. ” Thanks to a generous gift from Barbara K. Ostrom ’78, SM ’78, the position of the director of the libraries now has an endowment to help fund it in perpetuity. Bourg noted that the gift is especially meaningful for her, due to the sense of service she shares with Ostrom: they both completed Reserve Officers' Training Corps (ROTC) during their time as undergraduates — Bourg at Duke University and Ostrom at MIT — before going on to active military service.",
+      "whyItMatters": "",
+      "words": 132,
+      "url": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Chris-Bourg.jpg?itok=3Zzuer2t",
+      "published": "2026-10-06T17:00:00.000Z",
+      "capturedAt": "2026-10-06T19:59:57.685Z",
+      "tags": [
+        "Model",
+        "Generative"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0ywpm03",
       "channel": "sec",
@@ -12633,49 +12676,6 @@
         "Breach",
         "Ransomware",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0cp2z9e",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "brief": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software and developer tools, plus the accelerated computing, libraries and educational resources that help users get started. It’s shaping up to be a big month for agents. Follow along for the latest developments in this special-edition NVIDIA Local AI blog series, with new updates added over the coming weeks. 5 Lightning , a customizable open 30B mixture-of-experts (MoE) model for always-on agents. 5 Lightning delivers up to 4x faster token generation and 30% faster time to completion compared to open models in its class.",
-      "whyItMatters": "",
-      "words": 138,
-      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/raig-rolling-blog-local-ai-community-open-source.jpg",
-      "published": "2026-08-11T13:00:25.000Z",
-      "capturedAt": "2026-08-11T13:06:52.871Z",
-      "tags": [
-        "Model",
-        "Agent",
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "00sa0h2",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
-      "brief": "Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did. Join this live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. CodeSecCon bridges the gap between dev and security. Discover best practices for secure coding, innovative risk-reduction tools, and safe AI integration to cultivate a true DevSecOps culture. Safely secure your apps! ServiceNow has appointed Simon Mouyal as Chief Marketing Officer. James Wilkinson has been named Chief Information Security Officer for the City of Dallas. Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. (Etay Maor)",
-      "whyItMatters": "",
-      "words": 137,
-      "url": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
-      "source": "SecurityWeek",
-      "sourceSite": "securityweek.com",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Hacker-Conversations-Marcus-Hutchins.jpeg",
-      "published": "2026-08-11T10:00:00.000Z",
-      "capturedAt": "2026-08-11T10:01:24.961Z",
-      "tags": [
-        "Hack",
-        "Security"
       ],
       "rewritten": false
     }
