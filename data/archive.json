@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-06T05:17:19.388Z",
+  "updatedAt": "2026-10-06T12:54:13.250Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0ywpm03",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure",
+      "brief": "S. S. S. CISA adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog FortiGuard Labs researchers spotted a Linux malware family they call ClingSTUN, and the name gives away its trick immediately. Instead of relying on a dedicated command server, the malicious code leans on STUN, the protocol that helps devices behind a router figure out their real public IP address. Video calling apps use it constantly, which means ClingSTUN’s network traffic hides inside something that already looks completely normal. “ClingSTUN functions as a back-connect proxy backdoor, turning infected systems into remotely controlled proxy nodes. ” reads the report published by Fortinet. ”",
+      "whyItMatters": "",
+      "words": 104,
+      "url": "https://securityaffairs.com/200450/uncategorized/clingstun-linux-backdoor-abuses-public-stun-infrastructure.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-13.png?resize=1024%2C249&ssl=1",
+      "published": "2026-10-06T06:31:08.000Z",
+      "capturedAt": "2026-10-06T12:54:13.250Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0yj5kck",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
+      "brief": "Reka has released a research preview of Rho-1 , a 19B omni-reasoning model trained from scratch. A single neural network understands and generates text, images and video, reasons over them, and outputs robot actions. Reka frames it as a direct replacement for agentic pipelines that pass work between modality-specific models. What Rho-1 Changes Most multimodal systems today are pipelines. A central model plans, then hands jobs to specialists for images, video or detection. Each handoff adds latency, and each specialist sees only a narrow request. Rho-1 removes those handoffs. Text, vision and robotic actions become tokens inside one context window. According to Reka’s research , one unedited session shows the full loop. The model draws a lighthouse, boxes it, animates it, edits the video into a snowstorm, and explains the difference. That all happens in 5 turns, with no tool call and no second model.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-06T06:45:31.000Z",
+      "capturedAt": "2026-10-06T12:54:11.608Z",
+      "tags": [
+        "Model",
+        "Deepmind",
+        "Neural"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0v94shy",
       "channel": "sec",
@@ -12631,48 +12675,6 @@
       "capturedAt": "2026-08-11T10:01:24.961Z",
       "tags": [
         "Hack",
-        "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0jhoi6l",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Are We Failing the Next Generation in Our Artificial Intelligence (AI) Rush? - LUXUO",
-      "brief": "Are We Failing the Next Generation in Our Artificial Intelligence (AI) Rush? LUXUO",
-      "whyItMatters": "",
-      "words": 13,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM19ORTNUblZmM1l6d1JkSEFvMkE1T2R2dWdCdTFiVEtEZGkyRW5QOFdhZ3cwSWJpZVhHZjNmdEdyUzBOX2l6WHM1ZlNPWURFdVZQUDFMXzltdllQbUFVUlpMX002SmhHS0NNT2RnNC1KaVY3ai1sdkI2ZjVvby15NjQyNVVweldaRjVzNTdRSlJ2S2lZWVg0bGJYLUxDZ3pjRFRJbTZtYTltSm81",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-11T09:50:06.000Z",
-      "capturedAt": "2026-08-11T10:01:23.293Z",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1585f2i",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-      "brief": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. org repository,\" Wordfence researcher Paolo Tresso said.",
-      "whyItMatters": "",
-      "words": 35,
-      "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg",
-      "published": "2026-08-11T05:48:44.000Z",
-      "capturedAt": "2026-08-11T07:08:45.966Z",
-      "tags": [
-        "Cyber",
-        "Attack",
         "Security"
       ],
       "rewritten": false
