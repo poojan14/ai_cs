@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-07T00:23:56.030Z",
+  "updatedAt": "2026-10-07T09:55:58.961Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0kq59j9",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ASOS Confirms Cyberattack, Data Breach",
+      "brief": "Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users. Learn how to address potential risks and not restrict AI adoption in your organization. See what a centralized AI gateway is and how it works in practice. Join as we decipher the world of zero trust and share war stories on securing an organization by eliminating implicit trust and continuously validating every stage of a digital interaction. Chip Wentz has been appointed as SVP & CISO at Keurig Dr Pepper Inc. Quantum Secure Encryption Corp. has appointed Joseph Hall as CIO. As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals. (Joshua Goldfarb)",
+      "whyItMatters": "",
+      "words": 116,
+      "url": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
+      "source": "SecurityWeek",
+      "sourceSite": "securityweek.com",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+      "published": "2026-10-07T09:46:20.000Z",
+      "capturedAt": "2026-10-07T09:55:58.961Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1r33dt8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
+      "brief": "Meta has open-sourced Rebalancer , a C++ library with a Python interface for solving assignment problems. It decides which objects go into which bins under constraints and objectives. According to the Engineering at Meta’s post , Rebalancer has handled resource allocation across Meta for over 9 years. 0 with documentation , a PyPI package and a debugging UI called Rebalancer Explorer. Is it deployable? Yes. 12+, with prebuilt wheels for Linux x86-64 and macOS 14+ ARM64. rpm and Homebrew packages also exist. PyPI still classifies the project as Alpha. What Problem Does Rebalancer Solve? Assignment problems show up across Meta’s stack. Racks go into datacenters, servers go to services, tasks go to servers, and user traffic goes to datacenters. Meta names 2 blockers: usability and scalability. Engineers struggle to turn policies into precise formulas, and many problems are NP-hard and too large for commercial solvers.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "published": "2026-10-07T06:29:14.000Z",
+      "capturedAt": "2026-10-07T09:55:57.630Z",
+      "tags": [
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "09lemhg",
       "channel": "sec",
@@ -12636,49 +12679,6 @@
         "Vulnerability",
         "Exploit",
         "Zero-Day"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1inbsiz",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-      "brief": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. 5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron 3 Nano and reflects NVIDIA’s commitment to continually improving open models for greater accuracy and speed. 5 Lightning, a 30-billion-parameter mixture-of-experts model, helps create smarter and more efficient agentic applications. Also, NVIDIA is releasing NeMo Switchyard, an open source library for smart routing inside popular agent tools. Enterprises can use it to build a router based on their specific needs. When deployed, NeMo Switchyard can intelligently direct each request to the most capable and suitable model for the job, across developers’ own mix of open, proprietary and NVIDIA models, without requiring developers to rewrite their applications.",
-      "whyItMatters": "",
-      "words": 140,
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
-      "published": "2026-08-11T13:00:05.000Z",
-      "capturedAt": "2026-08-11T19:02:54.775Z",
-      "tags": [
-        "Model",
-        "Chatbot",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0ylh32i",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe",
-      "brief": "A cyberattack on global freight company Ceva Logistics has reportedly disrupted shipments for major European retailers and potentially exposed customer data belonging to users of a popular video game platform. Ceva has not publicly disclosed the attack and did not respond to a request for comment. However, according to media reports, the company notified corporate clients earlier this month that a cyber intrusion was affecting part of its contract logistics business. The incident reportedly disrupted operations at eight warehouses in Europe, causing shipping delays for retailers whose inventory was stored at the affected facilities. Companies reported to have been affected include Dutch e-commerce giant Bol, luxury department store De Bijenkorf, eyewear company Ace & Tate and Amsterdam football club Ajax, as well as Steam’s hardware business in Europe. The full scope of the breach remains unclear, including the locations of the eight affected warehouses.",
-      "whyItMatters": "",
-      "words": 144,
-      "url": "https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/CEVA_Logistics_truckpng_526b353042.png",
-      "published": "2026-08-11T15:43:45.000Z",
-      "capturedAt": "2026-08-11T16:01:45.621Z",
-      "tags": [
-        "Cyber",
-        "Attack"
       ],
       "rewritten": false
     }
