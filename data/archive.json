@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-06T19:59:59.979Z",
+  "updatedAt": "2026-10-07T00:23:56.030Z",
   "count": 600,
   "stories": [
+    {
+      "id": "09lemhg",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "brief": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. The products, which claim to offer campaign optimization, spend audits, and business-account connections, are designed with one goal in",
+      "whyItMatters": "",
+      "words": 50,
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOD8Nta3AzEJA8JDouSAdwr3Obls6VzxBZwHHerzX0eZDKBTqWzVrAmZbX8VrvxKN1QNooX5GVAahBTaqPkWWcqRCO12MDDHWjboFPyw5FU1BaH07_wQhZkUNOROwHLFneZKKBY8oxjPTs0CpBF52UrLjeloGDwolt4udNn-ojCQNvvGvmo1TXdS3wNJlw/s1600/muse.png",
+      "published": "2026-10-06T18:38:55.000Z",
+      "capturedAt": "2026-10-07T00:23:56.030Z",
+      "tags": [
+        "Phishing",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1mdzgzv",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "brief": "Solutions to ‘hundreds’ of open questions are said to be included in a batch of manuscripts released by OpenAI. Solutions to ‘hundreds’ of open questions are said to be included in a batch of manuscripts released by OpenAI. OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to “hundreds” of open questions.",
+      "whyItMatters": "",
+      "words": 125,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0%2C10.744316765259%2C100%2C78.511366469482&w=1200",
+      "published": "2026-10-06T23:26:38.000Z",
+      "capturedAt": "2026-10-07T00:23:54.399Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0gg5eil",
       "channel": "sec",
@@ -12636,46 +12679,6 @@
       "tags": [
         "Cyber",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "03zf23q",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-      "brief": "Why passkey apps treat Windows differently than other operating systems. Last week a researcher outlined what he said was a “novel attack surface” in passkeys, the new authentication paradigm that offers a more secure alternative over password-based methods. In fact, the attacks demonstrated in the post are neither novel nor unique to passkeys. This distinction is important because the research has generated confusion among end users and security professionals as they assess whether this new mechanism is truly safe to use. The attack is called Pass-ta-key—a blending of the word passkey with the phrase “pass the key” and a nod to a plate of pasta. Arie Olshtein, a researcher at security firm Palo Alto Networks, described in a post last week how Pass-ta-key could obtain all passkeys stored in the Google Password Manager app (GPM) for Windows when it’s running on a machine infected with malware.",
-      "whyItMatters": "",
-      "words": 146,
-      "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg",
-      "published": "2026-08-11T11:30:08.000Z",
-      "capturedAt": "2026-08-11T16:01:43.397Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "03ubxo3",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
-      "brief": "S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is another variant in the ongoing trend of",
-      "whyItMatters": "",
-      "words": 44,
-      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nDJhjEnxo7k9DyrL4evBwNBVgGuv1CIsdfm0F5ed4HANv9HprVu790o5CVg8xQqft_tFRqLTrmQTrmkmZVTzEUZk08exDnnQjjnPLd4uhuicurtZbhpo-cMrv-yR_qIl58aJHvaPEP0aFgxpbnXYWKkk74qSytUvhk8LGSbewWumopWiQ6GECxsZ-1ff/s1600/ransomware-gunra.jpg",
-      "published": "2026-08-11T09:16:24.000Z",
-      "capturedAt": "2026-08-11T13:06:54.477Z",
-      "tags": [
-        "Breach",
-        "Ransomware",
-        "Exploit"
       ],
       "rewritten": false
     }
