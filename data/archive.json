@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-08T10:08:09.692Z",
+  "updatedAt": "2026-10-08T18:32:35.371Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0hjesy8",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
+      "brief": "The owner of a ransomware recovery firm was hit with wire fraud charges Wednesday for allegedly falsely claiming he could help victims decrypt their systems without paying ransoms. S. and Israeli national Zohar Pinhasi was the owner of a company called MonsterCloud that purported to provide incident response to help victims of ransomware attacks. ” In court documents, prosecutors said Pinhasi simply paid ransoms and charged victims a fee that was significantly more than the original ransom demand. After paying the ransomware gangs, he would get a decryption key and MonsterCloud employees would try to decrypt the organization’s files. S. Attorney Joseph Nocella Jr. ” In total, he charged clients $19 million and paid about $8 million in ransom payments to cybercriminals. In one 2023 incident cited in the indictment, Pinhasi allegedly paid a $8,200 ransom and charged the client $150,000.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://therecord.media/ransomware-recovery-charges-doj",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/doj_fce07455a8.jpg",
+      "published": "2026-10-08T17:00:00.000Z",
+      "capturedAt": "2026-10-08T18:32:35.371Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1rgssvx",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "brief": "At a Google Cloud event on Thursday, the company announced it’s bringing its Gemini AI into the agentic age, with the launch of a unified agent that can not only answer questions but also get things done on the user’s behalf, all from a single interface. The move comes as AI tools have been moving beyond being just conversational experiences to those that can take ownership of assigned tasks, generate code, schedule meetings, book appointments and travel, and more. It also follows the rise of consumer-facing agents like Meta’s Muse and those that operate over messaging, like Instinct and others, as well as the recent debut of ChatGPT’s Dots. The company still has a good shot at achieving scale for its agentic efforts: as Google CEO Sundar Pichai pointed out at the event’s start, Gemini today has over 1 billion monthly active users.",
+      "whyItMatters": "",
+      "words": 143,
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591",
+      "published": "2026-10-08T18:18:00.000Z",
+      "capturedAt": "2026-10-08T18:32:33.891Z",
+      "tags": [
+        "Model",
+        "Gemini",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1bbrpuo",
       "channel": "sec",
@@ -12641,49 +12685,6 @@
         "Cyber",
         "Attack",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "07urhxd",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "brief": "OpenAI’s still the chatbot leader, but the race appears to be tightening fast. OpenAI’s still the chatbot leader, but the race appears to be tightening fast. For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google’s fastest-growing product ever. A billion users is a huge milestone, but Google isn’t the first AI app to hit it. OpenAI’s ChatGPT hit the mark a few weeks ago, though the company buried the announcement that “more than 1 billion people are putting ChatGPT to work” in an otherwise anodyne blog post about how people use AI. External data suggested ChatGPT crossed 1 billion users as early as this June, but OpenAI hadn’t announced anything until that post on August 6th.",
-      "whyItMatters": "",
-      "words": 140,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0%2C2.0352385861162%2C100%2C95.929522827768&w=1200",
-      "published": "2026-08-11T19:41:42.000Z",
-      "capturedAt": "2026-08-12T07:26:00.220Z",
-      "tags": [
-        "Openai",
-        "Gemini"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1jblt9w",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "ExfilSquad Targets New Victims, Shares Data via Torrents",
-      "brief": "S. S. 8 Million Healthcare Patients Resecurity is tracking the activity of ExfilSquad – the group announced new victims this week. ExfilSquad is a new cybercrime group that emerged in mid-2026. Instead of using ransomware, it steals data and threatens to publish it on a dark web leak site unless victims pay a ransom. , the UK, and Sweden. Notably, in July, the group also targeted a major financial institution in Nigeria. “ExfilSquad announced new victims this week and set a firm deadline – August 5, 2026 – to complete all required negotiations. Otherwise, the stolen data will be released. ” reads the report published by Resecurity. ”",
-      "whyItMatters": "",
-      "words": 108,
-      "url": "https://securityaffairs.com/197025/security/exfilsquad-targets-new-victims-shares-data-via-torrents.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-27.png?resize=1024%2C607&ssl=1",
-      "published": "2026-08-11T16:44:19.000Z",
-      "capturedAt": "2026-08-12T04:47:05.189Z",
-      "tags": [
-        "Hack",
-        "Ransomware",
-        "Exploit"
       ],
       "rewritten": false
     }
