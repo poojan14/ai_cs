@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-08T00:44:28.704Z",
+  "updatedAt": "2026-10-08T10:08:09.692Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1bbrpuo",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "brief": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code intercepts recovery phrases and private keys during wallet import flows and attempts to send those secrets to",
+      "whyItMatters": "",
+      "words": 55,
+      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1600/firefox-plugins.jpg",
+      "published": "2026-10-08T09:46:32.000Z",
+      "capturedAt": "2026-10-08T10:08:09.691Z",
+      "tags": [
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "16q2frq",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "brief": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required. The story is a collaboration between MIT Technology Review and Aventine , a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or pass popcorn, put trash in a bin, vacuum, or press the button of a microwave. Or maybe you’ve watched it fall backward while handing out water bottles or struggle to iron a shirt.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AP25364739329087_1.jpg",
+      "published": "2026-10-08T09:00:00.000Z",
+      "capturedAt": "2026-10-08T10:08:08.007Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model",
+        "Chatbot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0x85juq",
       "channel": "sec",
@@ -12641,46 +12684,6 @@
         "Hack",
         "Ransomware",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1khggyc",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "brief": "FBI Atlanta confirms it’s looking into the incident, no arrests made. On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement. The incident came one day after the DEF CON security conference concluded in Las Vegas, and was first described on social media accounts that follow publicly available air-to-ground messages, known as ACARS. ” This technique, sometimes known as an “ evil twin ” attack, has been long-known to the IT security community. It involves setting up a fake Wi-Fi network and then capturing login credentials and other data.",
-      "whyItMatters": "",
-      "words": 104,
-      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg",
-      "published": "2026-08-12T00:08:40.000Z",
-      "capturedAt": "2026-08-12T04:47:03.547Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1kqq5cd",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "brief": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. 0) and is the only",
-      "whyItMatters": "",
-      "words": 61,
-      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg",
-      "published": "2026-08-11T20:10:55.000Z",
-      "capturedAt": "2026-08-12T01:59:58.953Z",
-      "tags": [
-        "Patch",
-        "Zero-Day",
-        "Attack"
       ],
       "rewritten": false
     }
