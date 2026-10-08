@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-07T18:33:39.583Z",
+  "updatedAt": "2026-10-08T00:44:28.704Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0x85juq",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "brief": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle “ Rey ,” was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing , which manufactures the fleet of planes used by the employer of Rey’s father — Royal Jordanian Airlines . The logo for Jeppesen ForeFlight, a business unit divested last year by the aerospace firm Boeing. On October 3, Reuters cited three unnamed sources saying a suspected ShinyHunters member in Amman named Saif Al-din Khader was detained by Jordanian authorities and was cooperating with the FBI.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/10/Jeppesen.png",
+      "published": "2026-10-07T13:48:45.000Z",
+      "capturedAt": "2026-10-08T00:44:28.703Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1tm0lv7",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "brief": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you look at the entire journey of our company, Windows was at the core of it,” Huang said, tracing back NVIDIA’s support for Windows and Microsoft over several decades. ” NVIDIA founder and CEO Jensen Huang connected that history — and his long-term vision — to the agentic era Wednesday during a fireside chat with Microsoft CEO Satya Nadella hosted by Sriram Krishnan, a former senior White House policy advisor on AI at the Windows AI and Surface event, held at Dogpatch Studios in San Francisco.",
+      "whyItMatters": "",
+      "words": 134,
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-microsoft-event-3840x2160-1-scaled.png",
+      "published": "2026-10-07T18:45:28.000Z",
+      "capturedAt": "2026-10-08T00:44:27.054Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0a573t8",
       "channel": "sec",
@@ -12637,50 +12681,6 @@
         "Patch",
         "Zero-Day",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0zzp2i5",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "brief": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies bought chips and built data centers project by project to one in which AI factories can be financed as productive infrastructure — with repeatable platforms, long-term institutional capital and a diverse customer base that uses compute to create revenue. AI has reached an inflection point. It is moving from research into production. AI is creating real value, and the infrastructure behind it is becoming one of the world’s most productive assets. In AI, compute is revenue. NVIDIA compute is not just a chip.",
-      "whyItMatters": "",
-      "words": 138,
-      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png",
-      "published": "2026-08-12T00:38:21.000Z",
-      "capturedAt": "2026-08-12T01:59:57.207Z",
-      "tags": [
-        "Model",
-        "Robot",
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0y1yu61",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "brief": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. August’s overstuffed bundle of patch joy from Microsoft did not eclipse its recording breaking release of more than 570 security updates last month , but it is double June’s then-record batch of nearly 200 fixes . Microsoft has attributed the recent patch deluge to vulnerability discoveries aided by artificial intelligence, and experts roundly agree that Windows users should get used to the idea of Patch Tuesdays (the second Tuesday of each month) covering hundreds of newly discovered security flaws.",
-      "whyItMatters": "",
-      "words": 117,
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "source": "Krebs on Security",
-      "sourceSite": "krebsonsecurity.com",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/08/workingonpc.png",
-      "published": "2026-08-11T21:28:35.000Z",
-      "capturedAt": "2026-08-11T21:48:30.556Z",
-      "tags": [
-        "Malware",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
