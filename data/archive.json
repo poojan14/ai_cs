@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-09T01:00:49.329Z",
+  "updatedAt": "2026-10-09T10:09:58.521Z",
   "count": 600,
   "stories": [
+    {
+      "id": "10h97tp",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
+      "brief": "The co-creator of a dark web cybercriminal forum called Empire Market was sentenced this week to 40 years in federal prison for his role in helping people sell drugs, hacking tools and stolen information. Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of Bitcoin and several properties in Virginia. S. District Judge Steven Seeger issued the 40-year sentence and fined him $5 million. The Virginia native partnered with Thomas Pavey in owning and operating Empire Market from 2018 to 2020. The platform quickly became popular among drug dealers and cybercriminals — allowing them to sell narcotics, stolen account credentials, stolen documents, fake currency and hacking tools. More than 4 million transactions were conducted on the site for a total volume of $430 million.",
+      "whyItMatters": "",
+      "words": 137,
+      "url": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/drugs_3d1196dd6f.jpg",
+      "published": "2026-10-10T00:55:00.000Z",
+      "capturedAt": "2026-10-09T10:09:58.521Z",
+      "tags": [],
+      "rewritten": false
+    },
+    {
+      "id": "0wi0nls",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "brief": "Today’s LLMs are engineered to disobey dangerous requests. But AI refusal is far from foolproof—and could become an instrument of repression. Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t do everything you ask has become something like a commandment. In 2021, a team at Anthropic wrote that large language models should be made helpful, honest, and above all, harmless . g. ” Who can argue with that?",
+      "whyItMatters": "",
+      "words": 114,
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924SP1.jpg?w=840",
+      "published": "2026-10-09T09:00:00.000Z",
+      "capturedAt": "2026-10-09T10:09:57.289Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model",
+        "Chatbot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "13y0c7c",
       "channel": "sec",
@@ -12647,46 +12687,6 @@
         "Vulnerability",
         "Exploit",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "13jg7uu",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "brief": "As AI makes coding dramatically faster, the next big challenge in software development is testing and validating all that code. Blacksmith has raised a new $45 million round to capitalize on that shift. The Series B, led by Peak XV Partners, values Blacksmith at $550 million, up from the $60 million valuation it was assigned when it raised a $10 million Series A less than a year ago. 5 million. Founded in 2024, Blacksmith helps companies build, test, and verify software before it reaches production. The startup now serves more than 5,000 customers, including Mercury, Supabase, Clerk, Ashby, and Expensify, up from more than 700 customers less than a year ago, co-founder and CEO Aditya Jayaprakash said in an exclusive interview.",
-      "whyItMatters": "",
-      "words": 121,
-      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/blacksmith-logo.jpg?resize=1200,800",
-      "published": "2026-08-12T11:00:00.000Z",
-      "capturedAt": "2026-08-12T13:10:55.879Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0pnd0g8",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Kimwolf v7 Hides DDoS Traffic Behind Chrome Fingerprints and Ethereum",
-      "brief": "S. S. 8 Million Healthcare Patients Palo Alto Networks Unit 42 discovered Kimwolf v7 on February 3, 2026, while hunting threats following public disclosures of the botnet’s earlier activity. The new version substantially upgrades the DDoS capabilities and command infrastructure of a botnet that has been targeting Android TV boxes since August 2025, while its Linux counterpart AISURU has been active since mid-2024. The operators’ core objective hasn’t changed, build a large-scale DDoS platform, but the methods for sustaining it and hiding its traffic have become considerably more sophisticated. “This version upgrades its distributed denial-of-service (DDoS) attack capabilities and the resilience of its command-and-control (C2) infrastructure. Kimwolf primarily affects Android TV boxes and set-top boxes.",
-      "whyItMatters": "",
-      "words": 115,
-      "url": "https://securityaffairs.com/197070/malware/kimwolf-v7-hides-ddos-traffic-behind-chrome-fingerprints-and-ethereum.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-29.png?resize=787%2C1024&ssl=1",
-      "published": "2026-08-12T08:27:13.000Z",
-      "capturedAt": "2026-08-12T10:06:30.480Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Exploit"
       ],
       "rewritten": false
     }
