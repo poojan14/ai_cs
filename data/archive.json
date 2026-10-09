@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-08T18:32:35.371Z",
+  "updatedAt": "2026-10-09T01:00:49.329Z",
   "count": 600,
   "stories": [
+    {
+      "id": "13y0c7c",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "brief": "NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the cluster under the name Earth Sirrush (previously SHADOW-EARTH-065). ASHVEIN,",
+      "whyItMatters": "",
+      "words": 40,
+      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg",
+      "published": "2026-10-08T15:26:56.000Z",
+      "capturedAt": "2026-10-09T01:00:49.329Z",
+      "tags": [
+        "Malware",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "08qxjm4",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "3 Questions: What is the best path forward for AI in academia?",
+      "brief": "With artificial intelligence capabilities continuing to expand, universities now face complex, urgent questions about how to navigate increasing challenges, as well as new opportunities. Much attention is now directed toward this, including an MIT report on AI and education published this summer. A new essay from MIT Statistics and Data Science Center Director Sasha Rakhlin , the Distinguished Professor in Data, Systems, and Society, IDSS and Brain and Cognitive Sciences, synthesizes recent discussions and readings about how AI is changing academia — particularly mathematics, statistics, machine learning, and engineering. Here, focusing primarily on graduate research and education, he describes key questions that departments and universities need to think about, and how they can best work with AI going forward. Q: What is changing in research, and why is it happening so quickly? A: Mathematics illustrates how quickly AI capabilities are advancing.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/ai-and-academia-00.jpg?itok=A5hPBHGn",
+      "published": "2026-10-08T21:25:00.000Z",
+      "capturedAt": "2026-10-09T01:00:47.653Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0hjesy8",
       "channel": "sec",
@@ -12643,48 +12687,6 @@
         "Hack",
         "Malware",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "13x1ltp",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AICFDPRO: How Artificial Intelligence Learns to Work With Incomplete Data - Benzinga",
-      "brief": "AICFDPRO: How Artificial Intelligence Learns to Work With Incomplete Data Benzinga",
-      "whyItMatters": "",
-      "words": 11,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjkyblJSZDA0SFRMMVpRbkVUMU4xMmVJNlpzVVpwMGdGUmwzN0c0Nll3eFJuNGxHeHA2dmZCZ0daLUp5aUFMTFEwUTRmbFZRQmJoaHFJTV80djdpSU16dVNackRnejlPZkVGTXRFRGJVQk9Zczg4bmF5SkNpOUM1M2FKdXhoc1VtdlZuNkp2YUtJX3ppVElGQ01FNWhwbmFLSVVEMFFleWlXUQ",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-12T09:33:20.000Z",
-      "capturedAt": "2026-08-12T10:06:29.234Z",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0omzt5e",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "brief": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026. \"Kimwolf v7 adds an HTTP/2-based",
-      "whyItMatters": "",
-      "words": 56,
-      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg",
-      "published": "2026-08-11T19:36:37.000Z",
-      "capturedAt": "2026-08-12T07:26:01.870Z",
-      "tags": [
-        "Cyber",
-        "Attack",
-        "Security"
       ],
       "rewritten": false
     }
