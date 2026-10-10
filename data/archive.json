@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-09T18:03:54.469Z",
+  "updatedAt": "2026-10-10T00:30:40.529Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1updm6b",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "brief": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity. The New York Times reported today that the FBI has arrested a Canadian man in Pennsylvania on suspicion of assisting ShinyHunters. The Times story did not identify the man, nor did a statement on Twitter/X about the arrest from FBI Director Kash Patel . One source close to the investigation told KrebsOnSecurity the Canadian person arrested this week was visiting Pennsylvania for a cyber insurance conference, and that the suspect’s company specialized in handling ransomware negotiations with cybercrime groups. Another shared that control over the ShinyHunters investigation has been centralized at an FBI field office in Texas.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/10/dubrovsky-li.png",
+      "published": "2026-10-10T00:17:42.000Z",
+      "capturedAt": "2026-10-10T00:30:40.528Z",
+      "tags": [
+        "Hack",
+        "Ransomware",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1i80n3p",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+      "brief": "” PC shipments saw a steep drop of about 20 percent in Q3 2026, analysts reported this week. The industry saw its “sharpest decline since “Q1 2023,” Omdia said in an announcement toady. 1 million devices, the analyst said. 4 million, per Omdia. IDC shared similar findings. 5 million in Q3 2025. 2 million units shipped, per IDC. 1 percent YoY decline is the biggest drop that the IDC has ever recorded during a year’s third quarter, the IDC said, per PCMag .",
+      "whyItMatters": "",
+      "words": 83,
+      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg",
+      "published": "2026-10-09T18:54:52.000Z",
+      "capturedAt": "2026-10-10T00:30:39.309Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1dc3xe7",
       "channel": "sec",
@@ -12645,48 +12685,6 @@
         "Exploit",
         "Patch",
         "Zero-Day"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "09jl74u",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Scaling AI agents with trustworthy data",
-      "brief": "How companies are freeing themselves of legacy data systems to power AI agents that deliver trusted, autonomous action. Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents , and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data being major blockers . Agentic AI places considerable new demands on enterprise data systems. The shift from answering questions to taking actions means AI agents need data from across the enterprise, in all its structured and unstructured forms, and with the right business context. To make decisions and act in real time, agents also need frictionless access to the organization’s operational systems—for example, those storing its supply chain, point-of-sale, or human resources data.",
-      "whyItMatters": "",
-      "words": 147,
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Report-2026-cover.png",
-      "published": "2026-08-12T16:51:57.000Z",
-      "capturedAt": "2026-08-12T19:02:31.818Z",
-      "tags": [
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0l7uv2k",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-      "brief": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. Microsoft addressed the flaw in this month's Patch Tuesday security updates , marking it as actively exploited in the wild . Researchers found that the Lazarus threat group has been leveraging it since early July. sys)\" that allows an attacker to increase their local privileges. The tech giant added that a locally authenticated user could run a specially crafted application on an affected system to trigger a race condition, eventually gaining SYSTEM privileges without any user interaction. A recent wave of the long-standing Operation Dream Job campaign has been targeting defense, aerospace, and aviation organizations in Europe and India, using fraudulent recruitment offers to employees in target entities.",
-      "whyItMatters": "",
-      "words": 131,
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/08/31/Lazarus-1.jpg",
-      "published": "2026-08-12T15:38:08.000Z",
-      "capturedAt": "2026-08-12T15:59:25.183Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
