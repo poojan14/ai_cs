@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-10T21:16:02.211Z",
+  "updatedAt": "2026-10-11T04:29:52.886Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1ea28wj",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "brief": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. Dubrovsky, 54, has had senior roles at cybersecurity firms that help data breach and ransomware victims negotiate extortion payments with cybercriminals. Yesterday, FBI Director Kash Patel announced that agents had arrested \"another suspected co-conspirator of the ShinyHunters group\". The New York Times reported that the suspect was a Canadian citizen arrested in Pennsylvania and believed to be a primary co-conspirator in the recent ShinyHunters FBI Jobs hack . Last night, both Politico and KrebsOnSecurity reported that Dubrovsky was arrested in Pennsylvania, where he was attending a cybersecurity conference. Publicly available court records show that Dubrovsky appeared in the Eastern District of Pennsylvania after being taken into custody.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/12/16/FBI__headpic.jpg",
+      "published": "2026-10-10T15:07:54.000Z",
+      "capturedAt": "2026-10-11T04:29:52.886Z",
+      "tags": [
+        "Hack",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ld1ksl",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+      "brief": "Sakana AI has published Beyond Imitation , a TMLR research paper on LLM-assisted peer review built around error detection. Most AI reviewers are graded on how closely they copy human reviews. This work asks a harder question: can an AI reviewer find a planted mistake? The research team ships two pieces: a Contradiction Benchmark and a Multi-Layered Review (MLR) system. For developers building research agents, the lesson is practical. Both system design and model choice move error detection. Multi-Layered Review is an agentic AI review system from Sakana AI that understands a research paper before critiquing it. It uses 3 agents on off-the-shelf Claude models : Pass 1 writes a high-level outline. Pass 2 reads in detail and flags weaknesses, assumptions and gaps. Pass 3 merges all agent outputs into Strengths, Weaknesses, Questions, Recommendation, Score and a To-Do list. The PDF is passed directly, so figures and equations survive.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-10T22:02:18.000Z",
+      "capturedAt": "2026-10-11T04:29:51.141Z",
+      "tags": [
+        "Model",
+        "Claude",
+        "Gemini"
+      ],
+      "rewritten": false
+    },
     {
       "id": "15ubajp",
       "channel": "sec",
@@ -12642,49 +12686,6 @@
         "Breach",
         "Hack",
         "Vulnerability"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0xkuinz",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Generative Artificial Intelligence Meeting United Nations’ Sustainable Development Goals? - independentnews.com",
-      "brief": "Generative Artificial Intelligence Meeting United Nations’ Sustainable Development Goals? com",
-      "whyItMatters": "",
-      "words": 10,
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT2VfWHRsT25oYzdCU0QwazR2elpSZWRzWkxvbi1TdUU3VjNwQW1uMDd2ZFdxczJWMEprOGNLRlJ5SGVPcGIzM2RjeWt5MVI2aDAtTm1RejJPZWE2Si13UEJpLUxSUnVCSGoxNnlqRElKbTBSYzk2X212VEVUQUwxUmR4UXBvblJjelhDNldZTTlNTFNiTkVHN25rVTFKWXgzczh0VUF5VnVXeEFsQmN1WWN1ejNYbzExdDZ4V2FkYjhVaDJPYkoza1pSdVFmLWtvd1pzaTA4bW9sa1lSc3VWbHhVWkQ1VTNFbWhlaWZ0d1BpWnVnbnVqOGpxN3RMZ0lTcy1sNGljekg",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-13T07:00:00.000Z",
-      "capturedAt": "2026-08-13T07:27:48.449Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Generative"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1jvcln2",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "brief": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. 8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
-      "whyItMatters": "",
-      "words": 50,
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg",
-      "published": "2026-08-12T09:01:54.000Z",
-      "capturedAt": "2026-08-13T04:51:27.880Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Patch"
       ],
       "rewritten": false
     }
