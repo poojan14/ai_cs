@@ -1,7 +1,45 @@
 {
-  "updatedAt": "2026-10-11T12:15:02.721Z",
+  "updatedAt": "2026-10-11T19:22:30.052Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0cdvvm8",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "brief": "7 million customer and employee records. The company is the largest karaoke maker in Japan, operating 521 karaoke venues nationwide, including the Big Echo chain, one of the most popular karaoke box chains in the country. Daiichi Kosho outsources the handling of its customers’ personal information to Nippon Columbia Group (NCG), a Japanese entertainment group whose businesses include music, video and game software production and distribution, as well as artist management. The record company informed Daiichi Kosho on October 5 that it had discovered malware on an employee’s computer and isolated the affected system the following day. Daiichi Kosho says it has not confirmed any data theft or leaks but is advising customers to remain cautious due to the potential risk. The entertainment giant says that the incident may impact customers of BIG ECHO, MEGA BIG, Karaoke CLUB DAM, Banana Club, B-GARAGE, and DK Dining.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/09/bigecho.jpg",
+      "published": "2026-10-11T14:23:46.000Z",
+      "capturedAt": "2026-10-11T19:22:30.051Z",
+      "tags": [
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ejzwyf",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "brief": "In less than 48 hours, the doors open for TechCrunch Disrupt 2026 at San Francisco’s Moscone West. Save up to $100 on your ticket before prices increase at the door. Don’t forget to get a second pass at 50% off. Register now. On October 13-15, more than 10,000 founders, investors, and tech leaders will be showing up to make the connections that’ll change their trajectory. More than 250 speakers are getting ready to take the stage across 200+ sessions . Discover 300+ startups showcasing what’s next. m. PT. If you’re coming for the conference program, 200+ sessions across six stages, roundtables, and breakouts will bring you closer to the people making decisions inside some of technology’s most talked-about companies.",
+      "whyItMatters": "",
+      "words": 119,
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
+      "published": "2026-10-11T19:00:00.000Z",
+      "capturedAt": "2026-10-11T19:22:27.601Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "13okl41",
       "channel": "sec",
@@ -12641,49 +12679,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1i8khkm",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "SpaceX Stock Slips as Grok Release Ramps Up AI War With Anthropic and OpenAI - Barron's",
-      "brief": "SpaceX Stock Slips as Grok Release Ramps Up AI War With Anthropic and OpenAI Barron's",
-      "whyItMatters": "",
-      "words": 15,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZndfNXBLckVYUDVORVU2SDN3cE9sWmxJMldPSklQSGpGT2xmWERYZEJMVDF1ZnAxRllONklYVGNqQVdVb3J5Sm1xZmNReDQtajY0VTd0UDZiXzVPenhCWUIxMGJRU3BTWm9FSDVOcjBEM0l5MlVqZmx1T2thaVFOaFdwd2NJQQ",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-13T12:21:00.000Z",
-      "capturedAt": "2026-08-13T13:12:21.835Z",
-      "tags": [
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "10e3kl5",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "brief": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. 1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates. \"The authentication",
-      "whyItMatters": "",
-      "words": 50,
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg",
-      "published": "2026-08-13T06:09:48.000Z",
-      "capturedAt": "2026-08-13T10:07:09.914Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Patch"
       ],
       "rewritten": false
     }
