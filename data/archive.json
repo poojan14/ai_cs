@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-11T04:29:52.886Z",
+  "updatedAt": "2026-10-11T12:15:02.721Z",
   "count": 600,
   "stories": [
+    {
+      "id": "13okl41",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. CISA adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND flaws to its Known Exploited Vulnerabilities catalog",
+      "brief": "S. S. S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : The five vulnerabilities have been added to a broader list of flaws linked to cyber operations attributed to China-linked actors associated with Integrity Technology Group, a China-based cybersecurity company. The update coincides with a joint advisory issued by Australia, Canada, Japan, New Zealand, Spain, the United Kingdom and the United States. S. authorities have also taken action against tools associated with Integrity Tech and used in cyber espionage operations. The activity reportedly involved the exploitation of eight vulnerabilities, including the five listed above, to gain initial access to targeted networks and steal sensitive information. The attackers used scanning tools, cross-site scripting (XSS) and password-spraying attacks against Microsoft Exchange servers. They also relied on VPN software to maintain access and scripts to extract emails and credentials.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://securityaffairs.com/200734/security/u-s-cisa-adds-proftpd-onlyoffice-docs-strapi-apache-struts-and-isc-bind-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "published": "2026-10-11T09:18:56.000Z",
+      "capturedAt": "2026-10-11T12:15:02.721Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "07zfxrl",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "brief": "It’s like using cloud-based AI tools, but the privacy makes it more appealing. It’s like using cloud-based AI tools, but the privacy makes it more appealing. I’m embarking on a journey I’ve so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it’s increasingly possible to run powerful models locally to see what they’re capable of. Is this tech so useful that it’s worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I’ll try to help you find out. I’m not an AI expert, it’s going to be a journey for me, but maybe I can help you see if that journey is worth taking — and I’ll be posting my way through it.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-10-11T11:00:00.000Z",
+      "capturedAt": "2026-10-11T12:15:01.050Z",
+      "tags": [
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1ea28wj",
       "channel": "sec",
@@ -12642,50 +12684,6 @@
         "Vulnerability",
         "Exploit",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0982rg9",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "How kids feel about AI, in their own words",
-      "brief": "Does an AI-filled future seem like promise or peril to today’s teens and tweens? We went right to the source. When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were using it. We were also listening for concerns that were less kid-specific, like deepfakes or job destruction. But what we actually heard when we asked kids aged 10 to 18 about AI had tons of nuance.",
-      "whyItMatters": "",
-      "words": 111,
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI_teens_coder_stasik.jpg",
-      "published": "2026-08-13T09:00:00.000Z",
-      "capturedAt": "2026-08-13T10:07:08.211Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Model",
-        "Chatbot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0ni140d",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "North Korean Lazarus Group Uses Windows Zero-Day in Operation Dream Job",
-      "brief": "S. Defense Manufacturer IEH Hit by Phishing Attack, Exposing Potentially Export-Controlled Data Check Point Research has uncovered a new wave of Operation Dream Job , the long-running North Korean campaign that lures defense and aerospace professionals with convincing fake job offers. This iteration is more dangerous than previous versions: it includes a previously unknown Windows vulnerability now patched as CVE-2026-68820 , a newly documented backdoor called Troy, and command infrastructure built almost entirely from legitimate servers the attackers didn’t build, they hijacked them. Targets confirmed in France, Germany, Brazil, and India. “The attackers used a previously unknown vulnerability in Windows (CVE-2026-68820) to gain full control of infected computers and evade EDR visibility. Check Point reported the issue to Microsoft, which released a fix before this research was published” reads the report published by Check Point Research.",
-      "whyItMatters": "",
-      "words": 136,
-      "url": "https://securityaffairs.com/197098/uncategorized/north-korean-lazarus-group-uses-windows-zero-day-in-operation-dream-job.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-31.png?resize=1024%2C770&ssl=1",
-      "published": "2026-08-13T07:05:03.000Z",
-      "capturedAt": "2026-08-13T07:27:50.058Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Vulnerability"
       ],
       "rewritten": false
     }
