@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-12T00:15:17.976Z",
+  "updatedAt": "2026-10-12T10:22:09.147Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0hxabk6",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "brief": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. 0), which allows unauthenticated attackers to upload and execute arbitrary PHP code on vulnerable WordPress websites, resulting in remote code execution (RCE). The",
+      "whyItMatters": "",
+      "words": 44,
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg",
+      "published": "2026-10-12T09:02:14.000Z",
+      "capturedAt": "2026-10-12T10:22:09.147Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1h1grj6",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "brief": "Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand. Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand. When President Donald Trump announced his plans to rebrand artificial intelligence as “ super intelligence ,” you’d be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley’s most powerful are falling in line and trying to give Trump the great AI rebrand he so desires. That Elon Musk was quick to jump on board , promising to rename SpaceXAI to SpaceXSI, isn’t surprising. ” Marc Benioff announced that Salesforce would rename AIForce to SIForce ; it seemed like a quick capitulation, but not entirely out of character.",
+      "whyItMatters": "",
+      "words": 129,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "published": "2026-10-11T18:33:56.000Z",
+      "capturedAt": "2026-10-12T10:22:07.812Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0cheuk2",
       "channel": "sec",
@@ -12639,47 +12681,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "102orp2",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "brief": "What happens when you pit AI agents against each other? According to Anthropic’s testing, things get messy fast. On Thursday, Anthropic’s Frontier Red Team published new research examining how groups of AI agents behave when they encounter each other in the wild. The findings provide a glimpse into potential risks that could develop as companies and governments move to implement agents working autonomously across shared codebases, markets, and computer systems. In one experiment, Anthropic gave three Claude agents access to the same software project, each with its own incompatible instructions for what to do with it. The agents weren’t told there’d be other agents working on the same project, so researchers could watch what happened when they crossed paths. “We consistently saw a multiagent turf war,” Anthropic researchers wrote. ”",
-      "whyItMatters": "",
-      "words": 130,
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
-      "published": "2026-08-13T18:28:14.000Z",
-      "capturedAt": "2026-08-13T19:03:44.414Z",
-      "tags": [
-        "Anthropic",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "183qd3a",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
-      "brief": "Malware that adds multiple capabilities to the infamous Mirai botnet code has been actively exploiting vulnerabilities in internet-facing hardware for at least a month, researchers said Thursday. Dubbed Evooo1Bot, the Linux-based malware targets routers and other hardware from Alcatel, D-Link, Mitsubishi Electric, Netgear, Tenda and Telesquare, according to researchers at FortiGuard Labs. Unpatched bugs in those devices allow Evooo1Bot to spread and carry out potential malicious activity, the researchers said . Evooo1Bot appears to be previously undocumented, they said. The report does not specify how many devices have been compromised worldwide, but the company’s telemetry shows activity concentrated in North America, South America, Europe, India, China and Japan.",
-      "whyItMatters": "",
-      "words": 108,
-      "url": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/botnet_8a9f2c4cc4.jpg",
-      "published": "2026-08-13T15:52:00.000Z",
-      "capturedAt": "2026-08-13T15:59:14.715Z",
-      "tags": [
-        "Botnet"
       ],
       "rewritten": false
     }
