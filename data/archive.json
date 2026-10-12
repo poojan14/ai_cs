@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-11T19:22:30.052Z",
+  "updatedAt": "2026-10-12T00:15:17.976Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0cheuk2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Bitdefender finds preinstalled Android malware you can’t uninstall, seen in 150 countries",
+      "brief": "S. S. Offers $10 Million Reward for Alleged HAFNIUM Hacker Zhang Yu Bitdefender researchers discovered a campaign called Midnight Mimosa involving preinstalled Android malware on low-cost phones from different brands that use MediaTek platforms. The malware is built into the device firmware and may be hidden in different system packages depending on the model. It is already on the phone before the owner turns it on for the first time and cannot be removed. The malware has system-level privileges, allowing it to install and remove apps, grant permissions and download code from a remote server without the user’s knowledge. This gives its operators control over the infected devices and allows them to use them for different purposes, including building a large botnet. The campaign appears to be mainly financially motivated.",
+      "whyItMatters": "",
+      "words": 130,
+      "url": "https://securityaffairs.com/200759/malware/bitdefender-finds-preinstalled-android-malware-you-cant-uninstall-seen-in-150-countries.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-22.png?resize=273%2C621&ssl=1",
+      "published": "2026-10-11T14:41:18.000Z",
+      "capturedAt": "2026-10-12T00:15:17.976Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ehnbhb",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+      "brief": "Cloudflare has released Clef-omni , a new open-weight member of its Clef decision model family. Clef-omni is a Cloudflare decision model that scores text, images, audio and video in 1 call. It arrived on October 9, 2026, 8 days after the original Clef and Clef-flash launch . The same update cut Clef-flash pricing below TypeSafe’s Jev and made hosted Clef roughly 2x faster. For developers, this removes the transcription and captioning steps that multimodal agent pipelines usually need. 3 Bottom line: Best: one call decides across 4 modalities. Worst: weaker accuracy than text-focused Clef on hard reasoning. What is a decision model? A decision model returns typed answers with probabilities instead of generated text. You send a state and a schema of questions. The model returns a probability for every allowed option. Clef supports 3 question types : noul (true or false), choice and score .",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-11T23:15:52.000Z",
+      "capturedAt": "2026-10-12T00:15:16.216Z",
+      "tags": [
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0cdvvm8",
       "channel": "sec",
@@ -12637,48 +12680,6 @@
       "capturedAt": "2026-08-13T15:59:14.715Z",
       "tags": [
         "Botnet"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0xibl0q",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "brief": "Merging Copilot will finally get rid of the annoying double icons. Merging Copilot will finally get rid of the annoying double icons. Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single “super app” interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the “Microsoft Copilot” name but features an updated app icon. The single app also means there won’t be two annoying Copilot icons in the system tray or taskbar anymore. “Starting with a fresh look, the updated app combines the best of Copilot chat and image creation, with the power of Microsoft 365 for your work,” Microsoft said in its update announcement .",
-      "whyItMatters": "",
-      "words": 127,
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_4636.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "2026-08-13T13:30:00.000Z",
-      "capturedAt": "2026-08-13T15:59:13.239Z",
-      "tags": [
-        "Copilot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "08ei4t4",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "SharePoint CVE-2026-55040 Comes Under Attack Following Public Exploit",
-      "brief": "S. 1), a critical SharePoint authentication bypass patched in July, within days of Rapid7 releasing a public proof-of-concept on August 12. The vulnerability allows an unauthenticated attacker impersonate any SharePoint user or administrator without valid credentials. Microsoft patched it in July’s Patch Tuesday, anyone who hasn’t applied that update is directly exposed. CVE-2026-55040 is a critical SharePoint authentication bypass. An unauthenticated attacker can exploit weaknesses in JWT validation to forge tokens and impersonate any SharePoint user, including administrators. “A critical authentication bypass vulnerability exists in SharePoint Server Subscription Edition’s JWT token validation pipeline. ” wrote Rapid7 .",
-      "whyItMatters": "",
-      "words": 97,
-      "url": "https://securityaffairs.com/197137/hacking/sharepoint-cve-2026-55040-comes-under-attack-following-public-exploit.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
-      "published": "2026-08-13T08:36:30.000Z",
-      "capturedAt": "2026-08-13T13:12:23.701Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
