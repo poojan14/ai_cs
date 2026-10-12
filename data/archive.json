@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-12T10:22:09.147Z",
+  "updatedAt": "2026-10-12T20:59:45.121Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1c0smx8",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "SonicWall Patches CVSS 10.0 SSRF Flaw as Attacks Begin",
+      "brief": "S. S. 0), just days after public disclosure. The vulnerability is a server-side request forgery (SSRF) flaw that requires no login. Attackers could abuse it to make the appliance send requests and access internal functions, allowing unauthorized actions. ” reads the advisory . ” The vendor said it has found no evidence of exploitation, but recommends applying the fixes.",
+      "whyItMatters": "",
+      "words": 59,
+      "url": "https://securityaffairs.com/200816/hacking/sonicwall-patches-cvss-10-0-ssrf-flaw-as-attacks-begin.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
+      "published": "2026-10-12T13:50:36.000Z",
+      "capturedAt": "2026-10-12T20:59:45.121Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1moee5v",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "brief": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at creating a common foundation for next-generation AI infrastructure. NVIDIA contributed key NVIDIA Vera Rubin rack and compute tray designs to OCP through the open NVIDIA MGX architecture, giving system builders a common foundation for developing next-generation AI factory infrastructure. Together, these efforts span the AI factory itself, the utility grid that powers it and the rack-scale architecture at the heart of modern accelerated computing. Before a packed audience, Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, discussed how open infrastructure is becoming a critical ingredient for scaling AI factories worldwide.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310.jpg",
+      "published": "2026-10-12T15:00:25.000Z",
+      "capturedAt": "2026-10-12T20:59:43.186Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0hxabk6",
       "channel": "sec",
@@ -12641,46 +12685,6 @@
         "Vulnerability",
         "Exploit",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "103edcl",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "brief": "Trump memo is first time gov’t has authorized private sector to perform cyberattacks. The Trump administration is recruiting private security firms to conduct federal government-authorized operations, including cyberattacks, against overseas-based criminal organizations that commit hacks on US persons, organizations, or government entities. In a National Security Presidential Memorandum issued Thursday, US President Donald Trump directed the National Coordination Center (NCC), which operates under the Homeland Security Task Force, to develop a program for conducting specific cyber operations that combat foreign transnational criminal organizations (TCOs). The Departments of Justice and Homeland Security will provide oversight. The lynchpin of that program is bringing in private sector companies to participate.",
-      "whyItMatters": "",
-      "words": 107,
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
-      "published": "2026-08-13T19:38:58.000Z",
-      "capturedAt": "2026-08-13T21:45:41.032Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0se0pc5",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Adobe Commerce CVE-2026-71362 Comes Under Attack Shortly After Public Disclosure",
-      "brief": "S. S. 1), a critical Adobe Commerce flaw, shortly after its public disclosure . The vulnerability allows unauthenticated attackers to switch customer sessions, hijack accounts and access private data. Cybersecurity firm Sansec blocked the first exploitation attempts after Adobe published its advisory. The flaw affects Commerce, Commerce B2B and Magento Open Source versions through the July 2026 patches . Adobe released an isolated fix and urged users to patch. “Adobe has released APSB26-92 as isolated patch files. 1. ” reads the advisory published by Sansec. “Sansec reviewed the patch and confirmed that the vulnerability lets attackers switch a customer session to another customer account. ”",
-      "whyItMatters": "",
-      "words": 105,
-      "url": "https://securityaffairs.com/197149/hacking/adobe-commerce-cve-2026-71362-comes-under-attack-shortly-after-public-disclosure.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-34.png",
-      "published": "2026-08-13T17:48:54.000Z",
-      "capturedAt": "2026-08-13T19:03:46.143Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
