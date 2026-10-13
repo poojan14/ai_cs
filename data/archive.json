@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-12T20:59:45.121Z",
+  "updatedAt": "2026-10-13T02:31:36.490Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1mzze2w",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "brief": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves.",
+      "whyItMatters": "",
+      "words": 68,
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg",
+      "published": "2026-10-12T15:16:26.000Z",
+      "capturedAt": "2026-10-13T02:31:36.490Z",
+      "tags": [
+        "Ransomware",
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1fkommk",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
+      "brief": "Alibaba’s Qwen team has introduced QwenGyre , an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning system from Alibaba that trains coding agents through unmodified, black-box harnesses. It targets rollouts that run for hours and process close to 1M tokens. 4T model. It rests on 2 core ideas. It moves idle GPUs between rollout and training. It also turns branching agent histories into bounded training samples. The research team defines ‘XLong-horizon’ tasks as agent runs spanning hours and hundreds of model and tool interactions. Examples include generating full repositories from specs, as in NL2Repo-Bench . QwenGyre splits GPUs into cells that share a training layout. Each cell can serve rollouts or host a full training replica. A core cell owns the authoritative weights and optimizer state. Satellite cells join training later.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-12T21:41:50.000Z",
+      "capturedAt": "2026-10-13T02:31:34.751Z",
+      "tags": [
+        "Model",
+        "Claude",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1c0smx8",
       "channel": "sec",
@@ -12642,49 +12686,6 @@
       "tags": [
         "Attack",
         "Spyware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0tqi8dq",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "brief": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot’s voice mode. In a support page , Microsoft says it’s going to move Mico to its Learn Live platform, where the avatar will have “more to react to,” as reported earlier by GeekWire . ” The blob would react to what you say in real-time, complete with facial expressions and animations. Mico joins the long list of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover. “Mico helped us learn about warmth, expressiveness, and how people want to talk with AI,” Microsoft’s support page says. ”",
-      "whyItMatters": "",
-      "words": 107,
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&strip=all&crop=0%2C0.79936424831713%2C100%2C98.401271503366&w=1200",
-      "published": "2026-08-13T21:42:38.000Z",
-      "capturedAt": "2026-08-14T02:00:15.034Z",
-      "tags": [
-        "Chatbot",
-        "Copilot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0z7prfj",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
-      "brief": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
-      "whyItMatters": "",
-      "words": 20,
-      "url": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3a1b76742bf9f5e/6a7e21b20030f83b5312474b/vmware-MaboHH-Getty-474325206.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-08-13T20:45:17.000Z",
-      "capturedAt": "2026-08-13T21:45:41.908Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Patch"
       ],
       "rewritten": false
     }
