@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-13T10:12:25.270Z",
+  "updatedAt": "2026-10-13T18:58:22.881Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1r1but2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "brief": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. \" A fix for the third is still pending, according to Volexity. Volexity, which reported the flaws to Ivanti,",
+      "whyItMatters": "",
+      "words": 47,
+      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg",
+      "published": "2026-10-13T17:33:11.000Z",
+      "capturedAt": "2026-10-13T18:58:22.880Z",
+      "tags": [
+        "Patch",
+        "Zero-Day",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1hnvqso",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "brief": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and CUDA technologies for creators, developers and gamers, while unlocking a new paradigm in personal computing via powerful local AI agents. Last week, NVIDIA and Microsoft announced that RTX Spark laptops will be available on Friday, Oct. 16 . Ahead of the launch, NVIDIA and its ecosystem partners are rolling out new software features and performance optimizations to expand what’s possible with local AI on RTX Spark.",
+      "whyItMatters": "",
+      "words": 121,
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg",
+      "published": "2026-10-13T12:00:49.000Z",
+      "capturedAt": "2026-10-13T18:58:21.462Z",
+      "tags": [
+        "Model",
+        "Neural",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1cmhnda",
       "channel": "sec",
@@ -12646,48 +12690,6 @@
         "Hack",
         "Exploit",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1iel9ts",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI is losing its second executive this week",
-      "brief": "Chief revenue officer Denise Dresser announced she is leaving OpenAI. Two days ago, Brad Lightcap also said he’d be leaving. Chief revenue officer Denise Dresser announced she is leaving OpenAI. Two days ago, Brad Lightcap also said he’d be leaving. Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the “coming weeks” to “pursue other opportunities,” she said in a team note posted to LinkedIn . Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says . Dresser’s departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving . ) Former AGI chief Fidji Simo and former CMO Kate Rouch also recently stepped down.",
-      "whyItMatters": "",
-      "words": 145,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&strip=all&crop=0%2C10.746068936881%2C100%2C78.507862126237&w=1200",
-      "published": "2026-08-13T19:28:39.000Z",
-      "capturedAt": "2026-08-14T07:25:18.111Z",
-      "tags": [
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0e3j6iz",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "U.S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog",
-      "brief": "S. S. S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog : CVE-2026-20349 is a vulnerability in Cisco Secure Firewall ASA and FTD software that could allow unauthenticated, remote attackers to crash affected devices and cause a denial-of-service condition. The flaw stems from insufficient error checking when processing HTTP requests. Attackers can exploit it by sending a specially crafted request to the Remote Access SSL VPN service, forcing the firewall to reload and disrupting network access. sys, the kernel-mode driver that underpins the Windows Sockets API. CVE-2026-68820 is a Windows Winsock driver flaw that can allow attackers to execute code with SYSTEM-level privileges. ”",
-      "whyItMatters": "",
-      "words": 113,
-      "url": "https://securityaffairs.com/197110/hacking/u-s-cisa-adds-metabase-windows-and-cisco-secure-firewall-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "published": "2026-08-13T17:12:45.000Z",
-      "capturedAt": "2026-08-14T04:48:20.657Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
