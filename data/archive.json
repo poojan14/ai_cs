@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-13T18:58:22.881Z",
+  "updatedAt": "2026-10-14T00:10:24.681Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1g5j254",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "brief": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypass in the Windows Shell that affects Windows 10 and 11 systems, as well as some Server versions. Windows 10 users might be wondering if they can still expect security updates after this month. Microsoft had been slated to stop shipping updates for Windows 10 systems in October 2025, but ended up adding another year of free updates after considerable pushback. A few months ago, Microsoft quietly extended that support for another year (until October 2027).",
+      "whyItMatters": "",
+      "words": 143,
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png",
+      "published": "2026-10-13T23:24:53.000Z",
+      "capturedAt": "2026-10-14T00:10:24.681Z",
+      "tags": [
+        "Exploit",
+        "Patch",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "00w5g31",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "How artificial neural networks build their own learning machinery",
+      "brief": "As artificial intelligence becomes more and more powerful, its ability to handle human-like tasks is undeniable. Artificial neural networks can learn to recognize images, use language, or write computer code. Like the brain’s circuits, they reorganize themselves as they learn, adjusting the strengths of their connections to improve their performance. The question for many neuroscientists is: What can these machine systems teach them about how the brain learns? And what kinds of models are likely to be the most informative? In a paper published Oct. 9 in the journal PNAS , scientists at MIT’s McGovern Institute for Brain Research and K. Lisa Yang Integrative Computational Neuroscience (ICoN) Center argue that a crucial metric for the biological plausibility of an artificial neural network’s approach to learning is the network’s ability to organize itself, without the guiding hand of a developer.",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-mcgovern-self-supervisedlearning.jpg?itok=_zXjMM26",
+      "published": "2026-10-13T21:00:00.000Z",
+      "capturedAt": "2026-10-14T00:10:23.429Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1r1but2",
       "channel": "sec",
@@ -12645,50 +12689,6 @@
       "tags": [
         "Hack",
         "Malware",
-        "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "11pjeif",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Claude Artificial Intelligence Model Signals It Is on Path to Self-Awareness - The New York Sun",
-      "brief": "Claude Artificial Intelligence Model Signals It Is on Path to Self-Awareness The New York Sun",
-      "whyItMatters": "",
-      "words": 15,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2xqSWl5dUlLZ0E5V2ZZSXhvWkxKVlJKcGcwZ1VWcTRsaHoyVW1KMjk2cVlfS3Q0T05tS1Byd0hOY1RLcTk4dkJGZ3VuTGVTOHhGRlFlQXlsU21ZVl9MNVU3RXN5QXJXOEVLbXM1Z2FZTUE5MHRKV3Q3cnREWWJpNVh5UEVqTGVsYzRGT19ZUnFGenFUdVg5dUgxcDhKZDJaSXdTNHAwRHprQQ",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-14T08:00:00.000Z",
-      "capturedAt": "2026-08-14T10:02:52.642Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Model",
-        "Claude"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1n1i56p",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
-      "brief": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. Join this live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. CodeSecCon bridges the gap between dev and security. Discover best practices for secure coding, innovative risk-reduction tools, and safe AI integration to cultivate a true DevSecOps culture. Safely secure your apps! Erika Dean has been appointed Chief Information Security Officer at Tricentis. John Opala has joined Ralph Lauren as Chief Information Security Officer. Organizations are rushing to implement AI without fully grasping where its legal protections begin and end. (Steve Durbin)",
-      "whyItMatters": "",
-      "words": 116,
-      "url": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-      "source": "SecurityWeek",
-      "sourceSite": "securityweek.com",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/vulnerability-software-bug.webp",
-      "published": "2026-08-14T07:01:56.000Z",
-      "capturedAt": "2026-08-14T07:25:19.689Z",
-      "tags": [
-        "Hack",
-        "Exploit",
         "Patch"
       ],
       "rewritten": false
