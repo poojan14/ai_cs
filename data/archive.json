@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-14T00:10:24.681Z",
+  "updatedAt": "2026-10-14T08:27:30.039Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1i8yvf5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "How a leaked builder of XWorm turned a remote access trojan into a surveillance kit",
+      "brief": "S. S. CISA adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND flaws to its Known Exploited Vulnerabilities catalog Netskope Threat Labs has been following XWorm since September 2024, and its latest report shows the malware has changed a lot. Over the past year the team identified four distinct versions running at the same time in the wild. Detection volume is still high, with 1,236 events across more than 100 customer organizations in the third quarter of 2026, four times the number from the same quarter in 2025. The leak fueled the surge. In June 2025, a cracked version of the XWorm builder was released publicly. 4, also leaked. These leaks gave XWorm more exposure and helped drive its growth.",
+      "whyItMatters": "",
+      "words": 121,
+      "url": "https://securityaffairs.com/200910/malware/how-a-leaked-builder-of-xworm-turned-a-remote-access-trojan-into-a-surveillance-kit.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-31.png?resize=1024%2C456&ssl=1",
+      "published": "2026-10-14T05:46:19.000Z",
+      "capturedAt": "2026-10-14T08:27:30.039Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ufrgxx",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "brief": "K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. ’s agentic safety and security research. In addition, NVIDIA is partnering with the Earthshot Prize , joining as a Global Alliance Founding Partner to bring compute and technical expertise to innovators working on solutions for the world’s greatest climate and sustainability challenges. K. households. Meanwhile, sovereign AI company Locai Labs released Nemotron-Personas-UK — an open source dataset of one million synthetic personas representing the UK’s demographic, regional and cultural diversity — helping developers build fairer, more representative AI systems.",
+      "whyItMatters": "",
+      "words": 110,
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/uk-ecosystem-industries.png",
+      "published": "2026-10-14T06:04:15.000Z",
+      "capturedAt": "2026-10-14T08:27:26.645Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1g5j254",
       "channel": "sec",
@@ -12648,48 +12692,6 @@
         "Malware",
         "Phishing",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1jqjaeg",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "brief": "The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China. The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China. Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company’s support, Reuters reports , citing three unnamed people familiar with the matter. Developing a custom model of its own marks a departure from Apple’s previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market.",
-      "whyItMatters": "",
-      "words": 127,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-14T09:21:17.000Z",
-      "capturedAt": "2026-08-14T13:07:32.229Z",
-      "tags": [
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0rvufsm",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "AmnesiaStealer Gives Attackers Live Control of Victims’ macOS Browsers",
-      "brief": "S. 2 Million Israeli Records Sold as a New Breach Are 20 Years Old Jamf Threat Labs researchers disclosed AmnesiaStealer, a new multi-stage Rust-based macOS infostealer that spread through a counterfeit GitHub download page using the ClickFix technique. The lure looks convincing: correct GitHub dark theme, Octocat logo, “Verified Publisher” badge, and instead of a download button, it asks the visitor to paste a Terminal command. The same fake GitHub template has been observed in Atomic Stealer and MacSync campaigns, which means the lure infrastructure is shared across multiple malware families. “AmnesiaStealer runs in three stages: The first is a shell script that downloads and launches the payload. The second is a Rust infostealer that harvests the keychain, browsers, Apple Notes and Telegram. ” reads the report published by Jamf Threat Labs.",
-      "whyItMatters": "",
-      "words": 132,
-      "url": "https://securityaffairs.com/197190/malware/amnesiastealer-gives-attackers-live-control-of-victims-macos-browsers.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-37.png?resize=1024%2C754&ssl=1",
-      "published": "2026-08-14T08:43:34.000Z",
-      "capturedAt": "2026-08-14T10:02:54.176Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Patch"
       ],
       "rewritten": false
     }
