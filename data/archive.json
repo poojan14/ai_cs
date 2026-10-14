@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-14T14:22:27.910Z",
+  "updatedAt": "2026-10-14T19:12:00.488Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1oai8gu",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
+      "brief": "In this article Uncovering the shadow world of a phishing kit ecosystem Storm-3119: YAM Store, the power broker Storm-2990: The Iron Man System phishing kit Downstream activity from Storm-2990 phishing kits Mitigation and protection guidance Microsoft Defender detections Over the past year, Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators, developers, and an illicit marketplace selling tools and infrastructure for large-scale phishing, enabling cybercriminal operations worldwide. Threat actors purchased and used these tools and infrastructure, including phishing kits and access to compromised or fraudulent Microsoft or Google cloud environments and related credentials, to target organizations across the healthcare, financial services, wholesale distribution, and information technology (IT) sectors in Japan, the United States, Australia, and India. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem’s primary developers and infrastructure .",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Fig1-heat-map-1024x495.webp",
+      "published": "2026-10-14T13:00:00.000Z",
+      "capturedAt": "2026-10-14T19:12:00.488Z",
+      "tags": [
+        "Malware",
+        "Vulnerability",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1tpjzbw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "brief": "New open-source software could make AI-enhanced weather forecasting more affordable. New open-source software could make AI-enhanced weather forecasting more affordable. Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they’ve found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance — allowing farmers and emergency responders to plan ahead with greater certainty. The findings were published today in the journal Nature , and the tool is now open-source software . Microsoft joins Google , Nvidia , and other companies developing AI tools for weather forecasting. Instead of creating a new standalone weather model, Microsoft’s latest research in this realm uses machine learning to correct bias in existing models.",
+      "whyItMatters": "",
+      "words": 137,
+      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-10-14T16:05:21.000Z",
+      "capturedAt": "2026-10-14T19:11:59.067Z",
+      "tags": [
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0wcvwcc",
       "channel": "sec",
@@ -12648,49 +12691,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0oysbnc",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-      "brief": "This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of Excellence initiative, UGM Indosat NVAITC brings government, industry and academia together to develop AI that addresses Indonesia’s most urgent national priorities. “The Indonesia AI Center of Excellence reflects our long-term vision to position Indonesia as a nation that not only adopts AI but also develops and contributes AI innovations to the world,” said Meutya Hafid, Indonesia’s Minister of Communication and Digital Affairs. ” “UGM is committed to supporting Indonesia’s AI ambitions through education, research, and innovation that deliver real societal impact,” said Prof. dr. D. ”",
-      "whyItMatters": "",
-      "words": 133,
-      "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Launching-Ceremony-2-1-scaled.jpeg",
-      "published": "2026-08-14T17:13:05.000Z",
-      "capturedAt": "2026-08-14T18:54:40.001Z",
-      "tags": [
-        "Model",
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1vw4g2n",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Chess.com Leak Exposes 7.3 Million Users – Evidence Points to Scraping",
-      "brief": "S. 2 Million Israeli Records Sold as a New Breach Are 20 Years Old Free is a strange price for stolen data, and that’s exactly what makes this listing worth a second look. com user records showed up on two data-leak forums this week, no cost, no ransom demand, just handed out. Ransomnews’s technical analysis confirms the data is real and recent. What it isn’t, on the evidence, is a hack.",
-      "whyItMatters": "",
-      "words": 71,
-      "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-36.png?resize=1024%2C534&ssl=1",
-      "published": "2026-08-14T08:24:21.000Z",
-      "capturedAt": "2026-08-14T15:52:33.462Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Phishing"
       ],
       "rewritten": false
     }
