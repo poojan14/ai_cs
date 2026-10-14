@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-14T19:12:00.488Z",
+  "updatedAt": "2026-10-14T23:44:22.500Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0pz7iqw",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "brief": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System. \"Since January 2026, the threat actors behind these kits have been responsible for",
+      "whyItMatters": "",
+      "words": 59,
+      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg",
+      "published": "2026-10-14T17:09:15.000Z",
+      "capturedAt": "2026-10-14T23:44:22.500Z",
+      "tags": [
+        "Phishing",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0mgbf1k",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "brief": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet. Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly malfunction, causing spoilage of untold tons of perishables and, in some cases, fires. As is now the norm, basic cybersecurity would have prevented it. French authorities say the systems, made up of entire fleets of refrigerators and freezers throughout a store, were hacked. More specifically, Internet-connected controllers that allow technicians to remotely administer the store-wide systems were compromised. The unknown attackers responsible then activated defrosters long enough for the fridges to reach temperatures as high as 50° Celsius (122° Fahrenheit). By the time the mass compromise was discovered, food was spoiled, and in some cases their electrical systems caught fire. A raft of critical vulnerabilities fixed in the past few months in Copeland/Dixel controllers also give similar remote access.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
+      "published": "2026-10-14T21:35:09.000Z",
+      "capturedAt": "2026-10-14T23:44:20.832Z",
+      "tags": [
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1oai8gu",
       "channel": "sec",
@@ -12651,46 +12693,6 @@
         "Hack",
         "Malware",
         "Phishing"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0cvtyoy",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "brief": "“We don’t have access to the data on the hardware/servers,” Iron Mountain told Ars. After its cloud storage provider went defunct, a PBS affiliate decided to sue a data center provider to regain access to 50TB of TV shows, videos, and other data dating back 70 years. As reported this week by Current , a trade newspaper covering public broadcasting, St. Louis affiliate Nine PBS filed a lawsuit against Iron Mountain Data Centers on July 28, seeking access to the data. In the litigation filed in Denver District Court, Nine PBS says that its cloud storage provider, Open Source Storage (OSS), used one of Iron Mountain’s Denver data centers to store the channel’s data. However, OSS is being unresponsive, and Nine PBS says Iron Mountain has refused to release its data. The data in question includes the station’s coverage of the COVID-19 pandemic, East St.",
-      "whyItMatters": "",
-      "words": 145,
-      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
-      "published": "2026-08-14T17:03:54.000Z",
-      "capturedAt": "2026-08-14T21:25:08.388Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0cewdwt",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-      "brief": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers’ bank accounts. 6 million). 8 billion) in annual revenue. In a statement for BleepingComputer, the bank confirmed that its clients were impacted by the fraudulent activity but customers suffered no financial losses. \"The fraud case is known and dates back to 2023. Due to technical issues at a service provider, unauthorized direct debits were made from customer accounts. There was no financial loss to customers. We cooperated closely and extensively with the authorities,\" a Commerzbank spokesperson told Bleeping Computer.",
-      "whyItMatters": "",
-      "words": 111,
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/11/arrest.jpg",
-      "published": "2026-08-14T18:04:26.000Z",
-      "capturedAt": "2026-08-14T18:54:41.642Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
