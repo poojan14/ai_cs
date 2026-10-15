@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-14T23:44:22.500Z",
+  "updatedAt": "2026-10-15T03:34:28.530Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0k7mg7v",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+      "brief": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
+      "whyItMatters": "",
+      "words": 25,
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+      "source": "Dark Reading",
+      "sourceSite": "darkreading.com",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?width=720&quality=80&disable=upscale",
+      "published": "2026-10-14T21:20:13.000Z",
+      "capturedAt": "2026-10-15T03:34:28.530Z",
+      "tags": [
+        "Vulnerability",
+        "Patch",
+        "Zero-Day"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ldcp37",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
+      "brief": "Datalab has released OmniParseBench , an open OCR benchmark for document parsers. It scores parsers with 16,288 yes/no tests on 2,937 pages from 2,343 documents. The pages span 92 languages. The dataset and code are public. It helps engineers answer a sharper question than a leaderboard does: which parser handles documents like mine? 8 Flash. Is it deployable? Yes. OmniParseBench is an evaluation harness, not a model. 11+, and scores outputs offline with no API keys. OmniParseBench is a document-parsing benchmark from Datalab where every test is a yes/no question about 1 page. A parser’s score is the share of tests it passes. Datalab built it to be clear, auditable and explorable.",
+      "whyItMatters": "",
+      "words": 112,
+      "url": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-14T23:37:25.000Z",
+      "capturedAt": "2026-10-15T03:34:27.221Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0pz7iqw",
       "channel": "sec",
@@ -12651,48 +12695,6 @@
       "tags": [
         "Hack",
         "Fraud"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "14v1vdm",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "You can now turn off Google Gemini’s visible watermarks",
-      "brief": "Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music. Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music. Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update , you can toggle off a new “Media watermark” setting in Gemini and Google’s AI video generator, Flow. When toggled off, Google will remove the “sparkle” watermark that appears in the bottom-right corner of content generated with the company’s Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks and C2PA metadata embedded in the background, according to Josh Woodward , the vice president of Google Labs, Gemini, and AI Studio.",
-      "whyItMatters": "",
-      "words": 131,
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-14T16:39:32.000Z",
-      "capturedAt": "2026-08-15T01:16:00.133Z",
-      "tags": [
-        "Gemini"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1aef98l",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Apple warned hundreds of users of mercenary spyware attacks",
-      "brief": "S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Apple has sent a new round of threat notifications to users it believes may have been singled out by mercenary spyware . The company told TechCrunch the latest alerts reached people in 110 countries, adding to notifications it has already issued in more than 150 countries since the programme began in 2021. “Apple threat notifications are designed to inform and assist users who may have been individually targeted by mercenary spyware attacks, likely because of who they are or what they do. ” reads the alert. “Mercenary spyware attacks cost millions of dollars and often have a short shelf life, making them much harder to detect and prevent. ”",
-      "whyItMatters": "",
-      "words": 125,
-      "url": "https://securityaffairs.com/197208/malware/apple-warned-hundreds-of-users-of-mercenary-spyware-attacks.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-39.png?resize=1024%2C331&ssl=1",
-      "published": "2026-08-14T17:09:46.000Z",
-      "capturedAt": "2026-08-14T21:25:10.163Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Phishing"
       ],
       "rewritten": false
     }
