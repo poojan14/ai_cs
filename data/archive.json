@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-15T16:27:38.905Z",
+  "updatedAt": "2026-10-15T21:00:51.699Z",
   "count": 600,
   "stories": [
+    {
+      "id": "07b5fvv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "brief": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared",
+      "whyItMatters": "",
+      "words": 66,
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg",
+      "published": "2026-10-15T20:24:36.000Z",
+      "capturedAt": "2026-10-15T21:00:51.699Z",
+      "tags": [
+        "Vulnerability",
+        "Leak"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0g80r0y",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI model decodes the language cells use to communicate",
+      "brief": "As an embryo develops from a small cluster of stem cells, those once “blank slate” cells begin to take on more specialized roles like brain, liver, or muscle cells, and organize themselves into three-dimensional structures such as tissues and organs. The fate of each cell — what type of specialized cell it will become — depends on which genes are turned on or off in the cell. These patterns of gene activity shape the cell’s structure and function, enabling it to take on a specific role in the body. But this decision isn’t up to individual cells. They constantly send and receive chemical signals to and from neighboring cells, which help them understand where they are, what stage of development they are in, and what they should become. These messages spread through multi-step sequences called signaling pathways, which translate external signals into specific changes in gene activity in the cell.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-whitehead-lung.jpg?itok=sctJv0ef",
+      "published": "2026-10-15T20:50:00.000Z",
+      "capturedAt": "2026-10-15T21:00:49.466Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0q1j6nt",
       "channel": "sec",
@@ -12658,48 +12701,6 @@
       "image": "https://securityaffairs.com/wp-content/uploads/2018/02/WannaMine-monero.jpg",
       "published": "2026-08-15T08:34:46.000Z",
       "capturedAt": "2026-08-15T09:26:09.556Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0t8xfs1",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "brief": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s",
-      "whyItMatters": "",
-      "words": 62,
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-      "published": "2026-08-14T15:43:28.000Z",
-      "capturedAt": "2026-08-15T09:26:07.660Z",
-      "tags": [
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0j4l8v1",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-      "brief": "The Netherlands’ National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. The security issue lies in macOS Screen Sharing, a built-in remote desktop feature that allows remote desktop control over a network, using the VNC protocol over TCP port 5900. 1 and earlier releases. The flaw allows network-based attackers to gain access without valid credentials. An attacker could use this access to open applications remotely, access files, change security settings, and perform various other actions. In an update to the initial advisory, the Dutch agency said it received a report indicating that the vulnerability is being exploited in the wild in attacks where port 5900 is exposed to the internet. According to the NCSC, the attacker obtained root access to the system and deployed a Monero cryptocurrency miner.",
-      "whyItMatters": "",
-      "words": 141,
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/Apple.jpg",
-      "published": "2026-08-14T14:59:55.000Z",
-      "capturedAt": "2026-08-15T06:39:05.881Z",
       "tags": [
         "Hack",
         "Vulnerability",
