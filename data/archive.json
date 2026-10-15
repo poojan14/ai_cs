@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-15T10:58:30.158Z",
+  "updatedAt": "2026-10-15T16:27:38.905Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0q1j6nt",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "AdFection: Beyond the Click: Citizen Lab Exposes Ad-Delivered Spyware Networks",
+      "brief": "S. S. CISA adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog The investigation links Discover-Tech to Candiru , an Israeli spyware vendor that the US government placed on its Entity List in 2021. Candiru has since used the name Integrity Labs . Citizen Lab also identified links involving other surveillance companies, including Bindecy and Intelos, suggesting that Discover-Tech’s infrastructure served more than one customer. “We reviewed bidding data for MyDSP for four months (March through June 2026). 7%). ” reads the report published by Citizen Lab. ”",
+      "whyItMatters": "",
+      "words": 90,
+      "url": "https://securityaffairs.com/201015/hacking/adfection-beyond-the-click-citizen-lab-exposes-ad-delivered-spyware-networks.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-39.png?resize=1024%2C448&ssl=1",
+      "published": "2026-10-15T14:21:49.000Z",
+      "capturedAt": "2026-10-15T16:27:38.905Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1roar0k",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
+      "brief": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter most, often hundreds or thousands of hand-written cases, and then improve the agent bit by bit through prompt edits, harness fixes, and special cases until it passes enough of them to go live. Meanwhile, the product’s own users carry out those same tasks every day, and know which actions to take and in what order. CopilotKit, the company behind the open-source CopilotKit framework and the AG-UI protocol, released CLiF , a platform for continual learning from full-stack trajectories, in early access .",
+      "whyItMatters": "",
+      "words": 130,
+      "url": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/image-7.png",
+      "published": "2026-10-15T14:19:27.000Z",
+      "capturedAt": "2026-10-15T16:27:33.364Z",
+      "tags": [
+        "Model",
+        "Anthropic",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1va0po2",
       "channel": "sec",
@@ -12660,46 +12704,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1myr93l",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "A public consultation on a proposed artificial intelligence (AI) data center here broke down on Friday, Aug. 14, after the Norwegian proponent walked out of the venue and then hurled insults and legal threats at journalists covering the event. Link to the full story - facebook.com",
-      "brief": "A public consultation on a proposed artificial intelligence (AI) data center here broke down on Friday, Aug. 14, after the Norwegian proponent walked out of the venue and then hurled insults and legal threats at journalists covering the event. com",
-      "whyItMatters": "",
-      "words": 40,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcExjdVMzU0syUHdjMGN1aWdwdXFtRHJPUFFBSHg2OW1kbWFkbFZVU0V2S0NRdTRHMlppd05VS0c3eXc3NHhtZWpPbTJNeXhCNDVZVVRaNVBCY3NlM3hDZFlMQ0xIYmZhZUhhLTVFaFRWczdheXRnZ29QOWVhYzFibHRUcU9BVVBWMnhOSG9jeTFkR2FfMGZLc2EwMkZPaFVkZ2pJQTdqWjB5N0taRDJBX0I1RlNtcVBEdHpheUhxQ01lWnl2N3VWM2R5RGhnU2ZuTEg3djVNa2tieWhkcUE",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-15T04:50:42.000Z",
-      "capturedAt": "2026-08-15T06:39:03.812Z",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "00qipgt",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
-      "brief": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking.",
-      "whyItMatters": "",
-      "words": 37,
-      "url": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf878ea5b4a138a7/6a7f5e48b01ed02ddabd5447/standardchartered1800_winhorse_GettyImages-1344776566.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-08-14T19:24:18.000Z",
-      "capturedAt": "2026-08-15T03:39:15.130Z",
-      "tags": [
-        "Security"
       ],
       "rewritten": false
     }
