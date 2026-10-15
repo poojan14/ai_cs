@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-15T03:34:28.530Z",
+  "updatedAt": "2026-10-15T10:58:30.158Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1va0po2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "brief": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM. 9), a case of",
+      "whyItMatters": "",
+      "words": 50,
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tlAL_zc7Hg-gD5PRFa08hoOp2KRDu9kNSJk8nhZ91us8q-K7qGfnoasa6gONBjZoEtGJqPEZY3rKMy4Uqozk89X-L7IQBV8IrDqnJYdtAsCC4d08mmQUI4r_zACmvDVdey82w7FC4lTIoYfqdwYYu2Bp_Ql0AwOB54KRYrHk9ixjo27rKLWEK0dwsfw3/s1600/langflow.jpg",
+      "published": "2026-10-15T07:07:05.000Z",
+      "capturedAt": "2026-10-15T10:58:30.158Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0mqc0r1",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "brief": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: assembling tools, finding compute and building the expertise to use both. At the AI in Science Summit in Dublin today, the European Commission launched the AI in Science Enablers Initiative, a shared framework connected to RAISE — the Resource for AI Science in Europe — that brings private-sector support closer to Europe’s research community. “Europe’s ambition in AI in science can only become reality if we bring together the strengths of our research community, industry and other partners,” Ekaterina Zaharieva, European Commissioner for Startups, Research and Innovation. ”",
+      "whyItMatters": "",
+      "words": 143,
+      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-in-science-enablers-1920x1080-1.jpg",
+      "published": "2026-10-15T10:00:12.000Z",
+      "capturedAt": "2026-10-15T10:58:28.844Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0k7mg7v",
       "channel": "sec",
@@ -12656,45 +12700,6 @@
       "capturedAt": "2026-08-15T03:39:15.130Z",
       "tags": [
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0uj14n8",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "brief": "Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation. “The NCSC has received a notification indicating that active abuse of this vulnerability has been observed on multiple systems on which port 5900 was accessible from the Internet,” the Netherlands National Cyber Security Centrum warned earlier this week. ” The vulnerability, tracked as CVE-2026-65400, received a patch from Apple last week for macOS Tahoe , Sequoia , and Sonoma . 1 out of 10, stems from a bug in the macOS screen sharing capability, which allows a remote party to view the screen and control the keyboard and mouse while a machine is turned on. A flaw in the “state management,” which keeps track of preceding events, user interactions, variables, and other system states, is the underlying cause.",
-      "whyItMatters": "",
-      "words": 138,
-      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
-      "published": "2026-08-14T18:32:14.000Z",
-      "capturedAt": "2026-08-15T03:39:13.213Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0teqbf3",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Investigation of banking hack leads to arrests in Germany, Brazil",
-      "brief": "7 million) from German bank accounts. Germany’s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil’s federal police said four others were arrested on similar charges there as part of Operação Klonen (Operation Clone), which executed 21 search and seizure warrants nationwide. Over four days in November 2023, the hackers were able to make “numerous unauthorized withdrawals from the accounts of German online banking users” by exploiting a vulnerability in a payment provider, the BKA said. Brazilian authorities said the process involved cloned payment cards. The criminals then moved and laundered the money through networks in Brazil and four European countries, police said. Neither police agency specified the affected bank, but Brazilian media reported that it was Germany’s Commerzbank. German media reported in late 2023 that Commerzbank had suffered a €30 million hack.",
-      "whyItMatters": "",
-      "words": 143,
-      "url": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/F26sw19_XEAE_8utu_8295845b86.jpg",
-      "published": "2026-08-14T20:31:00.000Z",
-      "capturedAt": "2026-08-15T01:16:01.649Z",
-      "tags": [
-        "Hack",
-        "Fraud"
       ],
       "rewritten": false
     }
