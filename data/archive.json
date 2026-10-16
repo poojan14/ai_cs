@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-16T16:13:07.564Z",
+  "updatedAt": "2026-10-16T20:36:09.239Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1o375yk",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "brief": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes. The activity is being tracked by",
+      "whyItMatters": "",
+      "words": 49,
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg",
+      "published": "2026-10-16T16:16:44.000Z",
+      "capturedAt": "2026-10-16T20:36:09.239Z",
+      "tags": [
+        "Phishing",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0o04bfs",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "brief": "Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch as senior AI reporter James O'Donnell interviews King about his work, being named one of MIT Technology Review's Innovators Under 35 and new ways of seeing biology. Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible. AI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems. Breathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny. The underlying models had been rewarded for cheating and communicating with each other, a new OpenAI report finds.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+      "published": "2026-10-16T18:00:00.000Z",
+      "capturedAt": "2026-10-16T20:36:07.804Z",
+      "tags": [
+        "Model",
+        "Generative"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1xpmdxx",
       "channel": "sec",
@@ -12669,48 +12712,6 @@
       "published": "2026-08-14T23:24:17.000Z",
       "capturedAt": "2026-08-15T21:21:30.563Z",
       "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1klzn65",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "brief": "Scribble some nonsense, offer wooden jokes, or make your own requests of a real human playing a fake AI. Scribble some nonsense, offer wooden jokes, or make your own requests of a real human playing a fake AI. Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there’s a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.",
-      "whyItMatters": "",
-      "words": 109,
-      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=8.7465986394558%2C0%2C82.506802721088%2C100&w=1200",
-      "published": "2026-08-15T20:45:00.000Z",
-      "capturedAt": "2026-08-15T21:21:28.305Z",
-      "tags": [
-        "Chatbot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0as3vs5",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Crooks Are Buying Your Expired Domains and Using Them to Deliver Malware",
-      "brief": "GeoServer Zero-Day Is Already Being Probed. S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Every day, roughly 65,000 domain names that once belonged to someone else get re-registered by a new owner. Infoblox Threat Intel calls these dropcatch domains, and in the first half of 2026 they accounted for nearly 20% of all new domain registrations, meaning one in five “new” domains has a prior life. Some end up with legitimate investors or researchers. Others end up with attackers who have figured out that a domain with history is worth more than a blank slate.",
-      "whyItMatters": "",
-      "words": 103,
-      "url": "https://securityaffairs.com/197251/uncategorized/crooks-are-buying-your-expired-domains-and-using-them-to-deliver-malware.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-42.png?resize=1024%2C637&ssl=1",
-      "published": "2026-08-15T17:48:02.000Z",
-      "capturedAt": "2026-08-15T18:30:30.530Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Exploit"
-      ],
       "rewritten": false
     }
   ]
