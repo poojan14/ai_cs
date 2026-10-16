@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-16T03:30:28.674Z",
+  "updatedAt": "2026-10-16T10:52:44.284Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1yavf24",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "brief": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. 3), is a case of improper origin validation in an internal messaging component that could be exploited by a",
+      "whyItMatters": "",
+      "words": 52,
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg",
+      "published": "2026-10-16T06:55:55.000Z",
+      "capturedAt": "2026-10-16T10:52:44.284Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1n9mhw3",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+      "brief": "When corporate leaders discuss climate strategy, the message that still dominates is that, despite competing priorities and external pressures, sustainability matters. According to the 2026 State of Supply Chain Sustainability report from the MIT Sustainable Supply Chain Lab , which surveyed 1,810 supply chain professionals across 91 countries, 83 percent rate sustainability as important or very important to long-term business success, the highest level in the report's seven-year history. But commitment, the report reveals, is not the same as capacity. S. policy shifts that deprioritize environmental concerns, the same organizations are being forced to compromise those commitments. Sixty-eight percent report that tariff uncertainty has compelled them to delay, scale back, or abandon sustainability strategies. Nearly one-third have seen tariff-related disruptions actually increase their operational emissions.",
+      "whyItMatters": "",
+      "words": 125,
+      "url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-ctl-sustainability.jpg?itok=r36wfDxM",
+      "published": "2026-10-15T21:00:00.000Z",
+      "capturedAt": "2026-10-16T10:52:41.552Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1nzq56n",
       "channel": "sec",
@@ -12666,46 +12709,6 @@
       "tags": [
         "Malware",
         "Botnet"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1hvd972",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "brief": "Meta released Glimmer this week , an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s hosts point out, the vision comes with some asterisks . On this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Rebecca Bellan take a look at Glimmer, Zuckerberg’s 6,500-word manifesto, and more of the week’s headlines, from the true cost of the AI industry’s energy needs to a $250M acquisition gone very wrong.",
-      "whyItMatters": "",
-      "words": 118,
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
-      "published": "2026-08-14T14:00:00.000Z",
-      "capturedAt": "2026-08-15T15:20:28.327Z",
-      "tags": [
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "05u2gr7",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
-      "brief": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
-      "whyItMatters": "",
-      "words": 27,
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-08-14T17:32:46.000Z",
-      "capturedAt": "2026-08-15T12:38:18.913Z",
-      "tags": [
-        "Vulnerability"
       ],
       "rewritten": false
     }
