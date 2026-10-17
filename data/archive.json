@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-17T15:06:53.937Z",
+  "updatedAt": "2026-10-17T20:14:35.095Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1n7vbfc",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "North Korean IT Workers Used Stolen US Identities to Earn $3 Million",
+      "brief": "S. S. S. S. S. CISA adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog The Justice Department (DoJ) announced coordinated enforcement actions this week targeting North Korea’s long-running scheme to place fake IT workers inside American companies. Two US nationals were arrested, 14 people charged across two separate indictments, and the FBI searched more than 40 residences in Texas, seizing approximately 187 laptops and KVM switch devices. The Texas operation, called Operation Lonestar Roundup, ran between September 21 and 25. The seized devices are the same laptops American companies shipped to their newly hired remote employees, not knowing those IT workers were North Korean intelligence agents using stolen US identities.",
+      "whyItMatters": "",
+      "words": 113,
+      "url": "https://securityaffairs.com/201193/intelligence/north-korean-it-workers-used-stolen-us-identities-to-earn-3-million.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2015/03/north-korea-hackers.jpg",
+      "published": "2026-10-17T16:29:10.000Z",
+      "capturedAt": "2026-10-17T20:14:35.095Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ui0osg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "brief": "Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with Anthropic, the company’s CEO and co-founder Amjad Masad said Thursday while onstage at TechCrunch Disrupt . Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic. “I think ChatGPT is better now,” Masad said, adding that the company uses an internal benchmark to help assess metrics like performance. “We publish a public benchmark as well, and consistently, Sol and Astra perform better on building vibe-coded applications from scratch. It was a decision based on both cost, partnership, and performance.",
+      "whyItMatters": "",
+      "words": 125,
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "published": "2026-10-17T18:48:08.000Z",
+      "capturedAt": "2026-10-17T20:14:31.516Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0r5g3vq",
       "channel": "sec",
@@ -12684,44 +12728,6 @@
         "Hack",
         "Malware",
         "Vulnerability"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1nsthlw",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "brief": "AI coding startup Cursor is now officially a part of SpaceX, according to an announcement on the Cursor blog . Elon Musk’s SpaceX — which also acquired Musk’s xAI earlier this year — announced a deal in April for the companies to develop technology together; the deal also gave SpaceX the option to acquire Cursor for $60 billion. Two months later, as SpaceX became a public company, the companies said they were moving forward with the acquisition . In its announcement that the deal has closed, Cursor repeatedly referenced SpaceX’s computing infrastructure, which the company has been renting out to customers including Anthropic and Google . ” “SpaceX is building the computing capacity needed to scale intelligence far beyond what exists today,” the company added. ”",
-      "whyItMatters": "",
-      "words": 126,
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "published": "2026-08-15T16:30:00.000Z",
-      "capturedAt": "2026-08-16T12:39:32.042Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "18qq9lu",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Friday Squid Blogging: Searching for the Colossal Squid",
-      "brief": "Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down there. Lots of footage of giant squid, and speculation about the colossal squid. Worth watching. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.",
-      "whyItMatters": "",
-      "words": 83,
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
-      "source": "Schneier on Security",
-      "sourceSite": "schneier.com",
-      "image": "",
-      "published": "2026-08-14T21:01:49.000Z",
-      "capturedAt": "2026-08-16T09:27:22.859Z",
-      "tags": [
-        "Security"
       ],
       "rewritten": false
     }
