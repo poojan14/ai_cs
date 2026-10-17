@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-17T20:14:35.095Z",
+  "updatedAt": "2026-10-17T22:55:33.535Z",
   "count": 600,
   "stories": [
+    {
+      "id": "03aey0v",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "brief": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs",
+      "whyItMatters": "",
+      "words": 55,
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg",
+      "published": "2026-10-17T06:16:46.000Z",
+      "capturedAt": "2026-10-17T22:55:33.535Z",
+      "tags": [
+        "Hack",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1dm62go",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "brief": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way. NVIDIA celebrated the launch with events around the world, including one in Berlin, where NVIDIA founder and CEO Jensen Huang made a surprise appearance. The arrival of RTX Spark brought fans, creators and PC enthusiasts together in Berlin during the Festival of Lights, an annual autumn art festival that transforms the German capital’s most famous landmarks, streets and squares into glowing canvases. This year, the festival featured RTX Spark-themed lighting on the Berlin TV Tower.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1.jpg",
+      "published": "2026-10-17T21:00:13.000Z",
+      "capturedAt": "2026-10-17T22:55:30.394Z",
+      "tags": [
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1n7vbfc",
       "channel": "sec",
@@ -12686,48 +12728,6 @@
       "tags": [
         "Malware",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0exyxcj",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "brief": "It’s like Windows Recall, but without all the creepy screenshots. ) It’s like Windows Recall, but without all the creepy screenshots. ) ChatGPT’s desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature is opt-in, rather than opt-out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser tabs.",
-      "whyItMatters": "",
-      "words": 127,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "published": "2026-08-16T14:56:40.000Z",
-      "capturedAt": "2026-08-16T15:21:46.376Z",
-      "tags": [
-        "Training Data"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0y698ru",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "APT36 Suspected in PATCHCORD Espionage Campaign Using Google Sheets C2",
-      "brief": "GeoServer Zero-Day Is Already Being Probed. S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Researchers at Acronis just documented an espionage operation that reads like it was built by someone with genuinely good taste in disguises. Their Threat Research Unit report tracks a previously undocumented backdoor called PATCHCORD, hitting Afghan telecom providers and South Asian critical infrastructure through fake VPN installers and management tools branded to look exactly like the real thing. “Acronis Threat Research Unit (TRU) has identified an ongoing campaign delivering a previously undocumented custom backdoor against Afghan telecom providers and South Asian critical infrastructure organizations. ” reads the Acronis’s report . “Infrastructure pivoting uncovered SHEETCORD, a Go-based implant that builds on PATCHCORD’s capabilities while abusing Google Sheets for C2 communication. ”",
-      "whyItMatters": "",
-      "words": 132,
-      "url": "https://securityaffairs.com/197266/intelligence/apt36-suspected-in-patchcord-espionage-campaign-using-google-sheets-c2.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-43.png?resize=1024%2C482&ssl=1",
-      "published": "2026-08-16T07:24:53.000Z",
-      "capturedAt": "2026-08-16T12:39:33.493Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Vulnerability"
       ],
       "rewritten": false
     }
