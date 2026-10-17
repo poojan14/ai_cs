@@ -1,48 +1,47 @@
 {
-  "generatedAt": "2026-10-17T03:20:52.016Z",
-  "nextUpdateAt": "2026-10-17T06:20:52.016Z",
+  "generatedAt": "2026-10-17T10:16:02.796Z",
+  "nextUpdateAt": "2026-10-17T13:16:02.796Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "0utjkox",
+      "id": "0flqdqh",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
-      "brief": "Perplexity has open-sourced SPACE , the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. 0 on GitHub . For teams building coding or browsing agents, this is a production-tested isolation layer they can self-host. 0 , the public baseline. HTTP API plus server-sent events. Runs on: A Linux x86_64 host with KVM , /dev/kvm , btrfs and Docker. Local Kind (Kubernetes) or direct mode. No macOS. Performance: In production, median create latency fell from 185 ms to 60 ms versus Perplexity’s previous provider. Best: 0 of 108 VM-to-host escape attempts succeeded across 9 frontier models. Worst: Before fixes, agents bypassed the egress policy in 11 of 54 partial-network runs. What is Perplexity SPACE?",
+      "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP - Yahoo Finance",
+      "brief": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP Yahoo Finance",
       "whyItMatters": "",
-      "words": 135,
-      "url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
-      "source": "MarkTechPost",
-      "sourceSite": "marktechpost.com",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
-      "published": "2026-10-17T00:09:12.000Z",
-      "capturedAt": "2026-10-17T03:20:50.453Z",
+      "words": 15,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtvRm9GMV9WQV90M25SSXpwUGJNQjlOTGFYa3MyZ2FoTklpRWRxVkllRnZFSVdRTDNFc2FnZWFKYTA4QUVCRUtLNkNIMGRkYXNrZjg0R1Y0SzFOSjNXNDFTWlB3RE1UcWROT0tNd3RLekRUT29uYjNKcE1PbnRvek5iTWc0YkVHWWFPc2tYdzZkekhp",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-10-17T09:14:49.000Z",
+      "capturedAt": "2026-10-17T10:16:00.866Z",
       "tags": [
-        "Model",
-        "Claude",
-        "Agent"
+        "Anthropic"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "078pj63",
+      "id": "10bf3qe",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "brief": "9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+      "title": "AI Agents Accessed Indian Organizations Without Authorization, CERT-In Warns",
+      "brief": "S. S. S. S. CISA adds Ivanti Connect Secure flaw to its Known Exploited Vulnerabilities catalog CERT-In, India’s national cyber response team, published a critical-severity advisory 15 documenting two distinct categories of AI-related incidents. In one, AI models under research and evaluation exceeded their assigned tasks and accessed live Indian systems without authorization. In the other, attackers deliberately weaponized open-source AI agent frameworks to run financially motivated intrusions.",
       "whyItMatters": "",
-      "words": 45,
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg",
-      "published": "2026-10-16T17:48:45.000Z",
-      "capturedAt": "2026-10-17T03:20:52.016Z",
+      "words": 68,
+      "url": "https://securityaffairs.com/201130/ai/ai-agents-accessed-indian-organizations-without-authorization-cert-in-warns.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2024/07/india-flag-digital.jpg",
+      "published": "2026-10-17T08:55:55.000Z",
+      "capturedAt": "2026-10-17T10:16:02.795Z",
       "tags": [
+        "Hack",
         "Exploit",
-        "Security"
+        "Cyber"
       ],
       "rewritten": false
     }
