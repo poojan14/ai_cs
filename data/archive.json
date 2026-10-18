@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-18T20:12:38.782Z",
+  "updatedAt": "2026-10-18T22:49:23.131Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1truruz",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "brief": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. AI tools connected to Google Workspace can access millions of sensitive emails and files. Join this session to uncover your organization’s risk and learn a framework to manage AI access. Join as we decipher the world of zero trust and share war stories on securing an organization by eliminating implicit trust and continuously validating every stage of a digital interaction. Darktrace has named Adam Towns as CFOO, Mike McGuinness as CRO, and Beth Shea as CCO. Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. (Etay Maor)",
+      "whyItMatters": "",
+      "words": 112,
+      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "source": "SecurityWeek",
+      "sourceSite": "securityweek.com",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity-Layoffs.jpg",
+      "published": "2026-10-18T11:00:00.000Z",
+      "capturedAt": "2026-10-18T22:49:23.131Z",
+      "tags": [
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0odbaw9",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "brief": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish , a web infrastructure company for AI agents, argues that teams budget for the model and underestimate how much retrieved content drives it. This article walks through the token math, the context-window impact, and what the Artificial Analysis Search API leaderboard does and does not show. Search and fetch APIs usually bill per request or per page. Whatever they return then enters the model’s context and is billed as input tokens. Reasoning and output tokens come on top.",
+      "whyItMatters": "",
+      "words": 130,
+      "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-18T18:20:28.000Z",
+      "capturedAt": "2026-10-18T22:49:21.444Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Inference"
+      ],
+      "rewritten": false
+    },
     {
       "id": "18mksnv",
       "channel": "sec",
@@ -12688,50 +12731,6 @@
       "tags": [
         "Security",
         "Data Theft",
-        "Threat Actor"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1wro9pp",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Z.ai to rival Anthropic, OpenAI in coding with new AI model - The Guam Daily Post",
-      "brief": "ai to rival Anthropic, OpenAI in coding with new AI model The Guam Daily Post",
-      "whyItMatters": "",
-      "words": 15,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNczJhQTZ3SVBPNmtMQ0d5cGNnVTZzNHFfY0JCOHpUMW44VDh5by1UaWk0MlhWRzZRTEVhRzBDT3BLNWVEdWRibl8xdU5IdUdZejVIallmSUN3NnNHckNMUndBZXJvTFpGenRqSEZ4YUFJbWwtUzAzNHlTWmZrbFNxQUk1UVJKUEd3Vm81TWFzY2ZqWGpja1VLbVRHOW9STFQxNmIzZmJ5ZTgyMzVsUU5zbnNGRUFNOFJMdUhOQm1DaUZaZ2Z5TG5yYWRYVUZGUGNid1lKVExKX1pBS1h0VEtveWR3",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-17T06:36:12.000Z",
-      "capturedAt": "2026-08-17T06:55:57.629Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "01fdboo",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-      "brief": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. SafePal says the breach impacts customers who placed orders between March 2, 2025, and April 11, 2026, exposing their names, email addresses, shipping addresses, phone numbers, and purchase information. The company says the breach did not expose customers' wallet seed phrases, private keys, passwords, bank account information, payment card numbers, government-issued identification numbers, or other credentials. \"No evidence has been found that the incident itself compromised access to SafePal wallets or funds,\" SafePal said in a security advisory published Sunday. \" SafePal has also launched an online verification tool that lets customers enter their order number and shipping country to determine whether the details of that order were stolen.",
-      "whyItMatters": "",
-      "words": 147,
-      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/16/safepal-header.jpg",
-      "published": "2026-08-16T23:47:06.000Z",
-      "capturedAt": "2026-08-17T03:50:48.510Z",
-      "tags": [
-        "Breach",
-        "Exploit",
         "Threat Actor"
       ],
       "rewritten": false

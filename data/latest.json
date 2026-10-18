@@ -1,47 +1,48 @@
 {
-  "generatedAt": "2026-10-18T20:12:38.782Z",
-  "nextUpdateAt": "2026-10-18T23:12:38.782Z",
+  "generatedAt": "2026-10-18T22:49:23.131Z",
+  "nextUpdateAt": "2026-10-19T01:49:23.131Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1issqb5",
+      "id": "0odbaw9",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "brief": "Carolyn Marvin was charged with ‘disorderly conduct’ for protesting delivery robots taking jobs. Carolyn Marvin was charged with ‘disorderly conduct’ for protesting delivery robots taking jobs. Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. ” Police responded to the scene and asked Marvin to move out of the robot’s way. When she refused, they placed her in cuffs and arrested her. The incident was captured on video and has now garnered considerable media attention. The delivery robots have become a common sight on the streets of downtown Philadelphia and have sparked backlash. This is not even Marvin’s first brush with them. And earlier this year, one was kicked over in Center City.",
+      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "brief": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish , a web infrastructure company for AI agents, argues that teams budget for the model and underestimate how much retrieved content drives it. This article walks through the token math, the context-window impact, and what the Artificial Analysis Search API leaderboard does and does not show. Search and fetch APIs usually bill per request or per page. Whatever they return then enters the model’s context and is billed as input tokens. Reasoning and output tokens come on top.",
       "whyItMatters": "",
       "words": 130,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200",
-      "published": "2026-10-18T18:28:10.000Z",
-      "capturedAt": "2026-10-18T20:12:36.617Z",
+      "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-18T18:20:28.000Z",
+      "capturedAt": "2026-10-18T22:49:21.444Z",
       "tags": [
-        "Robot"
+        "Model",
+        "Agent",
+        "Inference"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "18mksnv",
+      "id": "1truruz",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "brief": "Hackers are exploiting an OS command-injection vulnerability in the SiteGuard Server Edition web application firewall (WAF), allowing them to execute commands with root or SYSTEM privileges on affected machines. The security issue is tracked as CVE-2026-106931 and affects the statistics feature in host-based WAF instances, which is enabled by default. 5 million websites . org statistics, the product is active on 500,000 sites. According to the vendor’s bulletin and a warning from Japan's CERT agency, CVE-2026-106931 has critical severity and is currently being exploited in the wild. “An OS command injection vulnerability (CVE-2026-106931) has been found in the statistics function of SiteGuard Server Edition. Abuse has already been confirmed,” reads SiteGuard’s alert . The attacker’s identity, the victims, the scale of the attacks, and the methods used remain unclear, as neither security advisory provides these details.",
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "brief": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. AI tools connected to Google Workspace can access millions of sensitive emails and files. Join this session to uncover your organization’s risk and learn a framework to manage AI access. Join as we decipher the world of zero trust and share war stories on securing an organization by eliminating implicit trust and continuously validating every stage of a digital interaction. Darktrace has named Adam Towns as CFOO, Mike McGuinness as CRO, and Beth Shea as CCO. Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. (Etay Maor)",
       "whyItMatters": "",
-      "words": 136,
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/hacker.jpg",
-      "published": "2026-10-18T14:23:16.000Z",
-      "capturedAt": "2026-10-18T20:12:38.782Z",
+      "words": 112,
+      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "source": "SecurityWeek",
+      "sourceSite": "securityweek.com",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity-Layoffs.jpg",
+      "published": "2026-10-18T11:00:00.000Z",
+      "capturedAt": "2026-10-18T22:49:23.131Z",
       "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
+        "Cyber",
+        "Security"
       ],
       "rewritten": false
     }
