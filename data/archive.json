@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-18T10:31:38.055Z",
+  "updatedAt": "2026-10-18T15:29:51.827Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0617tbi",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Rust-Based CikaBika Bot Turns Discord into a Command Center",
+      "brief": "S. S. S. S. CISA adds Microsoft Windows Shell flaw to its Known Exploited Vulnerabilities catalog Darktrace researchers have documented a new campaign distributing a remote access trojan called CikaBika Bot, written in Rust and controlled entirely through Discord. The infection chain starts with a disk image that looks like a business proposal, and ends with an attacker who can run arbitrary commands, steal files, and capture your screen, all through messages in a chat platform. “The infection chain begins with a disk image and a malicious Windows shortcut. ” reads the analysis published by Darktrace. ”",
+      "whyItMatters": "",
+      "words": 97,
+      "url": "https://securityaffairs.com/201210/security/rust-based-cikabika-bot-turns-discord-into-a-command-center.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-44.png?resize=1024%2C308&ssl=1",
+      "published": "2026-10-18T11:33:52.000Z",
+      "capturedAt": "2026-10-18T15:29:51.826Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1cu5v6p",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+      "brief": "Google Cloud AI Research has open-sourced Harness² . It is a recursive agent harnessing framework that improves the code and files around a frozen model. For developers, the pitch is simple. Your agent may get better without a better model. TL;DR Size: A framework, not a model. 0 parameters trained; 8 editable harness components. 0 . 13 and uv. Model runs call models through Vertex AI. GPU requirement: Not disclosed. Performance: 1 refinement step improved all 4 model and harness setups on all 3 benchmarks. 5 points). 8). What is Harness²? Harness² is a plug-and-play framework from Google Research that refines an agent’s harness during deployment. A harness is everything around the model: prompts, tools, memory, skills and orchestration . Harnessing is the process of optimizing that system. Model weights never change. The target setting is the open world.",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "published": "2026-10-18T08:15:04.000Z",
+      "capturedAt": "2026-10-18T15:29:50.027Z",
+      "tags": [
+        "Model",
+        "Claude",
+        "Gemini"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1nhvgyu",
       "channel": "sec",
@@ -12690,46 +12734,6 @@
         "Hack",
         "Attack",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0eixzfi",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "A proposed artificial intelligence data center carrying an investment of up to EUR 500 million, requiring as much as 50 megawatts of continuous power and thousands of cubic meters of water for cooling, is now being pitched for Oton, Iloilo — but questions rem - facebook.com",
-      "brief": "com",
-      "whyItMatters": "",
-      "words": 1,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZWRlUFpBT19BeG5jVU0xVTVSeklzVHlabUdYR2RkM19faFRiSG9BWDZ4N0NCMHdJcFFUR1dXUTg2Zk1pN1RqRElDWkthWmY5TVBKWS01S0V0aDA2cGotNWlGOVNETmRrcnVNS003MnFGbXFuZGgwVWJCeU1BS1VBdnQtR1lZSEhDSGpCZU8zMzdQZzUySTl0TUVURS1NM214a25hdTFEUW51dHJoRkthZmFjRXFxSE83T2RqWXdqWW4ydDIzaFQtV0g2WEJrVnB2dGpaS1JENlJUT1pKSlE",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-16T23:31:04.000Z",
-      "capturedAt": "2026-08-17T01:17:52.890Z",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0vurx66",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-      "brief": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. ​Organizations using Threema On-Prem did not experience any issues because they rely on their own infrastructure. In a post-mortem report on Friday, the end-to-end encrypted instant messaging service said that the attacks were difficult to defend against because the threat actor constantly changed patterns. Threema is a paid messaging application developed by the Swiss technology company of the same name, with a heavy focus on security and privacy. ” On Tuesday around 6 PM UTC, users started to report service interruptions. ”",
-      "whyItMatters": "",
-      "words": 101,
-      "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/01/11/threema-logo_anthracite.png",
-      "published": "2026-08-16T17:29:52.000Z",
-      "capturedAt": "2026-08-16T21:20:42.635Z",
-      "tags": [
-        "Attack"
       ],
       "rewritten": false
     }
