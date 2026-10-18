@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-17T22:55:33.535Z",
+  "updatedAt": "2026-10-18T03:26:18.178Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1vo4luq",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "brief": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. ” Later on the same day, managed cybersecurity and threat detection platform Huntress confirmed the worries, saying that it had identified at least 162 compromised tenants in its environment. In a post today, Microsoft also confirmed malicious activity involving ConnectWise’s Cloud Backup service, saying it identified unauthorized authentication attempts from an IP address on October 15. ConnectWise’s cloud backup solutions provide backup and recovery services that help managed service providers (MSPs) and IT teams protect and restore customer data, such as emails and files, in cloud environments including Microsoft 365 and Google Workspace. For Microsoft 365 backups, the service relies on permissions granted through Microsoft Entra ID.",
+      "whyItMatters": "",
+      "words": 132,
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/07/ConnectWise.jpg",
+      "published": "2026-10-17T15:18:51.000Z",
+      "capturedAt": "2026-10-18T03:26:18.178Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0xgvm9w",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
+      "brief": "4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only models about twice its size beat it. All weights are live on Hugging Face today. REKI is a vision-language-action model from Kyutai that maps camera views and an instruction to robot actions. 5-2B backbone with a 200M-parameter action expert. The expert generates action chunks by flow matching, integrated in 10 Euler steps. Robot state and flow time enter through adaptive RMSNorm. Each robot state layout gets its own small state MLP. Most VLAs act on the current frame alone. Prior memory methods feed past frames to the VLM, unroll training, or add modules. Each option adds cost. REKI places memory inside the action expert instead. Before each frame’s action tokens sit 32 learned register tokens .",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-17T20:22:11.000Z",
+      "capturedAt": "2026-10-18T03:26:16.699Z",
+      "tags": [
+        "Model",
+        "Robot",
+        "Training Data"
+      ],
+      "rewritten": false
+    },
     {
       "id": "03aey0v",
       "channel": "sec",
@@ -12685,47 +12729,6 @@
       "capturedAt": "2026-08-16T18:29:31.934Z",
       "tags": [
         "Hack",
-        "Malware",
-        "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0hvafpn",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "brief": "Anthropic CEO Dario Amodei recently pushed back against the idea that he’s been painting an overly pessimistic picture of artificial intelligence and how it might shape the future. Amodei’s comments came in response to investor Gavin Baker, who argued — both on the All-In podcast and on X — that Amodei’s warnings about the dangers of AI have helped to fuel a backlash in the United States, particularly against data centers . ”",
-      "whyItMatters": "",
-      "words": 73,
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-      "published": "2026-08-16T16:53:51.000Z",
-      "capturedAt": "2026-08-16T18:29:30.274Z",
-      "tags": [
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0tnipbk",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-      "brief": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. A notable capability is copying the victim's Chromium profile, including its authentication state, and loading it into a hidden, headless browser on the infected system. This allows the hacker to access victims' authenticated sessions while preserving the identifiers associated with the browser, host, and network. AmnesiaStealer can collect data in 16 Chromium-based web browsers as well as other sensitive information, such as passwords, cryptocurrency wallets, Apple Notes and documents, and keychain data. The malware is currently distributed through ClickFix campaigns that use a fake GitHub download page to drop a password-protected ZIP archive.",
-      "whyItMatters": "",
-      "words": 121,
-      "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/09/11/apple_triangle.jpg",
-      "published": "2026-08-16T15:07:44.000Z",
-      "capturedAt": "2026-08-16T15:21:47.689Z",
-      "tags": [
         "Malware",
         "Attack"
       ],
