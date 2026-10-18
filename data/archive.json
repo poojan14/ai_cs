@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-18T15:29:51.827Z",
+  "updatedAt": "2026-10-18T20:12:38.782Z",
   "count": 600,
   "stories": [
+    {
+      "id": "18mksnv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "brief": "Hackers are exploiting an OS command-injection vulnerability in the SiteGuard Server Edition web application firewall (WAF), allowing them to execute commands with root or SYSTEM privileges on affected machines. The security issue is tracked as CVE-2026-106931 and affects the statistics feature in host-based WAF instances, which is enabled by default. 5 million websites . org statistics, the product is active on 500,000 sites. According to the vendor’s bulletin and a warning from Japan's CERT agency, CVE-2026-106931 has critical severity and is currently being exploited in the wild. “An OS command injection vulnerability (CVE-2026-106931) has been found in the statistics function of SiteGuard Server Edition. Abuse has already been confirmed,” reads SiteGuard’s alert . The attacker’s identity, the victims, the scale of the attacks, and the methods used remain unclear, as neither security advisory provides these details.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/hacker.jpg",
+      "published": "2026-10-18T14:23:16.000Z",
+      "capturedAt": "2026-10-18T20:12:38.782Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1issqb5",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "brief": "Carolyn Marvin was charged with ‘disorderly conduct’ for protesting delivery robots taking jobs. Carolyn Marvin was charged with ‘disorderly conduct’ for protesting delivery robots taking jobs. Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. ” Police responded to the scene and asked Marvin to move out of the robot’s way. When she refused, they placed her in cuffs and arrested her. The incident was captured on video and has now garnered considerable media attention. The delivery robots have become a common sight on the streets of downtown Philadelphia and have sparked backlash. This is not even Marvin’s first brush with them. And earlier this year, one was kicked over in Center City.",
+      "whyItMatters": "",
+      "words": 130,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200",
+      "published": "2026-10-18T18:28:10.000Z",
+      "capturedAt": "2026-10-18T20:12:36.617Z",
+      "tags": [
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0617tbi",
       "channel": "sec",
@@ -12691,49 +12733,6 @@
         "Breach",
         "Exploit",
         "Threat Actor"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0vfl6pj",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "brief": "It’s just the latest shakeup of its safety teams as it heads towards an IPO. It’s just the latest shakeup of its safety teams as it heads towards an IPO. According to the Financial Times , OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. ) According to FT , responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.",
-      "whyItMatters": "",
-      "words": 91,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-16T21:32:56.000Z",
-      "capturedAt": "2026-08-17T03:50:46.405Z",
-      "tags": [
-        "Model",
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0mr1uts",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "DDoS Attacks Cause Major Threema Outages",
-      "brief": "GeoServer Zero-Day Is Already Being Probed. S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Threema suffered multiple large-scale DDoS attacks that disrupted its secure messaging service and caused severe communication issues. Organizations using Threema On-Prem were not affected, as their deployments run on their own infrastructure. Threema is a Swiss paid secure messaging service, similar to WhatsApp or Signal, focused heavily on privacy and security. “If the attack originates simultaneously from multiple (and potentially changing) sources, it is referred to as a “Distributed Denial of Service” (DDoS) attack. ” reads the report . ”",
-      "whyItMatters": "",
-      "words": 102,
-      "url": "https://securityaffairs.com/197353/hacking/ddos-attacks-cause-major-threema-outages.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/Threema.jpg",
-      "published": "2026-08-16T23:38:43.000Z",
-      "capturedAt": "2026-08-17T01:17:54.525Z",
-      "tags": [
-        "Hack",
-        "Attack",
-        "Security"
       ],
       "rewritten": false
     }
