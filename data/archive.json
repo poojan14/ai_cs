@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-18T22:49:23.131Z",
+  "updatedAt": "2026-10-19T03:37:32.940Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1s6yxss",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "16-Year-Old Broadcom Wi-Fi Bug Lets Attackers Take Over Routers Without a Password",
+      "brief": "S. S. S. S. 11 implementation that has been present in their SDK since at least 2010. The bug allows an attacker to get unauthenticated remote code execution on affected routers without knowing the WiFi password or going through the normal WPS setup process. As of October 15, 2026, none of the affected devices in Belgium had received a patch.",
+      "whyItMatters": "",
+      "words": 60,
+      "url": "https://securityaffairs.com/201268/iot/16-year-old-broadcom-wi-fi-bug-lets-attackers-take-over-routers-without-a-password.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://quentinkaiser.be/assets/orange-exploit.mp4",
+      "published": "2026-10-19T00:36:33.000Z",
+      "capturedAt": "2026-10-19T03:37:32.940Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "17jg0tt",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "brief": "Anthropic announced today that it’s creating a “public benefit fund” that will give the company “increased flexibility and scale” to support projects for societal good. Anthropic said that it will commit 5% of its shares to the fund — structured as a wholly-owned entity within the company — with the option to contribute an additional 2% for every 50% increase in Anthropic’s value. ” There’s also the impact that AI might have on the job market, which Anthropic has already committed $200 million to study . But the company said, “Given the pace of AI progress, bolder approaches may be needed. ”",
+      "whyItMatters": "",
+      "words": 102,
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+      "published": "2026-10-18T20:37:40.000Z",
+      "capturedAt": "2026-10-19T03:37:30.455Z",
+      "tags": [
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1truruz",
       "channel": "sec",
@@ -12688,50 +12730,6 @@
         "Hack",
         "Malware",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1kdvg9e",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "brief": "AI companion toys for neurodivergent children promise connection and therapy, but can they deliver for the long haul? When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other, Moxie’s changed. She doesn’t talk anymore about her home or do their animal breathing. Now, she watches Xander play Minecraft and talks to him about his stuffed animal collection. , then to Brocollo and Apple from Animal Crossing. Then he got stuck on a round, froglike creature with bug eyes and two feet. “Moxie, what’s his name again? He’s from Pikmin,” Xander said, referencing another Nintendo video game.",
-      "whyItMatters": "",
-      "words": 141,
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
-      "published": "2026-08-17T09:00:00.000Z",
-      "capturedAt": "2026-08-17T09:41:35.794Z",
-      "tags": [
-        "Model",
-        "Chatbot",
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0fwzovd",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
-      "brief": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. Join this live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. CodeSecCon bridges the gap between dev and security. Discover best practices for secure coding, innovative risk-reduction tools, and safe AI integration to cultivate a true DevSecOps culture. Safely secure your apps! Erika Dean has been appointed Chief Information Security Officer at Tricentis. John Opala has joined Ralph Lauren as Chief Information Security Officer. Organizations are rushing to implement AI without fully grasping where its legal protections begin and end. (Steve Durbin)",
-      "whyItMatters": "",
-      "words": 117,
-      "url": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
-      "source": "SecurityWeek",
-      "sourceSite": "securityweek.com",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/Microsoft-Azure.jpeg",
-      "published": "2026-08-17T06:51:08.000Z",
-      "capturedAt": "2026-08-17T06:55:59.309Z",
-      "tags": [
-        "Security",
-        "Data Theft",
-        "Threat Actor"
       ],
       "rewritten": false
     }
