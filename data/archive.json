@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-19T12:23:20.997Z",
+  "updatedAt": "2026-10-19T20:24:06.848Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1pyfbv2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "brief": "S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated by cybercriminals living in France. As those original members were arrested or jailed one by one, control over the ShinyHunters brand eventually passed to “ Rey ,” identified last year as a teenage hacker from Amman, Jordan. According to the FBI, ShinyHunters has extorted more than $70 million from victims so far this year.",
+      "whyItMatters": "",
+      "words": 140,
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/10/shinywire-home.png",
+      "published": "2026-10-19T13:48:56.000Z",
+      "capturedAt": "2026-10-19T20:24:06.848Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0dp5p24",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "brief": "Despite millions of years of evolution, the development of the human fetus remains a complex process that is vulnerable to genetic, environmental, and metabolic disruptions. These disruptions could result in developmental abnormalities, starting with one of the first organs to begin developing in the fetus that continues to develop after birth: the brain. In a routine prenatal ultrasound, the sonographer will flag possible brain abnormalities for additional magnetic resonance imaging (MRI). But imperfect imaging can result in missed or incorrect diagnoses. To assist with the early detection and treatment of these abnormalities, researchers at MIT, Boston Children’s Hospital, and Inria have developed and trained a deep learning model called E(3)-Pose that helps image the fetus’s head while it’s in motion to capture a high-resolution image that the radiologist can examine. A paper about the work was presented at the 2026 European Conference on Computer Vision .",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-jameel-clinic-fetal-brain.jpg?itok=TGq3tK5p",
+      "published": "2026-10-19T18:20:00.000Z",
+      "capturedAt": "2026-10-19T20:24:04.376Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0kplzfq",
       "channel": "sec",
@@ -12687,48 +12731,6 @@
       "capturedAt": "2026-08-17T15:25:50.200Z",
       "tags": [
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0j2vly3",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "brief": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers. Nvidia has disclosed that it owns nearly 123 million shares in SpaceX, further highlighting the chipmaker’s entangled financial relationships with some of its biggest customers. 5 trillion company owned SpaceX stock worth nearly $21 billion at the end of June, according to an SEC filing on Friday. Elon Musk’s rocket conglomerate’s shares have fallen sharply since its June initial public offering, meaning Nvidia’s stake would now be worth $17 billion. The disclosure marks a huge pay-off on Nvidia’s investment in xAI, completed in January, shortly before Musk combined the AI lab with SpaceX. It underscores the scale of Nvidia chief Jensen Huang’s effort to use the financial power of the world’s most valuable company to forge complex and often circular financial links across the AI industry, including with some of his largest customers.",
-      "whyItMatters": "",
-      "words": 147,
-      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
-      "published": "2026-08-17T14:22:54.000Z",
-      "capturedAt": "2026-08-17T15:25:48.106Z",
-      "tags": [
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1akyp44",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "brief": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including",
-      "whyItMatters": "",
-      "words": 56,
-      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg",
-      "published": "2026-08-17T09:29:55.000Z",
-      "capturedAt": "2026-08-17T12:44:33.270Z",
-      "tags": [
-        "Malware",
-        "Exploit",
-        "Cyber"
       ],
       "rewritten": false
     }
