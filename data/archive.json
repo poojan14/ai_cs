@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-20T00:07:50.269Z",
+  "updatedAt": "2026-10-20T08:15:04.167Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1i9sy87",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "brief": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. 4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
+      "whyItMatters": "",
+      "words": 48,
+      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg",
+      "published": "2026-10-20T07:11:45.000Z",
+      "capturedAt": "2026-10-20T08:15:04.167Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "17hubaw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
+      "brief": "Nace AI has released Drex Max , a multimodal decision model for agents that use computers and browsers. The Drex Max multimodal decision model reads text and images and returns calibrated probabilities. It writes no text. 14. For agent builders, that means one cheap, typed call per click. TL;DR Size: Parameters not disclosed. Up to 262,144 tokens per question on the API, including image tokens. Runs on: Hosted API only ( drex-max on Nace Console). No open weights or quantized builds announced. 2 (public), the top score Nace lists for any decision model. 14. 14. What is Drex Max? Drex Max is a decision model from Nace AI that answers typed questions about text and images. It is the most accurate model in the Drex family , and the only one that reads images. A decision model does not generate tokens. You send a state and named questions.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "published": "2026-10-20T00:03:38.000Z",
+      "capturedAt": "2026-10-20T08:15:02.630Z",
+      "tags": [
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1stll5l",
       "channel": "sec",
@@ -12691,48 +12734,6 @@
         "Vulnerability",
         "Attack",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1k7nrc3",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Q&A: Rethinking how innovation happens",
-      "brief": "Innovation is a concept that has become mythologized in the modern era: what it is, how to manage it, how to teach it, and how to get it to work for us. Despite these explorations, it remains fundamentally misunderstood, writes Eugene Fitzgerald, the Merton C. ” Fitzgerald draws on a decade of work leading international research programs, including the MIT and Masdar Institute Cooperative Program and the MIT-Singapore Alliance for Research and Technology , where he explored innovation as the integration of market applications, technology, and implementation. Written at a moment when artificial intelligence is reshaping how we think about knowledge, research, and innovation, “The Invisible Engine” examines a deeper question: How does innovation actually happen, and how should society invest in it?",
-      "whyItMatters": "",
-      "words": 123,
-      "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-Fitzgerald-Innovation-Book-01-press.jpg?itok=Pl-hiOMe",
-      "published": "2026-08-17T19:50:00.000Z",
-      "capturedAt": "2026-08-17T21:26:28.392Z",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "08nmauz",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "LiteLLM Supply-Chain Attack – Technology, Banking and Healthcare the Most Affected",
-      "brief": "7M Records Stolen GeoServer Zero-Day Is Already Being Probed. S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog Resecurity (USA) estimated the most affected sectors by the “ SANDCLOCK ” backdoor , which was planted as a result of the code repository compromise. According to cybersecurity experts, LiteLLM / TeamPCP Supply-Chain Attack will have long-lasting consequences. By compromising a well-known component in AI applications, adversaries will multiply the blast radius—some of the victim organizations are still unaware of the backdoor and its impact. LiteLLM is a popular open-soure AI gateway and utility library that unifies API calls for over 100 large language model providers, such as OpenAI, Anthropic, Google Gemini, and local Ollama models .",
-      "whyItMatters": "",
-      "words": 122,
-      "url": "https://securityaffairs.com/197377/hacking/litellm-supply-chain-attack-technology-banking-and-healthcare-the-most-affected.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/Resecurity_LiteLLM_AffectedEntities_by_Sector_1.png?resize=783%2C1024&ssl=1",
-      "published": "2026-08-17T17:09:53.000Z",
-      "capturedAt": "2026-08-17T18:40:16.089Z",
-      "tags": [
-        "Hack",
-        "Cyber",
-        "Attack"
       ],
       "rewritten": false
     }
