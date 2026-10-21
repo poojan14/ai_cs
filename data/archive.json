@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-21T03:39:11.382Z",
+  "updatedAt": "2026-10-21T11:18:38.174Z",
   "count": 600,
   "stories": [
+    {
+      "id": "07fuyq5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "PHP Prepares Emergency Fixes for Two Critical Remote Code Execution Flaws",
+      "brief": "S. CISA adds Fortinet Multiple Products and BeyondTrust Remote Support flaws to its Known Exploited Vulnerabilities catalog PHP is preparing an emergency security release for two critical vulnerabilities that could let attackers execute code remotely on affected servers. The update is scheduled for today, October 21 at 14:00 UTC, after details of the flaws leaked online ahead of their planned disclosure. 2. It hasn’t yet published their technical details, confirmed the affected versions, or identified the releases that will fix them. The official PHP announcement says the full information will accompany the security updates. “The PHP security team would like to give advance notice of an upcoming security release . It is scheduled for Wednesday, 21 October 2026 at 14:00 UTC. ” states the announcement .",
+      "whyItMatters": "",
+      "words": 126,
+      "url": "https://securityaffairs.com/201403/security/php-prepares-emergency-fixes-for-two-critical-remote-code-execution-flaws.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2019/09/php-logo.png",
+      "published": "2026-10-21T10:13:52.000Z",
+      "capturedAt": "2026-10-21T11:18:38.173Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0b5kyht",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "brief": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark , which launched last week , powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Learn more about these local AI announcements below, and check out the demos and sessions at GTC Berlin . RTX Spark is a new beginning for the PC — running personal agents, accelerated content creation and 1440p 100 frames-per-second gaming with up to 128GB of unified memory and 1 petaflop of AI compute. Underdog , a new desktop agent app built for fully local, private AI, is also bringing its experience to RTX Spark.",
+      "whyItMatters": "",
+      "words": 129,
+      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2.jpg",
+      "published": "2026-10-21T10:50:37.000Z",
+      "capturedAt": "2026-10-21T11:18:36.490Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "12gsrq7",
       "channel": "sec",
@@ -12695,50 +12739,6 @@
         "Malware",
         "Cyber",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0pb5yf4",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "We still don’t know how people are really using AI",
-      "brief": "But a new study shows that work use cases make up less of the picture than AI companies claim. AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research (STAIR) Lab. Reuel is co-lead of a new research project, called the AI Observatory, that aims to fill in the gap. It’s a public platform that aggregated and analyzed real AI conversations with popular models like Claude and Gemini that were collected with users’ consent through seven existing datasets. The Observatory's intent is to provide independent sources of information for researchers and policymakers to assess how people are using generative AI.",
-      "whyItMatters": "",
-      "words": 145,
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
-      "published": "2026-08-18T10:06:43.000Z",
-      "capturedAt": "2026-08-18T12:46:55.583Z",
-      "tags": [
-        "Model",
-        "Chatbot",
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1ygtvgd",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "U.S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog",
-      "brief": "S. 7M Records Stolen GeoServer Zero-Day Is Already Being Probed. S. 4), to its Known Exploited Vulnerabilities (KEV) catalog . CVE-2025-62593 is a critical remote code execution (RCE) vulnerability in Ray, an AI compute engine. 0 insufficiently protected the Ray dashboard/API against browser-based attacks. Its defense relied on checking whether the HTTP User-Agent header started with “Mozilla”, but browsers can modify this header. “An attacker exploited a code injection vulnerability in Ray AI Compute Engine via a DNS rebinding attack, leading to remote code execution. ” reads the analysis published by Aviatrix.",
-      "whyItMatters": "",
-      "words": 92,
-      "url": "https://securityaffairs.com/197419/security/u-s-cisa-adds-a-ray-project-ray-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-49.png?resize=1024%2C419&ssl=1",
-      "published": "2026-08-18T08:02:44.000Z",
-      "capturedAt": "2026-08-18T09:34:11.741Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
