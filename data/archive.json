@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-20T23:39:10.228Z",
+  "updatedAt": "2026-10-21T03:39:11.382Z",
   "count": 600,
   "stories": [
+    {
+      "id": "12gsrq7",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "brief": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. 8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched by Palo Alto Networks in May 2026 and was",
+      "whyItMatters": "",
+      "words": 54,
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg",
+      "published": "2026-10-20T15:32:27.000Z",
+      "capturedAt": "2026-10-21T03:39:11.382Z",
+      "tags": [
+        "Ransomware",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "16rsecw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "brief": "Intermediate certs allow anyone to mint web credentials for any Internet server. Security personnel around the world are on high alert Tuesday following the discovery of eight TLS certificates with private keys so weak they could allow anyone to mint trusted browser and app credentials for any site on the Internet. As of late morning Tuesday, browser makers and some major apps and programming languages had blocked all eight of the intermediate certificates. There are no reports of certificate transparency logs, which track the issuance of all browser-trusted certificates, showing the compromised keys being used maliciously. The threat remains far from over, however, because it will be hard and time-consuming to update other key parts of the Internet, such as Linux distributions and embedded and Internet of Things devices.",
+      "whyItMatters": "",
+      "words": 129,
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+      "published": "2026-10-20T19:47:35.000Z",
+      "capturedAt": "2026-10-21T03:39:10.039Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1ulm3zy",
       "channel": "sec",
@@ -12699,45 +12739,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0n5ly49",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Apple’s camera-equipped AirPods appear in leaked video",
-      "brief": "A short clip found in the latest macOS beta demos the AirPods using visual intelligence. A short clip found in the latest macOS beta demos the AirPods using visual intelligence. 7 Release Candidate. The short video clip features a man — who is wearing the new AirPods — holding up a book with the cover displayed, so that Visual Intelligence can see the book title. A Siri voice-over plays over the clip, saying “with Visual Intelligence, your world becomes savable. See something you like? ” Bloomberg ’s Mark Gurman has previously reported that the rumored AirPods with cameras are designed to take in “visual information in low resolution” and act as eyes for Apple’s AI features, potentially allowing Siri to give turn-by-turn directions or answer questions about the wearer’s surroundings.",
-      "whyItMatters": "",
-      "words": 130,
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-18T09:00:01.000Z",
-      "capturedAt": "2026-08-18T09:34:10.419Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0ujyf6x",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
-      "brief": "Cybercriminals breached the cloud system of a debt consolidation loan company in May, stealing troves of sensitive financial information and personal data on about 750,000 customers. The company, Heights Finance, published a warning to customers last week about the data breach and told regulators in Texas on Friday that 734,828 people were affected. Heights Finance operates dozens of personal loan companies across Alabama, Tennessee, Georgia, Texas and South Carolina. The stolen information includes contact information like addresses; banking data ranging from account numbers to routing numbers; and government IDs that include Social Security numbers, tax IDs, driver’s license numbers or state IDs. The breach also included any personal information shared during customer service interactions. Heights Finance said the breach was discovered on May 7 when a hacker gained access to a cloud-based platform hosted by a third party that they use to store some customer data.",
-      "whyItMatters": "",
-      "words": 146,
-      "url": "https://therecord.media/financial-info-leak-debt-consolidator",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/ave_calvar_yfoorpcm_WE_unsplash_d6fadfbf2e.jpg",
-      "published": "2026-08-17T20:05:00.000Z",
-      "capturedAt": "2026-08-18T06:43:03.723Z",
-      "tags": [
-        "Breach",
-        "Leak"
       ],
       "rewritten": false
     }
