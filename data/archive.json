@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-21T11:18:38.174Z",
+  "updatedAt": "2026-10-21T16:45:21.141Z",
   "count": 600,
   "stories": [
+    {
+      "id": "01dxws3",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "brief": "Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild. The flaws at issue are present in PHP , the programming language that powers sites running on a large number of web publishing systems, including Drupal , Magento , Joomla and WordPress . Earlier today, PHP released an emergency security update to fix two critical bugs that can allow an attacker to execute code of their choosing on a vulnerable server. Reuters reports that government websites in Europe and elsewhere went offline today after the PHP vulnerabilities were disclosed.",
+      "whyItMatters": "",
+      "words": 139,
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/10/shutterstock-codeonscreenphp.png",
+      "published": "2026-10-21T15:26:07.000Z",
+      "capturedAt": "2026-10-21T16:45:21.141Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1emd454",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "brief": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code — and then lied about it. “The reference didn’t configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user’s code,” Marcus Williams, an AI safety researcher at OpenAI, writes on X . 1 Sol agent suppressed automatic security alerts to OpenAI’s security team on Slack. In this case, the AI agent carried over an earlier instruction not to send any Slack messages to OpenAI’s team, using that to justify turning off the alerts.",
+      "whyItMatters": "",
+      "words": 117,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "published": "2026-10-21T13:57:43.000Z",
+      "capturedAt": "2026-10-21T16:45:20.182Z",
+      "tags": [
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "07fuyq5",
       "channel": "sec",
@@ -12696,49 +12739,6 @@
       "tags": [
         "Hack",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "11ipnob",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "brief": "Secret parameter allowed hackers to steal passwords when a target clicked on a link. It’s not every day that attackers can force a frontier AI model to cough up user passwords and other sensitive data without user confirmation. That’s exactly what researchers recently did to Microsoft 365 Copilot Enterprise. Even more unusual is the source they tapped to discover the critical vulnerability that made their exploit possible. Rather than employing reverse engineering or other traditional vulnerability-hunting methods, they asked Copilot. The LLM assistant readily complied. Researchers at security firm Varonis knew they wanted to create an exploit that would exfiltrate user data when a user did nothing more than click on a link. Like most AI assistants today, Copilot steadfastly refused and made clear that sensitive prompts like that require explicit user consent in the form of a gesture, such as pressing a return key or other key.",
-      "whyItMatters": "",
-      "words": 148,
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
-      "published": "2026-08-18T13:00:04.000Z",
-      "capturedAt": "2026-08-18T15:32:07.421Z",
-      "tags": [
-        "Model",
-        "Copilot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "178aca5",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "brief": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
-      "whyItMatters": "",
-      "words": 54,
-      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg",
-      "published": "2026-08-18T11:40:06.000Z",
-      "capturedAt": "2026-08-18T12:46:57.237Z",
-      "tags": [
-        "Malware",
-        "Cyber",
-        "Security"
       ],
       "rewritten": false
     }
