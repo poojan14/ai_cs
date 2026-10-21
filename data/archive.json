@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-21T16:45:21.141Z",
+  "updatedAt": "2026-10-21T21:20:31.859Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1u21euo",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+      "brief": "In this article What’s happening What is ARTEX? Mitigation and protection guidance References Learn more As early as September 2026, Storm-0940, a China-state aligned actor, used the agentic AI penetration testing framework ARTEX to automate attacks targeting hundreds of organizations globally across a broad range of industries. Several of these Storm-0940 ARTEX-driven attacks have resulted in the actor obtaining privileged access to an organization’s cloud infrastructure – including multiple instances where the time from initial targeting to privileged access was less than 3 hours. Microsoft assesses that Storm-0940 was responsible for the recently disclosed ConnectWise supply chain compromise of a multi-tenant application. This activity demonstrates how threat actors are integrating agentic AI into existing offensive security workflows and allows them to scale their operations exponentially.",
+      "whyItMatters": "",
+      "words": 125,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/image-6.webp",
+      "published": "2026-10-21T18:23:55.000Z",
+      "capturedAt": "2026-10-21T21:20:31.858Z",
+      "tags": [
+        "Breach",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "17434pw",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "brief": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for model training and inference, helping developers build agentic and physical AI applications, and establishing boundaries around what agents can access and do. Together, they’re turning Europe’s energy, data, research and industrial expertise into productive intelligence — supporting new models, applications, organizations and jobs while giving people more control over where and how they develop and deploy AI. Europe is home to world-class research, engineering talent, industrial expertise, data, the next generation of models and applications that requires large-scale computing close to where that knowledge resides.",
+      "whyItMatters": "",
+      "words": 140,
+      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2.png",
+      "published": "2026-10-21T10:30:41.000Z",
+      "capturedAt": "2026-10-21T21:20:30.344Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "01dxws3",
       "channel": "sec",
@@ -12695,49 +12739,6 @@
       "tags": [
         "Malware",
         "Phishing",
-        "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0tufaii",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
-      "brief": "When an artificial intelligence image generator produces a portrait, whose work went into it? The question sits at the center of lawsuits, licensing deals, and proposed regulations worldwide. Artists want credit. Companies want clarity. Policymakers want a way to assign responsibility. New work from a team of researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) suggests that for models trained on large datasets, the question may often have no answer. It's not that the tools for finding it are inadequate. The connection itself has disappeared. The scientists identified a phenomenon they call attribution decay, where the more data a generative model is trained on, the less any individual training example matters to any particular output.",
-      "whyItMatters": "",
-      "words": 117,
-      "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/dai-gifford-ai-image-training-data-00_0.png?itok=BM5jagA4",
-      "published": "2026-08-18T16:35:00.000Z",
-      "capturedAt": "2026-08-18T18:38:52.437Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Model",
-        "Training Data"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "095em7g",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hackers target Ukrainian agency managing assets seized from sanctioned Russians",
-      "brief": "Ukraine’s agency responsible for managing assets seized from criminals and sanctioned individuals said Tuesday that it had been targeted by a cyberattack as it investigates a potential coordinated effort to disrupt its operations. The Asset Recovery and Management Agency, known as ARMA, manages assets seized by Ukrainian authorities, including those linked to sanctioned Russians and alleged collaborators with Moscow. The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country’s largest producers of bottled mineral water and beverages. “Over the years that the Russian oligarchic capital has operated in Ukraine, it has built up a network of people willing to serve its interests from within our country,” said Yaroslava Maksymenko, ARMA’s acting head. ARMA did not identify who it believes was behind the cyberattack or provide technical details about the incident.",
-      "whyItMatters": "",
-      "words": 144,
-      "url": "https://therecord.media/hackers-target-ukraine-agency-sanctioned-russians",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/kyiv_238c52976f.jpg",
-      "published": "2026-08-18T14:45:00.000Z",
-      "capturedAt": "2026-08-18T15:32:08.894Z",
-      "tags": [
-        "Hack",
         "Attack"
       ],
       "rewritten": false
