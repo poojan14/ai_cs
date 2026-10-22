@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-21T21:20:31.859Z",
+  "updatedAt": "2026-10-22T03:38:46.555Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0zutd92",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "brief": "0, released in 2014. 2 and later, and the new fixed versions sit one patch above it, so an",
+      "whyItMatters": "",
+      "words": 19,
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg",
+      "published": "2026-10-21T18:57:34.000Z",
+      "capturedAt": "2026-10-22T03:38:46.555Z",
+      "tags": [
+        "Patch",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "13r7c3j",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
+      "brief": "Vercel has released durable-harness , an open-source package that keeps coding agent sessions alive through crashes and timeouts. Vercel durable-harness wraps existing harnesses, including Pi, OpenCode, Claude Code and Codex, without changing them . Each session lives in a durable log. A dead function no longer means lost work. For teams moving agents off laptops and into the cloud, that closes a real gap. 0. Adapters cover 5 harnesses: Pi, OpenCode, fx, Claude Code, Codex. js 22+ with Postgres, or laptop files. Claude Code and Codex need a Vercel Sandbox. Performance: No latency or throughput benchmarks published. All recovery claims are self-reported by Vercel. Best: Finished model and tool calls are read back from the log, never re-run or billed twice. x API. Claude Code and Codex run only in a Vercel Sandbox, even self-hosted. What is durable-harness?",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "published": "2026-10-21T22:15:39.000Z",
+      "capturedAt": "2026-10-22T03:38:45.193Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1u21euo",
       "channel": "sec",
@@ -12696,49 +12739,6 @@
       "tags": [
         "Ransomware",
         "Cyber",
-        "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1i1olb6",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "brief": "OpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco. OpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco. OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face , including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra , that it thinks could have “critical” cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its “latest models intended for deployment” while it tightened up security. ”",
-      "whyItMatters": "",
-      "words": 112,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-18T19:28:30.000Z",
-      "capturedAt": "2026-08-18T21:24:46.317Z",
-      "tags": [
-        "Model",
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0oaotss",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-      "brief": "In this article Activity overview Discovery of additional rotating infrastructure Attack chain overview Mitigation and protection guidance References Learn more MacSync Stealer is a macOS-focused information stealer that relies on changing infrastructure to deliver payloads, communicate with compromised devices, and exfiltrate data. Earlier reporting by RST Cloud identified the threat through a limited set of domains and documented rapid command-and-control (C2) replacement after public disclosure. Microsoft Defender Experts expanded that view by correlating recurring endpoints and network behaviors across the activity. This behavior-led approach connected more than 30 domains and showed that the infrastructure supported more than C2 communication, extending into active collection, staging, and exfiltration. The findings demonstrate that although domains may rotate quickly, repeated execution patterns, request characteristics, staging behavior, and upload methods provide defenders with more durable opportunities to investigate MacSync Stealer activity.",
-      "whyItMatters": "",
-      "words": 136,
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-      "source": "Microsoft Security Blog",
-      "sourceSite": "microsoft.com",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/image-14.webp",
-      "published": "2026-08-18T17:08:28.000Z",
-      "capturedAt": "2026-08-18T18:38:53.821Z",
-      "tags": [
-        "Malware",
-        "Phishing",
         "Attack"
       ],
       "rewritten": false
