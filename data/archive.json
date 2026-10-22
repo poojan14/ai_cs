@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-22T03:38:46.555Z",
+  "updatedAt": "2026-10-22T11:18:00.336Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0j9uiix",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "FBI and CISA Warn of SafePay Ransomware Attacks on 600 Organizations",
+      "brief": "CISA, the FBI, the US Secret Service, Germany’s Landeskriminalamt Rheinland-Pfalz, and two UK law enforcement agencies jointly published an advisory this week on SafePay , a ransomware group they describe as one of the most active operations currently running. The group has breached at least 600 organizations across critical infrastructure sectors since August 2024, spanning North America, South America, Europe, and Australia. “Since August 2024, SafePay ransomware group’s operations have affected a wide range of businesses and critical infrastructure in North America, South America, Europe, and Australia. SafePay ransomware was among the most active ransomware groups in 2026. ”",
+      "whyItMatters": "",
+      "words": 99,
+      "url": "https://securityaffairs.com/201464/cyber-crime/fbi-and-cisa-warn-of-safepay-ransomware-attacks-on-600-organizations.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-2.jpg",
+      "published": "2026-10-22T06:48:43.000Z",
+      "capturedAt": "2026-10-22T11:18:00.336Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ln46kj",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "brief": "Enterprises need economically scalable capacity to keep pace with the data created by AI inference. Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored. But data storage is one of the harder infrastructure costs to plan for, and it’s often overlooked in initial AI infrastructure planning. Traditionally, AI infrastructure conversations have centered on the compute-intensive process of training a model. Training is finite: a run starts, burns through compute, and ends. But inference runs continuously, every time a model answers a prompt. For infrastructure planning, that difference matters: A training run is a project you can budget for and retire.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png",
+      "published": "2026-10-22T08:41:18.000Z",
+      "capturedAt": "2026-10-22T11:17:58.322Z",
+      "tags": [
+        "Model",
+        "Inference",
+        "Generative"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0zutd92",
       "channel": "sec",
@@ -12695,50 +12739,6 @@
       "tags": [
         "Hack",
         "Ransomware",
-        "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1obywrv",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "brief": "AI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems. The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. But a new study suggests that it might take a while for us to get there. The researchers behind it found that AI agents are not yet capable of conducting open-ended AI research—free-form investigations that have no clear-cut answers and require judgment and taste, which may be integral to building self-improving AI.",
-      "whyItMatters": "",
-      "words": 124,
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
-      "published": "2026-08-18T09:00:00.000Z",
-      "capturedAt": "2026-08-19T01:16:34.595Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0pgjn3p",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
-      "brief": "Federal cybersecurity agencies warned on Tuesday that troves of new victims of the Medusa ransomware gang have been identified over the last year. The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA previously said 300 victims, many of which are in critical infrastructure sectors, were attacked as of 2025. The group caused widespread outrage in April when it shut down the University of Mississippi Medical Center — Mississippi’s only children's hospital, only Level I trauma center, only Level IV neonatal intensive care unit and home to the state’s only organ transplant program.",
-      "whyItMatters": "",
-      "words": 119,
-      "url": "https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/2021_04_viper_snake_APT_ee201b7107.jpg",
-      "published": "2026-08-18T18:05:00.000Z",
-      "capturedAt": "2026-08-18T21:24:47.870Z",
-      "tags": [
-        "Ransomware",
-        "Cyber",
         "Attack"
       ],
       "rewritten": false
