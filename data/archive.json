@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-22T21:16:05.888Z",
+  "updatedAt": "2026-10-23T03:43:27.347Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1pb3vv7",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "brief": "This week has already been rough for cybersecurity. js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet. But those big headlines are only half the story. Stolen passwords, exposed",
+      "whyItMatters": "",
+      "words": 51,
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg",
+      "published": "2026-10-22T17:45:44.000Z",
+      "capturedAt": "2026-10-23T03:43:27.347Z",
+      "tags": [
+        "Hack",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0j1zy5q",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "brief": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. S. export license for 45,000 NVIDIA Grace Blackwell GPUs. The first phase is under construction with Kazakhtelecom at Data Center Valley, targeting commercial launch in the third quarter of 2027. A planned second phase would bring Firebird’s total potential AI infrastructure capacity in Kazakhstan to approximately 500 megawatts. Firebird also plans to establish Firebird Labs Kazakhstan to support local AI startups, research and talent development through funding, access to compute and research partnerships. Kazakhtelecom , the nation’s largest telecommunications company, has already deployed 400 NVIDIA H200 and 480 NVIDIA B300 GPUs in Astana and Almaty.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg",
+      "published": "2026-10-23T02:00:13.000Z",
+      "capturedAt": "2026-10-23T03:43:25.423Z",
+      "tags": [
+        "Model",
+        "Robot",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1turfge",
       "channel": "sec",
@@ -12702,45 +12746,6 @@
       "capturedAt": "2026-08-19T09:34:25.696Z",
       "tags": [
         "Hack",
-        "Exploit",
-        "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1gh94lw",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "brief": "For as long as anyone can remember, GitHub has been the de facto code host preferred by a majority of developers. However, in recent times, the platform has struggled with widely reported outages and performance degradation and, as it drops the ball, Cursor is waiting to pick it up. The AI startup, which is now officially a part of SpaceX , launched Origin this week — a new code-hosting platform designed to do all of the things that developers typically use GitHub for: collaboratively work on codebases, browse and edit them, handle pull-requests (edits made by others asking to be added to the main codebase), and store them in repositories. This seems like a natural next step for Cursor, whose primary focus until this point has been selling automated web development services through its AI Code Editor .",
-      "whyItMatters": "",
-      "words": 138,
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "published": "2026-08-18T22:14:25.000Z",
-      "capturedAt": "2026-08-19T09:34:23.744Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0cra9zz",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "brief": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
-      "whyItMatters": "",
-      "words": 51,
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg",
-      "published": "2026-08-18T17:44:05.000Z",
-      "capturedAt": "2026-08-19T06:43:49.011Z",
-      "tags": [
         "Exploit",
         "Attack"
       ],
