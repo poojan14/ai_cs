@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-23T03:43:27.347Z",
+  "updatedAt": "2026-10-23T11:08:49.258Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1q00oww",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "PHP2Shell: Millions of Attacks, No Confirmed Successful Exploits Yet",
+      "brief": "2), affecting every PHP version that handles web requests. 4 from 2012, lives in the PHP engine itself rather than in any application, and allows unauthenticated remote code execution via crafted HTTP requests. Cloudflare researchers observed tens of thousands of exploit attempts within 45 minutes of public disclosure, hundreds of thousands within two hours, and millions by October 22. 4 million PHP services still running vulnerable versions. Governments, hospitals, and schools across Asia, Europe, and North America have preemptively taken services offline rather than wait. Below is an image showing the hosts potentially vulnerable to CVE-2026-109618 and/or CVE-2026-109619.",
+      "whyItMatters": "",
+      "words": 98,
+      "url": "https://securityaffairs.com/201538/hacking/php2shell-millions-of-attacks-no-confirmed-successful-exploits-yet.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f325.png",
+      "published": "2026-10-23T10:52:00.000Z",
+      "capturedAt": "2026-10-23T11:08:49.258Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0d0rcv8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+      "brief": "An AI search agent can work in a demo but fail under production workloads when retrieval returns incomplete evidence, retries repeat unsuccessful actions, or execution exceeds time and cost limits. TinyFish , which provides web infrastructure for AI agents, has published two technical guides addressing these challenges. The first defines a production agentic search architecture , while the second shares lessons from building a deep research system . Together, they examine how an autonomous search agent can plan retrieval, evaluate evidence, handle failures, and manage the boundary between model reasoning and deterministic execution. TL;DR TinyFish introduced its agentic search architecture and key engineering lessons from building deep research systems. Built on four web primitives ( TinySearch, TinyFetch, TinyBrowser, and TinyAgent ), the system operates via a seven-phase control loop around the base model.",
+      "whyItMatters": "",
+      "words": 133,
+      "url": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2196.png",
+      "published": "2026-10-23T08:58:47.000Z",
+      "capturedAt": "2026-10-23T11:08:47.471Z",
+      "tags": [
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1pb3vv7",
       "channel": "sec",
@@ -12705,49 +12748,6 @@
         "Vulnerability",
         "Exploit",
         "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "05rvh4c",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI to slow launch of new AI models after Hugging Face hack - MLex",
-      "brief": "OpenAI to slow launch of new AI models after Hugging Face hack MLex",
-      "whyItMatters": "",
-      "words": 13,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRm40TGRBa01tWUF4bUx5WFBUVnpZM09DdDZQcUV3SFlYckhScm5OZUpTRXZBRkx4al9wQWpKYTVUQkdTbDVINFdIeW55c1MzREhlVWRaRFB2THdEN0lPNGxzTmVPUXdydWVvbk4wNy1iVTNxSlhKR2JuWDZ4WHFHNGdCcW5HVktpaUpuWUxRT2p4RlBrNDdoYS1RNWN5N2thWGhtT014bmdPRXRrdEMtVHd6ZjJselJ4dncwSWMyUkpiaG1NZ2k3YtIBWkFVX3lxTFBERkI0dTFKS0dFbVFxZmdPZnZESkZXN2pWN2IyVmtXakV3NjV0LVQ3SXlVVTVYaFpZb0JlbFRrZWFxTV9nNEY1Ujk4bU5xekROSW5kbVNEcllDZw",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-19T11:43:00.000Z",
-      "capturedAt": "2026-08-19T12:48:13.226Z",
-      "tags": [
-        "Model",
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0i7lx3l",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "50,000 Stripe Secrets Leaked in Public Code",
-      "brief": "S. S. 7M Records Stolen GeoServer Zero-Day Is Already Being Probed. That’s the Problem Ransomnews researchers have documented a large-scale leak of Stripe merchant API keys found exposed in public code repositories, GitHub Actions logs, and misconfigured web servers, with over 50,000 unique keys identified in total. The research is practical rather than theoretical: the team tested a sample of the keys, found a meaningful portion still active, and documented exactly how quickly a fraudster could exploit them. The answer is fast.",
-      "whyItMatters": "",
-      "words": 82,
-      "url": "https://securityaffairs.com/197504/cyber-crime/50000-stripe-secrets-leaked-in-public-code.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-52.png?resize=1024%2C941&ssl=1",
-      "published": "2026-08-19T08:33:04.000Z",
-      "capturedAt": "2026-08-19T09:34:25.696Z",
-      "tags": [
-        "Hack",
-        "Exploit",
-        "Attack"
       ],
       "rewritten": false
     }
