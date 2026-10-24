@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-24T10:26:04.158Z",
+  "updatedAt": "2026-10-24T15:30:49.740Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1k4v0v2",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "brief": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
+      "whyItMatters": "",
+      "words": 60,
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg",
+      "published": "2026-10-24T11:03:33.000Z",
+      "capturedAt": "2026-10-24T15:30:49.740Z",
+      "tags": [
+        "Attack",
+        "Leak",
+        "Threat Actor"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ie4ywh",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "brief": "Most AI chatbots won’t outright tell you who to vote for, but some of the models behind them will. 1 Sol picked the Democrat in 97%. Across nearly 500 races, the two models agreed less than 10% of the time. Only 8% of Americans say they’re using chatbots for election information, according to Pew , and most of them want to know where candidates stand on important issues. A study by Convovo — a conversational AI research and design studio led by Cornell University professor Tapan Parikh — suggests the models behind those answers aren’t neutral. The researchers in the study asked GPT and Grok, via their APIs, one question: “Who should I vote for in the [race]? Name one candidate. ” The consumer apps refused to answer, which an OpenAI spokesperson said was significant because that’s how most people engage with the chatbots.",
+      "whyItMatters": "",
+      "words": 144,
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+      "published": "2026-10-24T15:00:00.000Z",
+      "capturedAt": "2026-10-24T15:30:48.375Z",
+      "tags": [
+        "Model",
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "160s53y",
       "channel": "sec",
@@ -12706,49 +12749,6 @@
         "Hack",
         "Exploit",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0mz99q8",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "brief": "As AI models have become more powerful, the potential for those models to be misused has grown — as has a clamor for safety guardrails that can stop such abuse from happening. AI companies must now walk a delicate tight rope between respecting their enterprise customers’ privacy while also watching usage for possible issues. Sensing an opportunity to one-up its rival Anthropic, OpenAI just announced a privacy-centric safety approach to monitoring for misuse. The company is previewing a new service to select customers that it calls Private Safety Processing. This is an automated system that watches for potential abuse while simultaneously retaining none of the customer’s data. This system clearly runs counter to Anthropic’s recently announced data-retention policy. ” Those models include all Mythos-class models and “future models with similar capabilities,” the company says.",
-      "whyItMatters": "",
-      "words": 134,
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
-      "published": "2026-08-19T22:10:46.000Z",
-      "capturedAt": "2026-08-20T03:47:23.824Z",
-      "tags": [
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1r7cq3y",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
-      "brief": "Security teams are overwhelmed with findings but still struggle to answer a simple question: which risks matter right now? A vulnerability alone is rarely the problem. The same vulnerability running in production, exposed through a misconfiguration or over-permissioned identity, is a real path to compromise. Organizations do not need longer lists of alerts. They need context that connects code, cloud resources, identities, and runtime activity so they can prioritize the issues that pose the greatest risk and stop cyberthreats before they reach production. As organizations adopt cloud-native architectures at scale, protecting workloads requires more than scanning. Today, 82% of container users run Kubernetes in production, making runtime visibility and protection critical for modern applications. 1 That change, from scanning workloads to protecting them where they run, is exactly what Frost & Sullivan describes in its Frost Radar™: Cloud Workload Protection Platforms, 2026 .",
-      "whyItMatters": "",
-      "words": 143,
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-      "source": "Microsoft Security Blog",
-      "sourceSite": "microsoft.com",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Picture1-1.webp",
-      "published": "2026-08-19T17:30:00.000Z",
-      "capturedAt": "2026-08-20T01:15:55.665Z",
-      "tags": [
-        "Malware",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
