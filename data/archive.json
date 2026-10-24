@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-24T03:37:27.059Z",
+  "updatedAt": "2026-10-24T10:26:04.158Z",
   "count": 600,
   "stories": [
+    {
+      "id": "160s53y",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Capcom Data Breach Exposes 11.7 Million Email Addresses",
+      "brief": "S. CISA adds Arista VeloCloud Orchestrator flaw to its Known Exploited Vulnerabilities catalog Japanese gaming company Capcom has disclosed a data breach discovered on October 19 involving its CAPCOM ID service, which provides access to online services and games. As of October 22, attackers stole 11,774,247 email addresses, along with account details including creation dates, last login dates, login counts, and the IP addresses used for the latest logins. ” reads the company’s notice . “Number of leaked email addresses and system-specific identification information: 11,774,247 (worldwide total)” In 43 cases, hackers exposed date of birth, gender, country/region, and nickname. Capcom also reported that attackers illegally changed passwords on 196 accounts, and the company has already reset them. The company said the incident exposed personal information belonging to a small number of individuals.",
+      "whyItMatters": "",
+      "words": 132,
+      "url": "https://securityaffairs.com/201626/data-breach/capcom-data-breach-exposes-11-7-million-email-addresses.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2020/11/capcom.jpg",
+      "published": "2026-10-24T10:21:53.000Z",
+      "capturedAt": "2026-10-24T10:26:04.158Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Ransomware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1j2rv6a",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots",
+      "brief": "5 Bolt E4B 4GB , an open small language model for fast conversational agents. It targets voice assistants, game NPCs and robot interfaces running locally on RTX, Jetson and Spark hardware. The model is post-trained from Google’s Gemma 4 E4B using reinforcement learning only. For developers, this is agent behavior in about 4GB of VRAM. That leaves room for speech and vision models. TL;DR Size: 8B total parameters , 4B effective, 64K context. Runs on: GeForce RTX, Jetson, RTX Spark and DGX Spark. 3 GB VRAM on RTX in NVIDIA tests. 5-4B and Nemotron 3 Nano 4B (NVIDIA-measured). 5-4B. 1. 5 Bolt E4B? 5 Bolt E4B is a small language model from NVIDIA that powers local conversational agents. It combines natural dialogue with multi-turn tool calling. NVIDIA lists 3 target workloads: device and voice assistants, interactive characters, and embedded or industrial agents.",
+      "whyItMatters": "",
+      "words": 142,
+      "url": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "published": "2026-10-24T03:56:29.000Z",
+      "capturedAt": "2026-10-24T10:26:02.415Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1fwc4je",
       "channel": "sec",
@@ -12705,48 +12749,6 @@
         "Malware",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1l0p1f1",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "brief": "It’s also rolling out the ability to check your work and get help with complicated topics using Google Lens. It’s also rolling out the ability to check your work and get help with complicated topics using Google Lens. As we’re gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It’s a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates and deadlines to your Google Calendar based on your syllabus.",
-      "whyItMatters": "",
-      "words": 103,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0%2C9.6095766582019%2C100%2C80.780846683596&w=1200",
-      "published": "2026-08-19T19:00:00.000Z",
-      "capturedAt": "2026-08-20T01:15:54.146Z",
-      "tags": [
-        "Gemini"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0p7jrqt",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "brief": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
-      "whyItMatters": "",
-      "words": 61,
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
-      "published": "2026-08-19T19:02:40.000Z",
-      "capturedAt": "2026-08-19T21:25:43.004Z",
-      "tags": [
-        "Cyber",
-        "Attack",
-        "Security"
       ],
       "rewritten": false
     }
