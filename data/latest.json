@@ -1,49 +1,45 @@
 {
-  "generatedAt": "2026-10-25T03:34:54.893Z",
-  "nextUpdateAt": "2026-10-25T06:34:54.893Z",
+  "generatedAt": "2026-10-25T10:53:46.238Z",
+  "nextUpdateAt": "2026-10-25T13:53:46.238Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "1wr2yip",
+      "id": "0nz7jli",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
-      "brief": "In this tutorial, we build a stateful engineering copilot with Letta that demonstrates how agentic memory extends beyond conventional prompt-based conversations. We begin by creating inspectable core memory blocks that the agent can autonomously update, then expose those blocks for programmatic state synchronization and shared access across multiple agents. af export for portability. Together, these components demonstrate a practical memory architecture in which persistent state, retrieval, tools, multi-agent collaboration, and execution traces work as an integrated agentic system. list()] MODEL = next((h for h in PREFERRED if h in handles), None) or handles[0] except Exception: MODEL = PREFERRED[0] print(f\" connected · model handle = {MODEL}\") hr(\"1. time())}\", description=\"Engineering copilot with inspectable long-term memory\", tags=[\"tutorial\", \"copilot\"], memory_blocks=[ {\"label\": \"persona\", \"value\": \"I am Mnemo, an engineering copilot. \", \"limit\": 3000}, {\"label\": \"human\", \"description\": \"Durable facts about the engineer I work with: name, role, stack, \" \"preferences, working style.",
+      "title": "My self-hosted AI models research, code, and generate images, and all they cost is a GPU I already own - XDA",
+      "brief": "My self-hosted AI models research, code, and generate images, and all they cost is a GPU I already own XDA",
       "whyItMatters": "",
-      "words": 146,
-      "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
-      "source": "MarkTechPost",
-      "sourceSite": "marktechpost.com",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
-      "published": "2026-10-24T10:29:31.000Z",
-      "capturedAt": "2026-10-25T03:34:52.622Z",
+      "words": 20,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQi1TUXZHc0Rtc1J1cHhrMld6LWRlUnk4WFdQYTYzUlh2ZzZSUFdSdElkREN5aExtSWE0WTNMbHNJVmM4elBtZWZ3b3JzUkpVcENJclFHcmYtQ0JhdFZnNWVfR1h2c2ZsWHZ6cXBNVFI2VDhXZEpZa3RESm50eFpFUnN3UGhlMEdNZ0xOQWlNZ1dTcnJEWk04aXZhZm01LTc0UWJ3ZWJTZWpJZ2w1aE9IRVFPSmdhd0J1dXBhUmo4MFBSU2p3aW5fTUJ5bw",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-10-25T10:00:20.000Z",
+      "capturedAt": "2026-10-25T10:53:44.669Z",
       "tags": [
-        "Model",
-        "Openai",
-        "Anthropic"
+        "Model"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "00mym3u",
+      "id": "11yhew6",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog",
-      "brief": "S. S. S. 2), to its Known Exploited Vulnerabilities (KEV) catalog . Collabora Online – Built-in CODE Server is an app for Nextcloud that lets you open, edit and collaborate on documents, spreadsheets and presentations directly in your browser, without needing Microsoft Office installed on your computer. It is based on Collabora Online and LibreOffice technology. 303. Unauthenticated attackers can execute commands when the built-in server is stopped. Standalone Collabora servers are not affected. Update immediately.",
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "brief": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
       "whyItMatters": "",
-      "words": 76,
-      "url": "https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
-      "published": "2026-10-24T16:53:59.000Z",
-      "capturedAt": "2026-10-25T03:34:54.893Z",
+      "words": 59,
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg",
+      "published": "2026-10-25T06:54:29.000Z",
+      "capturedAt": "2026-10-25T10:53:46.238Z",
       "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
+        "Security"
       ],
       "rewritten": false
     }

@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-25T03:34:54.893Z",
+  "updatedAt": "2026-10-25T10:53:46.238Z",
   "count": 600,
   "stories": [
+    {
+      "id": "11yhew6",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "brief": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
+      "whyItMatters": "",
+      "words": 59,
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg",
+      "published": "2026-10-25T06:54:29.000Z",
+      "capturedAt": "2026-10-25T10:53:46.238Z",
+      "tags": [
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0nz7jli",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "My self-hosted AI models research, code, and generate images, and all they cost is a GPU I already own - XDA",
+      "brief": "My self-hosted AI models research, code, and generate images, and all they cost is a GPU I already own XDA",
+      "whyItMatters": "",
+      "words": 20,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQi1TUXZHc0Rtc1J1cHhrMld6LWRlUnk4WFdQYTYzUlh2ZzZSUFdSdElkREN5aExtSWE0WTNMbHNJVmM4elBtZWZ3b3JzUkpVcENJclFHcmYtQ0JhdFZnNWVfR1h2c2ZsWHZ6cXBNVFI2VDhXZEpZa3RESm50eFpFUnN3UGhlMEdNZ0xOQWlNZ1dTcnJEWk04aXZhZm01LTc0UWJ3ZWJTZWpJZ2w1aE9IRVFPSmdhd0J1dXBhUmo4MFBSU2p3aW5fTUJ5bw",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-10-25T10:00:20.000Z",
+      "capturedAt": "2026-10-25T10:53:44.669Z",
+      "tags": [
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "00mym3u",
       "channel": "sec",
@@ -12705,49 +12745,6 @@
         "Cyber",
         "Attack",
         "Threat Actor"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0nzwh0b",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "brief": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail. Earlier this week, researchers outlined an attack that used a secret input provided by Microsoft 365 Copilot for enterprise to cause the AI assistant to exfiltrate a password present in the user’s inbox. Now, a separate team has devised a similar attack against Grok. The new data theft hack employs a deceptively simple trick to force the Elon Musk-owned LLM to steal user chats and other personal information. At the time this post went live, the assistant continued to cough up the data, despite xAI being informed of it in June.",
-      "whyItMatters": "",
-      "words": 105,
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
-      "published": "2026-08-20T13:00:35.000Z",
-      "capturedAt": "2026-08-20T15:34:15.751Z",
-      "tags": [
-        "Model",
-        "Copilot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1cedq0z",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "brief": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking and cryptocurrency applications.",
-      "whyItMatters": "",
-      "words": 55,
-      "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19iWDNnvPUAAC2_MJN09g-1SHoPWQv82zvmQGTvrniDXm9BUWK73QrKCNCgxk0uGp6MrKF8cDQrigQCI3CW1G8V8GNltJ0GRc-yBjt69zPem4YW_b0XCZwsIFhWiOoul7eIhEOjb_F0X9A9B_DOmQNbCWHF6AzqDro4U0XjH_CgtJ_J0MVZjDPmyDL1p/s1600/android-banking-malware.jpg",
-      "published": "2026-08-20T10:38:28.000Z",
-      "capturedAt": "2026-08-20T12:51:03.590Z",
-      "tags": [
-        "Malware",
-        "Cyber",
-        "Attack"
       ],
       "rewritten": false
     }
