@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-25T20:29:11.813Z",
+  "updatedAt": "2026-10-25T23:02:29.458Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1birxv1",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "brief": "Researchers found a malicious AGENTS markdown instruction file in a customer’s Downloads folder that tricked an AI coding agent into installing a rogue npm package. They reproduced the attack against OpenAI Codex and demonstrated a related technique against Claude Code to leak OAuth tokens and hijack the account using only the malicious instructions. md are plain-text files that contain project-specific instructions for AI coding agents, such as the tools to use, how to run tests, and the coding conventions to follow. md file in the customer’s ~/Downloads folder, which also served as the agent’s working directory.",
+      "whyItMatters": "",
+      "words": 96,
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/23/robot.jpg",
+      "published": "2026-10-25T15:49:38.000Z",
+      "capturedAt": "2026-10-25T23:02:29.458Z",
+      "tags": [],
+      "rewritten": false
+    },
+    {
+      "id": "1so85vf",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+      "brief": "0 license. 3-33B is a 33B dense language model built for agentic coding and office-style ‘cowork’ tasks. The lab sits inside the recruitment platform BOSS Zhipin . 3-33B-Base for custom post-training. The model supports a 524,288-token context window. In the lab’s own table, it leads 17 of 20 benchmarks against 3 open models near 30B. TL;DR Size: 33B parameters, dense (no MoE), 524,288-token (512K) context, BF16 weights. Runs on: Multi-GPU servers. The card’s SGLang and vLLM recipes use 4-way tensor parallelism. BF16 weights need about 66 GB (our arithmetic). 1 community quantization is listed. 8-27B, Muse-Glimmer-30B and Gemma4-31B. 8-27B. 0 (its lowest score). 7. 3-33B? 3 series. The lab’s stated strategy is to build a strong teacher first. 3-3B. 3-33B built? json declares a standard LlamaForCausalLM architecture. There is no expert routing, so all 33B parameters run on every token.",
+      "whyItMatters": "",
+      "words": 140,
+      "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "published": "2026-10-25T21:15:21.000Z",
+      "capturedAt": "2026-10-25T23:02:27.386Z",
+      "tags": [
+        "Model",
+        "Claude",
+        "Deepmind"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0h6mptq",
       "channel": "sec",
@@ -12704,46 +12744,6 @@
       "tags": [
         "Malware",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1pc3k7y",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "brief": "You’ll soon be able to describe what you want to see in your Google Discover feed. You’ll soon be able to describe what you want to see in your Google Discover feed. Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature , rolling out to the Google app in the “coming days,” will use AI to automatically tweak your feed and “remember” your preferences for future visits. You’ll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you’ll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you’ll also have the option to add more information if it doesn’t get it quite right.",
-      "whyItMatters": "",
-      "words": 147,
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&strip=all&crop=0%2C3.2683225395565%2C100%2C93.463354920887&w=1200",
-      "published": "2026-08-20T21:50:22.000Z",
-      "capturedAt": "2026-08-21T01:19:26.693Z",
-      "tags": [
-        "Chatbot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "115xyua",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Calling on Cyber Pros to Help Defend City Hall",
-      "brief": "Government agencies with smaller budgets need support — and here's how you can help.",
-      "whyItMatters": "",
-      "words": 14,
-      "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-08-21T14:00:00.000Z",
-      "capturedAt": "2026-08-20T21:28:23.335Z",
-      "tags": [
-        "Cyber"
       ],
       "rewritten": false
     }
