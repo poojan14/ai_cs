@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-24T22:56:25.288Z",
+  "updatedAt": "2026-10-25T03:34:54.893Z",
   "count": 600,
   "stories": [
+    {
+      "id": "00mym3u",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. CISA adds Collabora Online flaw to its Known Exploited Vulnerabilities catalog",
+      "brief": "S. S. S. 2), to its Known Exploited Vulnerabilities (KEV) catalog . Collabora Online – Built-in CODE Server is an app for Nextcloud that lets you open, edit and collaborate on documents, spreadsheets and presentations directly in your browser, without needing Microsoft Office installed on your computer. It is based on Collabora Online and LibreOffice technology. 303. Unauthenticated attackers can execute commands when the built-in server is stopped. Standalone Collabora servers are not affected. Update immediately.",
+      "whyItMatters": "",
+      "words": 76,
+      "url": "https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+      "published": "2026-10-24T16:53:59.000Z",
+      "capturedAt": "2026-10-25T03:34:54.893Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1wr2yip",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+      "brief": "In this tutorial, we build a stateful engineering copilot with Letta that demonstrates how agentic memory extends beyond conventional prompt-based conversations. We begin by creating inspectable core memory blocks that the agent can autonomously update, then expose those blocks for programmatic state synchronization and shared access across multiple agents. af export for portability. Together, these components demonstrate a practical memory architecture in which persistent state, retrieval, tools, multi-agent collaboration, and execution traces work as an integrated agentic system. list()] MODEL = next((h for h in PREFERRED if h in handles), None) or handles[0] except Exception: MODEL = PREFERRED[0] print(f\" connected · model handle = {MODEL}\") hr(\"1. time())}\", description=\"Engineering copilot with inspectable long-term memory\", tags=[\"tutorial\", \"copilot\"], memory_blocks=[ {\"label\": \"persona\", \"value\": \"I am Mnemo, an engineering copilot. \", \"limit\": 3000}, {\"label\": \"human\", \"description\": \"Durable facts about the engineer I work with: name, role, stack, \" \"preferences, working style.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
+      "published": "2026-10-24T10:29:31.000Z",
+      "capturedAt": "2026-10-25T03:34:52.622Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "10kjxke",
       "channel": "sec",
@@ -12704,49 +12748,6 @@
         "Malware",
         "Cyber",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0fdy9ru",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Unlocking hidden revenue streams with market models",
-      "brief": "Generative AI-powered market models can help enterprises automate commercial decisions. Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name just a few. It is a nuanced process that must constantly adapt to the goings on in the wider world. Generative AI-powered market models are emerging as a means of handling complex tasks like this in real time. These deep learning models are trained on high-resolution numerical data and designed to analyze, simulate, and predict complex financial dynamics.",
-      "whyItMatters": "",
-      "words": 123,
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840",
-      "published": "2026-08-20T09:47:22.000Z",
-      "capturedAt": "2026-08-20T12:51:01.982Z",
-      "tags": [
-        "Model",
-        "Generative"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0n6pxko",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "StopAndProtect Turns 2,000 Hacked WordPress Sites Into a Criminal Network",
-      "brief": "S. S. S. 7M Records Stolen Check Point Research uncovered a cybercrime operation, dubbed StopAndProtect, that has turned thousands of hacked WordPress websites into a shared platform for malware delivery, data theft, surveillance and ransomware. The operation is a good reminder that a compromised website isn’t just a problem for its owner. It can become part of someone else’s attack infrastructure. “StopAndProtect is a newly identified operation that combines file encryption with data theft. ” reads the report published by Check Point.",
-      "whyItMatters": "",
-      "words": 82,
-      "url": "https://securityaffairs.com/197537/hacking/stopandprotect-turns-2000-hacked-wordpress-sites-into-a-criminal-network.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-56.png?resize=988%2C587&ssl=1",
-      "published": "2026-08-20T07:20:41.000Z",
-      "capturedAt": "2026-08-20T09:35:17.759Z",
-      "tags": [
-        "Hack",
-        "Ransomware",
-        "Malware"
       ],
       "rewritten": false
     }
