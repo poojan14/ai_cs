@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-25T10:53:46.238Z",
+  "updatedAt": "2026-10-25T15:40:30.602Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1lqzx5m",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "OpenAI Paused Frontier AI Training After a Security Incident",
+      "brief": "S. S. CISA adds Arista VeloCloud Orchestrator flaw to its Known Exploited Vulnerabilities catalog OpenAI published a detailed report this week explaining how it improved security in the systems used to train and test its most advanced AI models. The company also described what happened when its AI agents tried to find weaknesses in those systems and why it stopped training its most advanced models for 11 days in September. ” reads the report published by the company. ”",
+      "whyItMatters": "",
+      "words": 79,
+      "url": "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-57.png?resize=1024%2C527&ssl=1",
+      "published": "2026-10-25T09:56:32.000Z",
+      "capturedAt": "2026-10-25T15:40:30.602Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1t4exjl",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+      "brief": "Anthropic has launched OSS Scanner , a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos , against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 launch, Anthropic reported 77 critical and 803 high model-rated findings . TL;DR Scale: 114 projects accepted from about 650 applications, as of October 19. Runs on: Anthropic’s infrastructure, free. Maintainers supply a Dockerfile; audits run in an isolated VM with no Internet. Performance: 85 of 97 audited critical and high findings (88%) met Anthropic’s disclosure bar. Best: Only 1 of 97 audited findings was a false positive. wolfSSL says 72 of 74 reports were valid. Worst: No human review before delivery. 11 of 97 audited findings duplicated known issues; maintainers report inflated severity.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-25T11:32:29.000Z",
+      "capturedAt": "2026-10-25T15:40:28.332Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Anthropic"
+      ],
+      "rewritten": false
+    },
     {
       "id": "11yhew6",
       "channel": "sec",
@@ -12701,50 +12745,6 @@
         "Vulnerability",
         "Exploit",
         "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1ddz52p",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Debates over AI consciousness are a trap",
-      "brief": "If AI systems are viewed as too advanced to control, the companies that build them can’t held liable for the harms they cause. “Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations and academic philosophers often aligned with the effective altruism movement, debates whether humanity holds the moral right to govern them at all. Upon closer inspection, they are all calling for the same thing: a view of AI systems as being so advanced and capable that no entity, human or corporate, could possibly be responsible for their actions.",
-      "whyItMatters": "",
-      "words": 135,
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Technology Review — AI",
-      "sourceSite": "technologyreview.com",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
-      "published": "2026-08-20T15:42:39.000Z",
-      "capturedAt": "2026-08-20T18:40:06.643Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Model",
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1jjiuzp",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-      "brief": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-      "whyItMatters": "",
-      "words": 22,
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-08-20T14:59:22.000Z",
-      "capturedAt": "2026-08-20T15:34:18.606Z",
-      "tags": [
-        "Cyber",
-        "Attack",
-        "Threat Actor"
       ],
       "rewritten": false
     }
