@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-25T15:40:30.602Z",
+  "updatedAt": "2026-10-25T20:29:11.813Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0h6mptq",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "brief": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
+      "whyItMatters": "",
+      "words": 53,
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
+      "published": "2026-10-25T17:19:46.000Z",
+      "capturedAt": "2026-10-25T20:29:11.813Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1v5dvpk",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "brief": "AI hasn’t benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the chief economist at Apollo Global Management (the private equity giant that used to own TechCrunch). Apollo’s Torsten Slok focuses on what he calls the S&P 493 — the S&P 500, minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla — finding that profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity. “Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,” Slok said. Is this simply a matter of non-tech companies lagging behind the tech giants? ”",
+      "whyItMatters": "",
+      "words": 120,
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+      "published": "2026-10-25T16:57:32.000Z",
+      "capturedAt": "2026-10-25T20:29:09.843Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1lqzx5m",
       "channel": "sec",
@@ -12702,49 +12744,6 @@
       "capturedAt": "2026-08-20T21:28:23.335Z",
       "tags": [
         "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1vvzupx",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Paving the way for greener ammonia production",
-      "brief": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the world’s population. 5 percent of greenhouse gas emissions, so the search has been underway for ways to produce ammonia more sustainably. The traditional way of making ammonia, in use for more than a century and accounting for the vast majority of production, is the Haber-Bosch process, which relies on fossil fuels to provide the needed heat. Hydrogen used in the process is also largely produced from fossil fuels. There is another way, using electrochemistry instead of heat and pressure, but so far this method has not been anywhere near economically competitive at the scales needed.",
-      "whyItMatters": "",
-      "words": 133,
-      "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-dmse-ammonia-facility.jpg?itok=JxRn8ST5",
-      "published": "2026-08-20T18:45:00.000Z",
-      "capturedAt": "2026-08-20T21:28:21.934Z",
-      "tags": [
-        "Machine Learning",
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "00ok8m3",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "brief": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). 9), which refers to a case of command injection that can lead to remote code execution. \"A remote code execution vulnerability exists in Zimbra",
-      "whyItMatters": "",
-      "words": 50,
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg",
-      "published": "2026-08-20T13:24:28.000Z",
-      "capturedAt": "2026-08-20T18:40:08.281Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Patch"
       ],
       "rewritten": false
     }
