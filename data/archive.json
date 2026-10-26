@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-26T03:37:30.615Z",
+  "updatedAt": "2026-10-26T12:24:21.439Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0tjh60r",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Researchers Uncover Rentable Android Spyware uCreater Targeting WeChat and Telegram",
+      "brief": "S. S. CISA adds Arista VeloCloud Orchestrator flaw to its Known Exploited Vulnerabilities catalog uCreater is a rentable Android spyware platform that hides inside repackaged legitimate apps, targeting messaging services and mobile wallets. Its YingGai framework can intercept one-time passwords, steal account and chat data, collect contacts, manipulate sessions and spoof camera feeds to bypass identity checks. Victims may install modified versions of Telegram, WeChat or GCash through sideloading or social engineering. Researcher Ovi found stolen data on a control server, but the number of victims and links between operators and customers remain unconfirmed. “The repackaged APK can be relatively thin: target-specific instrumentation is retrieved after installation from the operator’s Alibaba OSS and MinIO infrastructure, including buckets and paths named Huuk_ and fengzhuang-app (literally, “packaging”). ” researcher Ovi states . ”",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://securityaffairs.com/201764/malware/researchers-uncover-rentable-android-spyware-ucreater-targeting-wechat-and-telegram.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-60.png?resize=1024%2C560&ssl=1",
+      "published": "2026-10-26T12:11:38.000Z",
+      "capturedAt": "2026-10-26T12:24:21.439Z",
+      "tags": [
+        "Hack",
+        "Patch",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1lqanc1",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+      "brief": "Tsinghua University and CUHK researchers open-sourced AKV , a serving system for KV cache engineering in LLM agents. Instead of summarizing old history, agents drop selected KV cache entries and keep reusing the rest. 7% . 7 points. 0 licensed and builds on SGLang . TL;DR What it is: Serving system plus policy library, no weights. 7-Mini (30B total, 3B active). Runs on: NVIDIA GPUs via SGLang. Paper used 8 A800-80GB GPUs in BF16. Quick start serves GPT-OSS-120B on 2 GPUs (tensor parallel 2). 7 points average score versus threshold summarization. 2. 3. What is cache engineering, and how is it different from context engineering? AKV is a Tsinghua serving system that lets LLM agents drop and reposition their own KV cache. Context engineering trims or summarizes the text history. Editing that prefix invalidates every later KV state. The retained suffix must then be re-prefilled.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "published": "2026-10-26T07:56:45.000Z",
+      "capturedAt": "2026-10-26T12:24:19.522Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "12ciimi",
       "channel": "sec",
@@ -12703,48 +12747,6 @@
         "Vulnerability",
         "Exploit",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1a30zwm",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Asia faces scam ‘epidemic’ threat as gangs exploit agentic AI, analyst warns - South China Morning Post",
-      "brief": "Asia faces scam ‘epidemic’ threat as gangs exploit agentic AI, analyst warns South China Morning Post",
-      "whyItMatters": "",
-      "words": 16,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcVF1aFBUNnRweHB2WTVRajNOQ2dVc01hZFhaN2dlUXZaQWVnSy1HeGFZdkNZajlheU5oZWo2QUtQWThzX0xyRkV5R3N6MVN6RmJuTjBOWkE2U2I1YVlZMWlnLW5ua01lWkZXSjY2RXQ1dTUxRTNQUF8yWlBNNW5BMHBLMkZLNFdnRGVnMUMyeDdsbDJ0NDBwVnJDR29RX0dtUFpLaXdLRndKdC1lTzBDcUdxUU9NWTlqNlF4d1Y0dmNWTFNkaWx4WE9VaGVBOFF1RC1R",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-21T06:29:20.000Z",
-      "capturedAt": "2026-08-21T06:48:16.608Z",
-      "tags": [
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0j50ymg",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Manic: The Android Malware That Exfiltrates Data Even When the Phone Is Offline",
-      "brief": "S. S. S. 7M Records Stolen ThreatFabric’s Mobile Threat Intelligence team has identified a new Android malware, dubbed Manic, which has been active in the wild since at least February 2026. The researchers state that the malware is still under development as of July. ” reads the report published by the ThreatFabric’s Mobile Threat Intelligence team. ”",
-      "whyItMatters": "",
-      "words": 57,
-      "url": "https://securityaffairs.com/197570/malware/manic-the-android-malware-that-exfiltrates-data-even-when-the-phone-is-offline.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-58.png?resize=1024%2C681&ssl=1",
-      "published": "2026-08-20T18:03:12.000Z",
-      "capturedAt": "2026-08-21T03:50:58.850Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Phishing"
       ],
       "rewritten": false
     }
