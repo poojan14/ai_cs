@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-26T12:24:21.439Z",
+  "updatedAt": "2026-10-26T20:19:50.118Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1v2en28",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "brief": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker behavior has emerged across these incidents: the use of the same throwaway tenants, the same 'IT",
+      "whyItMatters": "",
+      "words": 59,
+      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1600/support.jpg",
+      "published": "2026-10-26T15:52:40.000Z",
+      "capturedAt": "2026-10-26T20:19:50.118Z",
+      "tags": [
+        "Ransomware",
+        "Malware",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "02g1z4i",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "At New York Climate Week 2026, MIT connects with a global network",
+      "brief": "Each year, Climate Week NYC brings together more than 100,000 people in more than 1,000 events across the city to discuss climate challenges, explore solutions, and spur action. Participants come from industry, academia, philanthropy, nonprofits, government, and finance and venture capital. And this year, the mix included a strong, cross-campus presence from MIT.",
+      "whyItMatters": "",
+      "words": 53,
+      "url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-ny-climate-week.jpg?itok=c2Sg2eC6",
+      "published": "2026-10-26T19:00:00.000Z",
+      "capturedAt": "2026-10-26T20:19:48.281Z",
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0tjh60r",
       "channel": "sec",
@@ -12705,48 +12747,6 @@
         "Breach",
         "Hack",
         "Ransomware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1xjgrrj",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "brief": "The near-bottomless demand for unique AI training data from top labs and corporations is driving a massive boom for a cohort of data-labeling startups. One of these fast-growing businesses is Micro1, a four-year-old startup that expanded its gross annual run rate from $100 million to $500 million over the past eight months, according to a person familiar with the company. Like its peers that hire domain experts such as doctors, lawyers, and scientists on a contract basis, Micro1 retains roughly 60% to 70% of that figure, putting its net annual run rate between $150 million and $200 million. While Micro1 still lags competitors like Mercor (which hit $2 billion in gross annualized revenue this summer) and Handshake (which reached $1 billion earlier this year), the startup’s revenue growth shows that there is more than enough demand to support multiple players supplying AI training data.",
-      "whyItMatters": "",
-      "words": 144,
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-      "published": "2026-08-21T00:13:44.000Z",
-      "capturedAt": "2026-08-21T09:36:56.007Z",
-      "tags": [
-        "Training Data"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0lhmpir",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
-      "brief": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. 0), is a case of remote code execution impacting the tech giant's cloud-based identity and access management service. It was previously called Azure Active Directory",
-      "whyItMatters": "",
-      "words": 54,
-      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg",
-      "published": "2026-08-21T06:06:11.000Z",
-      "capturedAt": "2026-08-21T06:48:18.261Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Security"
       ],
       "rewritten": false
     }
