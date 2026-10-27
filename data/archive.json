@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-27T00:15:08.465Z",
+  "updatedAt": "2026-10-27T08:42:44.785Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0vqt1ei",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. 2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
+      "whyItMatters": "",
+      "words": 47,
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg",
+      "published": "2026-10-27T04:37:59.000Z",
+      "capturedAt": "2026-10-27T08:42:44.785Z",
+      "tags": [
+        "Exploit",
+        "Patch",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "10gxitj",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
+      "brief": "Baidu has released Unlimited OCR 2 , an open-source OCR model built for very long documents. The 3B model parses books, filings and reports of hundreds of pages in one request. Its core change is SR-SWA, a sparse attention scheme that keeps per-step decoding cost nearly flat. Weights ship under the MIT license , with code on GitHub . 34B parameters . Active parameters not disclosed. Max position length 131,072 tokens. Runs on: 1 CUDA GPU in BF16. Baidu tested on an NVIDIA A800-80GB. 7 GB. Performance: first place on both multi-page benchmarks Baidu tested, against 9 other models (self-reported). 1 overall on MarathonDocBench (hundreds of pages). 7. 2 on heading hierarchy (TEDS) on MarathonDocBench, its lowest sub-score. What is Unlimited OCR 2? Unlimited OCR 2 is a 3B vision-language model from Baidu that turns ordered page images into structured text.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-27T05:26:36.000Z",
+      "capturedAt": "2026-10-27T08:42:29.705Z",
+      "tags": [
+        "Model",
+        "Gemini",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1adt42v",
       "channel": "sec",
@@ -12706,48 +12750,6 @@
         "Ransomware",
         "Cyber",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0tu2rxu",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "brief": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services. Waymo has sharply increased its lobbying spending as it seeks to persuade US regulators to clear a path for fully autonomous taxi services, intensifying its battle with rival Uber over the future of robotaxis. The Alphabet-owned company spent more than $1 million between April and June on lobbying the federal government, more than double its outlay a year earlier, according to filings. That put Waymo’s spending close to Uber’s and well ahead of rivals including Amazon’s Zoox and Tesla. The rise in lobbying comes as Waymo and Uber push competing visions for the future of ride-hailing. Waymo wants a faster route to fully driverless commercial services, while Uber is advocating a staggered rollout in which robotaxis operate alongside human drivers. Their diverging legislative strategies have contributed to their relationship souring.",
-      "whyItMatters": "",
-      "words": 147,
-      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
-      "published": "2026-08-21T13:11:35.000Z",
-      "capturedAt": "2026-08-21T15:33:42.138Z",
-      "tags": [
-        "Robot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0j15dx5",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "brief": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-      "whyItMatters": "",
-      "words": 50,
-      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg",
-      "published": "2026-08-21T11:21:39.000Z",
-      "capturedAt": "2026-08-21T12:48:59.659Z",
-      "tags": [
-        "Cyber",
-        "Attack",
-        "Security"
       ],
       "rewritten": false
     }
