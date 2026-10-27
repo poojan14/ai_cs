@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-27T08:42:44.785Z",
+  "updatedAt": "2026-10-27T15:10:02.705Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1abkqj0",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "U.S. CISA adds PHP flaws PHP2Shell to its Known Exploited Vulnerabilities catalog",
+      "brief": "S. S. S. S. 2). The flaws affect all PHP versions that handle web requests. 4, released in 2012, and resides in the PHP engine itself rather than in individual applications. Attackers can exploit the flaws to execute code remotely by sending specially crafted HTTP requests, without authentication. Exploitation attempts increased rapidly after the vulnerabilities became public. Cloudflare researchers reported tens of thousands of attempts within the first 45 minutes, hundreds of thousands in just two hours, and millions by October 22.",
+      "whyItMatters": "",
+      "words": 82,
+      "url": "https://securityaffairs.com/201840/security/u-s-cisa-adds-php-flaws-php2shell-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-59.png?resize=832%2C262&ssl=1",
+      "published": "2026-10-27T10:39:41.000Z",
+      "capturedAt": "2026-10-27T15:10:02.705Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0smdgi2",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "brief": "Physical AI brings business intelligence to physical processes, turning knowledge into decisions and decisions into action. Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor variation deserves a closer look. A procedure can describe the sequence, but successful execution depends on the judgment that comes from experience and the organization’s accumulated know-how. That combination is industrial intelligence: a manufacturer’s accumulated know-how, operating practices, production data, and understanding of its own business. The opportunity now is to make more of that intelligence available wherever decisions are made, then connect it to the physical world of manufacturing.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-1367303200.jpg?w=840",
+      "published": "2026-10-27T11:19:18.000Z",
+      "capturedAt": "2026-10-27T15:10:01.110Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0vqt1ei",
       "channel": "sec",
@@ -12708,48 +12752,6 @@
         "Malware",
         "Cyber",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0oh0vk6",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-      "brief": "We introduce the Biomarker Discovery Framework, a multi-agent system that supports the discovery of biomarker candidates from wearable sensor data through iterative hypothesis generation, statistical analysis, and literature-grounded reasoning. Wearable devices capture continuous physiological signals at population scale. These streams, ranging from heart rate dynamics to sleep patterns, can reveal early physiological changes before symptoms appear. The bottleneck is no longer data collection, but turning these signals into reliable, clinically meaningful biomarkers. Existing language model-based agent systems automate parts of the scientific workflow, but can often break down on physiological time-series data. These systems optimize for predictive performance while overlooking statistical validity, leading to spurious correlations, leakage, and brittle features.",
-      "whyItMatters": "",
-      "words": 110,
-      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-      "source": "Google Research",
-      "sourceSite": "research.google",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Biomarker-Discovery-Framework-1.png",
-      "published": "2026-08-21T17:02:24.000Z",
-      "capturedAt": "2026-08-21T18:37:01.339Z",
-      "tags": [
-        "Generative"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0jakoms",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
-      "brief": "Canada’s largest pediatric health center suffered a recent cybersecurity incident that exposed the personal information of current and former employees. The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application. The recent cyberattack briefly took down the careers website for the hospital, which is known colloquially as SickKids, prompting it to begin an investigation. SickKids did not respond to requests for comment about when the attack occurred but said in a statement that investigators believe the hackers likely stole information related to current and former employees as well as job applicants and employees of related organizations, including the SickKids Foundation. The notice does not specify what employee data was taken.",
-      "whyItMatters": "",
-      "words": 142,
-      "url": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/2022_12_sick_kids_hospital_94f66ec5d3.jpg",
-      "published": "2026-08-21T15:00:00.000Z",
-      "capturedAt": "2026-08-21T15:33:43.574Z",
-      "tags": [
-        "Ransomware",
-        "Cyber",
-        "Attack"
       ],
       "rewritten": false
     }
