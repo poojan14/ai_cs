@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-27T15:10:02.705Z",
+  "updatedAt": "2026-10-27T21:53:21.378Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0unjc5x",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "brief": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published",
+      "whyItMatters": "",
+      "words": 57,
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg",
+      "published": "2026-10-27T18:26:46.000Z",
+      "capturedAt": "2026-10-27T21:53:21.378Z",
+      "tags": [
+        "Hack",
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1ao8r3f",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Learner collaborates with MIT peers to develop book of AI insights",
+      "brief": "Like many leaders today, Prabha Jha has been feeling the significant impact artificial intelligence is having on business operations. While the rapid evolution of the technology can bring fear, uncertainty, and confusion, Jha chose a different response: excitement. ” Jha holds a bachelor’s degree in information technology from the University of Calcutta and earned her MBA while working at Verizon, where she continues to build her career. As she looked for an educational opportunity to engage more deeply with AI, MIT quickly emerged as a natural choice. Growing up, Jha viewed MIT as “the mecca for anybody who is in engineering and technology,” so she naturally turned to the Institute when seeking an opportunity to learn about AI.",
+      "whyItMatters": "",
+      "words": 118,
+      "url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Open-Learning-Prabha-Jha.JPG?itok=UyNc7ADw",
+      "published": "2026-10-27T20:55:00.000Z",
+      "capturedAt": "2026-10-27T21:53:19.595Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1abkqj0",
       "channel": "sec",
@@ -12708,50 +12751,6 @@
         "Hack",
         "Exploit",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0j8b721",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "brief": "Nvidia published some interesting new research on Friday suggesting it’s the harness, more than the underlying model, that is far more important when asking an AI to do long-horizon tasks. A harness is the software wrapper around an AI model — the tools, memory management, and rules that turn a raw model into something that can act on its own. The TL;DR: Simply by using a custom harness tweaked to handle memory well and including a “supervisor” boss-like component, researchers got Claude Opus 5 to achieve a 100% score on the interactive reasoning benchmark ARC-AGI-3 — a set of 2D games with no instructions, where the model has to figure out how to play and win, similar to how a human would. ) Without the harness, Opus 5 scored 30%, which was the top result among all the models tested.",
-      "whyItMatters": "",
-      "words": 140,
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
-      "published": "2026-08-21T19:43:39.000Z",
-      "capturedAt": "2026-08-21T21:25:07.513Z",
-      "tags": [
-        "Model",
-        "Agent",
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "002255e",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "brief": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
-      "whyItMatters": "",
-      "words": 60,
-      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png",
-      "published": "2026-08-21T15:41:44.000Z",
-      "capturedAt": "2026-08-21T18:37:03.152Z",
-      "tags": [
-        "Malware",
-        "Cyber",
-        "Security"
       ],
       "rewritten": false
     }
