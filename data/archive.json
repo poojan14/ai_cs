@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-27T21:53:21.378Z",
+  "updatedAt": "2026-10-28T04:28:01.752Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0sfco8k",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "brief": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company’s Onamae Desktop Cloud threatened to launch a ransomware attack today. The company later confirmed that data belonging to both the company and its customers had been published online. The alert concerns a cyberattack on Onamae Desktop Cloud , a popular VPS provider in Japan operated by GMO Internet, a member of GMO Internet Group and one of Japan's largest domain registrars. Last week, the company announced it detected an intrusion on October 20 that could have installed malware on up to 26,739 customers' servers. To minimize the risk, the company shut down the servers and reduced service availability before launching an investigation.",
+      "whyItMatters": "",
+      "words": 127,
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/27/gmo.jpg",
+      "published": "2026-10-27T23:35:51.000Z",
+      "capturedAt": "2026-10-28T04:28:01.752Z",
+      "tags": [
+        "Breach",
+        "Ransomware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1k2kcnd",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "brief": "Critical flaw in EDK2 allows attackers to execute code early in the boot process. Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world’s server vendors and data centers. 5 out of 10, resides in the TianoCore EDK II , an open source codebase that hardware makers and cloud providers use to create the UEFI firmware that runs during the boot-up sequence. ” Virtually all UEFI suppliers (sometimes still called IBVs or independent BIOS vendors), including AMI, Insyde, and Phoenix, use the reference code extensively. Project Mu, Microsoft’s hardened EDK2 fork, used the code containing the vulnerable component as well.",
+      "whyItMatters": "",
+      "words": 116,
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+      "published": "2026-10-27T20:25:55.000Z",
+      "capturedAt": "2026-10-28T04:27:59.432Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "0unjc5x",
       "channel": "sec",
@@ -12711,46 +12751,6 @@
       "tags": [
         "Cyber",
         "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0hqpqra",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "brief": "LinkedIn’s new AI slop button is apparently getting a lot of use. LinkedIn’s new AI slop button is apparently getting a lot of use. LinkedIn actually announced a “Seems like AI slop” button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan , “over a million people” have clicked on the button, which is accessible from the three dots menu on a post. LinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn’s longform posts were flagged as fully AI generated, which 404 Media reported on . Alongside the AI slop button, LinkedIn introduced “new and improved” classifiers to identify posts as AI and removed a feature that would “enhance your post” with AI.",
-      "whyItMatters": "",
-      "words": 139,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&strip=all&crop=0,13.767459555427,100,72.465080889147",
-      "published": "2026-08-21T21:25:50.000Z",
-      "capturedAt": "2026-08-22T01:15:12.291Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1wb2274",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Your Shredded Visa Card May Still Work at the Checkout",
-      "brief": "S. S. S. S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog Researchers at the University of Massachusetts Amherst demonstrated at USENIX Security 2026 in Baltimore that expired Visa contactless credit cards can complete real purchases, including transactions at live retail and grocery merchants, by exploiting a gap in how the payment protocol handles expiration dates. The paper is titled “ Zombie Cards Back Online: Reviving Expired Credit Cards for Contactless Payments ,” and the name is accurate. Raja Hasnain Anwar, Gerard DeCunha, and Muhammad Taqi Raza built the attack around a structural weakness in EMV, the contactless payment protocol used by Visa, Mastercard, American Express, and Discover.",
-      "whyItMatters": "",
-      "words": 112,
-      "url": "https://securityaffairs.com/197663/hacking/your-shredded-visa-card-may-still-work-at-the-checkout.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-63.png?resize=801%2C792&ssl=1",
-      "published": "2026-08-21T18:03:59.000Z",
-      "capturedAt": "2026-08-21T21:25:09.823Z",
-      "tags": [
-        "Hack",
-        "Exploit",
-        "Attack"
       ],
       "rewritten": false
     }
