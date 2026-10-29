@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-28T20:06:25.062Z",
+  "updatedAt": "2026-10-29T00:38:29.255Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0lsf0wy",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "brief": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
+      "whyItMatters": "",
+      "words": 54,
+      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3PPkqzXf7YyMcnwdBu5XWlOwWtUonf15z0n79qMtIOVTb4LNfKdnl7tUK-45_2boP9r2ZKuHmX6e1BZLmo-LYF-rUwH8gtNrynFuaX4rlNh20UXPvtIfC85BcKcHXK1qei6uOJyImSjTfO537yljJve0Y_zMlfFfhBl0mKPfppWhkfojtGlYgxLjdSO0/s1600/php-united.jpg",
+      "published": "2026-10-28T16:02:45.000Z",
+      "capturedAt": "2026-10-29T00:38:29.255Z",
+      "tags": [
+        "Breach",
+        "Exploit",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1bqc1tp",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Creating AI value with enterprise context",
+      "brief": "How establishing a company brain can support more accurate, cost-effective AI and autonomous agents. Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business. Many organizations find themselves in this situation—and it could be one of key reasons they struggle to extract returns on their AI investments. An MIT Technology Review Insights poll finds that while every organization surveyed is using AI today to some degree, fewer than one in five (16%) are extracting transformative value from their deployments.",
+      "whyItMatters": "",
+      "words": 129,
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MIT_Atlan-Cover-28-26.png?w=840",
+      "published": "2026-10-28T20:32:02.000Z",
+      "capturedAt": "2026-10-29T00:38:27.463Z",
+      "tags": [
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1yxpnow",
       "channel": "sec",
@@ -12713,47 +12756,6 @@
         "Hack",
         "Malware",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0vp5ix6",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "brief": "Nvidia is doing everything it can to keep fueling the AI buildout that has underpinned its own good fortunes. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers. Cloverleaf was founded in 2024 and raised $300 million that year. It acts as a kind of middleman between utility companies and data centers, providing power sources and other kinds of pivotal infrastructure for site development. While the companies didn’t disclose terms, the Wall Street Journal reports that Nvidia’s investment in Cloverleaf will likely add up to several hundred million dollars. Reuters reports that the chipmaker now owns a minority stake in the company. TechCrunch reached out to Nvidia for more information. The deal is part of Nvidia’s ongoing push to use its immense profits to keep the AI flywheel spinning.",
-      "whyItMatters": "",
-      "words": 138,
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "published": "2026-08-21T22:37:38.000Z",
-      "capturedAt": "2026-08-22T09:27:04.234Z",
-      "tags": [
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0lu39in",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "brief": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine. sys (Boot Time Removal Tool), is a",
-      "whyItMatters": "",
-      "words": 56,
-      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg",
-      "published": "2026-08-21T15:52:10.000Z",
-      "capturedAt": "2026-08-22T06:40:23.611Z",
-      "tags": [
-        "Exploit",
-        "Security"
       ],
       "rewritten": false
     }
