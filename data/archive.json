@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-29T09:29:33.025Z",
+  "updatedAt": "2026-10-29T18:07:39.856Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0w1zh8w",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+      "brief": "In this article Stages of AI adoption by North Korean threat actors AI use across North Korean threat operations AI-assisted targeting and reconnaissance AI-assisted social engineering and identity deception AI-assisted software and tooling development AI-assisted operational scaling and analysis Mitigation and protection guidance Microsoft Defender detections As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed, efficiency, and complexity of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. Threat actors use AI as a force multiplier across their operations, particularly to accelerate and scale established workflows.",
+      "whyItMatters": "",
+      "words": 101,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/North-Korean-use-of-AI.webp",
+      "published": "2026-10-29T16:00:00.000Z",
+      "capturedAt": "2026-10-29T18:07:39.856Z",
+      "tags": [
+        "Breach",
+        "Ransomware",
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ig0r4v",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "brief": "Your browser doesn't support HTML5 video. Here is a link to the video instead. Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through natural-language instructions, review results and guide changes. Omniverse libraries provide GPU-accelerated physics, rendering and sensor simulation capabilities. Explore the projects below to see frontier AI models such as GPT-6 Astra at work, and check back for new examples from NVIDIA teams and developers across the ecosystem. Planning warehouse automation requires a model of the building itself, but shelving and machinery can obscure its structure in site scans.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+      "published": "2026-10-29T16:00:35.000Z",
+      "capturedAt": "2026-10-29T18:07:38.000Z",
+      "tags": [
+        "Model",
+        "Claude",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1rud3ia",
       "channel": "sec",
@@ -12718,46 +12762,6 @@
       "published": "2026-08-22T14:32:41.000Z",
       "capturedAt": "2026-08-22T15:21:13.773Z",
       "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "04e1pb8",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "brief": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested in them. But as portfolio companies expand into each other’s markets, the DOJ’s scrutiny raises a much bigger question for venture firms: How do you manage board seats when the boundaries between your portfolio companies keep moving? On this episode of TechCrunch’s Equity podcast, Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into the a16z probe, what it could mean for VCs, and more of the week’s headlines.",
-      "whyItMatters": "",
-      "words": 142,
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
-      "published": "2026-08-21T14:00:00.000Z",
-      "capturedAt": "2026-08-22T15:21:12.233Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "02jzmu5",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
-      "brief": "0 malware. Join this live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. CodeSecCon bridges the gap between dev and security. Discover best practices for secure coding, innovative risk-reduction tools, and safe AI integration to cultivate a true DevSecOps culture. Safely secure your apps! WISeKey has appointed Alexander Hirsch as Group Chief Marketing Officer. UltraViolet Cyber has named Andrew Park Chief Information Security Officer. Glow has appointed Patti Degnan as Chief Information Security Officer. Organizations are rushing to implement AI without fully grasping where its legal protections begin and end. (Steve Durbin)",
-      "whyItMatters": "",
-      "words": 108,
-      "url": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
-      "source": "SecurityWeek",
-      "sourceSite": "securityweek.com",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/11/android-banking-malware.png",
-      "published": "2026-08-22T08:30:00.000Z",
-      "capturedAt": "2026-08-22T12:39:52.993Z",
-      "tags": [
-        "Malware",
-        "Security",
-        "Spyware"
-      ],
       "rewritten": false
     }
   ]
