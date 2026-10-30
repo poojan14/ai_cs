@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-10-29T18:07:39.856Z",
+  "updatedAt": "2026-10-30T00:38:47.250Z",
   "count": 600,
   "stories": [
+    {
+      "id": "05uzw15",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Binance Investigates Suspicious Crypto Transfers Worth Up to $5.8 Billion",
+      "brief": "S. gov Domains Ads or Surveillance? S. S. CISA adds PHP flaws PHP2Shell to its Known Exploited Vulnerabilities catalog Binance is investigating a potential security incident after billions of dollars in cryptocurrency moved from wallets linked to the exchange on October 29. The transfers raised concerns about a possible hack, while Tether and Circle moved to freeze stablecoins linked to the suspicious activity. The full scope of the incident remains unclear, and the reported outflows shouldn’t automatically be treated as confirmed losses. 55 billion in incoming transfers to an initially unidentified wallet.",
+      "whyItMatters": "",
+      "words": 92,
+      "url": "https://securityaffairs.com/202089/hacking/binance-investigates-suspicious-crypto-transfers-worth-up-to-5-8-billion.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/203c.png",
+      "published": "2026-10-29T22:53:27.000Z",
+      "capturedAt": "2026-10-30T00:38:47.250Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0oshkay",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+      "brief": "Baseten has released joey-1 , a 2B model from its in-house research lab, Base Labs. The joey-1 decision model returns a label and a calibrated probability instead of generated text. It targets high-volume routing, classification and guardrail checks. 01 per million input tokens , with open weights on Hugging Face under MIT. 5-2B. 16,384-token max sequence (Baseten says 262k on dedicated deployments). Runs on: Baseten Model APIs, or self-hosted on 1 CUDA GPU (VRAM not disclosed). No official quantized builds listed. 4 public split, per Baseten. 4 (public split), ranked #37 of 230 models. 24). 01 per 1M tokens. Worst: less general knowledge than its larger siblings. What is joey-1? joey-1 is a 2B decision model from Baseten’s Base Labs that answers typed questions in 1 forward pass. You send a state (text or images) and 1 or more questions.",
+      "whyItMatters": "",
+      "words": 140,
+      "url": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-10-29T21:20:29.000Z",
+      "capturedAt": "2026-10-30T00:38:44.933Z",
+      "tags": [
+        "Model",
+        "Training Data"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0w1zh8w",
       "channel": "sec",
@@ -12724,44 +12767,6 @@
         "Malware",
         "Patch"
       ],
-      "rewritten": false
-    },
-    {
-      "id": "12olaiw",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI Urges California to Strengthen AI Safety Law After Reversing Its SB 53 Position - Межа. Новини України.",
-      "brief": "OpenAI Urges California to Strengthen AI Safety Law After Reversing Its SB 53 Position Межа. Новини України.",
-      "whyItMatters": "",
-      "words": 17,
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aWDYyQV94T1lZUlM4QkF4SDRsdmRuR19CbXI2QTFKZWs1aEUxRkNkUTY5bXJDMnNkWXY3ZVFVUnJXT0FoVTdvZW9jSmFJdUk1ZTFsU0VhQThrYkFWU2RYV2E2YWdLdGFtN1c4bDBB",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-22T17:07:58.000Z",
-      "capturedAt": "2026-08-22T18:31:19.932Z",
-      "tags": [
-        "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "06ibmlt",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "brief": "S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
-      "whyItMatters": "",
-      "words": 62,
-      "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuigeGBdB6K4zmYLAIVAQ2NR4LskJUGGLo94UiAtL1d89WIdT3ekZUY58J7Em-QxANVODEDSuLoEwVlBKiwEQCBss89hDYzpOuUWcAd8bUphqatYsgIA801ytGpe6c9Pr66CZicJqHx81XREePakS0n3RhYGdD_awrTW5UNGjUdSEmwcKo0K5UOrOIdyGo/s1600/tiktok.jpg",
-      "published": "2026-08-22T14:32:41.000Z",
-      "capturedAt": "2026-08-22T15:21:13.773Z",
-      "tags": [],
       "rewritten": false
     }
   ]
