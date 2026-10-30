@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-30T17:47:13.367Z",
+  "updatedAt": "2026-10-30T21:59:18.365Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0gdszyd",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "brief": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. 3. 1 on the CVSS scoring system. Patches for the flaw were released on October",
+      "whyItMatters": "",
+      "words": 35,
+      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg",
+      "published": "2026-10-30T14:08:14.000Z",
+      "capturedAt": "2026-10-30T21:59:18.365Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1uynypx",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "brief": "Five MIT faculty members and two additional alumni were recently named to the 2026 cohort of AI2050 Fellows. The honor is announced annually by Schmidt Sciences, Eric and Wendy Schmidt’s philanthropic initiative that aims to accelerate scientific innovation. Conceived and co-chaired by Eric Schmidt and James Manyika, AI2050 is a philanthropic initiative aimed at helping to solve hard problems in artificial intelligence . Within their research, each fellow will contend with the central motivating question of AI2050: “It’s 2050. AI has turned out to be hugely beneficial to society. What happened? ”",
+      "whyItMatters": "",
+      "words": 92,
+      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-eecs-Schmidt-AI-2050.jpg?itok=tKYYjIR3",
+      "published": "2026-10-30T20:15:00.000Z",
+      "capturedAt": "2026-10-30T21:59:16.692Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Model"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1h98l6z",
       "channel": "sec",
@@ -12727,46 +12771,6 @@
       "capturedAt": "2026-08-23T03:50:56.578Z",
       "tags": [
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1yi4sx3",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "brief": "As Harvard Business School seeks to expand its reach, it’s leaning on AI avatars to provide individual feedback. These avatars were created by a startup called HeyGen and are included in the eight-week, $699 HBS Foundry bootcamp for entrepreneurs. The program offers live sessions with instructors every week, but the AI avatars are the ones providing feedback during practice pitches and board meetings. New York Times reporter Sarah Kessler actually tried this out herself by pitching an AI-generated copy of Flybridge Capital co-founder Jeff Bussgang. Apparently, both the real Bussgang and his simulacra were unimpressed by her plan to build “Uber for bananas,” but Kessler said the virtual version offered a noticeably frozen smile during her pitch. Project director Katharina Rings said she initially envisioned the AI component as something closer to a chatbot. However, after HBS released a trial version, students said they wanted a more guided experience.",
-      "whyItMatters": "",
-      "words": 149,
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
-      "published": "2026-08-22T21:46:56.000Z",
-      "capturedAt": "2026-08-23T03:50:54.333Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1e6ro79",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution",
-      "brief": "S. S. S. S. S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog Cycode researchers found that AIT-GUI, the browser-based operator console in NASA/JPL open-source AMMOS Instrument Toolkit, shipped with no authentication, no session checks, and no CSRF protection on any of its state-changing endpoints. ” reads the report published by Cycode. “Anyone who can reach the port, or any website an operator merely visits in a browser, can:",
-      "whyItMatters": "",
-      "words": 73,
-      "url": "https://securityaffairs.com/197689/hacking/critical-flaw-in-nasa-jpl-open-source-spacecraft-command-software.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-65.png",
-      "published": "2026-08-22T08:04:09.000Z",
-      "capturedAt": "2026-08-23T01:21:55.333Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
       ],
       "rewritten": false
     }
