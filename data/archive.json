@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-30T09:41:24.974Z",
+  "updatedAt": "2026-10-30T17:47:13.367Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1h98l6z",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+      "brief": "In this article Activity overview Attack chain overview Portable runtime staging and execution variants Host discovery and AD CS assessment Case 1: ESC1 abuse and the cost of an identity exclusion Case 2: PetitPotam and ESC8 turn a workstation into a domain-controller identity Why the response outcomes differed Actionable investigation methods References Learn More Microsoft Threat Intelligence investigated two human-operated intrusions in which threat actors used Microsoft Teams messages and calls to impersonate IT or help desk personnel and socially engineer users into granting interactive remote access, primarily through Quick Assist. Once connected, the threat actors staged portable Python, Bun, or Java runtimes, performed host and network discovery, and assessed Active Directory Certificate Services (AD CS) for certificate-based authentication paths. Although the incidents began with the same social-engineering and remote-access pattern, they diverged at the certificate layer.",
+      "whyItMatters": "",
+      "words": 137,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/image-13.webp",
+      "published": "2026-10-30T16:11:44.000Z",
+      "capturedAt": "2026-10-30T17:47:13.367Z",
+      "tags": [
+        "Malware",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ay4ngj",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "brief": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents built by aliens. Some scientists have suggested that extraterrestrial civilizations, if they exist, could be billions of years older than humanity. Such civilizations might have developed technologies far beyond humanity’s, including forms of AI. Breakthrough Listen and the SETI Institute are bringing agentic AI into the daily search for extraterrestrial intelligence. At the Allen Telescope Array in Northern California, agents can now steer the instrument, enhance and correct incoming data, and apply AI models to the incoming stream — all from a single natural language request.",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg",
+      "published": "2026-10-30T15:00:10.000Z",
+      "capturedAt": "2026-10-30T17:47:11.416Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1l5gu0t",
       "channel": "sec",
@@ -12723,48 +12767,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0z55bjw",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
-      "brief": "S. Alternative to Chinese AI WSJ",
-      "whyItMatters": "",
-      "words": 6,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-23T00:00:00.000Z",
-      "capturedAt": "2026-08-23T01:21:53.535Z",
-      "tags": [
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "06dw1bw",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hackers infect Android car head units with proxy botnet malware",
-      "brief": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. Kaspersky researchers analyzed the malware and attributed the operation to the MoYu group, a threat actor previously associated with the BadBox malware botnet . The researchers note that this is the first documented case of a malware infection chain specifically created for the targeted car head unit. , Ltd. DoFun is an automotive software, cloud services, and hardware provider that sells generic Android-based head units , which act as the command center for a car's infotainment, navigation, and settings systems. ]cn.",
-      "whyItMatters": "",
-      "words": 112,
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/21/car.jpg",
-      "published": "2026-08-22T14:14:24.000Z",
-      "capturedAt": "2026-08-22T21:22:10.238Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Attack"
       ],
       "rewritten": false
     }
