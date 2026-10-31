@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-30T21:59:18.365Z",
+  "updatedAt": "2026-10-31T04:28:48.447Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0xs9xgv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+      "brief": "312) was available and served in the Cursor extension marketplace for a few hours to attempt a supply-chain attack on Cursor users. Cursor reports that it was live from about 2:27 AM to 1:35 PM Pacific Daylight Time (PDT). We have confirmed that the malicious packages found on Cursor marketplace were never published nor distributed from Microsoft Visual Studio Marketplace and from npm @antropic-ai/claude-code, which were not affected by this incident. Anthropic confirmed to Microsoft that their systems were not compromised and they did not develop the malicious package posted in Cursor marketplace. At this time, all evidence suggests that the incident is limited to Cursor marketplace. Microsoft Threat Intelligence analyzed the injected JavaScript embedded in the malicious extension package.",
+      "whyItMatters": "",
+      "words": 120,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/image-23.webp",
+      "published": "2026-10-31T01:02:57.000Z",
+      "capturedAt": "2026-10-31T04:28:48.447Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0xq2qxc",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "brief": "It’s still unknown how attackers got access to Anthropic’s verified Cursor account. An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers’ machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. 313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. 314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. 313 was distributed through Anthropic’s official account on Cursor. So far, neither Cursor nor Anthropic has explained how the attackers gained control of the account.",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "published": "2026-10-30T21:09:54.000Z",
+      "capturedAt": "2026-10-31T04:28:47.244Z",
+      "tags": [
+        "Model",
+        "Anthropic",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0gdszyd",
       "channel": "sec",
@@ -12730,47 +12774,6 @@
         "Hack",
         "Vulnerability",
         "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1t9ihr5",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain - AOL.com",
-      "brief": "Broadcom vs. com",
-      "whyItMatters": "",
-      "words": 3,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qcTh4TGQtTTVYMkdVR2poRjV3VDZ1cHg1ZWU1M0JEdTlVOF9KYm1SWnZIZ2xtNmowdWtsVzI3WXl3Q0cySlcxSjRHdUJUQjlxLUZwUWxyc281eWY0eDVZaWxVN2ZoX0NoVE84SjlzLVlGY2NSX1hsYXRRTQ",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-23T04:38:54.000Z",
-      "capturedAt": "2026-08-23T06:41:07.654Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "05uka6t",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-      "brief": "Named pipes are a common choice for communication between applications running on the same Windows computer. They are fast, supported directly by the operating system, and work well for communication between Windows services, desktop applications, tray processes, command-line utilities, and background agents. A typical design may include a privileged Windows service acting as the named-pipe server while a user-facing application connects as the client. Because both processes run on the same computer, developers often treat this communication as internal and therefore trusted. In practice, the pipe is accessible from an environment where many unrelated processes may be running under different users, sessions, and security contexts. Named pipes are often treated as private because they are used for communication between applications on the same computer. That assumption is unsafe. A Windows workstation may run processes under LocalSystem , administrators, standard users, service accounts, and separate interactive or remote sessions.",
-      "whyItMatters": "",
-      "words": 148,
-      "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/posts/2026/08/18/0_named-pipe-header-image.jpg",
-      "published": "2026-08-22T13:00:09.000Z",
-      "capturedAt": "2026-08-23T03:50:56.578Z",
-      "tags": [
-        "Attack"
       ],
       "rewritten": false
     }
