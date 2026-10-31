@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-10-31T11:48:42.739Z",
+  "updatedAt": "2026-10-31T16:56:00.203Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1pkrsg5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "brief": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. The zero-click denial-of-service flaw can interrupt ongoing calls, including emergency calls, without requiring any interaction from the target. What's worse, Android processes the message before it reaches the SMS inbox, leaving victims with no visible indication of what caused their phones to crash. According to the vulnerability researcher, Mark Blah, Google reportedly patched the vulnerability in its October 2026 Android security updates for Android 14 through 17. However, the flaw is not listed in Google's October security bulletin, and older Android 12 and 13 devices remain vulnerable because they did not receive the fix. decodeWapPdu function.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/01/31/image_(2).jpg",
+      "published": "2026-10-31T15:35:11.000Z",
+      "capturedAt": "2026-10-31T16:56:00.203Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1rok0mo",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "brief": "Mark Zuckerberg’s Meta made AI look so stinking cute by giving it a squishy little face — and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won’t be buying one, because we have Muse Charm at home . It cost just $50, and I’ve decided the learning experience was worth it. My version doesn’t sport cameras or a 5G cellular radio , but it really talks to Muse and has cute avatars, too! It doubles as a pocket watch and a remote camera viewfinder, and it can (theoretically) control my smart home. 75C . Not only does the push-to-talk AI devkit look a lot like the Muse Charm, but it’s officially sanctioned by Meta.",
+      "whyItMatters": "",
+      "words": 131,
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200",
+      "published": "2026-10-31T16:05:00.000Z",
+      "capturedAt": "2026-10-31T16:55:58.089Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "19d7f5q",
       "channel": "sec",
@@ -12734,48 +12774,6 @@
         "Hack",
         "Vulnerability",
         "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "10fagu7",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond - The Motley Fool",
-      "brief": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond The Motley Fool",
-      "whyItMatters": "",
-      "words": 24,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUdkTzRkcm1GTFVCdWF2X3ZrUlM2Qkx4UUZ3YVNfa2RySWQ4dnRCaTk4MGN1WmtHMUtrbW1VVFlBMmpZZi1vUDVFUmFsWjh5eFMyMjc5RVo0OXloanhyaU8xVjdFWGFtVHU2clVuM3JySkw0RWRaeDFaSGx1WWRacHFfY19FTVdGaTItdV9EWHg",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-23T11:53:32.000Z",
-      "capturedAt": "2026-08-23T12:40:26.249Z",
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0ccbagw",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
-      "brief": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. Join this live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. CodeSecCon bridges the gap between dev and security. Discover best practices for secure coding, innovative risk-reduction tools, and safe AI integration to cultivate a true DevSecOps culture. Safely secure your apps! WISeKey has appointed Alexander Hirsch as Group Chief Marketing Officer. UltraViolet Cyber has named Andrew Park Chief Information Security Officer. Glow has appointed Patti Degnan as Chief Information Security Officer. Organizations are rushing to implement AI without fully grasping where its legal protections begin and end. (Steve Durbin)",
-      "whyItMatters": "",
-      "words": 127,
-      "url": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
-      "source": "SecurityWeek",
-      "sourceSite": "securityweek.com",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
-      "published": "2026-08-21T15:11:16.000Z",
-      "capturedAt": "2026-08-23T09:27:55.120Z",
-      "tags": [
-        "Hack",
-        "Attack",
-        "Security"
       ],
       "rewritten": false
     }
