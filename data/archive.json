@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-11-01T12:47:42.402Z",
+  "updatedAt": "2026-11-01T19:23:11.352Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1tc992u",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "brief": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. NET assembly-loading framework codenamed",
+      "whyItMatters": "",
+      "words": 25,
+      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg",
+      "published": "2026-11-01T07:02:58.000Z",
+      "capturedAt": "2026-11-01T19:23:11.352Z",
+      "tags": [
+        "Malware",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "098qwt3",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "\"We're the first hospital outside the US that gets the latest capabilities of OpenAI\" - www.calcalistech.com",
+      "brief": "com",
+      "whyItMatters": "",
+      "words": 1,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcUxNTWxKbTFqRmlEb0JGNUE0Rk56T3RNUlpjQVd0a0dCcVk1c25TWUtsbVllUG5UVjcybHVlSG5iT3psRjNIbC1aUHdicEIxR1NJdGplOVNqTlhxUXhpLU5waTlOWHM",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-11-01T18:21:00.000Z",
+      "capturedAt": "2026-11-01T19:23:09.176Z",
+      "tags": [
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1ra2128",
       "channel": "sec",
@@ -12736,49 +12778,6 @@
       "published": "2026-08-23T19:14:08.000Z",
       "capturedAt": "2026-08-24T03:54:28.765Z",
       "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "07864n0",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "NVIDIA Corporation, the world's largest developer of Artificial Intelligence (AI) chips, has signale.. - 매일경제",
-      "brief": "NVIDIA Corporation, the world's largest developer of Artificial Intelligence (AI) chips, has signale.. 매일경제",
-      "whyItMatters": "",
-      "words": 14,
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5UXptQkltUW9TNncxYVJ3NGlNSGxrZVFBajVLRGQtUzdDRXF5cHFXT1hTeEtjeGlraHY2ZHlqcVo4YTFES2JIdTZ5aFBxcGM",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-23T22:11:00.000Z",
-      "capturedAt": "2026-08-24T01:19:14.614Z",
-      "tags": [
-        "Artificial Intelligence",
-        "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "08u615c",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 111",
-      "brief": "S. S. S. S. 0 Prepares its Next Strike on Mobile",
-      "whyItMatters": "",
-      "words": 11,
-      "url": "https://securityaffairs.com/197743/security/security-affairs-malware-newsletter-round-111.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-      "published": "2026-08-23T17:04:47.000Z",
-      "capturedAt": "2026-08-23T21:22:20.010Z",
-      "tags": [
-        "Hack",
-        "Ransomware",
-        "Malware"
-      ],
       "rewritten": false
     }
   ]
