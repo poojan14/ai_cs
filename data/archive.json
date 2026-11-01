@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-01T04:49:08.560Z",
+  "updatedAt": "2026-11-01T12:47:42.402Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1ra2128",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "SMS of Death: Android under attack, an invisible SMS can block calls and emergency services",
+      "brief": "S. S. S. gov Domains Ads or Surveillance? S. CISA adds Google Brotli and Adobe Commerce and Magento flaws to its Known Exploited Vulnerabilities catalog A specially manipulated SMS message is enough to crash Android’s phone service, interrupt ongoing calls, and temporarily render the smartphone unusable. The attack requires no interaction from the victim and can even compromise the ability to contact emergency services. The vulnerability, dubbed the SMS of Death, is bringing renewed attention to the security of the messaging system in Android smartphones. The issue, documented by independent researcher Mark Blaszczyk, allows a remote attacker to cause a disruption in phone service by sending a single, specially crafted WAP Push message.",
+      "whyItMatters": "",
+      "words": 113,
+      "url": "https://securityaffairs.com/202184/security/sms-of-death-android-under-attack-an-invisible-sms-can-block-calls-and-emergency-services.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "",
+      "published": "2026-11-01T12:16:50.000Z",
+      "capturedAt": "2026-11-01T12:47:42.401Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "102rp7y",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+      "brief": "The DeepSeek Harness team just released dsh-superagent , an MIT-licensed research prototype. DeepSeek dsh-superagent is a proactive coding agent for one GitHub repository. It is packaged as a bundle for DeepSeek Harness . It listens to GitHub and, optionally, Feishu. It turns allowed requests into parallel work items, each in its own agent session. The release shipped alongside a design post, Exploring Super-agent Design: Towards a More Autonomous Agent System . 0, released as 1 commit under MIT. It uses whatever model the Harness profile is set to. Runs on: Your own machine, as a dedicated DeepSeek Harness profile. 48+. Performance: In DeepSeek’s simulation, it finished tasks far faster under a noisy message stream than a single-session agent. 9x faster). Worst: Tested only on synthetic messages and simulated tools. Real coding quality was not measured. What is DeepSeek dsh-superagent? It is a GitHub agent that waits to be asked.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-11-01T07:47:17.000Z",
+      "capturedAt": "2026-11-01T12:47:40.690Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1mw4xgl",
       "channel": "sec",
@@ -12734,48 +12778,6 @@
         "Hack",
         "Ransomware",
         "Malware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1t78v7g",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "brief": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it. ” So who’s actually behind Ox Alpha? ” Unsurprisingly , much of the speculation has revolved around China. ”",
-      "whyItMatters": "",
-      "words": 44,
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
-      "published": "2026-08-23T20:01:36.000Z",
-      "capturedAt": "2026-08-23T21:22:17.961Z",
-      "tags": [
-        "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "02pyptu",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "UK Power Plant Disabled for Four Days by Iran-Linked Hackers, Concurrent with US Water Attacks",
-      "brief": "S. S. S. S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft IKE flaws to its Known Exploited Vulnerabilities catalog Iran-linked hackers shut down a British power plant for four days in what The Telegraph describes as the most successful cyberattack of its kind against UK energy infrastructure. ” reads the report published by The Telegraph. ”",
-      "whyItMatters": "",
-      "words": 60,
-      "url": "https://securityaffairs.com/197734/cyber-warfare-2/uk-power-plant-disabled-for-four-days-by-iran-linked-hackers-concurrent-with-us-water-attacks.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://securityaffairs.com/wp-content/uploads/2012/04/IranianFlag.jpg",
-      "published": "2026-08-23T08:48:14.000Z",
-      "capturedAt": "2026-08-23T18:30:24.493Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Cyber"
       ],
       "rewritten": false
     }
