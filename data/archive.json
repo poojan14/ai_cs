@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-11-01T19:23:11.352Z",
+  "updatedAt": "2026-11-02T00:20:38.117Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1mf87xu",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 121",
+      "brief": "S. S. S. 313) identified in the Cursor Extension Marketplace",
+      "whyItMatters": "",
+      "words": 10,
+      "url": "https://securityaffairs.com/202209/malware/security-affairs-malware-newsletter-round-121.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-malware-newsletter.jpg",
+      "published": "2026-11-01T17:25:24.000Z",
+      "capturedAt": "2026-11-02T00:20:38.117Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "17p62mo",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "brief": "Data centers are deeply unpopular . But what if we called them something else? Axios reports that OpenAI is preparing a “PR blitz” for after the midterm elections on Tuesday, as Democrats seem likely to win back the House of Representatives, and possibly the Senate, too . The company’s chief global affairs officer Chris Lehane told Axios that the midterms will be “a bit of a movie trailer for what you’re going to see in 2028,” when he expects AI to be “ the issue” in the presidential election. S. ”",
+      "whyItMatters": "",
+      "words": 91,
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch — AI",
+      "sourceSite": "techcrunch.com",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "published": "2026-11-01T21:55:23.000Z",
+      "capturedAt": "2026-11-02T00:20:36.796Z",
+      "tags": [
+        "Openai"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1tc992u",
       "channel": "sec",
@@ -12742,42 +12784,6 @@
         "Chatbot",
         "Openai"
       ],
-      "rewritten": false
-    },
-    {
-      "id": "0n8e7r0",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "brief": "The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley. “When people talk about just one of these, privacy or safety, they’re prioritizing the wrong thing, and what we have to prioritize as a country is compromise,” Langley said during a recent interview with Fox News . ” Langley’s Fox News appearance was just the latest interview he’s given as the company faces a growing public outcry around concerns that Flock’s surveillance cameras, drones, and license plate recognition technology could be misused. These concerns aren’t just hypothetical. The Washington Post recently identified 46 cases where police officers have been accused of using Flock technology for unauthorized purposes, including to stalk their wives, girlfriends, or exes.",
-      "whyItMatters": "",
-      "words": 123,
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-      "published": "2026-08-23T15:30:00.000Z",
-      "capturedAt": "2026-08-24T06:59:09.393Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "1dnn6i5",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "brief": "With back-to-school season approaching (or already here in some places), keeping track of everyone’s schedules can get pretty chaotic. Between work, school, appointments, sports, chores, and everything else going on, a regular paper calendar just doesn’t cut it. That’s where Linkdaze’s smart digital calendar comes in — a touchscreen tablet built specifically to organize a household rather than a single person. One of Linkdaze’s biggest strengths is its calendar compatibility. The system can synchronize calendars from popular services, including Google, iCloud, Outlook, Yahoo, and Cozi, which is a dedicated family-organizing app. This is particularly useful for families where different members use different platforms. Instead of asking everyone to switch to a single calendar app, Linkdaze brings multiple schedules together and uses color coding to make individual family members easy to identify. 1-inch models, giving you some flexibility depending on how much wall space you have.",
-      "whyItMatters": "",
-      "words": 145,
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
-      "published": "2026-08-23T19:14:08.000Z",
-      "capturedAt": "2026-08-24T03:54:28.765Z",
-      "tags": [],
       "rewritten": false
     }
   ]
