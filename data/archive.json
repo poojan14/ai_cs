@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-02T10:38:53.483Z",
+  "updatedAt": "2026-11-02T21:28:16.730Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0dfxy24",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+      "brief": "In this article Classifying the vulnerability landscape Vulnerabilities exploited in the wild Where defenders should focus Patching is slow, while exploitation is fast Impact, exposure and where to focus Next in line How Microsoft Security helps defenders act References Learn More The vulnerability landscape continues to expand. 5%) have been linked to real-world exploitation. Those vulnerabilities follow clear patterns. Threat actors disproportionately target flaws that enable system takeover, particularly remote code execution, privilege escalation, and authentication bypass. AI-assisted vulnerability discovery and exploit development could further shorten the window defenders have to respond. Patching remains essential, but remediation can take weeks or months on critical systems, and some legacy or unsupported systems cannot be patched. Defenders therefore need to concentrate protection where it can have the greatest impact, considering both the likelihood of exploitation and the potential blast radius of a successful attack.",
+      "whyItMatters": "",
+      "words": 142,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/image.webp",
+      "published": "2026-11-02T20:20:59.000Z",
+      "capturedAt": "2026-11-02T21:28:16.730Z",
+      "tags": [
+        "Breach",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0ij8dey",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Powering up for a pivotal moment",
+      "brief": "Utilizing waste carbon at scale, assessing public trust in artificial intelligence and data centers, and building a quantum toolkit for critical applications were among the topics energy experts explored at the MIT Energy Initiative (MITEI)’s annual research conference on Sept. 22-23. ” More than 200 people attended Energizing@MIT: MITEI’s Annual Research Conference in person and online, including faculty, scientists, and researchers; representatives of global energy firms; nonprofit organizations; and academic institutions. With the rapid proliferation of artificial intelligence and data centers, the challenge of the energy transition grows ever greater, requiring “researchers who can pursue fundamental questions about materials, chemistry, and energy systems … engineers who can design new technologies and determine how they might function at scale … and experts in economics, policy, human behavior, and sociology who can help us understand how those technologies will interact with communities and with the world around us,” said Hammond.",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MITEI-Conference-Energy-Initiative.jpg?itok=D__3CViF",
+      "published": "2026-11-02T19:55:00.000Z",
+      "capturedAt": "2026-11-02T21:28:15.185Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1ivcqgd",
       "channel": "sec",
@@ -12740,49 +12784,6 @@
         "Model",
         "Agent",
         "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "12e43d9",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hackers infecting Android car systems to build proxy botnet",
-      "brief": "A new malware is being used to infect Android-based car systems, turning the devices into part of a botnet, researchers warned in a report published Friday. The malware was found on head units made by Chinese automotive software and hardware provider DoFun, Russian cybersecurity firm Kaspersky said . Head units are the computers and screens built into cars that control features such as navigation, music and Bluetooth. Kaspersky said this is the first documented case of malware infecting a car head unit through an attack specifically designed for this type of device. Previous attacks against such systems have typically relied on physical access to a vehicle or vulnerabilities in their operating systems and other components. \"We notified the vendor about the distribution scheme, and they subsequently reported fixing the security issues,\" researchers added.",
-      "whyItMatters": "",
-      "words": 133,
-      "url": "https://therecord.media/android-botnet-china-hackers",
-      "source": "The Record",
-      "sourceSite": "therecord.media",
-      "image": "http://cms.therecord.media/uploads/Dofun_mosh_PP_de93cecc2d.jpg",
-      "published": "2026-08-24T12:15:00.000Z",
-      "capturedAt": "2026-08-24T12:51:12.783Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Botnet"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0bm1vo5",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag - 24/7 Wall St.",
-      "brief": "Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag 24/7 Wall St.",
-      "whyItMatters": "",
-      "words": 21,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPekVvOGdxRFdLb0JUYV9iQjNvMUJzVGRIQnhhRkNYZHRMNDJtaGVsM2hybWNmLThSV2hYeXBnbXFuRG5zV01nS3pQbXdLVWJaU1c1RmtLbzFxODJIMlVXb1VUeXlaWUc1WjJuNFhpRnA3UEg2eGc3aXhGMVI1ODJOYTh6V08zNzE0ZHZxT0EyRXIxOW0yZnNDZGtyN2dXeUNDeGgyQzhyNW5jUWJHX3Z2WDR6TzBLbmU3Tzk3WGoyclZyNTJIV0kzUW1USHBYcWM",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-08-24T12:47:09.000Z",
-      "capturedAt": "2026-08-24T12:51:11.230Z",
-      "tags": [
-        "Model",
-        "Anthropic"
       ],
       "rewritten": false
     }
