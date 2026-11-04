@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-03T20:48:03.379Z",
+  "updatedAt": "2026-11-04T01:04:06.844Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1lv39ct",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Binance Hack: How Fake Job Interviews and AI Abuse Led to a $6.34 Billion Attack",
+      "brief": "S. S. 3 Billion Stolen from Binance in Attack Attributed to North Korea The Binance security incident on October 29 shows how a fake recruitment process can become the entry point to critical financial infrastructure. The attackers combined social engineering, compromised developer tools, stolen credentials and abuse of an internal AI application to reach the cryptocurrency exchange’s wallet signing systems.",
+      "whyItMatters": "",
+      "words": 60,
+      "url": "https://securityaffairs.com/202369/cyber-crime/binance-hack-how-fake-job-interviews-and-ai-abuse-led-to-a-6-34-billion-attack.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/11/image-6.png?resize=932%2C370&ssl=1",
+      "published": "2026-11-03T19:44:26.000Z",
+      "capturedAt": "2026-11-04T01:04:06.843Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Malware"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "016vb4n",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+      "brief": "Anthropic’s Frontier Red Team has released FlashProve , an open-source research prototype for provable inference . FlashProve is a zkSNARK system from Anthropic that proves a reply came from a committed model. The proof reveals nothing about the model weights. On Llama 4 Maverick , a 400B mixture-of-experts model, it proves about 110 tokens/second on 1 H100. For developers, this targets a real gap: today you cannot check which model actually answered your API call. TL;DR Size: Proves a 400B MoE model (~17B active per token); context capped at 1,024 tokens per request. Runs on: Prover needs 1 H100 80 GB, 24 CPU cores and ~290 GB host RAM. Verifier runs on a CPU, no GPU. Performance: Orders of magnitude faster than prior open-source zkML systems on the same 400B model. 78 MB proofs checked in 17 seconds.",
+      "whyItMatters": "",
+      "words": 138,
+      "url": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-11-03T22:08:22.000Z",
+      "capturedAt": "2026-11-04T01:04:05.221Z",
+      "tags": [
+        "Model",
+        "Anthropic",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1cj78zy",
       "channel": "sec",
@@ -12744,46 +12788,6 @@
         "Agent",
         "Nvidia"
       ],
-      "rewritten": false
-    },
-    {
-      "id": "1wad5nt",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
-      "brief": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
-      "whyItMatters": "",
-      "words": 23,
-      "url": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa2c2aaf0a60b49e/6a8caeb8c3ca75471601b401/zimbra_OpturaDesign_shutterstock.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-08-24T21:46:55.000Z",
-      "capturedAt": "2026-08-25T01:17:29.686Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0485fj0",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-      "brief": "Is the technique outdated? Yes. Is it still creepy? Also yes. Chinese retailer AliExpress has been caught fingerprinting visitors after one of the metrics—an outdated technique that measures inaudible sounds it sends to browsers—impeded a researcher’s ability to use his bluetooth headphones. Researcher Matthew Callaghan said he stumbled on the stealthy tracking by mistake. After loading the AliExpress homepage, audio from his phone stopped playing over his multipoint headphones, which accept connections from more than one device at a time. He set the headphones to play sounds from his phone except when his PC was producing audio. Each time he loaded AliExpress, the phone audio stopped. Each time he closed the tab the site was loaded into, the phone was once again audible. While investigating the odd behavior, Callaghan said he found two highly obfuscated scripts. Together, they rendered a graph that analyzed the WebAudio readings of each visiting browser.",
-      "whyItMatters": "",
-      "words": 150,
-      "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg",
-      "published": "2026-08-24T19:19:21.000Z",
-      "capturedAt": "2026-08-25T01:17:28.347Z",
-      "tags": [],
       "rewritten": false
     }
   ]
