@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-05T01:19:32.566Z",
+  "updatedAt": "2026-11-05T10:26:31.847Z",
   "count": 600,
   "stories": [
+    {
+      "id": "18xhddh",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Want to Rent an Internet Address at the White House?",
+      "brief": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016. The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President ( AS2650 ). Layer3 said the proxy activity was relatively persistent between October 5 to November 3, and that a review of the proxies available from AS2650 showed they exited from the White House network 236 times during that period.",
+      "whyItMatters": "",
+      "words": 126,
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "source": "Krebs on Security",
+      "sourceSite": "krebsonsecurity.com",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/11/synthient-whitehouse.png",
+      "published": "2026-11-05T04:36:17.000Z",
+      "capturedAt": "2026-11-05T10:26:31.847Z",
+      "tags": [
+        "Malware",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0xen85o",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Clearing up a robot’s fuzzy memory",
+      "brief": "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license . You may not alter the images provided, other than to crop them to size. \" In an emergency, a human might someday ask a robotic assistant to fetch a wall-mounted defibrillator located down the hall. But if the robot has incorrectly labeled the defibrillator as a fire extinguisher in its stored memory, it may not know where to find the life-saving device. This robotic assistant could benefit from a new memory system created by MIT researchers. The system identifies entries in a robot’s memory that might be wrong and corrects the descriptions of mislabeled objects.",
+      "whyItMatters": "",
+      "words": 125,
+      "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Confident-Mem-01-press.jpg?itok=N_4ApjRl",
+      "published": "2026-11-05T05:00:00.000Z",
+      "capturedAt": "2026-11-05T10:26:29.853Z",
+      "tags": [
+        "Model",
+        "Neural",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0f97h0s",
       "channel": "sec",
@@ -12741,49 +12785,6 @@
         "Model",
         "Agent",
         "Nvidia"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "00gixbc",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Fake Minecraft Sites Are Still Spreading WeedHack After C2 Takedown",
-      "brief": "S. S. S. S. CISA adds an MLflow flaw to its Known Exploited Vulnerabilities catalog McAfee Labs published a follow-up report on the WeedHack Malware-as-a-Service campaign this week, documenting ten active malicious sites and multiple file-hosting accounts that are still spreading the infostealer despite a disruption to its command-and-control infrastructure. Over the past month alone, McAfee WebAdvisor blocked more than 6,300 user attempts to reach these sites. “During our investigation of this campaign, we observed that most of these websites appear legitimate, as they are well-crafted and often mimic legitimate websites. ” reads the report published by McAfee. “We published the original article in the first week of July, and, as a result, we’ve seen a disruption in WeedHack’s campaign: its C2 server is no longer active. Consequently, we have observed a shift in tactics by these attackers. “",
-      "whyItMatters": "",
-      "words": 139,
-      "url": "https://securityaffairs.com/197784/malware/fake-minecraft-sites-are-still-spreading-weedhack-after-c2-takedown.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-73.png?resize=1024%2C509&ssl=1",
-      "published": "2026-08-25T07:15:46.000Z",
-      "capturedAt": "2026-08-25T12:48:11.218Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1x1ihnd",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "brief": "The state is investigating whether OpenAI’s ‘inability or unwillingness to ensure the safety of its products’ endangers citizens. The state is investigating whether OpenAI’s ‘inability or unwillingness to ensure the safety of its products’ endangers citizens. Alabama’s attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI’s safety practices violated state consumer protection laws and pose a risk to Alabama citizens, the AG’s office said in a statement. “This AI lab leak showed that Alabamians’ and Americans’ worst fears about artificial intelligence are not just theoretical,” said Attorney General Steve Marshall. ”",
-      "whyItMatters": "",
-      "words": 123,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-25T09:15:03.000Z",
-      "capturedAt": "2026-08-25T12:48:09.308Z",
-      "tags": [
-        "Openai",
-        "Agent"
       ],
       "rewritten": false
     }
