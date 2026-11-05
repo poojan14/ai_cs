@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-05T10:26:31.847Z",
+  "updatedAt": "2026-11-05T19:37:20.892Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0vkaa6p",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Email threat landscape: Q3 2026 trends and insights",
+      "brief": "3 billion email-based phishing threats from July through September, including a sharp increase to nearly 3 billion in September alone, up 41% from August. Yet the increase did not extend across the techniques that had driven threat actor activity earlier in the year. QR code phishing remained far below its early-year peak, while CAPTCHA-gated phishing reversed several months of decline, driven in part by renewed use of SVG attachments. Q2 in review Shifting tactics and other trends › Figure 1. Monthly detected email threat volume (January – September 2026) The quarter also highlighted how sender identity and security exceptions can shape the outcome of detected threats. Microsoft detected approximately 129 million malicious messages spoofing the sender domains of tracked business services.",
+      "whyItMatters": "",
+      "words": 121,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/image-9.webp",
+      "published": "2026-11-05T16:00:00.000Z",
+      "capturedAt": "2026-11-05T19:37:20.892Z",
+      "tags": [
+        "Malware",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0hx06b8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "brief": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. Alexiuk’s preferred “rooftop” is YouTube , where he’s built a following teaching curious thousands how to build, fine-tune, evaluate and ship production LLM applications and agents. “I think the people who will most help us understand how to build and apply AI likely haven’t even heard of it yet,” he said. ” Having spent years teaching developers to build with open models, Alexiuk has concluded that transparency isn’t a feature of good AI; it’s the precondition for it. “Fully open source AI is necessary for the democratization of intelligence,” he said. ”",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Chris-Alexiuk_portrait-1280-720.png",
+      "published": "2026-11-05T16:00:05.000Z",
+      "capturedAt": "2026-11-05T19:37:18.220Z",
+      "tags": [
+        "Machine Learning",
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "18xhddh",
       "channel": "sec",
@@ -12741,50 +12785,6 @@
       "tags": [
         "Anthropic",
         "Claude"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0aspr1h",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "brief": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor’s use of npm isn't to infect developers who install it, but to use the",
-      "whyItMatters": "",
-      "words": 65,
-      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg",
-      "published": "2026-08-25T11:52:43.000Z",
-      "capturedAt": "2026-08-25T15:42:12.647Z",
-      "tags": [
-        "Malware",
-        "Phishing",
-        "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "13ckbxw",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-      "brief": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch this fall. They join the publishers that announced RTX Spark support at COMPUTEX in May, including KRAFTON, NetEase, Riot Games and XBOX. NVIDIA is working closely with game developers and ecosystem partners to ensure today’s top PC games — including EA’s EA SPORTS F1 25 and Apex Legends , Ubisoft’s Anno 117: Pax Romana and Embark Studios’ ARC Raiders and THE FINALS — run seamlessly on RTX Spark devices.",
-      "whyItMatters": "",
-      "words": 124,
-      "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
-      "published": "2026-08-25T15:30:48.000Z",
-      "capturedAt": "2026-08-25T15:42:11.046Z",
-      "tags": [
-        "Model",
-        "Agent",
-        "Nvidia"
       ],
       "rewritten": false
     }
