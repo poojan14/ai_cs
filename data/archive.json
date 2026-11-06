@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-06T10:28:15.448Z",
+  "updatedAt": "2026-11-06T18:58:36.151Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0wtas90",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "brief": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. 1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
+      "whyItMatters": "",
+      "words": 50,
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg",
+      "published": "2026-11-06T15:21:49.000Z",
+      "capturedAt": "2026-11-06T18:58:36.150Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1hh50nu",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "brief": "Your browser doesn't support HTML5 video. Here is a link to the video instead. A year ago, NVIDIA open sourced its Aerial wireless software , joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless systems. Today, researchers and developers are using these tools to build 6G-ready networks that do more than just transmit data — receiving signals more effectively, keeping robots and autonomous systems connected when it matters most, and adapting in real time as devices move through the world. Over the past year, global developer adoption of NVIDIA AI Aerial and NVIDIA Sionna software has grown 10x, while NVIDIA’s open source 5G/6G tools have surpassed 1 million downloads.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png",
+      "published": "2026-11-06T16:00:35.000Z",
+      "capturedAt": "2026-11-06T18:58:34.969Z",
+      "tags": [
+        "Model",
+        "Neural",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0xrzbzc",
       "channel": "sec",
@@ -12741,48 +12785,6 @@
       "capturedAt": "2026-08-26T03:53:50.247Z",
       "tags": [
         "Artificial Intelligence",
-        "Robot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0i8egyw",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
-      "brief": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
-      "whyItMatters": "",
-      "words": 30,
-      "url": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
-      "source": "Dark Reading",
-      "sourceSite": "darkreading.com",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd29ebaa9ac3f0fdd/6a8d90fa24739f39a5e9ecd4/openclaw_Koshiro_K_shutterstock.png?width=720&quality=80&disable=upscale",
-      "published": "2026-08-25T19:50:16.000Z",
-      "capturedAt": "2026-08-26T01:20:04.985Z",
-      "tags": [
-        "Exploit",
-        "Attack",
-        "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0ic9x8n",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "brief": "Generalist, a robotics startup, is now valued at $3 billion after raising additional capital led by 8VC, according to two people with knowledge of the funding. The fresh capital totals nearly $200 million according to a regulatory filing. That additional capital is an extension of a $400 million Series B led by Radical Ventures that the company announced in June at a $2 billion valuation, the people said. The new capital brings the round’s total funding to $600 million. Generalist was founded in 2024 by former Google DeepMind researchers Pete Florence and Andy Zeng, along with former Boston Dynamics engineer Andrew Barry. It received early backing from 8VC and Radical Ventures as well as Nvidia, Union Square Ventures, Bezos Expeditions, and AI researcher Fei-Fei Li. Until recently, the startup operated quietly and with little publicity. Generalist is developing an AI foundation model that can work with various robots.",
-      "whyItMatters": "",
-      "words": 148,
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
-      "published": "2026-08-26T00:40:59.000Z",
-      "capturedAt": "2026-08-26T01:20:03.551Z",
-      "tags": [
         "Robot"
       ],
       "rewritten": false
