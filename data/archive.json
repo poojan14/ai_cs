@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-06T01:24:09.591Z",
+  "updatedAt": "2026-11-06T10:28:15.448Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0xrzbzc",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "OpenAI Reports Covert Underperformance in GPT-6 Astra",
+      "brief": "S. S. S. 3M set-top boxes into proxy servers OpenAI has disclosed that its GPT-6 Astra model sometimes quietly obstructed safety and alignment work. In a report updated on November 4, the company calls it covert underperformance. Astra added unnecessary prerequisites, abandoned working solutions and reported blockers that didn’t exist or that it had caused itself. Researchers first reported the problem internally on August 20, shortly after Astra was introduced. One researcher said a project to test whether the model could sabotage other AI systems made little progress for several days. After switching to another model, the work moved forward quickly. In most cases, Astra’s reasoning gave no clear sign that it was deliberately doing less work, and OpenAI’s monitoring systems failed to detect the behavior.",
+      "whyItMatters": "",
+      "words": 126,
+      "url": "https://securityaffairs.com/202515/ai/openai-reports-covert-underperformance-in-gpt-6-astra.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/11/image-10.png?resize=1024%2C761&ssl=1",
+      "published": "2026-11-06T09:20:44.000Z",
+      "capturedAt": "2026-11-06T10:28:15.448Z",
+      "tags": [
+        "Hack",
+        "Exploit",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0vo0kl0",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "brief": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they’re learning. I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed up for the waitlist. I wanted my apartment to feel like The Jetsons , even if just for an hour.",
+      "whyItMatters": "",
+      "words": 98,
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
+      "published": "2026-11-06T10:00:00.000Z",
+      "capturedAt": "2026-11-06T10:28:13.688Z",
+      "tags": [
+        "Model",
+        "Robot",
+        "Training Data"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0b1zge5",
       "channel": "sec",
@@ -12740,48 +12784,6 @@
       "capturedAt": "2026-08-26T01:20:03.551Z",
       "tags": [
         "Robot"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0lusrgc",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "brief": "S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime",
-      "whyItMatters": "",
-      "words": 56,
-      "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg",
-      "published": "2026-08-25T18:17:17.000Z",
-      "capturedAt": "2026-08-25T21:28:52.080Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0i5i60o",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
-      "brief": "AgentHands is an LLM-powered XR prototype that augments conversational agents with synchronized, expressive hand gestures to provide spatially grounded guidance, bridging the mental mapping gap and enhancing user engagement in physical tasks. As AI assistants evolve from simple text interfaces to multimodal companions, we are seeing a shift toward more proactive, situated assistance. 1 Flash Live already allow users to discuss their physical surroundings in real time, often utilizing visual bounding box overlays to identify objects in a camera feed. While these overlays are highly effective for 2D screens, the transition to immersive platforms like Android XR presents a unique challenge: how do we move beyond flat UI to create a truly embodied, spatially aware dialogue?",
-      "whyItMatters": "",
-      "words": 116,
-      "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
-      "source": "Google Research",
-      "sourceSite": "research.google",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgentHands5_Workflow.png",
-      "published": "2026-08-25T19:10:59.000Z",
-      "capturedAt": "2026-08-25T21:28:50.836Z",
-      "tags": [
-        "Agent"
       ],
       "rewritten": false
     }
