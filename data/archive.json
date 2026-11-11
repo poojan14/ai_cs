@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-11T05:01:40.620Z",
+  "updatedAt": "2026-11-11T13:42:02.096Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1jl8l7c",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Advertise a $1,000 Gmail Tool That Allegedly Survives Password Resets",
+      "brief": "S. S. CISA adds SonicWall SonicOS SSLVPN flaw to its Known Exploited Vulnerabilities catalog A developer of hacking tools is selling a $1,000 per month feature that allegedly gives criminals continuous access to Gmail inboxes. The cybersecurity firm Hudson Rock reports that the tool can keep reading a victim’s mailbox after a password change, after the browser closes and after sessions are revoked. ” reads the report published by cybersecurity firm Hudson Rock. ”",
+      "whyItMatters": "",
+      "words": 74,
+      "url": "https://securityaffairs.com/202853/malware/hackers-advertise-a-1000-gmail-tool-that-allegedly-survives-password-resets.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/11/image-20.png?resize=565%2C196&ssl=1",
+      "published": "2026-11-11T10:42:36.000Z",
+      "capturedAt": "2026-11-11T13:42:02.096Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1fm6s5e",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+      "brief": "The Institute of Foundation Models (IFM) at MBZUAI released PAN 2 , an open world model for physical intelligence. The PAN 2 world model takes a scene and a text action and simulates the outcome as video. IFM announced it on X on November 10, 2026. 0 . For robotics and agent developers, the pitch is simple: test a plan in simulation before acting on it. TL;DR Size: 29B-parameter diffusion transformer (MMDiT), dense. Inputs: text plus an optional first frame. Output: 704×1248 video at 24 fps, up to 20 s. Runs on: Data-center GPUs. Each worker holds the full 29B model in BF16, with block offloading as fallback. Performance: Leads 6 tested models on full plans. Trails MiniMax-H3 on single actions and human preference. 0% full-plan completion on 100 multi-step tasks, the highest of all models tested (self-reported). Worst: About 2 in 3 plans miss a step. 91 for MiniMax-H3.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "published": "2026-11-11T07:38:57.000Z",
+      "capturedAt": "2026-11-11T13:42:00.397Z",
+      "tags": [
+        "Model",
+        "Claude",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1ojas0q",
       "channel": "sec",
@@ -12750,48 +12794,6 @@
       "capturedAt": "2026-08-30T04:05:53.803Z",
       "tags": [
         "Artificial Intelligence"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "12e78av",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hack One Robot, Reach the Next: Unitree G1 Security Flaws",
-      "brief": "S. S. S. S. CISA adds Gitea flaw to its Known Exploited Vulnerabilities catalog Security researcher Olivier Laflamme spent about three months digging into the Unitree G1 humanoid robot and eventually found a way to fully compromise it without plugging in a single cable. In his technical write-up , he details two vulnerabilities, CVE-2026-76639 and CVE-2026-76640, that can be chained across Bluetooth, Unitree’s cloud infrastructure, the mobile app, and the robot’s firmware to gain unauthenticated root access to any G1 within Bluetooth range.",
-      "whyItMatters": "",
-      "words": 83,
-      "url": "https://securityaffairs.com/198085/hacking/hack-one-robot-reach-the-next-unitree-g1-security-flaws.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-91.png?resize=912%2C292&ssl=1",
-      "published": "2026-08-29T11:55:44.000Z",
-      "capturedAt": "2026-08-29T23:00:39.980Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1diuxb8",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "brief": "” Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for “tens of thousands” copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner’s favor and awards the maximum amount. 5 billion . It’s also faced multiple lawsuits from Universal Music Group, Concord, and ABKCO, plus separate suits from BMG and Round Hill Music .",
-      "whyItMatters": "",
-      "words": 102,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-29T18:19:53.000Z",
-      "capturedAt": "2026-08-29T23:00:37.810Z",
-      "tags": [
-        "Anthropic"
       ],
       "rewritten": false
     }
