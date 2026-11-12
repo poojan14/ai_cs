@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-12T17:23:46.885Z",
+  "updatedAt": "2026-11-12T23:16:09.431Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1lvm3od",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+      "brief": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. 9), an",
+      "whyItMatters": "",
+      "words": 31,
+      "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4r5n0I6Rd7yb3jS6hfXTyM5foZU5uEiCD1I2Kgth1qgf_pzohrD9jPeDesEopB6Gjo0VaQZF2XesdqU6W32eFADzI3_xhBF4026h6uGqn6eExdfS_A29SvYA3cdIJkhWmPG-k15_DdsGGcqFfWS-E3cgyKkdEQ3Sxa9gayFkkMXggVJpkeH7DoLNLZxm9/s1600/screen.jpg",
+      "published": "2026-11-12T13:08:28.000Z",
+      "capturedAt": "2026-11-12T23:16:09.431Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0rols81",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+      "brief": "Most AI coworker products are vendor locked. They pick the model, host the data, and write the rules. CopilotKit is taking the opposite route. 0 , was released November 9th, an MIT-licensed , self-hostable agent workspace. What sets it apart is, a company brings their own models, agents and infrastructure. Governance is fully baked in, and every Bot action is checked against a policy before it runs. What is OpenBot? OpenBot is a modular agent workspace from CopilotKit , the team behind the AG-UI protocol. You give a Bot a task and watch it work. You review findings, interact with results and approve next steps in the same conversation. Each Bot gets a computer of its own . That is a container with its own Chromium browser, logins and files. It reaches only the tools you grant. Answers can come back as charts, checklists, tables and cards.",
+      "whyItMatters": "",
+      "words": 147,
+      "url": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/image.png",
+      "published": "2026-11-12T21:45:36.000Z",
+      "capturedAt": "2026-11-12T23:16:08.178Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Claude"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1bibni0",
       "channel": "sec",
@@ -12758,45 +12802,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
       "published": "2026-08-30T16:54:25.000Z",
       "capturedAt": "2026-08-30T23:15:20.887Z",
-      "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0aray6f",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-      "brief": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. The company is signing affected users out of Claude, removing saved payment methods, and refunding charges it identifies as unauthorized. \"We have recently become aware of a bad actor that is using common infostealer malware to steal Claude login sessions from people's computers, then using those login sessions to access Claude accounts and consume their usage,\" Anthropic said in an email sent to an affected user, who shared it on Reddit. \"If your usage limits looked like they refilled and then drained while you weren't using Claude, this was likely the cause,\" Anthropic warned.",
-      "whyItMatters": "",
-      "words": 121,
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg",
-      "published": "2026-08-30T14:30:25.000Z",
-      "capturedAt": "2026-08-30T20:40:36.499Z",
-      "tags": [
-        "Malware",
-        "Attack"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "08cgbbp",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "brief": "As bipartisan backlash mounts, more politicians are turning against AI surveillance. As bipartisan backlash mounts, more politicians are turning against AI surveillance. As backlash grows over Flock’s AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft. Flock cameras have increasingly drawn ire from across the political spectrum as they’ve become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or criminally charged for misusing Flock systems, including at least six in Texas alone.",
-      "whyItMatters": "",
-      "words": 128,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "2026-08-30T15:35:10.000Z",
-      "capturedAt": "2026-08-30T20:40:34.409Z",
       "tags": [],
       "rewritten": false
     }
