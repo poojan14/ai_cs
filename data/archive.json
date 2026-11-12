@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-11-12T06:05:51.774Z",
+  "updatedAt": "2026-11-12T17:23:46.885Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1bibni0",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations",
+      "brief": "IT management software company ConnectWise said it is investigating reports of unauthorized access to its customers following reports from multiple cybersecurity firms that almost 50 organizations had been breached through the company’s ScreenConnect tool. Late on Wednesday evening, ConnectWise said it believes the activity is related to the abuse of an independent third-party extension installed in customer environments. The tool, RMM+, is an extension for ConnectWise ScreenConnect that allows external management tools to automate and control remote sessions through an API. “We identified approximately 400 partner environments with at least one independently developed third-party extension from the RMM+ family installed. Their presence alone does not establish compromise,” the company said. “These extensions provide an API capable of executing remote commands. ” The Tampa-based company told customers that threat actors were deploying additional remote-access software and also saw “potential compromise of technician workstations during interactive connections to affected devices. “",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://therecord.media/connectwise-screenconnect-breaches-third-party-tool",
+      "source": "The Record",
+      "sourceSite": "therecord.media",
+      "image": "http://cms.therecord.media/uploads/connectwise_logo_df3804ab18.jpg",
+      "published": "2026-11-12T16:16:00.000Z",
+      "capturedAt": "2026-11-12T17:23:46.885Z",
+      "tags": [
+        "Breach",
+        "Cyber",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "074nxhh",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "brief": "A study testing Gemini, Perplexity, and ChatGPT found that in as many as 15 percent of conversations, chatbots displayed ‘risky’ URLs. A study testing Gemini, Perplexity, and ChatGPT found that in as many as 15 percent of conversations, chatbots displayed ‘risky’ URLs. Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. ”; and “Does [brand] ship internationally? ” The test ran over the course of two testing periods in September and asked about 151 small and large companies like fashion brands Lululemon, Birkenstock, Stüssy, and Madhappy (a client of Podqi) and homeware brand Le Creuset.",
+      "whyItMatters": "",
+      "words": 143,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge — AI",
+      "sourceSite": "theverge.com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "2026-11-12T17:00:00.000Z",
+      "capturedAt": "2026-11-12T17:23:45.739Z",
+      "tags": [
+        "Chatbot",
+        "Gemini"
+      ],
+      "rewritten": false
+    },
     {
       "id": "078ypo7",
       "channel": "sec",
@@ -12755,48 +12798,6 @@
       "published": "2026-08-30T15:35:10.000Z",
       "capturedAt": "2026-08-30T20:40:34.409Z",
       "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0xu1agk",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Hackers Are Probing PaperCut Servers, and 47% Still Have No Patch",
-      "brief": "S. S. S. 7 Million Customers Across Three Airports PaperCut, the print management software running in schools, hospitals, and offices worldwide, confirmed on August 27 that a pre-authentication remote code execution flaw is being actively exploited against real customers. Researchers at Huntress found evidence of exploitation in two customer environments, and the security firm went further, reproducing the entire attack chain from scratch against a clean, unpatched install. “Observed activity focused on system discovery. ” reads the report published by Hutress.",
-      "whyItMatters": "",
-      "words": 81,
-      "url": "https://securityaffairs.com/198107/uncategorized/hackers-are-probing-papercut-servers-and-47-still-have-no-patch.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-93.png?resize=1024%2C486&ssl=1",
-      "published": "2026-08-30T11:26:29.000Z",
-      "capturedAt": "2026-08-30T16:12:11.435Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Vulnerability"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "062z0lf",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "brief": "The company is testing robots on tasks that can performed by technicians. Meta is testing robots that can plug in cables, reset servers, and handle other tasks inside its data centers , according to several current and former workers familiar with the projects. The ongoing effort, which has not been previously reported, may eventually allow Meta to operate its rapidly expanding data center footprint with fewer humans, keeping labor costs in check as its spending on AI infrastructure soars . Meta is using robots and related hardware from several different vendors, including Watney Robotics, Kinova, and ABB, according to the same workers, who asked to remain anonymous because they weren’t authorized to speak to the media. Kinova and ABB declined to comment. Watney didn’t respond to requests for comment.",
-      "whyItMatters": "",
-      "words": 129,
-      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
-      "published": "2026-08-30T11:03:47.000Z",
-      "capturedAt": "2026-08-30T16:12:09.788Z",
-      "tags": [
-        "Robot"
-      ],
       "rewritten": false
     }
   ]
