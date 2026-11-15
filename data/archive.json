@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-15T10:28:06.470Z",
+  "updatedAt": "2026-11-15T18:33:23.036Z",
   "count": 600,
   "stories": [
+    {
+      "id": "19nvybc",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "brief": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. In a FLASH advisory released Friday, the agency said multiple threat actors have weaponized the open-source framework since at least August 2026 to target organizations across the financial, government, technology, defense, healthcare, and other sectors. \"ARTEX significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" reads the FBI advisory. \" ARTEX is an autonomous penetration testing framework written in Go that uses artificial intelligence agents to perform reconnaissance, discover vulnerabilities, exploit systems, escalate privileges, and steal data with little human intervention.",
+      "whyItMatters": "",
+      "words": 128,
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg",
+      "published": "2026-11-15T18:29:53.000Z",
+      "capturedAt": "2026-11-15T18:33:23.036Z",
+      "tags": [
+        "Breach",
+        "Hack",
+        "Cyber"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0g0j56z",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "brief": "Bland, the San Francisco voice-AI company, has released Tofu-1 , a full-duplex speech-to-speech model in research preview. The Tofu-1 speech-to-speech model targets calls from moving cars, hospital rooms and weak-signal lines. It listens while it speaks and reasons while it talks. For phone-agent teams, one model now handles audio in and audio out, with no transcript between. com chrome extension . What is Tofu-1? Tofu-1 is a full-duplex speech-to-speech model from Bland that hears, reasons and replies in audio during phone calls. It is the first release in a planned family of Bland speech-to-speech models. How does Tofu-1 differ from a cascade voice agent? Most voice agents are cascades. They turn speech into text, pass it to a language model, then turn the reply back into speech. Tofu-1 listens to the audio directly , so tone, hesitation and background sound stay available to the model.",
+      "whyItMatters": "",
+      "words": 145,
+      "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "",
+      "published": "2026-11-15T10:06:21.000Z",
+      "capturedAt": "2026-11-15T18:33:21.244Z",
+      "tags": [
+        "Model",
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1dwqsy1",
       "channel": "sec",
@@ -12761,50 +12805,6 @@
       "tags": [
         "Machine Learning",
         "Model"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0zisqjo",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "brief": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. S. S. government officials whose drivers licenses can be found for sale.",
-      "whyItMatters": "",
-      "words": 101,
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "source": "Krebs on Security",
-      "sourceSite": "krebsonsecurity.com",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/09/nexus-phegseth.png",
-      "published": "2026-09-01T22:40:28.000Z",
-      "capturedAt": "2026-09-01T23:04:37.120Z",
-      "tags": [
-        "Breach",
-        "Exploit",
-        "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "099iu2t",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "brief": "Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind , its agentic cybersecurity system developed by the CrowdStrike Cyber Superintelligence Lab. “This is the beginning of a new age of cybersecurity,” Huang told the crowd of 10,000 security professionals. “On the one hand, the adversaries are going to be more armed than ever. ” SafeMind combines CrowdStrike’s purpose-built, beyond frontier-capable models and customized agentic harnesses, with defensive models built on NVIDIA Nemotron , in a continuous coevolution loop where offense and defense repeatedly challenge and improve each other. CrowdStrike also announced CrowdStrike Falcon IQ to operationalize Project QuiltWorks through agentic workload automation and expanded its CrowdStrike Guardian AI safety solution.",
-      "whyItMatters": "",
-      "words": 132,
-      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
-      "source": "NVIDIA Blog",
-      "sourceSite": "blogs.nvidia.com",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/crowdstrike-nvidia-stage-scaled.jpg",
-      "published": "2026-09-01T21:19:20.000Z",
-      "capturedAt": "2026-09-01T23:04:35.119Z",
-      "tags": [
-        "Model",
-        "Chatbot",
-        "Agent"
       ],
       "rewritten": false
     }
