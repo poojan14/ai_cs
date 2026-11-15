@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-11-15T00:48:59.302Z",
+  "updatedAt": "2026-11-15T10:28:06.470Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1dwqsy1",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "brief": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only",
+      "whyItMatters": "",
+      "words": 68,
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg16ACawbG7rP_kT-8Boo4xdTje3BeTWyFSnNXwHhr5cvy2-1X3Ljhrc1IuZlseWd55tN8E1yjQ9ldhTnjWTU-GJBpX_Zen36YiLQGsRSRAoteqHyxx7mn_w0QgLfMKDLItA4p_jpHajucbglLnCR_zWBY_t82YvFkLa9dQFBfjP1BrTlrNdYufsGMSZiGn/s1600/cursor.jpg",
+      "published": "2026-11-15T08:22:04.000Z",
+      "capturedAt": "2026-11-15T10:28:06.470Z",
+      "tags": [
+        "Breach",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0evj65w",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "OpenAI’s new ChatGPT Wallet lets AI agents shop for you: Here’s how to set it up - The Indian Express",
+      "brief": "OpenAI’s new ChatGPT Wallet lets AI agents shop for you: Here’s how to set it up The Indian Express",
+      "whyItMatters": "",
+      "words": 19,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDBzVFI3YlVjSTJnRFdidGhDd3otS3VIcVNwQmxjdnU5eXhpVU5hUkhoel9YYnFXRUpFQXBCTXZsdTNXUk1YcW9TbnNZUFBzN0J0Wm1BUktYOEg3cm9adUdXN2ZEUEp3NXFKN19seWswSWVVc3drNlhhb3A0TDZJaE5kR0VWWWpmSFZWWXN4bUFmVEhEb3BOdlZQVWxCZmRTNVR3bHR0Zm01cTdtcjFzRTZHNVFyNjBVQTdIZ1BZc9IBxgFBVV95cUxON0gyTTlrZW5Ub0lXY3FQeEtSN2d5ajQ5YlBZZWF6SnlNMTFVOVdlemdtWHVSdzFjSTVFYTQyRTJQZjVMREltd0czVHdSREtlUm5PcjRQS2J6WU5VNDV1c3h5Zkd6elpzVmRRLWJHRlVoRDhidC1WWEQ3ZTBqZ0ZhR1hQMjJNQWczakg2VnZIRGV0R0pFZ2hYdm9XVTVMRUZEMldyOWpDNUF3MFNQREdfdzlUNnJVYkVDb1R4bzNoV2pUazdLNXc",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-11-15T06:25:01.000Z",
+      "capturedAt": "2026-11-15T10:28:04.896Z",
+      "tags": [
+        "Openai",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1vmiemd",
       "channel": "sec",
@@ -12762,49 +12804,6 @@
       "tags": [
         "Model",
         "Chatbot",
-        "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "184hhmc",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Chaotic Eclipse Releases GenDigital Avast Antivirus ZeroDay PrettyPrague",
-      "brief": "S. S. S. CISA adds ownCloud, Linux Kernel, and JFrog Artifactory flaws to its Known Exploited Vulnerabilities catalog Security researcher Chaotic Eclipse , also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new zero-day exploit targeting GenDigital Avast Antivirus. The researcher named the exploit PrettyPrague, it triggers a privilege escalation flaw. The researcher claims to have found another zero-day in an antimalware product, this time targeting Avast Antivirus. The PoC exploits a flaw in Avast Sandbox to dump the Windows SAM database and gain a SYSTEM-level shell. It reportedly works even on fully patched Avast Antivirus and Windows 11 25H2. The researcher also suspects the flaw may affect other Gen Digital products, including AVG and Norton.",
-      "whyItMatters": "",
-      "words": 117,
-      "url": "https://securityaffairs.com/198243/hacking/chaotic-eclipse-releases-gendigital-avast-antivirus-zeroday-prettyprague.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-2.png?resize=1024%2C486&ssl=1",
-      "published": "2026-09-01T14:33:00.000Z",
-      "capturedAt": "2026-09-01T18:12:35.162Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Malware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1ht9pnu",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Introducing agentic video understanding with Gemini",
-      "brief": "Our new agentic feature for video analysis cuts token consumption by up to 88%, reduces costs by up to 66%, and boosts quality by up to 7%. 5 Flash-Lite. This feature allows the model to dynamically scan video segments, which improves accuracy while cutting token usage by up to 88% and costs by up to 66%. You can start using this today by setting your API configuration to \"agentic\" in Google AI Studio or the Gemini Enterprise Agent Platform. 5 Flash-Lite. This new capability improves accuracy while dramatically reducing token usage and costs for video analysis. Similar to agentic vision , which combines code execution with Gemini models’ native image understanding, agentic video understanding uses Gemini’s native video tools to improve performance and unlock new capabilities for video processing like sub-second moment retrieval, more accurate anomaly detection, precise counting and more.",
-      "whyItMatters": "",
-      "words": 141,
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "source": "Google DeepMind",
-      "sourceSite": "deepmind.google",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-header.width-1300.png",
-      "published": "2026-09-01T17:08:51.000Z",
-      "capturedAt": "2026-09-01T18:12:31.811Z",
-      "tags": [
-        "Gemini",
         "Agent"
       ],
       "rewritten": false
