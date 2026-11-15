@@ -1,47 +1,49 @@
 {
-  "generatedAt": "2026-11-14T19:46:09.957Z",
-  "nextUpdateAt": "2026-11-14T22:46:09.957Z",
+  "generatedAt": "2026-11-15T00:48:59.302Z",
+  "nextUpdateAt": "2026-11-15T03:48:59.302Z",
   "cycleHours": 3,
   "stories": {
     "ai": {
-      "id": "0dqnumy",
+      "id": "1bybq5f",
       "channel": "ai",
       "channelLabel": "Artificial Intelligence",
       "channelCode": "CH-01",
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "brief": "CSET’s Helen Toner says ‘we’re screwed’ if our AI safety plan rests on any one person being trusted to get this right. Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman . That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors. OpenAI has since restructured entirely .",
+      "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+      "brief": "Cmpnd has released dspy-wsp , a prototype optimizer that brings weight-space programming to DSPy . Weight-space programming is a technique in which a frontier LLM reads another model’s weights and edits them directly. There are no gradients, no training loop and no fine-tuning dataset. dspy-wsp packages this as WeightSpace , an optimizer that plugs into any DSPy program and metric. In Cmpnd’s tests, about $5 to $10 of GPT-6-Astra calls improved every decision model they tried. com chrome extension . TL;DR What it is: A DSPy optimizer ( WeightSpace ) where a writer LLM edits a student model’s weights. 5. 6B to 9B parameters. One 25-pass run edited a single layer or head. Runs on: One Mac for all experiments. 2B models used about 6 GB of memory. d1-omni-600M needs 4 GB or more (Mac or GPU). 1 points on Typed Decisions. 0 points. 3) with WeightSpace + ReAnchor.",
       "whyItMatters": "",
-      "words": 126,
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-      "published": "2026-11-14T15:00:00.000Z",
-      "capturedAt": "2026-11-14T19:46:08.144Z",
+      "words": 149,
+      "url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "published": "2026-11-14T16:45:48.000Z",
+      "capturedAt": "2026-11-15T00:48:57.566Z",
       "tags": [
-        "Openai"
+        "Model",
+        "Openai",
+        "Neural"
       ],
       "rewritten": false
     },
     "sec": {
-      "id": "0bqss0t",
+      "id": "1vmiemd",
       "channel": "sec",
       "channelLabel": "Cybersecurity",
       "channelCode": "CH-02",
-      "title": "Extortion Group Claims Theft of Nearly One Billion Expedia Traveler Records",
-      "brief": "S. S. 7 million people A newly formed Russian cyber extortion group called n0n claims it has hit Expedia, the world’s second-largest online travel agency, and taken data on nearly one billion travelers. Expedia confirmed to Skift on Thursday that attackers had breached its systems through a third-party data platform provider in a supply chain attack that also affected other companies. ” reported the website Skift. “Acknowledgment came after several cybersecurity sites reported this week on allegations by an extortion group known as n0n that it had stolen Expedia data. “",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "brief": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. The breach also let attackers access internal systems and steal customer data, including historical AI coding-agent traces containing unredacted credentials that were later used to compromise additional services. The breach was disclosed in a new incident report published Friday, which explains how attackers distributed malicious versions of Anthropic's Claude Code extension through Cursor's marketplace on October 29. The attack exposed up to 5,000 developers to malware that installed persistent SSH backdoors. Cursor is an AI-powered code editor built on Microsoft's open-source Visual Studio Code (VS Code), allowing developers to write, modify, and debug software using AI assistants.",
       "whyItMatters": "",
-      "words": 91,
-      "url": "https://securityaffairs.com/203062/cyber-crime/extortion-group-claims-theft-of-nearly-one-billion-expedia-traveler-records.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/11/image-32.png?resize=1024%2C626&ssl=1",
-      "published": "2026-11-14T16:46:26.000Z",
-      "capturedAt": "2026-11-14T19:46:09.957Z",
+      "words": 125,
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/07/13/cursor-header.jpg",
+      "published": "2026-11-14T17:27:25.000Z",
+      "capturedAt": "2026-11-15T00:48:59.302Z",
       "tags": [
         "Breach",
         "Hack",
-        "Ransomware"
+        "Security"
       ],
       "rewritten": false
     }
