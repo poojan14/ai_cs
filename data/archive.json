@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-11-15T18:33:23.036Z",
+  "updatedAt": "2026-11-16T00:47:26.606Z",
   "count": 600,
   "stories": [
+    {
+      "id": "17u6eq5",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
+      "brief": "S. 2 Billion and Disrupts Hacker Infrastructure A hotel in Germany had a maintenance safety system for its sauna area. If the chlorine level got too high, the system emailed the operators. When Microsoft’s cloud services failed, those emails couldn’t go out, the chlorine rose, and 15 guests were poisoned, according to Notebookcheck report . ” states Notebookcheck . ” German emergency services sent 40 first responders. Local media reported that four victims were taken to hospital, and one stayed for further observation. An alarm that depends on email works until the email doesn’t.",
+      "whyItMatters": "",
+      "words": 94,
+      "url": "https://securityaffairs.com/203189/security/the-microsoft-outage-left-15-hotel-guests-poisoned-by-chlorine.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-24.png",
+      "published": "2026-11-15T22:38:00.000Z",
+      "capturedAt": "2026-11-16T00:47:26.606Z",
+      "tags": [
+        "Hack",
+        "Security"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1n63noa",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "brief": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai Motor Group, LG Electronics and SK Group — as well as startups like Real World and Luda Robotics — using NVIDIA platforms to bring general-purpose robotics into the real world. Jonathan Cohen, vice president of applied research at NVIDIA, showed how enterprises can build agents they own and control. Breakout sessions featured speakers from Coupang Intelligent Cloud, Doosan Robotics, LG AI Research, LG Electronics, NAVER Cloud, SK Telecom and Upstage. “It was a genuinely enjoyable time to have candid conversations,” said Hyunho Yang, research engineer for omnimodal foundation models at SK Telecom. ”",
+      "whyItMatters": "",
+      "words": 148,
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-day-seoul-wrapup-1920x1080-1.jpg",
+      "published": "2026-11-16T00:00:28.000Z",
+      "capturedAt": "2026-11-16T00:47:24.803Z",
+      "tags": [
+        "Model",
+        "Agent",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "19nvybc",
       "channel": "sec",
@@ -12762,49 +12805,6 @@
         "Model",
         "Anthropic",
         "Claude"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "183uhwb",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
-      "brief": "In this article Attack chain overview Campaign scope and targeting Mitigation and protection guidance References Learn more Microsoft Defender Experts is tracking an active malware campaign that uses counterfeit software-download websites to impersonate trusted vendors and distribute malicious installers. The campaign has targeted users looking to download popular software and has resulted in compromises across multiple organizations and industries, primarily affecting China-based operations of multinational organizations and Chinese-speaking users. Microsoft has observed victims across healthcare, manufacturing, gaming, technology, logistics, government, and education sectors. Once executed, the malicious installers deploy malware that establishes persistence, attempts to weaken security protections, and communicates with attacker-controlled infrastructure. Microsoft assesses with moderate confidence that this activity is consistent with the publicly reported Silver Fox (also known as Yinhu, 银狐) fake software campaign but has not attributed it to a nation-state actor.",
-      "whyItMatters": "",
-      "words": 136,
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
-      "source": "Microsoft Security Blog",
-      "sourceSite": "microsoft.com",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-458x1024.webp",
-      "published": "2026-09-01T22:48:28.000Z",
-      "capturedAt": "2026-09-02T03:18:57.845Z",
-      "tags": [
-        "Ransomware",
-        "Malware",
-        "Vulnerability"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0qwsqc9",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Walter Torous named executive director of MIT Center for Real Estate",
-      "brief": "Walter Torous , senior lecturer in the MIT Department of Urban Studies and Planning (DUSP) and the MIT Sloan School of Management , and director of the Master of Science in Real Estate Development Program (MSRED), was recently named executive director of the MIT Center for Real Estate (CRE) — effective July 1, 2026. In announcing Torous’ appointment, School of Architecture and Planning Dean Hashim Sarkis also said that Justin Steil , professor of law and urban planning, will represent CRE as faculty chair of the Academic Curriculum Council. “Together, Walter and Justin will guide CRE’s academic and strategic direction as it continues to strengthen its role within our school and the Institute,” Sarkis said. ”",
-      "whyItMatters": "",
-      "words": 116,
-      "url": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
-      "source": "MIT News — AI",
-      "sourceSite": "news.mit.edu",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/Torous-MIT-A1.jpg?itok=8qiWk_oP",
-      "published": "2026-09-01T21:25:00.000Z",
-      "capturedAt": "2026-09-02T03:18:56.140Z",
-      "tags": [
-        "Machine Learning",
-        "Model"
       ],
       "rewritten": false
     }
