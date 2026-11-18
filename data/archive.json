@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-11-18T11:14:15.472Z",
+  "updatedAt": "2026-11-18T20:04:21.574Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1ohdbxv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "65 Characters to RCE: Inside the Java4Shell Vulnerability",
+      "brief": "Norwegian Gas Giant Equinor Says It's Under Cyberattack. S. S. 2), in OpenJDK’s Base64 decoder. OpenJDK is the world’s most common Java runtime. OpenJDK (Open Java Development Kit) is the open-source implementation of the Java platform. It provides the tools and components needed to develop and run Java applications, including the Java Virtual Machine (JVM), libraries and development tools. It is widely used in enterprise systems, servers and cloud environments. Base64 shows up everywhere: authentication, file uploads, network messages. To decode it fast, OpenJDK uses special x86-64 instructions that process many bytes at once, and the bug lives in that hand-written machine code. A single malformed string triggers it: 64 “A” characters followed by one equals sign, or 128 on older OpenJDK 17.",
+      "whyItMatters": "",
+      "words": 123,
+      "url": "https://securityaffairs.com/203387/hacking/65-characters-to-rce-inside-the-java4shell-vulnerability.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/11/image-46.png?resize=900%2C470&ssl=1",
+      "published": "2026-11-18T10:45:57.000Z",
+      "capturedAt": "2026-11-18T20:04:21.574Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "18rdmse",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "This featherweight, flying robot carries its own sensors and computers",
+      "brief": "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license . You may not alter the images provided, other than to crop them to size. \" Over the past decade, MIT researchers have developed aerial microrobots with bumblebee-like speed, agility, and durability, for tasks like precision agriculture or search-and-rescue. But these featherweight microrobots couldn’t carry the electronics needed for navigation, forcing them to remain connected to a motion-capture system in the lab. Now, the researchers have designed a flapping-wing microrobot with onboard sensors and computation, which can follow a complex trajectory and land precisely on a sunflower outside the lab’s motion capture environment. While the robot is still connected to an offboard power source, this demonstration highlights the potential of aerial microrobots to be used for precision agriculture in the future.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Onboard-Microbot-A1-press.jpg?itok=-TluzTJd",
+      "published": "2026-11-18T19:00:00.000Z",
+      "capturedAt": "2026-11-18T20:04:19.286Z",
+      "tags": [
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1qc7544",
       "channel": "sec",
@@ -12763,50 +12805,6 @@
         "Model",
         "Chatbot",
         "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "09mqakj",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "412,000 The Town 2025 Ticket Buyers’ Data Hits the Dark Web",
-      "brief": "S. CISA adds PaperCut NG/MF flaws to its Known Exploited Vulnerabilities catalog A seller on a Russian-language data-trading forum listed what they’re calling a Ticketmaster database on September 2, claiming over 412,000 Latin American purchase records with a heavy concentration of Brazilian data. Ransomnews’s analysis confirms the sample is genuine ticket-buyer data from The Town 2025, the São Paulo music festival, though who actually lost the data and how remains unconfirmed. “The listing is headed “SELLING NEW TICKETMASTER DATABASE” and describes a global ticketing platform, Latin America region, with an internal ticketing database as the source and a breach date of 28 August 2026. ” reported Ransomnews . ”",
-      "whyItMatters": "",
-      "words": 109,
-      "url": "https://securityaffairs.com/198354/data-breach/412000-the-town-2025-ticket-buyers-data-hits-the-dark-web.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-10.png?resize=1024%2C496&ssl=1",
-      "published": "2026-09-03T13:17:41.000Z",
-      "capturedAt": "2026-09-03T15:55:58.223Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0qkdbgp",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "brief": "OpenAI’s ChatGPT, xAI’s Grok, and Anthropic’s Claude are all experiencing issues. ” In addition to preventing users from having conversations with ChatGPT, the outage is also affecting logins, file uploads, voice mode, search, deep research, image generation, and more. ” The outage comes as OpenAI teases the launch of Astra, its new AI model .",
-      "whyItMatters": "",
-      "words": 55,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "published": "2026-09-03T15:35:14.000Z",
-      "capturedAt": "2026-09-03T15:55:55.331Z",
-      "tags": [
-        "Chatbot",
-        "Openai",
-        "Anthropic"
       ],
       "rewritten": false
     }
