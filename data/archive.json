@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-18T02:45:12.012Z",
+  "updatedAt": "2026-11-18T11:14:15.472Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1qc7544",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation. 4), is a case of",
+      "whyItMatters": "",
+      "words": 42,
+      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoFKMFLPbzyM7RGi89XdpVFUfFqLH2C0QnAIyZfTSZIkvQNT8jhFEdMdW3D1qPXE0MjtV-q8fM1Alicz0wEuNJ6fnIjOs3BY8D7ABBRWNqPg6NGz9FjhbSQhapwUDZPDyg3kJEy9CZeUwbcmZ3N5nCU8bH6bkCo4BgLfhlE3R3AdDi9CvLVgjqlMW42Pm2/s1600/puppet.jpg",
+      "published": "2026-11-18T08:24:31.000Z",
+      "capturedAt": "2026-11-18T11:14:15.472Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0le062d",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "brief": "Osmo’s smell model is already being used in the fragrance industry. But are medical diagnostics and threat detection a sniff too far? In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation model for smell. ” “Scent molecules are really the only language most species on this planet can speak,” he says. “Most species can’t communicate with sound or visually, so it truly is Earth’s original language. And it’s incredibly powerful for us, from a memory and an emotional standpoint. You can smell something once and remember it for the rest of your life. ”",
+      "whyItMatters": "",
+      "words": 140,
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840",
+      "published": "2026-11-18T10:20:30.000Z",
+      "capturedAt": "2026-11-18T11:14:00.349Z",
+      "tags": [
+        "Model",
+        "Neural",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "08l4a10",
       "channel": "sec",
@@ -12761,49 +12805,6 @@
       "capturedAt": "2026-09-03T15:55:55.331Z",
       "tags": [
         "Chatbot",
-        "Openai",
-        "Anthropic"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0bulwtb",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "brief": "S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. 0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
-      "whyItMatters": "",
-      "words": 44,
-      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg",
-      "published": "2026-09-03T05:19:04.000Z",
-      "capturedAt": "2026-09-03T10:48:22.435Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0fzgcgr",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "What is OpenAI's Direct Competitor to Anthropic's Mythos? - AI Magazine",
-      "brief": "What is OpenAI's Direct Competitor to Anthropic's Mythos? AI Magazine",
-      "whyItMatters": "",
-      "words": 10,
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDJCZzRGMG9IcUpueDRzMC1SVWpjQm9iVzNiTU9VTWRCMk9OOXhpc2tuYkpEVldVTHU3MUZ5ZmszZ280ZVhCekc0cXZOeURKeHlRU3JQa0p5THFkQUtMWjRTU3hrYXhFR0NvQ3lXeWlVWFphbmlQQU9UYUMwanY4U0RxOFhRSzNNdWc",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-09-03T10:04:11.000Z",
-      "capturedAt": "2026-09-03T10:48:21.242Z",
-      "tags": [
         "Openai",
         "Anthropic"
       ],
