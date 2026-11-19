@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-19T02:18:55.325Z",
+  "updatedAt": "2026-11-19T11:13:23.308Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0kuxagz",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "nginx2root:AI Discovers Five Critical nginx Flaws and a Path to Root",
+      "brief": "Norwegian Gas Giant Equinor Says It's Under Cyberattack. S. S. Banks Struggle With Outages Amid Wider Technology Disruptions Xint Research has disclosed nginx2root , five distinct nginx vulnerabilities plus one Linux kernel bug, each with a proven exploit. The worst of the five, now tracked as CVE-2026-123007, lets an unauthenticated attacker run code remotely, and chaining it with the kernel bug reaches root on the host. “This issue affects NGINX Plus or NGINX Open Source configurations that use HTTP/2. When NGINX processes undisclosed traffic, the flow control window can exceed the allowed threshold, potentially resulting in a heap buffer overflow typically followed by an NGINX worker segmentation fault. Additionally, attackers can execute code on systems with Address Space Layout Randomization (ASLR) disabled or when the attacker can bypass ASLR. ( CVE-2026-123007 )” reads the advisory .",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://securityaffairs.com/203440/hacking/nginx2rootai-discovers-five-critical-nginx-flaws-and-a-path-to-root.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://nginx2root.com/assets/media/AWS.11a5f4a1.mp4",
+      "published": "2026-11-19T09:21:19.000Z",
+      "capturedAt": "2026-11-19T11:13:23.308Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0p8e8qg",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
+      "brief": "An LLM presents you a wrong value extracted from a document as fact. That error is costly, especially when basing decisions on it. The Nutrient Data Extraction API targets that problem. It parses PDFs, scans, images and Office files into spatial JSON or Markdown. Extract maps fields from a document onto your JSON schema, and split, classify and form endpoints provide useful primitives for your document pipelines. Each extracted value is anchored to a page via a bounding box, a match label and a confidence score. Nutrient (formerly PSPDFKit) runs the same engine behind an MCP server , agent skill, Mac app and SDK . TL;DR Size: A hosted API with 4 parse modes plus auto routing. Runs on: Nutrient cloud, your own servers via SDK, or an Apple silicon Mac. Where to try it: Studio , a browser workspace to configure and test parsing, extraction,classification, splitting, and form filling.",
+      "whyItMatters": "",
+      "words": 150,
+      "url": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/image-2.png",
+      "published": "2026-11-19T03:23:50.000Z",
+      "capturedAt": "2026-11-19T11:13:21.346Z",
+      "tags": [
+        "Model",
+        "Claude",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0ky3lbx",
       "channel": "sec",
@@ -12766,46 +12810,6 @@
         "Model",
         "Openai"
       ],
-      "rewritten": false
-    },
-    {
-      "id": "0ioz45k",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Cisco Fixed Critical RCE in Nexus 9000 Series Switches",
-      "brief": "S. 8) in 10 Silicon One-based Nexus 9000 switches. The vulnerability could let an unauthenticated remote attacker execute code with root privileges. Cisco’s Technical Assistance Center (TAC) discovered the flaw while investigating a customer support case. The flaw exists because TCP ports 43210 and 43211 are exposed through the default Layer 3 VRF. An attacker could connect remotely and send specially crafted data that gets executed with root privileges. The attack could also crash the S1HAL process, potentially forcing the affected device to reload.",
-      "whyItMatters": "",
-      "words": 84,
-      "url": "https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-12.png?resize=787%2C165&ssl=1",
-      "published": "2026-09-03T19:47:40.000Z",
-      "capturedAt": "2026-09-03T23:00:55.296Z",
-      "tags": [
-        "Hack",
-        "Vulnerability",
-        "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0d6y7tf",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-      "brief": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying. A prominent US senator is asking the National Security Agency to provide guidance to the general public on best practices for using virtual private networks to secure their communications from spying by foreign adversaries. VPNs funnel all of a user’s Internet traffic through an encrypted connection to a remote server. The design provides strong assurances that no one between the user and the server can read the encrypted contents. VPNs also allow users to hide their IP addresses from the destination servers they communicate with. While US agencies have previously recommended use of VPNs, none have given recommendations on which ones provide adequate protection.",
-      "whyItMatters": "",
-      "words": 116,
-      "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-      "source": "Ars Technica",
-      "sourceSite": "arstechnica.com",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
-      "published": "2026-09-03T19:52:06.000Z",
-      "capturedAt": "2026-09-03T23:00:54.169Z",
-      "tags": [],
       "rewritten": false
     }
   ]
