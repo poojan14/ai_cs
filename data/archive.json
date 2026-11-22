@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-22T10:48:15.503Z",
+  "updatedAt": "2026-11-22T19:09:04.836Z",
   "count": 600,
   "stories": [
+    {
+      "id": "05qk3jg",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "brief": "iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. iNet manufactures networking equipment, including home and travel routers, as well as KVM devices that allow users to access and control computers remotely. Its GoodCloud platform allows customers to remotely manage supported devices, including accessing and controlling computers and servers connected to its KVM products. iNet confirmed that an unauthorized party exploited a vulnerability in its cloud remote management services to access devices and install malicious software. \"The attack path has been blocked. We fixed the cloud vulnerability and blocked the access used in this incident,\" the company said . \"Devices can no longer be newly infected through this attack path. \"",
+      "whyItMatters": "",
+      "words": 141,
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "source": "BleepingComputer",
+      "sourceSite": "bleepingcomputer.com",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/22/routers-kvms.jpg",
+      "published": "2026-11-22T18:45:37.000Z",
+      "capturedAt": "2026-11-22T19:09:04.836Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "0j1ysos",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+      "brief": "NVIDIA has released Alpamayo 2 Edge , a compact reasoning vision-language-action (VLA) model for autonomous driving. Alpamayo 2 Edge is a 2B-parameter model that plans trajectories and explains them inside the vehicle. It targets NVIDIA DRIVE AGX Thor , not a datacenter GPU. The goal: reasoning-based planning within onboard compute and latency budgets. com chrome extension . TL;DR Size: 2B-class. 2B action expert (HF metadata says 3B). Context length: not disclosed (measured prompt: 3,236 tokens). Runs on: NVIDIA DRIVE AGX Thor with the FP8 + TensorRT Edge-LLM recipe. BF16 PyTorch needs 16 GB+ GPU memory, validated on 1x H100 80GB. Performance: Strong closed-loop driver for its size; mid-pack on reasoning QA. 25 km). 2). Bottom line: Best: reasoning-based planning at 160 to 190 ms on in-car hardware. Worst: only H100 validated, and real-time Thor speed needs the FP8 recipe. What is Alpamayo 2 Edge? 4-second plan.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "published": "2026-11-22T18:37:57.000Z",
+      "capturedAt": "2026-11-22T19:09:03.383Z",
+      "tags": [
+        "Model",
+        "Training Data",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "097gqge",
       "channel": "sec",
@@ -12769,49 +12813,6 @@
       "capturedAt": "2026-09-05T22:41:01.610Z",
       "tags": [
         "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1ckhwg6",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "brief": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions,\" JetBrains said.",
-      "whyItMatters": "",
-      "words": 58,
-      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
-      "published": "2026-09-05T16:52:33.000Z",
-      "capturedAt": "2026-09-05T20:01:12.897Z",
-      "tags": [
-        "Breach",
-        "Vulnerability",
-        "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "06nfvie",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "brief": "OpenAI has acknowledged its role in a recently reported incident where AI agents took over a German wiki forum . The company also said it’s “past time” to “define standards” around how it shares information around incidents where its technology behaves in unexpected ways. ” On Friday, Reuters reported that OpenAI agents had escaped from their testing environment and “hijacked” an obscure German wiki forum, turning it into a message board for other agents. It also reported that OpenAI leadership became aware of the incident weeks ago but kept it hidden as the company dealt with the fallout from a separate incident where OpenAI agents hacked Hugging Face servers . )",
-      "whyItMatters": "",
-      "words": 111,
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "published": "2026-09-05T18:05:27.000Z",
-      "capturedAt": "2026-09-05T20:01:11.776Z",
-      "tags": [
-        "Openai",
-        "Agent"
       ],
       "rewritten": false
     }
