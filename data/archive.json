@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-24T08:47:48.256Z",
+  "updatedAt": "2026-11-24T19:59:28.585Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1dtorit",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "brief": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. 0 on the CVSS scoring system. It resides in the VMware Directory Service (\"vmdir\"). \"A malicious actor with",
+      "whyItMatters": "",
+      "words": 47,
+      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zpQTclLnhVQHphFdBZZ_hrxhsZvA5G50sGBz5qq1iOg2B1YLu8rE5e_HM1GZOE24SNpwexwst80NTKP7_Wwexq7EzIl-I7ykIXCtTGQjeZhBGVVuAgzxac5JwaquTQuMNRstBFo8JzMDyqgsNbM_KtxGF3wHPBIM9GfaclNu0OTPlpF5YhNvqoKKytAY/s1600/vmware-exploit.jpg",
+      "published": "2026-11-24T13:28:26.000Z",
+      "capturedAt": "2026-11-24T19:59:28.585Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Patch"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1awjw73",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "brief": "Understanding how NaaS architectures offer a flexible solution to enterprise network modernization efforts. Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network . Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As AI inference shifts from hyperscale training clouds—the huge centralized data centers where raw AI models ingest vast datasets and learn—to real-time, latency-sensitive applications, the need for on-premises or near-premises infrastructure grows. As a result, the gap between enterprise networks that are ready to support AI and those that are not is widening. As few as half of enterprises believe their current networks can handle AI’s bandwidth and latency demands, according to a recent study .",
+      "whyItMatters": "",
+      "words": 144,
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840",
+      "published": "2026-11-24T15:15:16.000Z",
+      "capturedAt": "2026-11-24T19:59:27.054Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model",
+        "Agent"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0zgwq9w",
       "channel": "sec",
@@ -12777,48 +12821,6 @@
       "capturedAt": "2026-09-06T22:44:05.152Z",
       "tags": [
         "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0l71279",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Your MikroTik Router May Already Be Compromised: Look for SSH User “-2”",
-      "brief": "S. S. 8 Million People Anyone running a MikroTik router with SSH exposed to the internet should treat it as compromised until proven otherwise. The popular cybersecurity expert Costin Raiu published a detailed technical breakdown of the active exploitation on September 5, 2026, the same day CERT Polska issued its advisory titled “ Critical vulnerabilities in MikroTik RouterOS are being actively exploited. ” “If you have a MikroTik router on the internet with SSH open, it may already be compromised” Raiu wrote on Medium. 2), an SSH authentication bypass, and CVE-2026-86060, an SSH session privilege escalation.",
-      "whyItMatters": "",
-      "words": 96,
-      "url": "https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-18.png?resize=1024%2C388&ssl=1",
-      "published": "2026-09-06T13:46:02.000Z",
-      "capturedAt": "2026-09-06T20:05:22.695Z",
-      "tags": [
-        "Hack",
-        "Exploit",
-        "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "04j1c36",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "brief": "7 billion funding round led by Andreessen Horowitz . But even after raising that mega round, the Uber founder remained a bit cagey about what he was actually aiming to do. Now a story in the Financial Times offers more details about Atoms’ goals. The startup is reportedly preparing for a hiring spree, as well as acquisitions, that could make it a major player in the autonomous vehicle industry. In fact, the FT said Atoms has talked to Uber about how the ride-hailing company could use the startup’s robotaxi technology. ) The report also noted that Uber has invested $100 million in Atoms — a figure previously confirmed by TechCrunch . ”",
-      "whyItMatters": "",
-      "words": 112,
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
-      "published": "2026-09-06T16:45:00.000Z",
-      "capturedAt": "2026-09-06T20:05:20.941Z",
-      "tags": [
-        "Robot"
       ],
       "rewritten": false
     }
