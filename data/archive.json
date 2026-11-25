@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-24T19:59:28.585Z",
+  "updatedAt": "2026-11-25T03:57:53.218Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0grpxib",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "VMware patches critical vCenter authentication bypass and ESX flaws",
+      "brief": "S. S. io Uncovers Russian-Speaking Credential Theft Operation Targeting US Banks and Government Accounts Broadcom has released security updates to address 23 vulnerabilities affecting multiple VMware products, including vCenter, ESX, Workstation, Fusion, VMware Tools, and Avi Load Balancer. 8). This vulnerability affects the VMware Directory Service (vmdir) in vCenter. An attacker with network access to a vulnerable server could exploit the flaw to bypass authentication and gain unauthorized access. Broadcom published the issue in its security advisory VMSA-2026-0011 . The company credited researchers from Qianxin, depthfirst, and ThreatBook for independently reporting the vulnerability.",
+      "whyItMatters": "",
+      "words": 93,
+      "url": "https://securityaffairs.com/203931/security/vmware-patches-critical-vcenter-authentication-bypass-and-esx-flaws.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2021/04/vmware-logo.png",
+      "published": "2026-11-24T23:20:02.000Z",
+      "capturedAt": "2026-11-25T03:57:53.218Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "19yi0v9",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Agentic system personalizes physical controls to help users “DJ their art”",
+      "brief": "In 2017, Apple removed the home button from its iPhones. Users lost a convenient, tangible control — part of a larger shift to digital buttons, knobs, and sliders we also see in cars (like with radio presets and air conditioning) and kitchens (see smart fridges). We can’t leave physical controls behind entirely, though. They tend to be more convenient and efficient — think of how you can use a physical gaming controller without looking at it — and, at times, more precise, like when you use a dial to get the volume just right. But tangible controls are typically preprogrammed to do a specific thing, minimizing their usefulness.",
+      "whyItMatters": "",
+      "words": 108,
+      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+      "source": "MIT News — AI",
+      "sourceSite": "news.mit.edu",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-csail-TangiMap.jpg?itok=eoPhYjUD",
+      "published": "2026-11-24T19:30:00.000Z",
+      "capturedAt": "2026-11-25T03:57:51.089Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Model",
+        "Gemini"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1dtorit",
       "channel": "sec",
@@ -12779,48 +12823,6 @@
         "Model",
         "Openai",
         "Training Data"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0g2di9n",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Attackers conceal phishing lures using invisible Unicode characters",
-      "brief": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. ASCII smuggling has been used in AI prompt injection attacks to conceal malicious instructions from users by encoding them with Unicode characters from the Tags block (U+E0000–U+E007F). 37 million daily messages in late February. Although the volume has dropped gradually in May, the operation is still active. “The high-volume phase persisted for roughly three months after February 9 and dropped sharply after May 15, 2026,” explains Microsoft . ” In this campaign, the attacker inserts an invisible Unicode character inside finance-related lure words to split them. In doing so, a keyword like ‘funding’ becomes something like ‘ fun[invisible character]ding ’ and evades email filters that rely on word lists to detect suspicious or malicious messages.",
-      "whyItMatters": "",
-      "words": 135,
-      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/05/13/Phishing.jpg",
-      "published": "2026-09-06T14:23:46.000Z",
-      "capturedAt": "2026-09-06T22:44:07.166Z",
-      "tags": [
-        "Phishing",
-        "Attack",
-        "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "162wywz",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI's Astra Reveals Memory as Key to AI Performance - 조선일보",
-      "brief": "OpenAI's Astra Reveals Memory as Key to AI Performance 조선일보",
-      "whyItMatters": "",
-      "words": 10,
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXpQNl84Z21aancxazUxcU1aWk9JTkNtdkkxQnpieHJuUmZoZ2w1cklkbHgtRXFhQlg3aVA5WGRPcFFrdnJYaW1NQ1hOdlJlczVmUTVvZzByT3NaWG9xMjJlR09CMWVzWHZWdTlTbTlwRUNhVXpLNTZNUV9NLWR5WHRGMm1EUm5u",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-09-06T22:04:06.000Z",
-      "capturedAt": "2026-09-06T22:44:05.152Z",
-      "tags": [
-        "Openai"
       ],
       "rewritten": false
     }
