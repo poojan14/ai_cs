@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-25T03:57:53.218Z",
+  "updatedAt": "2026-11-25T16:53:58.417Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1bgq9n3",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "brief": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. 6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch",
+      "whyItMatters": "",
+      "words": 39,
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8jBS9UW1bUouUo2cLun5A5rtqPOFJoVQctV4ZsoX9uuMottAxM0HLjLZrvTVGU1GtrewszjOwVMBkvHgyFIBsOndc049nwMidNiVnnoKCOePOhy-XDsjiVjxFvubbxn-Z6ca8VJAxxgLmyQ9KGYBRMWV5GP2et02dmXzcG3jKJw1p_njPdaPuJAaxAz1/s1600/geoserver.png",
+      "published": "2026-11-25T12:48:54.000Z",
+      "capturedAt": "2026-11-25T16:53:58.417Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "082l2jl",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "AI is straining America’s open records systems",
+      "brief": "Startups are mining public data for AI products, while citizens use chatbots to file more requests. In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he got rather busy. Panton used to get a request every year or so from a company called SmartProcure for “all purchasing records,” covering everything from road salt to computers to toilet paper. Last year, those requests started coming quarterly. Then different companies began making more specific requests, like records of every purchase related to emergency road flares. These targeted inquiries started coming monthly or more.",
+      "whyItMatters": "",
+      "words": 136,
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Technology Review — AI",
+      "sourceSite": "technologyreview.com",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
+      "published": "2026-11-25T10:00:00.000Z",
+      "capturedAt": "2026-11-25T16:53:56.667Z",
+      "tags": [
+        "Machine Learning",
+        "Model",
+        "Chatbot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0grpxib",
       "channel": "sec",
@@ -12781,48 +12825,6 @@
       "capturedAt": "2026-09-07T11:47:15.017Z",
       "tags": [
         "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "135v1cd",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-      "brief": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner. The company named the four programs ProManager, WinUpdate, SoftManager, and",
-      "whyItMatters": "",
-      "words": 53,
-      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg",
-      "published": "2026-09-06T08:34:20.000Z",
-      "capturedAt": "2026-09-07T03:20:42.337Z",
-      "tags": [
-        "Security"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1mm28b1",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "brief": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement . The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times , Ziff Davis , Merriam-Webster, and Encyclopedia Britannica against OpenAI. The Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI’s technology. The publishers join a list of nearly 400 local newspapers that recently sued the two companies, saying that because the chatbots reduce the need to visit their sites for reporting and answers, they cost them valuable subscription revenue.",
-      "whyItMatters": "",
-      "words": 129,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
-      "published": "2026-09-06T23:36:04.000Z",
-      "capturedAt": "2026-09-07T03:20:41.121Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Training Data"
       ],
       "rewritten": false
     }
