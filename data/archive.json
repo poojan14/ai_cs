@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-11-25T16:53:58.417Z",
+  "updatedAt": "2026-11-26T01:39:07.742Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1fatapv",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+      "brief": "In this article ARTEX: Publicly available AI-powered offensive security framework AI agent architecture Capabilities Identifying ARTEX network activity Identifying ARTEX system activity Mitigation and protection guidance Microsoft Defender detections Hunting MITRE ATT&CK techniques Since its release in July 2026, the AI-powered penetration testing framework ARTEX has been abused by many threat actors to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation. As of November 2026, Microsoft Threat Intelligence has observed both state-sponsored and financially motivated threat actors such as Storm-0940 , Storm-3358 , Onyx Sleet , Pearl Sleet , Crystal Typhoon, and Salt Typhoon integrating ARTEX into their tooling. In the past few weeks, we’ve reported several distinct campaigns that abused ARTEX to search public repositories for exposed secrets, enable supply chain compromise, and scan internet-facing systems for exploitation.",
+      "whyItMatters": "",
+      "words": 135,
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "source": "Microsoft Security Blog",
+      "sourceSite": "microsoft.com",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/ARTEX-AI-agent-architecture.webp",
+      "published": "2026-11-25T18:09:06.000Z",
+      "capturedAt": "2026-11-26T01:39:07.742Z",
+      "tags": [
+        "Vulnerability",
+        "Exploit",
+        "Phishing"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1a3ct2l",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "brief": "Backblaze tells Ars it won’t share users’ backup, storage files with advertisers. ” It also makes no mention of advertisers. ” They added: Notably, no “sensitive personal information,” such as social security numbers, credit card numbers, or “precise geolocation,” is shared with advertisers, the policy states. However, identifiers, commercial information, “Internet or Other Similar Network Activity,” and “geolocation data” may be “sold or shared for targeted Advertising” Customers can use this link to opt out of the selling or sharing of their personal information for cross-context behavioral advertising.",
+      "whyItMatters": "",
+      "words": 88,
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "source": "Ars Technica",
+      "sourceSite": "arstechnica.com",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
+      "published": "2026-11-25T18:38:29.000Z",
+      "capturedAt": "2026-11-26T01:39:06.182Z",
+      "tags": [],
+      "rewritten": false
+    },
     {
       "id": "1bgq9n3",
       "channel": "sec",
@@ -12783,48 +12823,6 @@
       "tags": [
         "Anthropic",
         "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0urrhe5",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Berlin Ransomware Leak Exposes State Secrets",
-      "brief": "S. S. 8 Million People When a ransomware gang dumps nearly six terabytes of state administration files onto the dark web, ignoring them does not make the problem go away. The Rhysida ransomware group recently carried out this exact threat against Berlin after local authorities refused to pay a thirty Bitcoin ransom. At the end of August, Berlin’s state government confirmed it was dealing with an extortion attempt following an August cyberattack on the city-state’s administrative network, and officials have already refused the requested ransom. 44 million files, with personal information on 12,076 individuals allegedly included.",
-      "whyItMatters": "",
-      "words": 96,
-      "url": "https://securityaffairs.com/198545/cyber-crime/berlin-ransomware-leak-exposes-state-secrets.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/08/image-89.png?resize=1024%2C440&ssl=1",
-      "published": "2026-09-07T07:19:51.000Z",
-      "capturedAt": "2026-09-07T11:47:16.270Z",
-      "tags": [
-        "Breach",
-        "Hack",
-        "Ransomware"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "06gu4py",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "OpenAI has sent EU incident report on hijacked German website, Commission says - Reuters",
-      "brief": "OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
-      "whyItMatters": "",
-      "words": 13,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-09-07T10:56:49.000Z",
-      "capturedAt": "2026-09-07T11:47:15.017Z",
-      "tags": [
-        "Openai"
       ],
       "rewritten": false
     }
