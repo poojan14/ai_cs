@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-11-26T11:57:48.785Z",
+  "updatedAt": "2026-11-26T21:21:14.979Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0w9spwu",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Drupal Warns of New Critical Flaw Exploited in the Wild",
+      "brief": "S. S. 0 Exposed: Massive Botnet Hides Ad Fraud Inside Android TV Boxes Drupal has warned of a new highly critical vulnerability in Drupal Core that attackers are actively exploiting to take over vulnerable websites. Tracked as CVE-2026-136716, the flaw is related to improper handling of unusual or incomplete installation states. It is connected to CVE-2026-132165 , also known as Fail2Install, which Drupal patched on November 18. However, the previous fix did not address every vulnerable installation scenario. “ SA-CORE-2026-017 recently fixed several vulnerabilities within the Drupal core installer. However, certain sites in unusual or incomplete install states remain vulnerable to site takeover following that advisory, including production sites. ” Drupal maintainers warned .",
+      "whyItMatters": "",
+      "words": 114,
+      "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critical-flaw-exploited-in-the-wild.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2014/10/drupal.jpg",
+      "published": "2026-11-26T19:45:57.000Z",
+      "capturedAt": "2026-11-26T21:21:14.979Z",
+      "tags": [
+        "Hack",
+        "Vulnerability",
+        "Exploit"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "07ctaw3",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "brief": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own can get 30% off six-month Performance and Ultimate memberships in the Black Friday sale and a special seasonal offer through Amazon Fire TV Sticks. Plus, War Thunder gets a new look with NVIDIA DLSS 5 for Ultimate members and a Ready for Battle Pack reward is now available across all membership tiers. Rounding out the week, 12 new games join the GeForce NOW library . Behind every screenshot, helpful tip and play session is a gamer with a story. GeForce NOW Ambassadors share what keeps them playing.",
+      "whyItMatters": "",
+      "words": 142,
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "source": "NVIDIA Blog",
+      "sourceSite": "blogs.nvidia.com",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday-November_26.jpg",
+      "published": "2026-11-26T14:00:22.000Z",
+      "capturedAt": "2026-11-26T21:21:13.231Z",
+      "tags": [
+        "Neural",
+        "Nvidia"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0df3q9o",
       "channel": "sec",
@@ -12778,50 +12821,6 @@
       "published": "2026-09-07T19:24:00.000Z",
       "capturedAt": "2026-09-08T03:27:25.522Z",
       "tags": [],
-      "rewritten": false
-    },
-    {
-      "id": "0orwn8f",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "StyleSmuggler: The Magento Zero-Day Behind New Store Attacks",
-      "brief": "S. S. 8 Million People A new zero-day flaw, dubbed StyleSmuggler, in Magento and Adobe Commerce is under active attack, giving unauthenticated attackers a path to run code on vulnerable online stores. 9. According to the experts, exploitation began on September 4. “Sansec discovered StyleSmuggler, an unpatched Magento and Adobe Commerce zero-day that gives unauthenticated attackers remote code execution. ” reads the report published by Sansec. “Attacks started September 4th. ”",
-      "whyItMatters": "",
-      "words": 71,
-      "url": "https://securityaffairs.com/198603/uncategorized/stylesmuggler-the-magento-zero-day-behind-new-store-attacks.html",
-      "source": "Security Affairs",
-      "sourceSite": "securityaffairs.com",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/09/image-21.png?resize=907%2C142&ssl=1",
-      "published": "2026-09-07T17:49:08.000Z",
-      "capturedAt": "2026-09-07T21:12:34.286Z",
-      "tags": [
-        "Hack",
-        "Malware",
-        "Exploit"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0jgb5lo",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Nvidia CEO: Artificial General Intelligence Has ‘Arrived’ With New OpenAI Model - PYMNTS.com",
-      "brief": "com",
-      "whyItMatters": "",
-      "words": 1,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR196Z0xOS3ZTQUVRNm5KMHpMZHJMNEppb3Q2MjhuSjJsdWRPWkhFaFhwUm5HdDFxWmFXSk85MlBnSFkyYXdDUExHWG1MQ3ZPS0dDS0lFQ2hFSTQzNVUtb2dtcjhpZXlhdzNWU1Zkdm1fU2tmSV9pa1FmMFFXZWRtV1JDN3JpRmtWMlc4MURTS2YwMWFwSXhUWTRHdFl0N3FOdGNweEZqU1pYUGpiVV85cHc1YkpoUENSVlEtaVVKRFkzc0ZxeXhZT2NxdGJXM1k",
-      "source": "Reuters Technology (Google News)",
-      "sourceSite": "news.google.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "published": "2026-09-07T18:25:25.000Z",
-      "capturedAt": "2026-09-07T21:12:32.244Z",
-      "tags": [
-        "Model",
-        "Openai",
-        "Nvidia"
-      ],
       "rewritten": false
     }
   ]
