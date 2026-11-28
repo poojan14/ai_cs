@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-11-27T18:43:18.611Z",
+  "updatedAt": "2026-11-28T03:07:17.595Z",
   "count": 600,
   "stories": [
+    {
+      "id": "0ygyvox",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "Fake Government App Exposes Italy’s Expanding Spyware Surveillance Industry",
+      "brief": "S. S. CISA adds N-able MailAssure and Project MONAI flaws to its Known Exploited Vulnerabilities catalog An Android app called FirmaDigitale promised asylum seekers news on their protection status, instead, it was delivering spyware. An IrpiMedia investigation by Rosita Rijtano builds on Lookout’s 2024 discovery and attributes the malware to IPS, a Latina supplier to prosecutors, police and intelligence agencies. Nobody knows who ordered the operation or whom it hit. ]it, a page mimicking the website of Italy’s primary postal service provider Poste Italiane. The app displayed the Interior Ministry logo and mentioned a protection decree. Police deny any link to it, and Poste didn’t comment. The spyware could add components to use the microphone, intercept internet calls, record the screen and track the phone. It could also reach contacts, call logs, files and texts. The site has been unreachable since 2025, but the app could still circulate elsewhere.",
+      "whyItMatters": "",
+      "words": 149,
+      "url": "https://securityaffairs.com/204142/intelligence/fake-government-app-exposes-italys-expanding-spyware-surveillance-industry.html",
+      "source": "Security Affairs",
+      "sourceSite": "securityaffairs.com",
+      "image": "https://securityaffairs.com/wp-content/uploads/2026/11/image-64.png",
+      "published": "2026-11-28T00:08:30.000Z",
+      "capturedAt": "2026-11-28T03:07:17.595Z",
+      "tags": [
+        "Hack",
+        "Malware",
+        "Vulnerability"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1l6xrm8",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Cornell establishes center to bring robotics, artificial intelligence to New York agriculture - nny360.com",
+      "brief": "com",
+      "whyItMatters": "",
+      "words": 1,
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONmUzb0duWTJJeXdzaGlPdXU3LWRsSjcwRV80Rkx0SG1OeWQ4RnhqT2ZxbkFoWVdEd1U0U2p0ZHJoV1g5cThjcTl5bWxSMi1pbVVCa0ZQV0dVYXlXX0dodXFJQlg4UFdzZVpQVEVXQkpWaGJ3NFpQN3dnQS1XNWs4TFV0WHF3ZmtTMTJQU1BoTlg1VXJGaXQ3Q0R2U0N1ekVtenByU3V2UE4ydklKOHhNT1hRSlg4cEltanlrYXQta0djYVZfc1ZEaHRuY1lURFhKU2dIMWhmV1dtV1Y1NXVrNElGMlJWWnpSa2h5TlUzVGJxd2N5YzhFUmNZRGdPWWVfMGhvaDlPOU5vU243bEcxWjdPLXBNY2szNTI4",
+      "source": "Reuters Technology (Google News)",
+      "sourceSite": "news.google.com",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "published": "2026-11-28T02:41:53.000Z",
+      "capturedAt": "2026-11-28T03:07:15.621Z",
+      "tags": [
+        "Artificial Intelligence",
+        "Robot"
+      ],
+      "rewritten": false
+    },
     {
       "id": "1b8kjtw",
       "channel": "sec",
@@ -12778,48 +12821,6 @@
       "capturedAt": "2026-09-08T20:49:20.299Z",
       "tags": [
         "Agent"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "0ns5wli",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "brief": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. 0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026. \"This update resolves a critical",
-      "whyItMatters": "",
-      "words": 47,
-      "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "source": "The Hacker News",
-      "sourceSite": "thehackernews.com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xdakttovno7kFgFYIw5XGFGcSZibVvXYB64vih4iZpc4_WY_t7oe1X3igSPGXBa8UTkf4z4xn_GzZ_n7PmuFFvYC8Wsmb04PxYP5z-XHjZZFe_SASihwZNg1dxHXQzz8hBRo-6LhvQmwyo_MA9Kj6hrcci6ouvOX1D4f-0dNvs57M6WneQHC61yZkF_o/s1600/magento.jpg",
-      "published": "2026-09-08T09:13:47.000Z",
-      "capturedAt": "2026-09-08T16:09:01.143Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Patch"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1nzhyi2",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "brief": "DeepMind’s new AI-powered tool can learn patterns between DNA changes and our biology. DeepMind’s new AI-powered tool can learn patterns between DNA changes and our biology. Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a “predictive map of every possible DNA letter change in the human genome,” the researchers said in a blog post published on Tuesday.",
-      "whyItMatters": "",
-      "words": 94,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "source": "The Verge — AI",
-      "sourceSite": "theverge.com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "2026-09-08T14:00:00.000Z",
-      "capturedAt": "2026-09-08T16:08:59.422Z",
-      "tags": [
-        "Deepmind"
       ],
       "rewritten": false
     }
