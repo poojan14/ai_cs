@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-11-28T03:07:17.595Z",
+  "updatedAt": "2026-11-28T15:10:37.383Z",
   "count": 600,
   "stories": [
+    {
+      "id": "1cc5als",
+      "channel": "sec",
+      "channelLabel": "Cybersecurity",
+      "channelCode": "CH-02",
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "brief": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of posts on Reddit. \"Unfortunately, a small number of pCloud Pass user email",
+      "whyItMatters": "",
+      "words": 62,
+      "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "source": "The Hacker News",
+      "sourceSite": "thehackernews.com",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizySCkvtf5mXH_3zoxzuk-QyEdUnYmspglEsVYdqRITloUFrUDZCQJcwtQG09teFmXo2IJOknOQb7CXhUpjKjGnadD6TuOIvVWIoWmKcaxb8-1uwf-3AiXZPYCFf2RzDkHNZ06d2Q5OS6AcCV7JHjTACCJH2f5aipC8vllpOwj1dSBYQJtqJ_wDc5nXQwU/s1600/pcloud.jpg",
+      "published": "2026-11-28T08:08:11.000Z",
+      "capturedAt": "2026-11-28T15:10:37.383Z",
+      "tags": [
+        "Cyber",
+        "Attack"
+      ],
+      "rewritten": false
+    },
+    {
+      "id": "1h5yab4",
+      "channel": "ai",
+      "channelLabel": "Artificial Intelligence",
+      "channelCode": "CH-01",
+      "title": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
+      "brief": "Ant Group has open-sourced LingSante , a family of medical and health AI models behind health app Afu. 1-flash , is an open-weight medical AI model with 560B total parameters and 25B active per token. It ships under the MIT license with a 1M-token context window. On the new InclusionMed evaluation, it scores highest among open models. It is a self-hostable model trained for clinical reasoning, medical search and tool-using agents. TL;DR What? :It is a self-hostable model trained for clinical reasoning, medical search and tool-using agents. Size: 560B total, ~25B active per token (MoE), 1M-token context. Runs on: Multi-GPU servers. The reference SGLang setup uses 8x H200 or 4x GB300. An MXFP4 quantized checkpoint is available. Performance: Strong on medical reasoning and medical agents. Weaker on general coding and CLI agent tasks. 1-flash? 1-flash base model. It targets complex case analysis and professional medical agents.",
+      "whyItMatters": "",
+      "words": 146,
+      "url": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+      "source": "MarkTechPost",
+      "sourceSite": "marktechpost.com",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/image.jpeg",
+      "published": "2026-11-28T09:45:33.000Z",
+      "capturedAt": "2026-11-28T15:10:35.852Z",
+      "tags": [
+        "Model",
+        "Claude",
+        "Gemini"
+      ],
+      "rewritten": false
+    },
     {
       "id": "0ygyvox",
       "channel": "sec",
@@ -12779,48 +12822,6 @@
       "capturedAt": "2026-09-08T23:13:28.140Z",
       "tags": [
         "Openai"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "1de2800",
-      "channel": "sec",
-      "channelLabel": "Cybersecurity",
-      "channelCode": "CH-02",
-      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-      "brief": "What a maintainer's disclosure inbox already knows about the question the EU Cyber Resilience Act is about to ask every software vendor. Last year, someone submitted a vulnerability report to a security address for a free software project I help to review. The report followed our reporting guidelines, with a GPG signature and proper responsible disclosure ceremony, addressed only to the people who should have seen it. It contained 95 vulnerabilities, purportedly. We took it seriously, because that security process exists for exactly this reason. Yet something felt off, because how many human security researchers would compile a list 95 long and keep going instead of stopping at three or four and asking for a longer engagement. Two or three of the 95 turned out to be real.",
-      "whyItMatters": "",
-      "words": 128,
-      "url": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-      "source": "BleepingComputer",
-      "sourceSite": "bleepingcomputer.com",
-      "image": "https://www.bleepstatic.com/content/posts/2026/09/08/activestate-what-shipped.jpg",
-      "published": "2026-09-08T20:24:16.000Z",
-      "capturedAt": "2026-09-08T20:49:22.336Z",
-      "tags": [
-        "Vulnerability",
-        "Exploit",
-        "Cyber"
-      ],
-      "rewritten": false
-    },
-    {
-      "id": "00wxlis",
-      "channel": "ai",
-      "channelLabel": "Artificial Intelligence",
-      "channelCode": "CH-01",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "brief": "Less than two weeks after Meta agreed to a massive $18 billion multistate settlement in a lawsuit over social media’s consumer harms, the company announced its biggest bet on consumer AI to date — and one that requires significantly more trust than social media ever did. S. To use Muse, consumers will have to trust Meta with more of their personal information than ever before. The AI agent works by connecting to the user’s apps and services that are a part of everyday workflows, like email, calendars, payments, and other things the individual may regularly use, like apps for health and fitness, the smart home, dining, shopping, music and events, and more. The idea is a sizable bet on what comes after the ChatGPT era, where AI chatbots answered questions, served as sounding boards, or even became digital companions.",
-      "whyItMatters": "",
-      "words": 139,
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch — AI",
-      "sourceSite": "techcrunch.com",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
-      "published": "2026-09-08T19:00:00.000Z",
-      "capturedAt": "2026-09-08T20:49:20.299Z",
-      "tags": [
-        "Agent"
       ],
       "rewritten": false
     }
